@@ -1,0 +1,1 @@
+Identifier_1 ( Identifier_2 , amount ) ; Identifier_3 . send ( amount ) ; }

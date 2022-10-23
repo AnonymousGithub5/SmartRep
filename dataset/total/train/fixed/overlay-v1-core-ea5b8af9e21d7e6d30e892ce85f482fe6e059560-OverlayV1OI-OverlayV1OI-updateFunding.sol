@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) internal returns ( bool Parameter_1 ) { if ( 0 < Identifier_0 ) { Identifier_1 ( k , Identifier_2 ) ; Identifier_3 ( ) ; Identifier_4 = true ; } }

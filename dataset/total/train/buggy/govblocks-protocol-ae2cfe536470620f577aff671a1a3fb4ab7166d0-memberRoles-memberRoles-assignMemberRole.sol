@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 ) onlyOwner { Identifier_0 [ _memberAddress ] = 1 ; Identifier_1 [ Identifier_2 ] = _memberAddress ; }

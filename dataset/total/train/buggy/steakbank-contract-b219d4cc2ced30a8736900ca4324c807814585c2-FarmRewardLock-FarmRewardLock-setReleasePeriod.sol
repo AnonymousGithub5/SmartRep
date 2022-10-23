@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint64 Parameter_0 ) onlyOwner external { Identifier_0 = Identifier_1 ; }

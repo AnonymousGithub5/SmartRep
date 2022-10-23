@@ -1,0 +1,1 @@
+function mint ( UserDefinedTypeName_0 _to , uint256 _tokenId ) public ModifierInvocation_0 { super . MemberAccess_0 ( _to , Identifier_0 ) ;

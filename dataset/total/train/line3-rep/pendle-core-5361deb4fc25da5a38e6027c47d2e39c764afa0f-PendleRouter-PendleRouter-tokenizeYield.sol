@@ -1,0 +1,1 @@
+require ( data . MemberAccess_0 ( Identifier_0 , _underlyingAsset , _expiry ) , stringLiteral_0 ) ; require ( _to != address ( 0 ) , stringLiteral_1 ) ; UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_1 ( data . MemberAccess_1 ( Identifier_2 ) ) ;

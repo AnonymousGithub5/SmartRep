@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address a , uint Parameter_0 ) { a . call . value ( Identifier_0 ) ;

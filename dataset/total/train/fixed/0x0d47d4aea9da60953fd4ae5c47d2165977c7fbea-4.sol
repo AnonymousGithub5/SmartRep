@@ -1,0 +1,1 @@
+function withdraw ( ) ModifierInvocation_0 { if ( ! Identifier_0 . send ( this . balance ) ) revert ( ) ; }

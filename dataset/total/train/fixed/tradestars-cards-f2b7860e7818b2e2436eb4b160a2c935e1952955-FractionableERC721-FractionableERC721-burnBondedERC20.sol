@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _tokenId , address Parameter_0 , uint256 _amount , uint256 _value ) public override ModifierInvocation_0 { Identifier_0 . burn ( Identifier_1 [ _tokenId ] , Identifier_2 , _amount , _value ) ; emit Identifier_3 ( _tokenId , Identifier_4 , address ( 0 ) , _amount , _value ) ; }

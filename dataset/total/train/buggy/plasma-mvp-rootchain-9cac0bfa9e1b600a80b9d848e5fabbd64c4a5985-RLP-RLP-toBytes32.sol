@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) internal view returns ( bytes32 data ) { return bytes32 ( Identifier_0 ( self ) ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bool Parameter_1 , string Parameter_2 , string Parameter_3 , uint256 Parameter_4 , string Parameter_5 , string Parameter_6 ) public ModifierInvocation_0 { emit Identifier_0 ( Identifier_1 , Identifier_2 , hash , Identifier_3 , Identifier_4 , Identifier_5 , Identifier_6 ) ; }

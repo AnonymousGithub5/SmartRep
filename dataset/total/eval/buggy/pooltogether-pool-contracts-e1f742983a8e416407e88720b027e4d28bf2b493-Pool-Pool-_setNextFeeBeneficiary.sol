@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) internal { require ( _beneficiary != address ( 0 ) , stringLiteral_0 ) ; Identifier_0 = _beneficiary ; }

@@ -1,0 +1,1 @@
+function transferFrom ( address _from , address _to , uint256 _tokenId ) public { Identifier_0 [ _tokenId ] = address ( 0 ) ; Identifier_1 ( _from , _to , Identifier_2 [ _tokenId ] . length ) ; super . transferFrom ( _from , _to , _tokenId ) ; }

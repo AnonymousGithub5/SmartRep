@@ -1,0 +1,1 @@
+uint VariableDeclaration_4 = Identifier_8 . div ( Identifier_9 . add ( Identifier_10 ) ) ; Identifier_11 ( Identifier_12 ) . transfer ( _pool , Identifier_13 ) ; Identifier_14 = Identifier_15 . add ( Identifier_16 ) ;

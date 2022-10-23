@@ -1,0 +1,1 @@
+: Identifier_16 ; Identifier_17 . transfer ( Identifier_18 , amount ) ; emit Identifier_19 (

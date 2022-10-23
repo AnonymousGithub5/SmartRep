@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint value , bytes data ) public onlyOwner { require ( Identifier_0 . call . value ( value ) ( data ) ) ; Identifier_1 ( Identifier_2 , value , data ) ; }

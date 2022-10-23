@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token , uint _amount ) internal returns ( uint Parameter_0 ) { if ( _token == Identifier_0 || _token == Identifier_1 ) { Identifier_2 = _amount ;

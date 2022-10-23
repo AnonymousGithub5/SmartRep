@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) { Identifier_0 [ msg . sender ] += msg . value ;

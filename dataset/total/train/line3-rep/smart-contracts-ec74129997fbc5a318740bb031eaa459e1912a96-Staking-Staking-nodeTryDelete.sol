@@ -1,0 +1,1 @@
+Identifier_8 [ Identifier_9 ] . MemberAccess_4 . length == 0 ) { delete Identifier_10 [ Identifier_11 ] ; for ( uint VariableDeclaration_0 = 0 ; Identifier_12 < Identifier_13 . length ; Identifier_14 ++ ) {

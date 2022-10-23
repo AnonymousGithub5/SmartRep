@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 whenNotPaused { Identifier_0 = true ; emit Identifier_1 ( ) ;

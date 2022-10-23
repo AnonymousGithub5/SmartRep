@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) returns ( bool Parameter_1 ) { return Identifier_0 [ Identifier_1 ] . MemberAccess_0 != 0 ;

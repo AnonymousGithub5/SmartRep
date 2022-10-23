@@ -1,0 +1,1 @@
+UserDefinedTypeName_3 memory VariableDeclaration_2 = Identifier_3 ( i ) ; if ( Identifier_4 . MemberAccess_0 == Identifier_5 && Identifier_6 . MemberAccess_1 == true ) { Identifier_7 [ i ] = Identifier_8 ;

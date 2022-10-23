@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public payable ModifierInvocation_0 ModifierInvocation_1 { require ( Identifier_0 ( ) ) ; require ( state . totalSupply ( ) == 0 || Identifier_1 ( ) >= Identifier_2 ) ; Identifier_3 = ~ uint ( 0 ) ; Identifier_4 = Identifier_5 ; Identifier_6 ( ) ; }

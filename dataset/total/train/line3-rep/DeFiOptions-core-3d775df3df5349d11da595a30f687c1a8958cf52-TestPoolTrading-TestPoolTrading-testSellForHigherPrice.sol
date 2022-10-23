@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_1 ( ) ; Identifier_2 ( address ( Identifier_3 ) , 10 * Identifier_4 ) ; Identifier_5 . MemberAccess_0 ( address ( Identifier_6 ) , 5 * Identifier_7 ) ;

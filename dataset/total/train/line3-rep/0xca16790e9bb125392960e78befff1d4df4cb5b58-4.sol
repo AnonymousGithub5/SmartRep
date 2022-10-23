@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = uint ( block . MemberAccess_0 ( block . number - 1 ) ) % Identifier_5 . length ; Identifier_6 [ Identifier_7 ] . send ( this . balance ) ; delete Identifier_8 ;

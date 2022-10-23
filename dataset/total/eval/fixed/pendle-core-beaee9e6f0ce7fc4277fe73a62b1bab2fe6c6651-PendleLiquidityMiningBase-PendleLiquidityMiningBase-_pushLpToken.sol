@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 amount ) internal { Identifier_0 ( expiry , msg . sender ) ; Identifier_1 ( Identifier_2 [ expiry ] . MemberAccess_0 ) . MemberAccess_1 ( msg . sender , amount ) ; }

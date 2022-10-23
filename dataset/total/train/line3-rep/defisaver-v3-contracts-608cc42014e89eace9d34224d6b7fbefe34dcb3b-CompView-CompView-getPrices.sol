@@ -1,0 +1,1 @@
+Identifier_0 = new uint ( Identifier_1 . length ) ; address VariableDeclaration_0 = Identifier_2 . MemberAccess_0 ( ) ; for ( uint i = 0 ; i < Identifier_3 . length ; ++ i ) {

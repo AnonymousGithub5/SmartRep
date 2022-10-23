@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 ; ( Identifier_9 , Identifier_10 , Identifier_11 ) = Identifier_12 [ Identifier_13 ] . MemberAccess_0 ( receiver , Identifier_14 , Identifier_15 ) ; if ( address ( Identifier_16 ) != address ( 0 ) ) {

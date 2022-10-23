@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) external onlyOwner { require ( token != address ( 0 ) , stringLiteral_0 ) ; Identifier_0 ( token ) ; }

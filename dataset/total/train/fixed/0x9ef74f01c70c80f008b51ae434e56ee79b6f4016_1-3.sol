@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ERC20 Parameter_0 , uint256 amount ) external { require ( Identifier_0 . MemberAccess_0 ( msg . sender , this , amount ) ) ; }

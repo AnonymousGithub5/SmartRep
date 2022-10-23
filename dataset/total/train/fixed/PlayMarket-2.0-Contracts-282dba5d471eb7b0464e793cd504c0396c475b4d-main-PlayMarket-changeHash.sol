@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , string Parameter_1 , string Parameter_2 ) public { require ( Identifier_0 . MemberAccess_0 ( msg . sender ) ) ; Identifier_1 . MemberAccess_1 ( Identifier_2 , Identifier_3 , Identifier_4 , msg . sender ) ; emit Identifier_5 ( Identifier_6 , Identifier_7 , Identifier_8 ) ; }

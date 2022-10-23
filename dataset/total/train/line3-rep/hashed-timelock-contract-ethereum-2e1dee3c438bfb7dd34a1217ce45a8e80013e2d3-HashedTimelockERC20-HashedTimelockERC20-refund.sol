@@ -1,0 +1,1 @@
+ERC20 ( c . MemberAccess_1 ) . transfer ( c . sender , c . amount ) ; emit Identifier_2 ( Identifier_3 ) ; return true ;

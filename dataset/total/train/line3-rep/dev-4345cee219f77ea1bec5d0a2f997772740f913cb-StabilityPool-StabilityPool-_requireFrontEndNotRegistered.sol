@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address ) internal view { require ( Identifier_0 [ _address ] . MemberAccess_0 == false , stringLiteral_0 ) ; }

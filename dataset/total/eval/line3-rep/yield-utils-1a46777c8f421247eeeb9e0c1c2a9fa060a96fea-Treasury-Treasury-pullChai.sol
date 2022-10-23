@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user , uint256 Parameter_0 ) public override ModifierInvocation_0 ( stringLiteral_2 ) { uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( Identifier_1 . MemberAccess_1 ( ) , RAY ) ; uint256 VariableDeclaration_1 = Math . MemberAccess_2 ( Identifier_2 ( ) , dai ) ;

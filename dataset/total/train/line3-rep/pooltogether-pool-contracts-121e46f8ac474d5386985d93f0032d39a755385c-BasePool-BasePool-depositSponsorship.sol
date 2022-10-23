@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) public ModifierInvocation_0 nonReentrant { require ( token ( ) . transferFrom ( msg . sender , address ( this ) , _amount ) , stringLiteral_0 ) ;

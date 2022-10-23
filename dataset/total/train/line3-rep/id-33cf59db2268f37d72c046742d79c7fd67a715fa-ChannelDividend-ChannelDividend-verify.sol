@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , uint8 Parameter_1 , bytes32 Parameter_2 , bytes32 Parameter_3 ) internal pure returns ( address ) { bytes memory VariableDeclaration_0 = stringLiteral_0 ; bytes32 VariableDeclaration_1 = keccak256 ( abi . encodePacked ( Identifier_0 , Identifier_1 ) ) ;

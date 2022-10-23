@@ -1,0 +1,1 @@
+function withdraw ( address from , address payable to , uint256 amount ) public ModifierInvocation_0 ( to , stringLiteral_0 ) { Identifier_0 . withdraw ( Identifier_1 , from , address ( this ) , amount ) ;

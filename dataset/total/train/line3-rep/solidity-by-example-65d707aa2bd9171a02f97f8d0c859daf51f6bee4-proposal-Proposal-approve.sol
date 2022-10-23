@@ -1,0 +1,1 @@
+Identifier_0 |= bytes32 ( Identifier_1 ) ; } 

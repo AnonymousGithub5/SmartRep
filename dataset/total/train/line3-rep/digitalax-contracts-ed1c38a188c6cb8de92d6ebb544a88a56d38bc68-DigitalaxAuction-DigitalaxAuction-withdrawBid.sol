@@ -1,0 +1,1 @@
+) ; uint256 VariableDeclaration_1 = Identifier_6 . MemberAccess_2 ; delete Identifier_7 [ Identifier_8 ] ;

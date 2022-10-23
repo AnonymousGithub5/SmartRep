@@ -1,0 +1,1 @@
+function deposit ( uint256 _amount ) external { UserInfo storage user = userInfo [ msg . sender ] ;

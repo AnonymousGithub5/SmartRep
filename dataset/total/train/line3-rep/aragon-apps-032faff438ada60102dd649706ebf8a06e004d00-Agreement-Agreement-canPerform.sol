@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address , address , bytes32 , uint256 Parameter_0 ) external view returns ( bool ) { require ( Identifier_0 . length > 0 , Identifier_1 ) ;

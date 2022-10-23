@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( int256 x ) internal pure returns ( int256 ) { if ( x < 0 ) return - x ; else return x ;

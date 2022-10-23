@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable Parameter_0 ) public payable ModifierInvocation_0 { uint256 VariableDeclaration_0 = Identifier_0 ( msg . value , Identifier_1 ) ; Identifier_2 . mint ( Identifier_3 , Identifier_4 ) ; emit Identifier_5 ( msg . value , Identifier_6 ) ; }

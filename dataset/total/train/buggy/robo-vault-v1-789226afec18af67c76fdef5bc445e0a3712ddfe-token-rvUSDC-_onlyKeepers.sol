@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal { require ( msg . sender == Identifier_0 || msg . sender == Identifier_1 || msg . sender == owner ( ) ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner ) ModifierInvocation_0 external { owner = _owner ;

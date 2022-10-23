@@ -1,0 +1,1 @@
+} uint VariableDeclaration_0 = WAD * ( block . timestamp - Identifier_1 . timestamp ) / Identifier_2 ; uint VariableDeclaration_1 = Identifier_3 . MemberAccess_0 ( ) ;

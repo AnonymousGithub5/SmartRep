@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _to ) returns ( bool ) { for ( ElementaryTypeName_0 i = 1 ; i < a . length ; i ++ ) { a [ i ] = i ; } }

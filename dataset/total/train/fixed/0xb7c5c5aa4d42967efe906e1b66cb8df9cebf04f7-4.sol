@@ -1,0 +1,1 @@
+function withdraw ( ) public { if ( ! msg . sender . call . value ( balances [ msg . sender ] ) ( ) ) revert ( ) ; balances [ msg . sender ] = 0 ; }

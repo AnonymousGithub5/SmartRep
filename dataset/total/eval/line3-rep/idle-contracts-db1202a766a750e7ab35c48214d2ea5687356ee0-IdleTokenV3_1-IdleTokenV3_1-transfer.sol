@@ -1,0 +1,1 @@
+Identifier_1 ( recipient ) ; Identifier_2 ( msg . sender , recipient , amount ) ; Identifier_3 ( recipient , amount , Identifier_4 [ msg . sender ] ) ;

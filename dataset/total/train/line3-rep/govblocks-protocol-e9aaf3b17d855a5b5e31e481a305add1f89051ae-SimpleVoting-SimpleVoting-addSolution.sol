@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = governanceDat . MemberAccess_2 ( _proposalId ) ; governanceDat . MemberAccess_3 ( _proposalId , msg . sender , Identifier_4 - 1 , Identifier_5 , now ) ; }

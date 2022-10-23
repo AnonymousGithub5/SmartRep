@@ -1,0 +1,1 @@
+function approve ( address spender , uint amount ) public virtual override returns ( bool ) { Identifier_0 ( msg . sender , spender , amount ) ; return true ; }

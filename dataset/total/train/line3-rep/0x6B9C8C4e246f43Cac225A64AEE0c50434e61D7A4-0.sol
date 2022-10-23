@@ -1,0 +1,1 @@
+Identifier_6 = this . balance ; require ( Identifier_7 . call . value ( Identifier_8 ) ( ) ) ; }

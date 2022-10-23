@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bytes memory Parameter_1 , bytes32 Parameter_2 ) public pure returns ( address _address ) { return Identifier_0 . MemberAccess_0 ( Identifier_1 , Identifier_2 , Identifier_3 ) ; }

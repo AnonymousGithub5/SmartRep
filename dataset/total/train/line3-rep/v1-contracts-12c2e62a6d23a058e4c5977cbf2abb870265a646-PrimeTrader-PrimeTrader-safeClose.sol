@@ -1,0 +1,1 @@
+( Identifier_8 , Identifier_9 , Identifier_10 ) = Identifier_11 . MemberAccess_3 ( receiver ) ; } 

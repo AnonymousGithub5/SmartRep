@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , bytes Parameter_1 ) public payable ModifierInvocation_0 ( _disputeID , Identifier_3 ) { super . MemberAccess_0 ( _disputeID , Identifier_0 ) ; Identifier_1 [ _disputeID ] = arbitrator . MemberAccess_1 ( disputes [ _disputeID ] . MemberAccess_2 , Identifier_2 ) ; }

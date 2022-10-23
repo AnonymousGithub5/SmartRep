@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external nonReentrant { Identifier_0 ( msg . sender ) ; }

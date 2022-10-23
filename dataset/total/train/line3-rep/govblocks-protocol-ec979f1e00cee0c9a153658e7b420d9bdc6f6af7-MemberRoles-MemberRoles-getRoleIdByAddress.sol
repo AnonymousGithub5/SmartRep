@@ -1,0 +1,1 @@
+} if ( Identifier_4 . balanceOf ( _memberAddress ) > 0 ) { Identifier_5 [ j ] = uint ( Identifier_6 . MemberAccess_1 ) ;

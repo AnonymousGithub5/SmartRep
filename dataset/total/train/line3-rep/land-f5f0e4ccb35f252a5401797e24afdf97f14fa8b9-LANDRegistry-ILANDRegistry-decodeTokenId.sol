@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint value ) view public returns ( int , int ) ; 

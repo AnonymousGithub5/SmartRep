@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) internal override returns ( uint256 Parameter_1 ) { return Identifier_0 ( expiry ) . MemberAccess_0 ( Identifier_1 [ expiry ] ) - Math . MemberAccess_1 ; }

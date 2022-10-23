@@ -1,0 +1,1 @@
+Identifier_1 ( Identifier_2 ( ) ) . MemberAccess_1 ( msg . sender , Identifier_3 [ msg . sender ] . MemberAccess_2 ) ; Identifier_4 ( Identifier_5 [ msg . sender ] . MemberAccess_3 , Identifier_6 [ msg . sender ] . MemberAccess_4 ) ; return true ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public onlyOwner { require ( Identifier_0 ) ;

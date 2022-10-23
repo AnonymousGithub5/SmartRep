@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 , bool Parameter_2 ) public view returns ( uint ) { Identifier_0 += Identifier_1 ( ) ; uint VariableDeclaration_0 = 0 ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _proposalId , uint256 Parameter_0 ) public returns ( bool Parameter_1 ) { Identifier_0 = proposalsById [ _proposalId ] . MemberAccess_0 [ Identifier_1 ] . MemberAccess_1 ; }

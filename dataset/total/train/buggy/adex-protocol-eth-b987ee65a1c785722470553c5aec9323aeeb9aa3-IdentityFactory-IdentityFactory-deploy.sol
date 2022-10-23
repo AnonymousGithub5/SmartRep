@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes memory Parameter_0 , uint256 Parameter_1 ) public { address VariableDeclaration_0 ; assembly { addr := AssemblyExpression_3 ( 0 , add ( AssemblyExpression_0 , HexNumber_0 ) , mload ( AssemblyExpression_1 ) , AssemblyExpression_2 ) } require ( addr != address ( 0 ) , stringLiteral_0 ) ; emit Identifier_0 ( addr , Identifier_1 ) ; }

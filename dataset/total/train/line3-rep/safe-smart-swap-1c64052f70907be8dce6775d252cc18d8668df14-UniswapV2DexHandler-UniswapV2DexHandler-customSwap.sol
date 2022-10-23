@@ -1,0 +1,1 @@
+( , uint256 _min , address memory _path , , ) = Identifier_0 ( _data ) ; require ( IERC20 ( Identifier_1 [ 0 ] ) . transferFrom ( msg . sender , address ( this ) , _amount ) , stringLiteral_0 ) ; IERC20 ( Identifier_2 [ 0 ] ) . approve ( address ( Identifier_3 ) , _amount ) ;

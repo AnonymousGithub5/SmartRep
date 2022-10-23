@@ -1,0 +1,1 @@
+if ( Identifier_1 == 0 ) return 0 ; uint64 VariableDeclaration_2 = now ( ) / Identifier_2 ; if ( Identifier_3 > Identifier_4 ) return 0 ;

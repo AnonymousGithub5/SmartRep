@@ -1,0 +1,1 @@
+if ( member . MemberAccess_2 ) { if ( SafeMath . sub ( member . MemberAccess_3 + Identifier_2 , Identifier_3 ( Identifier_4 ( ) ) ) >= Identifier_5 ( ) ) { member . MemberAccess_4 = false ;

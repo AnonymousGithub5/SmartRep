@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 id ) external view returns ( string memory , uint256 ) { return Identifier_0 . MemberAccess_0 ( id ) ; }

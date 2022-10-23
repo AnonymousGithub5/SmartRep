@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 ) external view returns ( bytes32 ) { return Identifier_0 ; }

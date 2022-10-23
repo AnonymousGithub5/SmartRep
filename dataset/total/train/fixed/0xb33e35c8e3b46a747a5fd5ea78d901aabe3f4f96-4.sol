@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { if ( Identifier_0 == msg . sender && Identifier_1 > 0 ) { uint VariableDeclaration_0 = Identifier_2 ; Identifier_3 = 0 ; if ( ! Identifier_4 . send ( Identifier_5 ) ) revert ( ) ; } }

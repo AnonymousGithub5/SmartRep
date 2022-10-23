@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) ModifierInvocation_0 external { Identifier_0 ( Identifier_1 , NumberLiteral_0 , _burn ) ; Identifier_2 ( Identifier_3 , _burn ) ; }

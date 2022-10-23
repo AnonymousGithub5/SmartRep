@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public { require ( owner == msg . sender , stringLiteral_0 ) ; require ( uint256 ( Identifier_0 ) >= 1 minutes , stringLiteral_1 ) ; Identifier_1 = uint256 ( Identifier_2 ) ; }

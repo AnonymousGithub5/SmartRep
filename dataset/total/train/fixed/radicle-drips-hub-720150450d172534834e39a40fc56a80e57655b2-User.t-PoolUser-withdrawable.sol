@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 calldata Parameter_0 ) public view returns ( uint128 ) { return Identifier_0 ( ) . MemberAccess_0 ( address ( this ) , Identifier_1 ) ; }

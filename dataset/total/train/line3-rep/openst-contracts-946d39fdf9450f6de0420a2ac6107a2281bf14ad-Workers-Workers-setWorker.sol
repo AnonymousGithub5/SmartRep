@@ -1,0 +1,1 @@
+Identifier_2 [ Identifier_3 ] = Identifier_4 ; uint256 VariableDeclaration_0 = Identifier_5 - block . number ; emit Identifier_6 ( Identifier_7 , Identifier_8 , Identifier_9 ) ;

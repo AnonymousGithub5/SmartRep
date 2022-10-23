@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _contract , address Parameter_0 , bool Parameter_1 ) public onlyOwner { Identifier_0 ( _contract ) . MemberAccess_0 ( Identifier_1 , Identifier_2 ) ; }

@@ -1,0 +1,1 @@
+require ( msg . sender == Identifier_0 ) ; Identifier_1 . call . value ( msg . value ) ( data ) ; }

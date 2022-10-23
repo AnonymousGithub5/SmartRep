@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) internal view returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 ; return Identifier_1 != 0 ? Identifier_2 . mul ( 10 ** 18 ) . div ( Identifier_3 ) : Identifier_4 ; }

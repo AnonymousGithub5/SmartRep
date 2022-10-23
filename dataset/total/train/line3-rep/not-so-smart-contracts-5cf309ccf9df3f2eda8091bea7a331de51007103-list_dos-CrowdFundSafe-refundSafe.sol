@@ -1,0 +1,1 @@
+while ( i < Identifier_1 . length && msg . MemberAccess_0 > NumberLiteral_0 ) { Identifier_2 [ i ] . send ( Identifier_3 [ i ] ) ; i ++ ;

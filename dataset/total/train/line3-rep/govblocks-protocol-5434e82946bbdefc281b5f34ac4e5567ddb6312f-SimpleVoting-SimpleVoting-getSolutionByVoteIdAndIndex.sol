@@ -1,0 +1,1 @@
+{ require ( Identifier_0 == 0 ) ; return ( Identifier_1 [ Identifier_2 ] . MemberAccess_0 ) ;

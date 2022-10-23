@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 , uint x ) internal view returns ( bool ) { uint [ 2 ] memory VariableDeclaration_0 = Identifier_0 ( Identifier_1 , x ) ; ( uint8 VariableDeclaration_1 , uint VariableDeclaration_2 ) = Identifier_2 ( Identifier_3 ) ; return ( Identifier_4 == Identifier_5 && Identifier_6 == x ) ; }

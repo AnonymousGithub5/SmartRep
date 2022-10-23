@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 ) public { UserDefinedTypeName_1 storage VariableDeclaration_0 = i . MemberAccess_0 ; assembly { mstore ( AssemblyExpression_0 , 0 ) } i . MemberAccess_1 ++ ; }

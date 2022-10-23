@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) { if ( now - Identifier_0 [ Identifier_1 ] . MemberAccess_0 >= 1 days ) {

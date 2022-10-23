@@ -1,0 +1,1 @@
+IERC20 ( Identifier_13 ) . balanceOf ( address ( this ) ) ) . div ( 10 ** 18 ) ; total = total . add ( amounts [ i ] ) ;

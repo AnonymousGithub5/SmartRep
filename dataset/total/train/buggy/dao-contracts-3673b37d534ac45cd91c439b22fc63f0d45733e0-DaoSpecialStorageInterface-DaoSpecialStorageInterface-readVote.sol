@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 , address ) public constant returns ( bool , uint256 ) ;

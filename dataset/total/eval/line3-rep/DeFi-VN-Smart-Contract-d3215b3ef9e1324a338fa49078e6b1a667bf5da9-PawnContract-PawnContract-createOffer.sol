@@ -1,0 +1,1 @@
+require ( collateral . owner != msg . sender , stringLiteral_1 ) ; UserDefinedTypeName_1 VariableDeclaration_1 = Identifier_3 ( Identifier_4 ,

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , address to , uint128 Parameter_1 , uint128 Parameter_2 ) external returns ( uint256 ) { uint256 VariableDeclaration_0 = pool . MemberAccess_0 ( msg . sender , to , Identifier_0 ) ; require ( Identifier_1 >= Identifier_2 , stringLiteral_0 ) ; return Identifier_3 ; }

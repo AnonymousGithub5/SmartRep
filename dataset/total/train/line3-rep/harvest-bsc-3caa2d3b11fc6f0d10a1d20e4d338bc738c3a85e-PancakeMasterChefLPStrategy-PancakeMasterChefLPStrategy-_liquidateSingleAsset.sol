@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) internal { if ( Identifier_0 ( ) != 0 ) { address memory VariableDeclaration_0 = Identifier_1 [ Identifier_2 ( ) ] ;

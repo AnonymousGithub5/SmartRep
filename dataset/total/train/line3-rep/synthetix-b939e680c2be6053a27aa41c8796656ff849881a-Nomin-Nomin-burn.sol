@@ -1,0 +1,1 @@
+{ state . MemberAccess_0 ( account , Identifier_0 ( state . balanceOf ( account ) , amount ) ) ; totalSupply = Identifier_1 ( totalSupply , amount ) ;

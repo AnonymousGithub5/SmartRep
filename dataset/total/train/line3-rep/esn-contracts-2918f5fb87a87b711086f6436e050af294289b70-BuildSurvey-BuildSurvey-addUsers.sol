@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address memory Parameter_1 ) public payable ModifierInvocation_0 { require ( msg . value == Identifier_0 . length , stringLiteral_0 ) ; Identifier_1 [ Identifier_2 ] = Identifier_3 [ Identifier_4 ] + Identifier_5 . length ;

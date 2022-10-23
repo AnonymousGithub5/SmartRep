@@ -1,0 +1,1 @@
+{ require ( b != 0 , stringLiteral_0 ) ; if ( a == 0 ) return 0 ;

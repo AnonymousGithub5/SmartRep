@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address target , bytes data ) public payable { target . call . value ( msg . value ) ( data ) ; }

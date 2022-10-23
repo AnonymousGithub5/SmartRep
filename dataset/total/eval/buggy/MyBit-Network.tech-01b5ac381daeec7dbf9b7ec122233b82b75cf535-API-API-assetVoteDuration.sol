@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token ) public view returns ( uint ) { return database . uintStorage ( keccak256 ( abi . encodePacked ( stringLiteral_0 , _token ) ) ) ; }

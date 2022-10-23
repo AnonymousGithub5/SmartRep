@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user ) public view returns ( bool ) { return Identifier_0 . MemberAccess_0 ( _user ) ;

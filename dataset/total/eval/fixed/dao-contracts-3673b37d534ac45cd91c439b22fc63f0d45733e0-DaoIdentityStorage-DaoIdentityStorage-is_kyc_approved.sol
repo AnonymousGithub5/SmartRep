@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user ) public view returns ( bool Parameter_0 ) { uint256 VariableDeclaration_0 ; ( , Identifier_0 ) = Identifier_1 ( _user ) ; Identifier_2 = Identifier_3 > now ; }

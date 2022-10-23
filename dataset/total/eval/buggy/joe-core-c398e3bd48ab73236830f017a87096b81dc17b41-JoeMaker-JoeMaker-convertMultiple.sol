@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address calldata Parameter_0 , address calldata Parameter_1 ) external ModifierInvocation_0 ( ) { uint256 VariableDeclaration_0 = Identifier_0 . length ; for ( uint256 i = 0 ; i < Identifier_1 ; i ++ ) { Identifier_2 ( Identifier_3 [ i ] , token1 [ i ] ) ; } }

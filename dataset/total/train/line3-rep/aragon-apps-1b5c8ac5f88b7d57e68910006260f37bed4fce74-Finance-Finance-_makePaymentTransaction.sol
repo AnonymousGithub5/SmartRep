@@ -1,0 +1,1 @@
+{ require ( Identifier_0 ( _token ) >= _amount ) ; Identifier_1 (

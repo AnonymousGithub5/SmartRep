@@ -1,0 +1,1 @@
+{ uint256 VariableDeclaration_0 = Identifier_0 ( ) + NumberLiteral_0 ; require ( msg . sender == tx . origin , stringLiteral_0 ) ;

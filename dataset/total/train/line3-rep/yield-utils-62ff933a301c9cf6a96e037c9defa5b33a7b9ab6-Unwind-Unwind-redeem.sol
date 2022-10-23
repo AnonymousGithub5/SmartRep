@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 VariableDeclaration_0 = controller . MemberAccess_0 ( maturity ) ; uint256 VariableDeclaration_1 = Identifier_2 . balanceOf ( user ) ; Identifier_3 . burn ( user , Identifier_4 ) ;

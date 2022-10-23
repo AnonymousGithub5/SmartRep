@@ -1,0 +1,1 @@
+for ( uint256 i = 0 ; i < Identifier_1 . MemberAccess_1 . length ; i ++ ) { amounts [ i ] = Identifier_2 ( Identifier_3 . MemberAccess_2 [ i ] ) . MemberAccess_3 ( Identifier_4 . MemberAccess_4 [ i . mul ( 2 ) ] ,

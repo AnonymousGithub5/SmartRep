@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address Parameter_1 ) public view returns ( uint ) { uint VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; return ( ( ( Identifier_2 * 100 ) * Identifier_3 ) / Identifier_4 ( Identifier_5 ) . totalSupply ( ) / Identifier_6 ) ; }

@@ -1,0 +1,1 @@
+if ( Identifier_10 [ Identifier_11 ] % 10 == 0 ) { uint16 VariableDeclaration_1 = Identifier_12 . MemberAccess_0 - Identifier_13 . MemberAccess_1 % 10 + 8 ; Identifier_14 ( stringLiteral_0 , Identifier_15 ) ;

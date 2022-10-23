@@ -1,0 +1,1 @@
+{ require ( Identifier_0 ( msg . sender ) ) ; bytes32 VariableDeclaration_0 = proposalsById [ _proposalId ] . MemberAccess_0 ;

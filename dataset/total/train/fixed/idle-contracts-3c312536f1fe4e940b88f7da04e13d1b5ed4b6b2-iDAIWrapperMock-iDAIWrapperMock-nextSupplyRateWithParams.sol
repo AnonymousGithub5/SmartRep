@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 calldata ) external pure returns ( uint256 ) { return NumberLiteral_0 ; }

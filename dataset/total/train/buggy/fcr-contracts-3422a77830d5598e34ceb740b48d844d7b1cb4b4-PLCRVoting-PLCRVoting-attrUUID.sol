@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user , uint Parameter_0 ) public constant returns ( bytes32 Parameter_1 ) { return Identifier_0 ( _user , Identifier_1 ) ; }

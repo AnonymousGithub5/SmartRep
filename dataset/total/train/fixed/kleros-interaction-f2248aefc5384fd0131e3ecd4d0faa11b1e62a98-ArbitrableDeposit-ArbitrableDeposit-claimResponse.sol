@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public onlyOwner { require ( Identifier_0 >= 0 && Identifier_1 <= Identifier_2 ) ; Identifier_3 = Identifier_4 ; if ( Identifier_5 == Identifier_6 ) { Identifier_7 . transfer ( Identifier_8 ) ; Identifier_9 = 0 ; amount = 0 ; status = Status . MemberAccess_0 ; } else { Identifier_10 ( ) ; } }

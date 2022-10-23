@@ -1,0 +1,1 @@
+function mint ( uint256 amount ) public ModifierInvocation_0 { _mint ( Identifier_0 ( ) , amount ) ; emit Identifier_1 ( _msgSender ( ) , amount ) ;

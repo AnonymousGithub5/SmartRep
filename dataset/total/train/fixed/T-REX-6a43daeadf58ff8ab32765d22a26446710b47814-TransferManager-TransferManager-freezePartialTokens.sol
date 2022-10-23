@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 amount ) public ModifierInvocation_0 { uint256 balance = balanceOf ( addr ) ; require ( balance >= Identifier_0 [ addr ] + amount , stringLiteral_0 ) ; Identifier_1 [ addr ] += amount ; emit Identifier_2 ( addr , amount ) ; }

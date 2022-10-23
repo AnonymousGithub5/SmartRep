@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint32 Parameter_0 , uint32 Parameter_1 , uint Parameter_2 , bool Parameter_3 , address Parameter_4 , string Parameter_5 ) external ModifierInvocation_0 ( ) returns ( uint ) { Identifier_0 . push ( Identifier_1 ( {

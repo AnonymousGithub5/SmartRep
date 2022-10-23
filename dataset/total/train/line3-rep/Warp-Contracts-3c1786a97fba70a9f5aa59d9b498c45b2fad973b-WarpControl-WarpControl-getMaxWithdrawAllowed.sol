@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_3 = Identifier_4 . MemberAccess_0 ( Identifier_5 ) ; return Identifier_6 . mul ( Identifier_7 ) ; }

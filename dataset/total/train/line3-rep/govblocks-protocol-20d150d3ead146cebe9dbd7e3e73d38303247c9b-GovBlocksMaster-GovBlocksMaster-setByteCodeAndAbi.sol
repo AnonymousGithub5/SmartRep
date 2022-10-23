@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , bytes32 Parameter_1 ) public onlyOwner { Identifier_0 = Identifier_1 ;

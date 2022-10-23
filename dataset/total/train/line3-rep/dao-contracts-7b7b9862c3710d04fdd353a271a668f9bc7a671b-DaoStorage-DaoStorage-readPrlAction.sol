@@ -1,0 +1,1 @@
+{ UserDefinedTypeName_0 VariableDeclaration_0 = proposalsById [ _proposalId ] . MemberAccess_0 ; require ( _index < Identifier_0 . length ) ;

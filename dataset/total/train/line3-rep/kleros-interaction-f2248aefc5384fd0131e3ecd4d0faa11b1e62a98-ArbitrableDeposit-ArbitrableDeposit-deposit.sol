@@ -1,0 +1,1 @@
+function deposit ( uint _amount ) onlyOwner { amount += _amount ;

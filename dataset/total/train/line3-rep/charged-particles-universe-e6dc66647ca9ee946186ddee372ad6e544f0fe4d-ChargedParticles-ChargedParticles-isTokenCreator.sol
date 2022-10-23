@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 tokenId , address account ) external override view returns ( bool ) { return Identifier_0 ( Identifier_1 , tokenId , account ) ; }

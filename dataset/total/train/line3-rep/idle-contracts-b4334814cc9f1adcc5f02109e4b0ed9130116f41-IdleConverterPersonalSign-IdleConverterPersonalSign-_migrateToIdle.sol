@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = IERC20 ( Identifier_0 ) . balanceOf ( address ( this ) ) ; IERC20 ( Identifier_1 ) . approve ( _to , Identifier_2 ) ; Identifier_3 ( _to ) . MemberAccess_0 ( Identifier_4 , new uint256 ( 0 ) ) ;

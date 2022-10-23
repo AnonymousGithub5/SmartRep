@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) private { if ( IERC20 ( token ) . MemberAccess_0 ( address ( this ) , address ( Identifier_0 ) ) == 0 ) { IERC20 ( token ) . safeApprove ( address ( Identifier_1 ) , uint256 ( ~ 0 ) ) ; } }

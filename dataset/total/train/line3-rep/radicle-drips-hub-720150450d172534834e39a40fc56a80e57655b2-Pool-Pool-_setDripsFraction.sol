@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 , uint32 Parameter_1 ) internal { require ( Identifier_0 <= Identifier_1 , stringLiteral_0 ) ; sender . MemberAccess_0 = Identifier_2 ;

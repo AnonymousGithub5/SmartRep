@@ -1,0 +1,1 @@
+{ uint256 VariableDeclaration_0 = Identifier_0 == Identifier_1 ? Identifier_2 : Identifier_3 . mul ( Identifier_4 ) . div ( Identifier_5 ) ; Identifier_6 = Identifier_7 . mul ( 1e18 ) . div ( uint256 ( 1e18 ) . add ( Identifier_8 ) ) ;

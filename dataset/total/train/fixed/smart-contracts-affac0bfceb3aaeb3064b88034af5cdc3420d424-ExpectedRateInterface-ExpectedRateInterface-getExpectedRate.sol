@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ERC20 Parameter_0 , ERC20 Parameter_1 , uint Parameter_2 , bool Parameter_3 ) public view returns ( uint Parameter_4 , uint Parameter_5 ) ;

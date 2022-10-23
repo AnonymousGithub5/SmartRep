@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { require ( status == Status . MemberAccess_0 , stringLiteral_0 ) ; if ( msg . sender != Identifier_0 )

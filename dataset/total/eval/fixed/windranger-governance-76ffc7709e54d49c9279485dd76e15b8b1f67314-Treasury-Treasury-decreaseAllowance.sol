@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address spender , address Parameter_0 , uint256 amount ) external virtual ModifierInvocation_0 { IERC20 ( asset ) . MemberAccess_0 ( spender , amount ) ; emit Identifier_0 ( spender , asset , amount ) ; }

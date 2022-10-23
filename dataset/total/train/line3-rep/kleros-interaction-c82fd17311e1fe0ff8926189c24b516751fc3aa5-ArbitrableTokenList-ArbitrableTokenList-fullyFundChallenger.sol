@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage token = tokens [ _tokenID ] ; require ( token . parties [ uint ( Party . Requester ) ] != address ( 0 ) , stringLiteral_0 ) ; require ( ! token . disputed , stringLiteral_1 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public returns ( uint Parameter_0 ) { Identifier_0 = Identifier_1 ( ) ; if ( Identifier_2 == 0 ) return ; require ( Identifier_3 . MemberAccess_0 . send ( Identifier_4 ) ) ; emit Identifier_5 ( now , Identifier_6 . MemberAccess_1 , Identifier_7 ) ; }

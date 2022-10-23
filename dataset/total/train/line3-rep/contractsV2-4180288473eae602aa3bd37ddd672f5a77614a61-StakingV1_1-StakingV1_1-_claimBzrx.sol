@@ -1,0 +1,1 @@
+Identifier_9 ( Identifier_10 ) . MemberAccess_0 ( ) ; } IERC20 ( Identifier_11 ) . transfer ( msg . sender , Identifier_12 ) ;

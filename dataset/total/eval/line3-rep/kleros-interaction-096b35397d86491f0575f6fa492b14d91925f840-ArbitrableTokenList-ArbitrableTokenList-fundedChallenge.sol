@@ -1,0 +1,1 @@
+require ( msg . value >= item . MemberAccess_6 + ( arbitrator . MemberAccess_7 ( Identifier_4 ) / 2 ) , stringLiteral_3

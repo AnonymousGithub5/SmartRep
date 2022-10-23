@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; require ( now >= transaction . MemberAccess_0 + transaction . MemberAccess_1 , stringLiteral_0 ) ; require ( transaction . status == Status . MemberAccess_2 , stringLiteral_1 ) ;

@@ -1,0 +1,1 @@
+{ require ( _owner != address ( 0 ) , stringLiteral_0 ) ; Identifier_0 = _owner ;

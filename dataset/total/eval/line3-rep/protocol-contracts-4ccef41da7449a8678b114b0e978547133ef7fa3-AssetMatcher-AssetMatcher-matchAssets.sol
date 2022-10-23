@@ -1,0 +1,1 @@
+UserDefinedTypeName_3 memory VariableDeclaration_0 = Identifier_0 ( Identifier_1 , Identifier_2 ) ; if ( result . MemberAccess_0 == 0 ) { return Identifier_3 ( Identifier_4 , Identifier_5 ) ;

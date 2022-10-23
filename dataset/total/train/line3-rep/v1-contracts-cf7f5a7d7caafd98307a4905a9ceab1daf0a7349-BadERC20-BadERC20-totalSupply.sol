@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view override returns ( uint256 ) { return Identifier_0 ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , bytes32 Parameter_1 , address owner ) public override ModifierInvocation_0 ( Identifier_3 ) ModifierInvocation_1 ( Identifier_4 , Identifier_5 ) returns ( bytes32 ) { return Identifier_0 . MemberAccess_0 ( Identifier_1 , Identifier_2 , owner ) ; }

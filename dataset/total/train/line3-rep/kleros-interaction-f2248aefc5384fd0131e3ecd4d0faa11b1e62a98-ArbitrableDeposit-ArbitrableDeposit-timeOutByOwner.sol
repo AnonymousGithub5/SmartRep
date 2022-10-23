@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) onlyOwner { require ( status == Status . MemberAccess_0 ) ;

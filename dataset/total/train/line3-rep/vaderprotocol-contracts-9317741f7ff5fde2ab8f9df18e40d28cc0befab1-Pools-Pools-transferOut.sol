@@ -1,0 +1,1 @@
+Identifier_1 = Identifier_2 - _amount ; } else if ( _token == Identifier_3 ) { Identifier_4 = Identifier_5 - _amount ;

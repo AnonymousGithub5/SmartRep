@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 memory ) { ( , , , uint256 memory amounts ) = Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( Identifier_2 , address ( this ) ) ; return amounts ;

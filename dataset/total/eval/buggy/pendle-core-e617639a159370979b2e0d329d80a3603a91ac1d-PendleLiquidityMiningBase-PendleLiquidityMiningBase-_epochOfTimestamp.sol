@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) internal view returns ( uint256 ) { if ( Identifier_0 < Identifier_1 ) return 0 ; return Identifier_2 . sub ( Identifier_3 ) . div ( Identifier_4 ) . add ( 1 ) ; }

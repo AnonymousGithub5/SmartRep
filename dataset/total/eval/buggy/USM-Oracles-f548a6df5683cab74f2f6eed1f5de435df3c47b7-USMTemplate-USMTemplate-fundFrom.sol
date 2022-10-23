@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , uint Parameter_0 , UserDefinedTypeName_0 Parameter_1 , address to , uint Parameter_2 ) external payable override returns ( uint Parameter_3 ) { Identifier_0 = Identifier_1 ( from , Identifier_2 , Identifier_3 , to , Identifier_4 ) ; }

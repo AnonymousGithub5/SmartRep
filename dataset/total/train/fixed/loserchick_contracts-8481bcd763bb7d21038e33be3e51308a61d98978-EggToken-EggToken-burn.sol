@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 amount ) public { require ( amount != 0 , stringLiteral_0 ) ; address VariableDeclaration_0 = NumberLiteral_0 ; Identifier_0 ( Identifier_1 , amount * 1e18 ) ; emit Identifier_2 ( msg . sender , amount ) ; Identifier_3 += amount ; Identifier_4 ( ) ; Identifier_5 [ Identifier_6 ] += amount ; }

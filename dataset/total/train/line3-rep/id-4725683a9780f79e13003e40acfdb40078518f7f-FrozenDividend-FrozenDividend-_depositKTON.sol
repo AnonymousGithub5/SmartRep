@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) internal { Identifier_0 [ msg . sender ] = Identifier_1 [ msg . sender ] . add ( Identifier_2 [ msg . sender ] ) ; Identifier_3 = Identifier_4 . add ( Identifier_5 ) ;

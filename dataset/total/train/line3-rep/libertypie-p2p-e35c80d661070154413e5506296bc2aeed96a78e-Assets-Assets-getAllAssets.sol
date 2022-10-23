@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( UserDefinedTypeName_0 memory ) { uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( ) ; UserDefinedTypeName_2 memory VariableDeclaration_1 = new UserDefinedTypeName_1 ( Identifier_1 ) ;

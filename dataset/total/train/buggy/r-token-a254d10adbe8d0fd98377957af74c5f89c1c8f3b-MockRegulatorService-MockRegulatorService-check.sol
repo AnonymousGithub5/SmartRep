@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address , address , address , uint256 ) constant public returns ( uint8 ) { return Identifier_0 ; }

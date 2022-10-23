@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _proposalId , address Parameter_0 ) external view returns ( uint256 Parameter_1 , uint256 Parameter_2 ) { require ( Identifier_0 ( ) ) ; return proposalsById [ _proposalId ] . MemberAccess_0 . MemberAccess_1 ( Identifier_1 ) ; }

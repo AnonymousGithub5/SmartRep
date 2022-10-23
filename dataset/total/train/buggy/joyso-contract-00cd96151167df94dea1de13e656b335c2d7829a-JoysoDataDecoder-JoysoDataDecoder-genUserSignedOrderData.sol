@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 data , uint256 Parameter_0 , address _address ) internal pure returns ( uint256 ) { return data & NumberLiteral_0 | Identifier_0 | uint256 ( _address ) ; }

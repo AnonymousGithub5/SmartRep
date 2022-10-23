@@ -1,0 +1,1 @@
+) ; return DecimalMath . mul ( Identifier_3 , DecimalMath . MemberAccess_5 . add ( Identifier_4 ) ) ; }

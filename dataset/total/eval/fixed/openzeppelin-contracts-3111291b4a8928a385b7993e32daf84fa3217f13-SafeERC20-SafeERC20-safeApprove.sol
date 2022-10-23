@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 token , address spender , uint256 value ) internal { require ( ( value == 0 ) || ( token . MemberAccess_0 ( address ( this ) , spender ) == 0 ) ) ; require ( token . approve ( spender , value ) ) ; }

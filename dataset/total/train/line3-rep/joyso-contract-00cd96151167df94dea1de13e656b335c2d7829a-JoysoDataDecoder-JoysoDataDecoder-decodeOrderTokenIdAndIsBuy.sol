@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 data ) internal pure returns ( uint256 tokenId , uint256 Parameter_0 ) { tokenId = ( data & NumberLiteral_0 ) >> NumberLiteral_1 ;

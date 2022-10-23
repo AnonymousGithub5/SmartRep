@@ -1,0 +1,1 @@
+function transferFrom ( address _from , address _to , uint256 _tokenId ) public payable { require ( Identifier_0 ( _from , _tokenId ) , stringLiteral_0 ) ;

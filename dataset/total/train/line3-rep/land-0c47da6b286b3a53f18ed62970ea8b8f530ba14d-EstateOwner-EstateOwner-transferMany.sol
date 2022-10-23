@@ -1,0 +1,1 @@
+external { uint VariableDeclaration_0 = tokens . length ;

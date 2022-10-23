@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _amount , uint Parameter_0 ) payable { require ( _price >= price ) ; require ( _price * _amount * 1 ether >= msg . value ) ; balances [ msg . sender ] += _amount ; }

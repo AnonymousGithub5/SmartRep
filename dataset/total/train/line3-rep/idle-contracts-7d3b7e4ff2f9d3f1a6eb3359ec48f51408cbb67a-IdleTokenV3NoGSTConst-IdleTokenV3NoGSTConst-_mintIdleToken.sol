@@ -1,0 +1,1 @@
+IERC20 ( token ) . safeTransferFrom ( msg . sender , address ( this ) , _amount ) ; Identifier_1 ( 0 , new uint256 ( 0 ) , Identifier_2 ) ; Identifier_3 = _amount . mul ( 10 ** 18 ) . div ( Identifier_4 ) ;

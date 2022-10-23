@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _wallet , address _contract , bytes memory _data ) internal view { require ( _contract != address ( _wallet ) && ! _wallet . MemberAccess_0 ( _contract ) && Identifier_0 . MemberAccess_1 ( _contract ) == 0 , stringLiteral_0 ) ; }

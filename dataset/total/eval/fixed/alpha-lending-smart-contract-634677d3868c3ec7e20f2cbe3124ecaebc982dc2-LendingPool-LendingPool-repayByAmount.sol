@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ERC20 _token , uint256 _amount ) external nonReentrant ModifierInvocation_0 ( _token ) ModifierInvocation_1 { uint256 VariableDeclaration_0 = Identifier_0 ( _token , _amount ) ; Identifier_1 ( _token , Identifier_2 ) ; }

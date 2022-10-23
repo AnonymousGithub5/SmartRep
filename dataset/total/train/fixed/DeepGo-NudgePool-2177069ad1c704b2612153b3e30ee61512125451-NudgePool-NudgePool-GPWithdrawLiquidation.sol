@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) external whenNotPaused { ( bool status , ) = Identifier_0 . MemberAccess_0 . MemberAccess_1 ( abi . MemberAccess_2 ( bytes4 ( keccak256 ( stringLiteral_0 ) ) , _ipToken , _baseToken ) ) ; require ( status == true , stringLiteral_1 ) ; emit Identifier_1 ( _ipToken , _baseToken ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 value ) public { _burn ( msg . sender , value ) ;

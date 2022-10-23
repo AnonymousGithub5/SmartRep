@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = Math . MemberAccess_0 ( Identifier_3 , Identifier_4 ( Identifier_5 ) ) ; uint256 VariableDeclaration_3 = ( Identifier_6 >= Identifier_7 ? 0 : Identifier_8 - Identifier_9 ) ; return Identifier_10 . mul ( Identifier_11 ) ;

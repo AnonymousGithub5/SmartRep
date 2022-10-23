@@ -1,0 +1,1 @@
+function approve ( uint from , uint spender , uint amount ) external returns ( bool ) { require ( Identifier_0 ( from ) , stringLiteral_0 ) ; allowance [ from ] [ spender ] = amount ; emit Identifier_1 ( from , spender , amount ) ; return true ; }

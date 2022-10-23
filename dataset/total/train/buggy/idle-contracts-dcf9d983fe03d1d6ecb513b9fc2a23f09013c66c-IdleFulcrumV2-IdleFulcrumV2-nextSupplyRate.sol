@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) public view returns ( uint256 ) { return Identifier_0 ( token ) . MemberAccess_0 ( _amount ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 ) external { require ( ! address ( msg . sender ) . MemberAccess_0 ( ) , stringLiteral_0 ) ; require ( Identifier_0 >= 1 && Identifier_1 <= balanceOf ( msg . sender ) , stringLiteral_1 ) ;

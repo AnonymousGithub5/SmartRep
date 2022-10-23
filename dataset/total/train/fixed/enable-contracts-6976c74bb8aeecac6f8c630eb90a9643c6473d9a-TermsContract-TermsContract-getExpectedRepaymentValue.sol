@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public view returns ( uint256 Parameter_1 ) { total = 0 ; for ( uint256 i = 0 ; i < Identifier_0 . MemberAccess_0 ; i ++ ) { ( uint256 due , , , uint256 amount ) = Identifier_1 ( i + 1 ) ; if ( Identifier_2 <= Identifier_3 ) { total = total . add ( amount ) ; } } }

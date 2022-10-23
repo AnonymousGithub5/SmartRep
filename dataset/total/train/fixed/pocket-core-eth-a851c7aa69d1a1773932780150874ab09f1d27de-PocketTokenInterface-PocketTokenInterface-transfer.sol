@@ -1,0 +1,1 @@
+function transfer ( address Parameter_0 , uint256 _value ) public returns ( bool success ) { }

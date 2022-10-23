@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , uint Parameter_0 , UserDefinedTypeName_0 Parameter_1 , address to , uint Parameter_2 ) external payable override ModifierInvocation_0 ( from , stringLiteral_0 ) returns ( uint Parameter_3 ) { Identifier_0 = _mint ( from , Identifier_1 , Identifier_2 , to , Identifier_3 ) ; }

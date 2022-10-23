@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { uint256 VariableDeclaration_0 = base . balanceOf ( address ( this ) ) ; uint256 VariableDeclaration_1 = Identifier_0 ( ) ; uint256 VariableDeclaration_2 = Identifier_1 . mul ( Identifier_2 ) . div ( Identifier_3 ) ; return ( Identifier_4 ) ; }

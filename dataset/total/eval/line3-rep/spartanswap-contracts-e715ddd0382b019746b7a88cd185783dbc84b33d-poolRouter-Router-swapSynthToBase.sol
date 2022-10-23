@@ -1,0 +1,1 @@
+( uint VariableDeclaration_2 , uint VariableDeclaration_3 ) = Identifier_11 ( Identifier_12 ) . MemberAccess_3 ( Identifier_13 ) ; Identifier_14 = Identifier_15 . sub ( Identifier_16 ) ; Identifier_17 += Identifier_18 ;

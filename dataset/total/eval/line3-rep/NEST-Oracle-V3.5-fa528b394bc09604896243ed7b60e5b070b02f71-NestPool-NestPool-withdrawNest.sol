@@ -1,0 +1,1 @@
+Identifier_5 [ Identifier_6 ] = Identifier_7 - amount ; Identifier_8 . transfer ( Identifier_9 , amount ) ; }

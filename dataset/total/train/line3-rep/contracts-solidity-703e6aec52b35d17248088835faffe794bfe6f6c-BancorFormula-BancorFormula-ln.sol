@@ -1,0 +1,1 @@
+assert ( Identifier_2 != 0 && Identifier_3 != 0 ) ; uint256 VariableDeclaration_0 = uint256 ( 1 ) << ( NumberLiteral_0 - Identifier_4 ) ; assert ( Identifier_5 < Identifier_6 ) ;

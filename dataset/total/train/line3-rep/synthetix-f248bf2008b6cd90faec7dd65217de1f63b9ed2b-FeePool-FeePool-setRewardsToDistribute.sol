@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint amount ) external { require ( Identifier_0 == Identifier_1 || msg . sender == Identifier_2 , stringLiteral_0 ) ; Identifier_3 ( 0 ) . MemberAccess_0 = Identifier_4 ( 0 ) . MemberAccess_1 . add ( amount ) ;

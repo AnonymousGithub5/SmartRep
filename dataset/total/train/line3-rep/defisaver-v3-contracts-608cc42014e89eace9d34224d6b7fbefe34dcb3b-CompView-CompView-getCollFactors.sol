@@ -1,0 +1,1 @@
+for ( uint i = 0 ; i < Identifier_2 . length ; ++ i ) { ( , Identifier_3 [ i ] ) = Identifier_4 . MemberAccess_0 ( Identifier_5 [ i ] ) ; }

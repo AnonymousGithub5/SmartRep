@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 calldata Parameter_0 ) external view override returns ( bool Parameter_1 ) { if ( block . timestamp > uint256 ( Identifier_0 . MemberAccess_0 ) . add ( Identifier_1 ) ) { return true ; } return false ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) public view returns ( uint ) { uint VariableDeclaration_0 = Identifier_0 ( account ) ; uint VariableDeclaration_1 = state . balanceOf ( account ) ; if ( Identifier_1 != address ( 0 ) ) { Identifier_2 += Identifier_3 . balanceOf ( account ) ; } if ( Identifier_4 > Identifier_5 ) { return 0 ; } return Identifier_6 - Identifier_7 ; }

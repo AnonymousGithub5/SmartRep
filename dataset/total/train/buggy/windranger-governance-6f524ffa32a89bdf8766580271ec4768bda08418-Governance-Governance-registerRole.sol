@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) external virtual ModifierInvocation_0 { require ( Identifier_0 [ Identifier_1 ] == 0 , stringLiteral_0 ) ; Identifier_2 . push ( Identifier_3 ) ; Identifier_4 [ Identifier_5 ] = Identifier_6 . length ; }

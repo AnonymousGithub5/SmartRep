@@ -1,0 +1,1 @@
+Identifier_15 [ user ] [ hash ] = safeAdd ( Identifier_16 [ user ] [ hash ] , amount ) ; emit Identifier_17 ( Identifier_18 , amount , Identifier_19 , Identifier_20 * amount / Identifier_21 , user , msg . sender , hash ) ; }

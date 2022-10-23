@@ -1,0 +1,1 @@
+{ return Identifier_0 . state == Identifier_1 . MemberAccess_0 ; }

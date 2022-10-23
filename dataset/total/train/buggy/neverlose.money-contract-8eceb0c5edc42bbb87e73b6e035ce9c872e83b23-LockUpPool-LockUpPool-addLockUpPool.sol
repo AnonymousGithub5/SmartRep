@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public onlyOwner { require ( tokenAddress . MemberAccess_0 ( ) , stringLiteral_0 ) ; require ( ! Identifier_0 [ tokenAddress ] . MemberAccess_1 , stringLiteral_1 ) ; Identifier_1 [ tokenAddress ] . MemberAccess_2 = true ; }

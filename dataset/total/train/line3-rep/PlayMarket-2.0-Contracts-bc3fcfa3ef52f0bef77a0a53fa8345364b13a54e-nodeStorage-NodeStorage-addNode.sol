@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint32 Parameter_1 , ElementaryTypeName_0 Parameter_2 , string Parameter_3 , string Parameter_4 , string Parameter_5 ) external ModifierInvocation_0 ( Identifier_9 [ _node ] . MemberAccess_1 ) { assert ( ! Identifier_0 [ _node ] . state ) ;

@@ -1,0 +1,1 @@
+Identifier_6 [ from ] -= amount ; Identifier_7 [ to ] += amount ; Identifier_8 [ to ] = Identifier_9 - Identifier_10 / Identifier_11 [ to ] ;

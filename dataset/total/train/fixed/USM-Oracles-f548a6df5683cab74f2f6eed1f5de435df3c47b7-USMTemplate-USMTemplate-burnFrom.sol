@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , uint Parameter_0 , address to , uint Parameter_1 , UserDefinedTypeName_0 Parameter_2 ) external override ModifierInvocation_0 ( from , stringLiteral_0 ) returns ( uint Parameter_3 ) { Identifier_0 = _burn ( from , Identifier_1 , to , Identifier_2 , Identifier_3 ) ; }

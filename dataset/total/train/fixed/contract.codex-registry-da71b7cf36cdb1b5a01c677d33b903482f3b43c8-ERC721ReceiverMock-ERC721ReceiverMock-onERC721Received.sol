@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address , uint256 _tokenId , bytes _data ) public returns ( bytes4 ) { require ( ! Identifier_0 ) ; emit Identifier_1 ( _address , _tokenId , _data , Identifier_2 ( ) ) ; return Identifier_3 ; }

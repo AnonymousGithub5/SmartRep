@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = balances [ market ] [ Identifier_0 ] ; UserDefinedTypeName_1 VariableDeclaration_1 = Identifier_1 ( market ) ; Identifier_2 . MemberAccess_0 = Identifier_3 . MemberAccess_1 . add ( Identifier_4 ) ;

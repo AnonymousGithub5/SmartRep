@@ -1,0 +1,1 @@
+if ( Identifier_24 > 0 && address ( Identifier_25 ) != address ( 0 ) ) { Identifier_26 . safeTransfer ( msg . sender , 1e18 ) ; }

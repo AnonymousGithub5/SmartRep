@@ -1,0 +1,1 @@
+private { uint8 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 [ Identifier_1 . MemberAccess_1 [ Identifier_2 ] ] . state ; if ( state == uint8 ( Identifier_3 . MemberAccess_2 ) ) {

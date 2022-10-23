@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _from , address payable _to , uint _value ) internal { require ( _to != address ( 0 ) , stringLiteral_0 ) ; balances [ _from ] = balances [ _from ] . sub ( _value ) ; emit Transfer ( _from , _to , _value ) ; _to . transfer ( _value ) ; }

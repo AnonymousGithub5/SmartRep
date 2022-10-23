@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external onlyOwner { require ( Identifier_0 <= NumberLiteral_0 , stringLiteral_0 ) ; Identifier_1 = Identifier_2 ; }

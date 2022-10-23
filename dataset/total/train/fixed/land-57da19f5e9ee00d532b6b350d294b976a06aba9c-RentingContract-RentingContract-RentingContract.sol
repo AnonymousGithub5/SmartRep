@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) { require ( address ( Identifier_0 ) != 0 ) ; Identifier_1 = Identifier_2 ; }

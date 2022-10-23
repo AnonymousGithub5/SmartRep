@@ -1,0 +1,1 @@
+delete Identifier_0 [ Identifier_1 ] . owner ; Identifier_2 ( Identifier_3 ) ; }

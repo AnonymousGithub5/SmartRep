@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) ModifierInvocation_0 { require ( status == Status . MemberAccess_0 ) ;

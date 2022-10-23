@@ -1,0 +1,1 @@
+) internal view returns ( bool ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( swap ) . MemberAccess_0 ( ) ; return ( address ( Identifier_1 . MemberAccess_1 ( Identifier_2 ) ) != address ( 0 ) ) ;

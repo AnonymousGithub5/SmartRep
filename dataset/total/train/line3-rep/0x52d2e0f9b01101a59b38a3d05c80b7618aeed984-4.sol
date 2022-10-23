@@ -1,0 +1,1 @@
+for ( uint i = 0 ; i < Identifier_0 ; i ++ ) { addr . call . value ( 0 wei ) ( ) ; }

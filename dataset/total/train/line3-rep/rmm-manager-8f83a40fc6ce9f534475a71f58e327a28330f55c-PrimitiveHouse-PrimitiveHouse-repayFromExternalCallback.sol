@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 memory VariableDeclaration_0 = abi . MemberAccess_0 ( data , ( Identifier_0 ) ) ; Identifier_1 . safeTransferFrom ( Identifier_2 . MemberAccess_1 , msg . sender , Identifier_3 ) ; }

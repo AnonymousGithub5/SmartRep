@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _key , address _address ) external onlyOwner { emit Identifier_0 ( _key , Identifier_1 [ _key ] , _address ) ; Identifier_2 [ _key ] = _address ; }

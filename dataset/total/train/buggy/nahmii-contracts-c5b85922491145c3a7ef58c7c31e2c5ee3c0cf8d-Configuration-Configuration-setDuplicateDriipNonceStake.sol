@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( int256 amount , address Parameter_0 , uint256 Parameter_1 ) public ModifierInvocation_0 { Identifier_0 = Identifier_1 . MemberAccess_0 ( amount , Identifier_2 . MemberAccess_1 ( Identifier_3 , Identifier_4 ) ) ; emit Identifier_5 ( amount , Identifier_6 , Identifier_7 ) ; }

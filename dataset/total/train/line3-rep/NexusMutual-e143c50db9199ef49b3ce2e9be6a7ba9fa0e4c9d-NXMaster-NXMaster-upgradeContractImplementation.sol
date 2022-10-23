@@ -1,0 +1,1 @@
+require ( Identifier_0 ( msg . sender ) ) ; require ( Identifier_1 == stringLiteral_0 || Identifier_2 == stringLiteral_1 || Identifier_3 == stringLiteral_2 ) ; Identifier_4 ( Identifier_5 , Identifier_6 ) ;

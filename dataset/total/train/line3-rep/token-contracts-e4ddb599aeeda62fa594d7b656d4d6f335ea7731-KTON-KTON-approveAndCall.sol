@@ -1,0 +1,1 @@
+) returns ( bool success ) { if ( ! Identifier_0 ( _spender , _amount ) ) throw ; Identifier_1 ( _spender ) . MemberAccess_0 (

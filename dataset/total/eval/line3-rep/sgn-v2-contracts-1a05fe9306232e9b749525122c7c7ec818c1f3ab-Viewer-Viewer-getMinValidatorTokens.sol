@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = Identifier_4 . MemberAccess_4 ; for ( uint256 i = 1 ; i < Identifier_5 ; i ++ ) { uint256 VariableDeclaration_2 = Identifier_6 . MemberAccess_5 ( Identifier_7 . MemberAccess_6 ( i ) ) ;

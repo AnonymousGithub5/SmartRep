@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address to , uint256 amount ) override external ModifierInvocation_0 { require ( ERC20 ( Identifier_0 ) . transfer ( to , amount ) , stringLiteral_0 ) ; }

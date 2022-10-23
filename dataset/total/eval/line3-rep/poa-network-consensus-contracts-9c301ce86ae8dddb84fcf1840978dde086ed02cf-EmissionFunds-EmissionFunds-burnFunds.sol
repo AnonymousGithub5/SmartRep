@@ -1,0 +1,1 @@
+bool VariableDeclaration_0 = address ( 0 ) . send ( _amount ) ; emit Identifier_0 ( msg . sender , _amount , success ) ; return success ;

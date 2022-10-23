@@ -1,0 +1,1 @@
+bool VariableDeclaration_0 ; ( success , Identifier_0 ) = Identifier_1 ( Identifier_2 , Identifier_3 ) ; require ( success , stringLiteral_0 ) ;

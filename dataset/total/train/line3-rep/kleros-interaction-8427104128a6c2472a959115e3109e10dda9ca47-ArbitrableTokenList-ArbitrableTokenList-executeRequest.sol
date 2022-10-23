@@ -1,0 +1,1 @@
+) ; if ( token . status == TokenStatus . MemberAccess_1 ) token . status = TokenStatus . MemberAccess_2 ;

@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = Identifier_5 ( x [ i ] , y [ i ] ) ; Identifier_6 ( Identifier_7 ( tokenId ) ,

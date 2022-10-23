@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( int Parameter_0 , int Parameter_1 ) internal pure returns ( uint ) { return ( ( ( uint ( Identifier_0 ) * Identifier_1 ) & Identifier_2 ) | ( uint ( Identifier_3 ) & Identifier_4 ) ) + 1 ; }

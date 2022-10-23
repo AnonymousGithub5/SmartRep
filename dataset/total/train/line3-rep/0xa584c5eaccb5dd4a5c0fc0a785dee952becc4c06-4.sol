@@ -1,0 +1,1 @@
+uint amount = address ( this ) . balance ; owner . send ( amount ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address target , uint amount ) public { Identifier_0 . MemberAccess_0 ( target , safeAdd ( Identifier_1 . balanceOf ( target ) , amount ) ) ; totalSupply = safeAdd ( totalSupply , amount ) ; Identifier_2 ( address ( 0 ) , target , amount ) ; Identifier_3 ( target , amount ) ; }

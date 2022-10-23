@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address payable to , uint Parameter_0 ) external override returns ( uint Parameter_1 ) { require ( msg . sender == address ( Identifier_0 ) , stringLiteral_0 ) ; Identifier_1 = Identifier_2 ( from , to , Identifier_3 , 0 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 Parameter_0 , IERC20 Parameter_1 , uint Parameter_2 ) external view returns ( uint256 Parameter_3 , uint256 Parameter_4 ) ;

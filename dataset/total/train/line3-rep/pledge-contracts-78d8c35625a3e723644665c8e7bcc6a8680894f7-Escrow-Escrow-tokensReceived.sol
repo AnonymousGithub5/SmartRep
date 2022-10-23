@@ -1,0 +1,1 @@
+require ( Identifier_1 != 0 , Identifier_2 ( Identifier_3 ( Identifier_4 ) ) ) ; Identifier_5 [ msg . sender ] [ from ] = Identifier_6 [ msg . sender ] [ from ] . add ( amount ) ; emit Identifier_7 ( Identifier_8 , from , amount ) ;

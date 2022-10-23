@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , uint256 Parameter_1 , bytes32 Parameter_2 , bytes Parameter_3 , uint256 Parameter_4 ) public pure returns ( bool ) { return Identifier_0 . MemberAccess_0 ( index , Identifier_1 , Identifier_2 , total ) ; }

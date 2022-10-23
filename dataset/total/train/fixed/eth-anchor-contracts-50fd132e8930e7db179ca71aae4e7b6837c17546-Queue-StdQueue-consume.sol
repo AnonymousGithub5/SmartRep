@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 ) internal returns ( bytes memory ) { require ( ! Identifier_0 ( Identifier_1 ) , stringLiteral_0 ) ; bytes memory data = Identifier_2 ( Identifier_3 , 0 ) ; Identifier_4 . MemberAccess_0 += 1 ; Identifier_5 . MemberAccess_1 -= 1 ; return data ; }

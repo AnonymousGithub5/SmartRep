@@ -1,0 +1,1 @@
+require ( Identifier_0 ( Identifier_1 ) , stringLiteral_0 ) ; ( uint112 VariableDeclaration_0 , uint112 VariableDeclaration_1 , uint112 VariableDeclaration_2 ) = Identifier_2 ( Identifier_3 , Identifier_4 , amount , Identifier_5 ) ;

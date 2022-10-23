@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) public returns ( uint Parameter_2 ) { uint256 VariableDeclaration_0 = Identifier_0 ( pool ) ; uint VariableDeclaration_1 = iUTILS ( Identifier_1 ( ) . MemberAccess_0 ( ) ) . MemberAccess_1 ( pool , Identifier_2 ) ;

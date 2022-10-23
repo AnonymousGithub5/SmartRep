@@ -1,0 +1,1 @@
+function approve ( address spender , uint value ) external ModifierInvocation_0 returns ( bool ) { address VariableDeclaration_0 = proxy . MemberAccess_0 ( ) ; state . MemberAccess_1 ( Identifier_0 , spender , value ) ; Identifier_1 ( Identifier_2 , spender , value ) ; return true ; }

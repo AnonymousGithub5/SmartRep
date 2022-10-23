@@ -1,0 +1,1 @@
+Identifier_3 = keccak256 ( abi . encode ( Identifier_4 , data ) ) ; require ( Identifier_5 [ Identifier_6 ] == 0 , stringLiteral_2 ) ; Identifier_7 [ Identifier_8 ] = Identifier_9 ;

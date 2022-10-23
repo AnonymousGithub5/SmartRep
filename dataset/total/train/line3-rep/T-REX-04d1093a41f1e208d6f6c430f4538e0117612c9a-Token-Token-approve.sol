@@ -1,0 +1,1 @@
+function approve ( address _spender , uint256 _amount ) external override virtual returns ( bool ) { Identifier_0 ( msg . sender , _spender , _amount ) ;

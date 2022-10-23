@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bool Parameter_0 , uint256 Parameter_1 ) public view returns ( bool ) { require ( keccak256 ( abi . encodePacked ( msg . sender , Identifier_0 , Identifier_1 ) ) == Identifier_2 [ msg . sender ] ) ; return true ; }

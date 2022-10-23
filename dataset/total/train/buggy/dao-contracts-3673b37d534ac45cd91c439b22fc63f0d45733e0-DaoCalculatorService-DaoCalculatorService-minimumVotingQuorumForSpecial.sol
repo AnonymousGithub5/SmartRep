@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public constant returns ( uint256 Parameter_0 ) { Identifier_0 = getUintConfig ( Identifier_1 ) . mul ( Identifier_2 ( ) . MemberAccess_0 ( ) ) . div ( getUintConfig ( Identifier_3 ) ) ; }

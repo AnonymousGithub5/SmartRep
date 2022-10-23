@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) external ModifierInvocation_0 returns ( uint ) { Identifier_0 ( account , Identifier_1 [ account ] , Identifier_2 . totalSupply ( ) ) ; return Identifier_3 [ account ] . MemberAccess_0 ; }

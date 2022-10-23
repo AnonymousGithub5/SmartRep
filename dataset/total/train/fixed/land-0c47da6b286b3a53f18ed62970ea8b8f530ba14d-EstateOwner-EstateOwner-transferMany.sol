@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 ) external ModifierInvocation_0 { uint VariableDeclaration_0 = tokens . length ; for ( uint i = 0 ; i < length ; i ++ ) { Identifier_0 ( tokens [ i ] , Identifier_1 ) ; } }

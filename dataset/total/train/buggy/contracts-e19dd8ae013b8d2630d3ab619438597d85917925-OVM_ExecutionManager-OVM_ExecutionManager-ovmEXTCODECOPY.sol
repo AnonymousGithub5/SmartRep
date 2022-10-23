@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _contract , uint256 Parameter_0 , uint256 Parameter_1 ) override public returns ( bytes memory Parameter_2 ) { uint256 VariableDeclaration_0 = Identifier_0 == 1 ? 2 : Identifier_1 ; return Identifier_2 . MemberAccess_0 ( Identifier_3 ( _contract ) , Identifier_4 , Identifier_5 ) ; }

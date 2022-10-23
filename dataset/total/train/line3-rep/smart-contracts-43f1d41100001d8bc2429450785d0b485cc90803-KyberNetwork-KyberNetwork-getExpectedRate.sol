@@ -1,0 +1,1 @@
+tradeData . MemberAccess_0 = Identifier_8 ( ) ; Identifier_9 ( Identifier_10 , Identifier_11 , Identifier_12 , tradeData , Identifier_13 ) ; Identifier_14 = tradeData . MemberAccess_1 ;

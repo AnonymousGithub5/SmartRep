@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _value , uint256 Parameter_0 , uint8 Parameter_1 ) external ModifierInvocation_0 { if ( Identifier_0 == uint8 ( 0 ) ) Identifier_1 ( _value , Identifier_2 ) ; else if ( Identifier_3 == uint8 ( 1 ) ) Identifier_4 ( _value ) ; else if ( Identifier_5 == uint8 ( 2 ) ) Identifier_6 ( _value ) ; }

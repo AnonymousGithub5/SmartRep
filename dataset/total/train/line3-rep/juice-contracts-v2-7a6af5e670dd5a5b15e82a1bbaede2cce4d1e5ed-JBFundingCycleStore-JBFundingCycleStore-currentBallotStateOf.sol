@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_2 [ Identifier_3 ] ; UserDefinedTypeName_1 memory VariableDeclaration_1 = Identifier_4 ( Identifier_5 ) ; if ( _fundingCycle . MemberAccess_0 == 0 ) return Identifier_6 . MemberAccess_1 ;

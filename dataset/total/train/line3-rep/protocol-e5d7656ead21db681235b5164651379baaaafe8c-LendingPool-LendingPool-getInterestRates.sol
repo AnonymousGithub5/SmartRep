@@ -1,0 +1,1 @@
+) ; uint256 VariableDeclaration_5 = Identifier_13 . MemberAccess_4 ( Identifier_14 , Identifier_15 ) ; uint256 VariableDeclaration_6 = Identifier_16 . MemberAccess_5 ( Identifier_17 , Identifier_18 . MemberAccess_6 ( ) . sub ( state . MemberAccess_7 . MemberAccess_8 ) ) ;

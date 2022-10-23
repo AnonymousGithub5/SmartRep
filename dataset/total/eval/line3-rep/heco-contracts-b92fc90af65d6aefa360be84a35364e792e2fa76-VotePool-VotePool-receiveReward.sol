@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = msg . value . mul ( Identifier_0 ) . div ( Identifier_1 ) ; Identifier_2 += Identifier_3 ; if ( Identifier_4 > 0 ) {

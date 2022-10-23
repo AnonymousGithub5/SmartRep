@@ -1,0 +1,1 @@
++ Identifier_6 [ _proposalId ] . MemberAccess_2 [ 1 ] ; Identifier_7 = Identifier_8 . mul ( 100 ) . div ( Identifier_9 . totalSupply ( ) ) > Identifier_10 ; }

@@ -1,0 +1,1 @@
+constructor ( string memory Parameter_0 , string memory Parameter_1 , UserDefinedTypeName_0 Parameter_2 ) { Identifier_0 = Identifier_1 ; Identifier_2 . MemberAccess_0 ( address ( this ) , Identifier_3 , Identifier_4 ) ; }

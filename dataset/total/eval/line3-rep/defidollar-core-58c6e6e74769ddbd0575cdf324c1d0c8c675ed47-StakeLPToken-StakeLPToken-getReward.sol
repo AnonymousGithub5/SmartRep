@@ -1,0 +1,1 @@
+Identifier_1 [ msg . sender ] = 0 ; Identifier_2 . MemberAccess_0 ( msg . sender , reward ) ; emit Identifier_3 ( msg . sender , reward ) ;

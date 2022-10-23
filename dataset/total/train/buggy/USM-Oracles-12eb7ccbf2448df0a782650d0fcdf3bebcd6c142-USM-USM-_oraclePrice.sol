@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view returns ( uint ) { return Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( ) . MemberAccess_1 ( 10 ** Identifier_2 ( Identifier_3 ) . MemberAccess_2 ( ) ) ; }

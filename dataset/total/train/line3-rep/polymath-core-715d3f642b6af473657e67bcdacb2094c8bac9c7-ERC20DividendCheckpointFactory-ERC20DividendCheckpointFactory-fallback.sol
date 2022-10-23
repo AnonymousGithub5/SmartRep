@@ -1,0 +1,1 @@
+require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; Identifier_1 = stringLiteral_1 ; name = stringLiteral_2 ;

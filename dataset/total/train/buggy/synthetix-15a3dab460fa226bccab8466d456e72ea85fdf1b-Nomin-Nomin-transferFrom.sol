@@ -1,0 +1,1 @@
+function transferFrom ( address from , address to , uint value ) public ModifierInvocation_0 returns ( bool ) { require ( ! Identifier_0 [ to ] ) ; return Identifier_1 ( Identifier_2 , from , to , Identifier_3 ( value ) ) ; }

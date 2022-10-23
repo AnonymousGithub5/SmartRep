@@ -1,0 +1,1 @@
+function transfer ( address to , uint256 value ) public ModifierInvocation_0 ( to ) returns ( bool ) { require ( Identifier_0 [ msg . sender ] < now ) ; require ( value <= Identifier_1 [ msg . sender ] ) ;

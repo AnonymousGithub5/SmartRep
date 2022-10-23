@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 ; for ( uint8 i = 0 ; i < Identifier_4 . length ; i ++ ) { require ( Identifier_5 [ i ] == Identifier_6 [ i ] , stringLiteral_2 ) ;

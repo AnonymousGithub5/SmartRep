@@ -1,0 +1,1 @@
+Identifier_3 . MemberAccess_0 ( ) ; assertEq ( Identifier_4 . MemberAccess_1 ( ) , Identifier_5 ( 1 ether ) + 1 ) ; assertEq ( Identifier_6 . MemberAccess_2 ( ) , NumberLiteral_1 ) ;

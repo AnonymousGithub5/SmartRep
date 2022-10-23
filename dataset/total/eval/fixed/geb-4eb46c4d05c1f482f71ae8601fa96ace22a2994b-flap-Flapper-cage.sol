@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 ModifierInvocation_1 { Identifier_0 = 0 ; Identifier_1 ( ) ; vat . MemberAccess_0 ( address ( this ) , msg . sender , vat . MemberAccess_1 ( address ( this ) ) ) ; }

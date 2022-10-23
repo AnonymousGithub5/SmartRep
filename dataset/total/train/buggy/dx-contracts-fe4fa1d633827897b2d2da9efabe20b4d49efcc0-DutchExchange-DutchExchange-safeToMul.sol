@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint a , uint b ) public constant returns ( bool ) { return b == 0 || a * b / b == a ; }

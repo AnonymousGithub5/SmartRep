@@ -1,0 +1,1 @@
+Identifier_0 . safeTransferFrom ( Identifier_1 , msg . sender , address ( this ) , Identifier_2 ) ; Identifier_3 . safeApprove ( Identifier_4 , Identifier_5 , Identifier_6 ) ; Identifier_7 ( Identifier_8 ) . MemberAccess_0 ( ) ;

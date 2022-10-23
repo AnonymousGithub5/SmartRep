@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bool Parameter_0 , bool Parameter_1 ) public constant returns ( uint Parameter_2 ) { for ( uint i = 0 ; i < Identifier_0 ; i ++ ) if ( pending && ! Identifier_1 [ i ] . MemberAccess_0 || Identifier_2 && Identifier_3 [ i ] . MemberAccess_1 ) Identifier_4 += 1 ; }

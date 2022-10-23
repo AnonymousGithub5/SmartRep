@@ -1,0 +1,1 @@
+uint128 balance = NumberLiteral_0 * pool . MemberAccess_2 ( ) + NumberLiteral_1 ; Identifier_2 ( sender , 0 , balance , 0 , Identifier_3 ( receiver , 1 ) ) ; Identifier_4 ( Identifier_5 ) ;

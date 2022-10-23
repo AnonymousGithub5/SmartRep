@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint64 Parameter_0 , uint256 Parameter_1 , uint256 Parameter_2 ) external ModifierInvocation_0 ( Identifier_5 ) { Identifier_0 . MemberAccess_0 ( Identifier_1 , Identifier_2 , Identifier_3 , Identifier_4 . MemberAccess_1 ( msg . sender ) ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _from , uint256 _amount ) external onlyOwner { _burn ( _from , _amount ) ; }

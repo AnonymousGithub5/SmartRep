@@ -1,0 +1,1 @@
+function initialize ( UserDefinedTypeName_0 Parameter_0 ) override internal { owner = Identifier_0 . MemberAccess_0 ( ) ; Identifier_1 = Identifier_2 ( Identifier_3 . MemberAccess_1 ( stringLiteral_0 ) ) ;

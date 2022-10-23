@@ -1,0 +1,1 @@
+allowed [ _from ] [ msg . sender ] -= _amount ; Identifier_2 [ _to ] += _amount ; Transfer ( _from , _to , _amount ) ;

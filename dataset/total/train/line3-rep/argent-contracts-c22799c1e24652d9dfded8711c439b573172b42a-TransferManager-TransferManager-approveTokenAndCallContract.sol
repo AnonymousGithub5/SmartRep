@@ -1,0 +1,1 @@
+Identifier_0 ( _wallet , _contract ) ; if ( ! Identifier_1 ( _wallet , _contract ) ) { uint256 VariableDeclaration_0 = Identifier_2 . MemberAccess_0 ( _amount , _token ) ;

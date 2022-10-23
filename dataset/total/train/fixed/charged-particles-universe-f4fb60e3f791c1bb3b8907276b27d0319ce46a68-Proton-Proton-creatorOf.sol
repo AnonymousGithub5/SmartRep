@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId ) external view virtual returns ( address ) { return Identifier_0 [ tokenId ] ; }

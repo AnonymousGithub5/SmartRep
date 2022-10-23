@@ -1,0 +1,1 @@
+constructor ( address _token , address Parameter_0 ) public ModifierInvocation_0 ( stringLiteral_0 , stringLiteral_1 , 18 ) { token = _token ;

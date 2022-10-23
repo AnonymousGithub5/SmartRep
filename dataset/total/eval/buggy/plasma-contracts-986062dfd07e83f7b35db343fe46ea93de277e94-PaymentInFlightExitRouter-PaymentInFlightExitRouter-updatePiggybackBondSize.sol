@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint128 Parameter_0 ) public ModifierInvocation_0 { Identifier_0 . MemberAccess_0 ( Identifier_1 ) ; emit Identifier_2 ( Identifier_3 ) ; }

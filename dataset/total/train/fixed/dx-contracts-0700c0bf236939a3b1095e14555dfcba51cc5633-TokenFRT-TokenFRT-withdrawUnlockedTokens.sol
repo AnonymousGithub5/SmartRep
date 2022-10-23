@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { require ( Identifier_0 [ msg . sender ] . MemberAccess_0 < now , stringLiteral_0 ) ; balances [ msg . sender ] = Identifier_1 ( balances [ msg . sender ] , Identifier_2 [ msg . sender ] . MemberAccess_1 ) ; Identifier_3 [ msg . sender ] . MemberAccess_2 = 0 ; }

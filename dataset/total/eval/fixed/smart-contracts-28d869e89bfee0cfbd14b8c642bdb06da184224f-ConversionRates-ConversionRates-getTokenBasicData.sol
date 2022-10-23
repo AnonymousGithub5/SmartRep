@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ERC20 token ) public view returns ( bool , bool ) { return ( Identifier_0 [ token ] . MemberAccess_0 , Identifier_1 [ token ] . MemberAccess_1 ) ; }

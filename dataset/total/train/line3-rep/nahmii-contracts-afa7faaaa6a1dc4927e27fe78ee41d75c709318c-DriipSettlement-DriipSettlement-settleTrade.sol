@@ -1,0 +1,1 @@
+Identifier_0 ( msg . sender , trade ) ; emit Identifier_1 ( msg . sender , trade , Identifier_2 . MemberAccess_0 ( msg . sender ) ) ; }

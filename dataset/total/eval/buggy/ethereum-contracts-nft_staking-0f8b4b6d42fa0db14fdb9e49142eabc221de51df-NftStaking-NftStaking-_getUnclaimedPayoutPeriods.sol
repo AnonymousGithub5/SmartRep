@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) private view returns ( uint ) { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 [ sender ] ; if ( state . MemberAccess_0 == 0 ) { return 0 ; } uint VariableDeclaration_1 = Identifier_1 ( state . MemberAccess_1 ) ; return Identifier_2 ( ) - Identifier_3 ; }

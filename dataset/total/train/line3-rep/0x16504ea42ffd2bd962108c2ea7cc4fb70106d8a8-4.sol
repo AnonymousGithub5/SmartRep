@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = this . balance ; target . call . value ( msg . value ) ( bytes4 ( keccak256 ( stringLiteral_0 ) ) , a ) ; if ( this . balance <= Identifier_0 ) revert ( ) ;

@@ -1,0 +1,1 @@
+constructor ( address _owner , string memory _name , string memory Parameter_0 , address Parameter_1 ) public { Identifier_0 ( Identifier_1 ) ;

@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = Identifier_10 . MemberAccess_9 . MemberAccess_10 ( address ( this ) ) ; Identifier_11 . MemberAccess_11 . MemberAccess_12 ( Identifier_12 . MemberAccess_13 , Identifier_13 ) ; Identifier_14 . MemberAccess_14 . MemberAccess_15 ( Identifier_15 . MemberAccess_16 , Identifier_16 ) ;

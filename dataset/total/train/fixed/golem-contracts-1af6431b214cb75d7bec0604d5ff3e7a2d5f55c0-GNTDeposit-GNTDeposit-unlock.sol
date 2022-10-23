@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { Identifier_0 [ msg . sender ] = block . timestamp + Identifier_1 ; emit Identifier_2 ( msg . sender ) ; }

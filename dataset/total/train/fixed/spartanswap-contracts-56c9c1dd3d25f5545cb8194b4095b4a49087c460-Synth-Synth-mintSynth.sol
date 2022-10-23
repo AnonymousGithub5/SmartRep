@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint amount ) external ModifierInvocation_0 returns ( uint Parameter_1 ) { uint VariableDeclaration_0 = Identifier_0 ( msg . sender ) ; Identifier_1 [ msg . sender ] += amount ; Identifier_2 [ msg . sender ] += Identifier_3 ; _mint ( member , amount ) ; return amount ; }

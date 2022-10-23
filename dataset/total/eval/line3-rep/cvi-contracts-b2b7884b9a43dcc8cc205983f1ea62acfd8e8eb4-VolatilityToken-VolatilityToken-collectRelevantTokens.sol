@@ -1,0 +1,1 @@
+if ( Identifier_0 == Identifier_1 ) { IERC20 ( address ( this ) ) . safeTransferFrom ( msg . sender , address ( this ) , Identifier_2 ) ; } else {

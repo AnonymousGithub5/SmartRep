@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( bool Parameter_0 ) { if ( Identifier_0 [ tx . origin ] + Identifier_1 <= block . number ) { return true ; } }

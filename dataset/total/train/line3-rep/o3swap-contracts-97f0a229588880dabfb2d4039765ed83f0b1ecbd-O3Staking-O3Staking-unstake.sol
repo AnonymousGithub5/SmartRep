@@ -1,0 +1,1 @@
+require ( amount <= Identifier_2 . MemberAccess_0 , stringLiteral_2 ) ; Identifier_3 = amount . sub ( Identifier_4 ) ; Identifier_5 ( ) ;

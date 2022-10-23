@@ -1,0 +1,1 @@
+require ( _token != address ( 0 ) , stringLiteral_1 ) ; require ( data . MemberAccess_0 ( _token ) , stringLiteral_2 ) ; require ( ! data . MemberAccess_1 ( _token ) , stringLiteral_3 ) ;

@@ -1,0 +1,1 @@
+Transfer ( Identifier_6 , msg . sender , amount ) ; Identifier_7 . send ( msg . value ) ; }

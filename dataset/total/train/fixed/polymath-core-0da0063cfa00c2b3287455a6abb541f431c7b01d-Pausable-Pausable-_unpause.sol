@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal ModifierInvocation_0 { Identifier_0 = false ; emit Identifier_1 ( msg . sender ) ; }

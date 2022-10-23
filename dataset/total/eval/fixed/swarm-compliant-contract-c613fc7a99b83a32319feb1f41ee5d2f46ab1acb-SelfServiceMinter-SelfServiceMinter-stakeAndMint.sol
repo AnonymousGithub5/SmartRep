@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) external ModifierInvocation_0 ( Identifier_7 ) returns ( bool ) { uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 . MemberAccess_0 ( Identifier_2 ) ) ; require ( Identifier_3 . MemberAccess_1 ( Identifier_4 , msg . sender , Identifier_5 , Identifier_6 ) , stringLiteral_0 ) ; return true ; }

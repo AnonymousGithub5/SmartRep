@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_2 [ Identifier_3 ] ; require ( Identifier_4 . MemberAccess_2 != address ( 0 ) , stringLiteral_1 ) ; require ( ! Identifier_5 . MemberAccess_3 , stringLiteral_2 ) ;

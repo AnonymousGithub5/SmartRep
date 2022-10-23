@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 ( msg . sender ) ; require ( Identifier_1 >= Identifier_2 , stringLiteral_0 ) ; Identifier_3 [ msg . sender ] = Identifier_4 [ msg . sender ] . add ( Identifier_5 ) ;

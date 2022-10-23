@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) public pure returns ( bool ) { return ( payment . sender . MemberAccess_0 != payment . MemberAccess_1 . MemberAccess_2 ) && ( payment . MemberAccess_3 . MemberAccess_4 . MemberAccess_5 == payment . MemberAccess_6 . MemberAccess_7 . MemberAccess_8 . add ( payment . MemberAccess_9 . MemberAccess_10 ) ) ; }

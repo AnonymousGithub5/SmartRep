@@ -1,0 +1,1 @@
+external { address VariableDeclaration_0 = Identifier_0 [ address ( this ) ] . MemberAccess_0 ( ( Identifier_1 [ address ( this ) ] ) ) ;

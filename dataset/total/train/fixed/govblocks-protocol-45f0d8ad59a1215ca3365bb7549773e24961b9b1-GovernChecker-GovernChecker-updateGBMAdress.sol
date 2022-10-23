@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public { require ( address ( Identifier_0 ) == msg . sender || address ( Identifier_1 ) == address ( 0 ) ) ; Identifier_2 = Identifier_3 ( Identifier_4 ) ; }

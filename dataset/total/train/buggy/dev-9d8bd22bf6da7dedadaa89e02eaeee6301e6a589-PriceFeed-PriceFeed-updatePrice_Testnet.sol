@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external returns ( uint256 ) { price = Identifier_0 ( ) ; emit Identifier_1 ( price ) ; return price ; }

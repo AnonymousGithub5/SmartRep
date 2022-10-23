@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token ) public { require ( Identifier_0 != address ( 0 ) ) ; require ( _token != address ( token ) , stringLiteral_0 ) ; uint256 VariableDeclaration_0 = IERC20 ( _token ) . balanceOf ( address ( this ) ) ; IERC20 ( _token ) . transfer ( Identifier_1 , _amount ) ; }

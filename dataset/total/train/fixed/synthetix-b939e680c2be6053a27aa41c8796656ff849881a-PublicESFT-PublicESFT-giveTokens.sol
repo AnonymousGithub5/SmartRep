@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint amount ) ModifierInvocation_0 public { Identifier_0 . MemberAccess_0 ( account , safeAdd ( amount , Identifier_1 . balanceOf ( account ) ) ) ; totalSupply = safeAdd ( totalSupply , amount ) ; }

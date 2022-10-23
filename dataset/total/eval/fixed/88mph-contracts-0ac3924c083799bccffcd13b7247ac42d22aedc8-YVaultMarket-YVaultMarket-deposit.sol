@@ -1,0 +1,1 @@
+function deposit ( uint256 amount ) external override onlyOwner { require ( amount > 0 , stringLiteral_0 ) ; stablecoin . safeTransferFrom ( msg . sender , address ( this ) , amount ) ; stablecoin . safeApprove ( address ( Identifier_0 ) , amount ) ; Identifier_1 . deposit ( amount ) ; }

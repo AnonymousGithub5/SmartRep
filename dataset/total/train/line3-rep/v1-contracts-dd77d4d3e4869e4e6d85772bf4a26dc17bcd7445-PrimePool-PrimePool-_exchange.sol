@@ -1,0 +1,1 @@
+Identifier_7 ( Identifier_8 ) . withdraw ( IERC20 ( Identifier_9 ) . balanceOf ( address ( this ) ) ) ; ( uint256 VariableDeclaration_2 ) = Identifier_10 ( ) ; uint256 VariableDeclaration_3 = Identifier_11 ( Identifier_12 ) . MemberAccess_3 ( Identifier_13 ) ;

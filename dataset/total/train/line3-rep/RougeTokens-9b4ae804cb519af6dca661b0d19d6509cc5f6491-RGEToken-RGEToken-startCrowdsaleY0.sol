@@ -1,0 +1,1 @@
+balances [ Identifier_4 ] = totalSupply - Identifier_5 - Identifier_6 ; Transfer ( address ( 0 ) , Identifier_7 , balances [ Identifier_8 ] ) ; }

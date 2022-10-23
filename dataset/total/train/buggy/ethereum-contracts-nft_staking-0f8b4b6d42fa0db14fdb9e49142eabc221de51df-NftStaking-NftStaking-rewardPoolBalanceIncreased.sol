@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint128 amount ) external ModifierInvocation_0 { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 ( 0 ) ; Identifier_1 . MemberAccess_0 += amount ; Identifier_2 [ Identifier_3 . length - 1 ] = Identifier_4 ; }

@@ -1,0 +1,1 @@
+assert ( Identifier_3 == 0 ) ; Identifier_4 ( address ( 0 ) ) ; Identifier_5 = Identifier_6 . div ( Identifier_7 ) ;

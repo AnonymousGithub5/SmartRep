@@ -1,0 +1,1 @@
+function mint ( address account , uint amount ) public override ModifierInvocation_0 { _mint ( account , amount ) ;

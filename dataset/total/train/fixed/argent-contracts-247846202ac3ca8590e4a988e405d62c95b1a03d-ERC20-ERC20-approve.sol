@@ -1,0 +1,1 @@
+function approve ( address spender , uint Parameter_0 ) external returns ( bool success ) ;

@@ -1,0 +1,1 @@
+{ uint256 VariableDeclaration_0 = 0 ; if ( Identifier_0 != 0 ) {

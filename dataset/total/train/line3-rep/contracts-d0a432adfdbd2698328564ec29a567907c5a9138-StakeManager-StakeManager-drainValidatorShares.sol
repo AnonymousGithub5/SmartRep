@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_0 [ validatorId ] . MemberAccess_0 ; require ( Identifier_1 != address ( 0x0 ) , stringLiteral_0 ) ; Identifier_2 ( Identifier_3 ) . MemberAccess_1 ( Identifier_4 , Identifier_5 , amount ) ;

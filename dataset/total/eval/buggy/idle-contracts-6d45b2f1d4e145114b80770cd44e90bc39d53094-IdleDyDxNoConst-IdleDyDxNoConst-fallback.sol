@@ -1,0 +1,1 @@
+constructor ( address _token , address Parameter_0 , uint256 Parameter_1 ) public { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; Identifier_1 = NumberLiteral_0 ; Identifier_2 = Identifier_3 ; token = _token ; Identifier_4 = Identifier_5 ; }

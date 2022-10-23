@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external onlyOwner { Identifier_0 = block . number ; emit Identifier_1 ( Identifier_2 ) ; }

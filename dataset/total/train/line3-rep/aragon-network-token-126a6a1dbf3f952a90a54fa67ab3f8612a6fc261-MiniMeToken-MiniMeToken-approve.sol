@@ -1,0 +1,1 @@
+if ( ! Identifier_0 ) throw ; allowed [ msg . sender ] [ _spender ] = _amount ; Identifier_1 ( msg . sender , _spender , _amount ) ;

@@ -1,0 +1,1 @@
+IERC20 ( Identifier_2 ) . safeApprove ( pool , amount ) ; Identifier_3 . MemberAccess_1 ( Identifier_4 . MemberAccess_2 ( ) , amount ) ; IERC20 ( Identifier_5 ) . safeApprove ( pool , 0 ) ;

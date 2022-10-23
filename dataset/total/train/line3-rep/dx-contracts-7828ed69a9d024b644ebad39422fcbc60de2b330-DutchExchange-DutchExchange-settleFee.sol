@@ -1,0 +1,1 @@
+Identifier_22 = amount - fee ; } 

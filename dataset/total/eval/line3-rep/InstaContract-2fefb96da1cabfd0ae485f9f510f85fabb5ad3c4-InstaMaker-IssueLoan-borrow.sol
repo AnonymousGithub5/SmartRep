@@ -1,0 +1,1 @@
+if ( Identifier_0 [ msg . sender ] == Identifier_1 ) { Identifier_2 [ msg . sender ] = Identifier_3 . MemberAccess_0 ( ) ; emit Identifier_4 ( msg . sender , Identifier_5 [ msg . sender ] ) ;

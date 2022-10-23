@@ -1,0 +1,1 @@
+Identifier_11 [ addr ] = 0 ; uint16 VariableDeclaration_3 = Identifier_12 . MemberAccess_1 ( addr ) ; Identifier_13 [ Identifier_14 ] -- ;

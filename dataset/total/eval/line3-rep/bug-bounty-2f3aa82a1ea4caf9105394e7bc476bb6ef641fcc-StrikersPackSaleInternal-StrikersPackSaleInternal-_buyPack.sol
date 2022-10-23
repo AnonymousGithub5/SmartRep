@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 ) internal whenNotPaused { require ( Identifier_0 . MemberAccess_0 . length > 0 , stringLiteral_0 ) ; uint32 VariableDeclaration_0 = Identifier_1 ( Identifier_2 . MemberAccess_1 ) ;

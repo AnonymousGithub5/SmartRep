@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , ElementaryTypeName_0 Parameter_1 , bool Parameter_2 ) external returns ( bool ) ;

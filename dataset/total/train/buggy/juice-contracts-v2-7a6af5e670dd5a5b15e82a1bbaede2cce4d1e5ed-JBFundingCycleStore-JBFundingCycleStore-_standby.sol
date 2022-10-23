@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) private view returns ( uint256 Parameter_1 ) { Identifier_0 = Identifier_1 [ Identifier_2 ] ; if ( Identifier_3 == 0 ) return 0 ; UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_4 ( Identifier_5 ) ; if ( block . timestamp >= _fundingCycle . MemberAccess_0 ) return 0 ; }

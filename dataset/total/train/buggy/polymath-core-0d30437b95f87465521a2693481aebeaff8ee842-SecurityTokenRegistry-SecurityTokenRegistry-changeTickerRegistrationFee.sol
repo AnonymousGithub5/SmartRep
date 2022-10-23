@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external onlyOwner { uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; require ( fee != Identifier_2 ) ; emit Identifier_3 ( fee , Identifier_4 ) ; Identifier_5 ( Identifier_6 , Identifier_7 ) ; }

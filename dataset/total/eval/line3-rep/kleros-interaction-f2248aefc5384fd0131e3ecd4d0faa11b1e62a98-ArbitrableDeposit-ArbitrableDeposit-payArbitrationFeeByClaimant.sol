@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) payable ModifierInvocation_0 { uint VariableDeclaration_0 = arbitrator . MemberAccess_0 ( Identifier_0 ) ;

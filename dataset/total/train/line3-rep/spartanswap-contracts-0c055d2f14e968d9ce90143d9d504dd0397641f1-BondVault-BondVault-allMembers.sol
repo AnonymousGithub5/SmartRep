@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( address memory Parameter_0 ) { return Identifier_0 ;

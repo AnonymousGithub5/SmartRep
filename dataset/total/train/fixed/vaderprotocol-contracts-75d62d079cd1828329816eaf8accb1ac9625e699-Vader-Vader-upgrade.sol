@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint amount ) public { require ( Identifier_0 ( Identifier_1 ) . transferFrom ( msg . sender , Identifier_2 , amount ) ) ; _mint ( msg . sender , amount ) ; }

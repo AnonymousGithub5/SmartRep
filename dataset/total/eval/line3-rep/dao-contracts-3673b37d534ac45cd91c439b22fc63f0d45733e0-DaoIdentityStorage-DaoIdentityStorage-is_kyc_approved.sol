@@ -1,0 +1,1 @@
+public constant returns ( bool Parameter_0 )

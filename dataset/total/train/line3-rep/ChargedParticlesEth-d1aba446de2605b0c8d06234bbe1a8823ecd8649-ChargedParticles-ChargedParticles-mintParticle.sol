@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = _mint ( _to , Identifier_7 , 1 , Identifier_8 , _data ) ; Identifier_9 ( _tokenId , Identifier_10 ) ; emit Identifier_11 ( msg . sender , _to , _tokenId , Identifier_12 ) ;

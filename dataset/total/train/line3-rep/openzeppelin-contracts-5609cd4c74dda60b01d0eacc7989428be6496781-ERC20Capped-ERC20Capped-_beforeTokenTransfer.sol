@@ -1,0 +1,1 @@
+if ( from == address ( 0 ) ) { require ( totalSupply ( ) + amount <= Identifier_0 , stringLiteral_0 ) ; }

@@ -1,0 +1,1 @@
+if ( msg . sender != Identifier_0 ) return ; balances [ receiver ] += amount ; }

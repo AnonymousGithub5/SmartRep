@@ -1,0 +1,1 @@
+function transferFrom ( address , address , uint256 ) public returns ( bool ) { return false ; }

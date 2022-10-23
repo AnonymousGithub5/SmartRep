@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bytes32 Parameter_1 , uint8 Parameter_2 , bytes32 Parameter_3 , bytes32 Parameter_4 ) internal pure returns ( bool ) { return Identifier_0 ( keccak256 ( stringLiteral_0 , hash ) , v , r , s ) == addr ; }

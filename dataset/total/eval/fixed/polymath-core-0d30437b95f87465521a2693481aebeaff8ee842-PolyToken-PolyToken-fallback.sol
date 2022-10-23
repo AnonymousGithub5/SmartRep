@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 ) public { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; balances [ Identifier_1 ] = totalSupply ; emit Transfer ( address ( 0 ) , Identifier_2 , totalSupply ) ; }

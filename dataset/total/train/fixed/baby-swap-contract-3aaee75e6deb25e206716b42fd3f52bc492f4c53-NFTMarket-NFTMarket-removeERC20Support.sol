@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external onlyOwner { Identifier_0 [ Identifier_1 ] = false ; emit Identifier_2 ( Identifier_3 ) ; }

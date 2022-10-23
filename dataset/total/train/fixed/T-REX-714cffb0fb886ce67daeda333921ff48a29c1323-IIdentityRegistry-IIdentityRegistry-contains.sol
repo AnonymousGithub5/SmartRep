@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _wallet ) external view returns ( bool ) ;

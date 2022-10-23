@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes memory Parameter_0 , bytes memory Parameter_1 ) private pure returns ( uint256 Parameter_2 ) { uint256 i = 0 ; while ( Identifier_0 . length > i && Identifier_1 . length > i && Identifier_2 [ i ] == Identifier_3 [ i ] ) { i ++ ; } return i ; }

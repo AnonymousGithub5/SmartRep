@@ -1,0 +1,1 @@
+{ bytes32 VariableDeclaration_0 = keccak256 ( abi . encodePacked ( _contract , _key ) ) ; if ( Identifier_0 [ item ] != Identifier_1 . MemberAccess_0 ) {

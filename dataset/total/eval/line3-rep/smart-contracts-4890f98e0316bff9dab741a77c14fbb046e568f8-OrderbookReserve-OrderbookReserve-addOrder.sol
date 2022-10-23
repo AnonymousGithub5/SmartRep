@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = msg . sender ; require ( Identifier_4 ( Identifier_5 , Identifier_6 , Identifier_7 , Identifier_8 ) ) ; bool VariableDeclaration_1 = false ;

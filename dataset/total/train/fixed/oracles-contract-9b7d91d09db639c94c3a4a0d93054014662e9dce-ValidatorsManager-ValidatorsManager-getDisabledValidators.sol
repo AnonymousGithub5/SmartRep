@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) constant returns ( address value ) { return Identifier_0 ; }

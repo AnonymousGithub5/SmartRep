@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address spender , uint256 Parameter_0 ) public ModifierInvocation_0 ModifierInvocation_1 ( spender ) returns ( bool ) { return super . MemberAccess_0 ( spender , Identifier_0 ) ; }

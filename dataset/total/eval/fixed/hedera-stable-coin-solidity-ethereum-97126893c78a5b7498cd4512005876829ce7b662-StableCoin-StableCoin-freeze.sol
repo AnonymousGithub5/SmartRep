@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) public ModifierInvocation_0 { require ( ! Identifier_0 ( account ) , stringLiteral_0 ) ; require ( account != address ( 0 ) , stringLiteral_1 ) ; Identifier_1 ( Identifier_2 , account ) ; emit Identifier_3 ( account ) ; }

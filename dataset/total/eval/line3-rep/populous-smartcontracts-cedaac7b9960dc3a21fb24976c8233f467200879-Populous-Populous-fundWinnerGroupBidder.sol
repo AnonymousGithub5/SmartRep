@@ -1,0 +1,1 @@
+uint VariableDeclaration_8 = Identifier_19 * Identifier_20 / Identifier_21 ; Identifier_22 ( currency , Identifier_23 , Identifier_24 , Identifier_25 ) ; Identifier_26 . MemberAccess_7 ( Identifier_27 , Identifier_28 ) ;

@@ -1,0 +1,1 @@
+Identifier_22 ( 0 ) . MemberAccess_10 = uint64 ( uint256 ( Identifier_23 ( 1 ) . MemberAccess_11 ) . add ( 1 ) ) ; Identifier_24 ( 0 ) . MemberAccess_12 = uint64 ( Identifier_25 . MemberAccess_13 ( ) ) ; Identifier_26 ( 0 ) . MemberAccess_14 = uint64 ( now ) ;

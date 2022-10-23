@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner ) public view returns ( uint ) { return Identifier_0 [ _owner ] ; }

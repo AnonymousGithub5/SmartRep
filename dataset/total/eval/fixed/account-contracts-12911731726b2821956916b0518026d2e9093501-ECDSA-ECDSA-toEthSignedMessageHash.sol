@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) internal pure returns ( bytes32 ) { return Identifier_0 ( ElementaryTypeName_0 ( stringLiteral_0 ) , bytes ( stringLiteral_1 ) , abi . encodePacked ( hash ) ) ; }

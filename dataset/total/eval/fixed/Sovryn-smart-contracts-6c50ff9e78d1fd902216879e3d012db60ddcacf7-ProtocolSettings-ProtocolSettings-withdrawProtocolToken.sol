@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address receiver , uint256 amount ) external onlyOwner whenNotPaused returns ( address , bool ) { return Identifier_0 ( receiver , amount ) ; }

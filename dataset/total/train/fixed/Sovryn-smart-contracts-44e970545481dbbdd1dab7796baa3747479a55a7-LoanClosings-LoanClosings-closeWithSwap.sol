@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address receiver , uint256 Parameter_1 , bool Parameter_2 , bytes memory ) public nonReentrant returns ( uint256 Parameter_3 , uint256 Parameter_4 , address Parameter_5 ) { return Identifier_0 ( loanId , receiver , Identifier_1 , Identifier_2 , "" ) ; }

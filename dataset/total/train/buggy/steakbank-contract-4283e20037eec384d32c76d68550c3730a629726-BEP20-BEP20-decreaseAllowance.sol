@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address spender , uint256 Parameter_0 ) public returns ( bool ) { Identifier_0 ( _msgSender ( ) , spender , Identifier_1 [ _msgSender ( ) ] [ spender ] . sub ( Identifier_2 , stringLiteral_0 ) ) ; return true ; }

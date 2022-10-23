@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _proposalId , uint256 Parameter_0 , address Parameter_1 , bool Parameter_2 ) public view

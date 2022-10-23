@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _key , address _address ) external onlyOwner { Identifier_0 [ _key ] = _address ; }

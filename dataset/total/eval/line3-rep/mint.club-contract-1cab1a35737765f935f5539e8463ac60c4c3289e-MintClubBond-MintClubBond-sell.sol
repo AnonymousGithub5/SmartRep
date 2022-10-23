@@ -1,0 +1,1 @@
+Identifier_4 ( tokenAddress ) . MemberAccess_0 ( _msgSender ( ) , tokenAmount ) ; require ( Identifier_5 . transfer ( _msgSender ( ) , Identifier_6 ) , stringLiteral_2 ) ; }

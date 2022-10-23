@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _wallet , uint8 Parameter_0 , bytes32 Parameter_1 , bytes32 Parameter_2 ) public override view returns ( UserDefinedTypeName_0 ) { bytes32 VariableDeclaration_0 = Identifier_0 [ _wallet ] ; return Identifier_1 ( Identifier_2 , Identifier_3 , Identifier_4 , Identifier_5 ) ; }

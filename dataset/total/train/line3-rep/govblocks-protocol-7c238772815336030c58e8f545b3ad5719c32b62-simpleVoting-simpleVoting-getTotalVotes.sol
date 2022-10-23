@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal constant returns ( uint Parameter_0 ) {

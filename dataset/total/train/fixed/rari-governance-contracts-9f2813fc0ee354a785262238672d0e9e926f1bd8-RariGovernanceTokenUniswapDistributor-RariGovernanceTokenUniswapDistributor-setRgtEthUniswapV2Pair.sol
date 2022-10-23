@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 Parameter_0 ) external onlyOwner { require ( address ( Identifier_0 ) != address ( 0 ) , stringLiteral_0 ) ; require ( Identifier_1 == 0 , stringLiteral_1 ) ; Identifier_2 = Identifier_3 ; }

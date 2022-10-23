@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) internal pure returns ( bytes32 ) { return Identifier_0 ( Identifier_1 . MemberAccess_0 ( { isSequenced : false , queueIndex : _index , timestamp : 0 , blockNumber : 0 , txData : hexLiteral_0 } ) ) ; }

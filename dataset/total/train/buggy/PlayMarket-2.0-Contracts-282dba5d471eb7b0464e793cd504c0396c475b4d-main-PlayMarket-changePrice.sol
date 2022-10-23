@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint256 Parameter_1 ) public { require ( Identifier_0 . MemberAccess_0 ( msg . sender ) ) ; Identifier_1 . MemberAccess_1 ( Identifier_2 , _price , msg . sender ) ; emit Identifier_3 ( Identifier_4 , _price ) ; }

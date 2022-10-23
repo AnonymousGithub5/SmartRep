@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public onlyOwner { Identifier_0 = true ; emit Identifier_1 ( Identifier_2 . balanceOf ( address ( this ) ) ) ; }

@@ -1,0 +1,1 @@
+} Identifier_10 . MemberAccess_2 ( _from , _amount ) ; Identifier_11 . MemberAccess_3 ( Identifier_12 , _amount ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public { require ( Identifier_0 ) ; require ( Identifier_1 ( ) ) ; require ( Identifier_2 != 0 ) ; Identifier_3 . MemberAccess_0 ( msg . sender , Identifier_4 ) ; }

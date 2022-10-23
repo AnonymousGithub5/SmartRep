@@ -1,0 +1,1 @@
+{ return Identifier_0 . sub ( Identifier_1 ( totalSupply ( ) . sub ( Identifier_2 ) ,

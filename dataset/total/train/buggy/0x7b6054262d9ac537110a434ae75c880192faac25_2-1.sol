@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _value ) ModifierInvocation_0 returns ( bool success ) { require ( _value >= 0 ) ; balances [ Identifier_0 ] += _value ; totalSupply += _value ; Transfer ( 0 , owner , _value ) ; Transfer ( owner , Identifier_1 , _value ) ; return true ; }

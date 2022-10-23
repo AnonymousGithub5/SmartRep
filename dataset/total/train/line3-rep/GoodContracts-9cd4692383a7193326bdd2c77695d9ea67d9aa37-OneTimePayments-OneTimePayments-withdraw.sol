@@ -1,0 +1,1 @@
+function withdraw ( string memory Parameter_0 ) public ModifierInvocation_0 { bytes32 VariableDeclaration_0 = keccak256 ( abi . encodePacked ( Identifier_0 ) ) ;

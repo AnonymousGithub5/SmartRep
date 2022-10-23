@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 , address Parameter_1 , address Parameter_2 ) public { Identifier_0 = msg . sender ; Identifier_1 = msg . sender ; controller = Identifier_2 ; reward = Identifier_3 ; Identifier_4 = Identifier_5 ; Identifier_6 = true ; Identifier_7 = block . timestamp + NumberLiteral_0 days ; }

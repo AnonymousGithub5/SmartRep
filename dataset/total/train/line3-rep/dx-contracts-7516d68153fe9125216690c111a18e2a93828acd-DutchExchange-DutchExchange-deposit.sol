@@ -1,0 +1,1 @@
+{ require ( Identifier_0 ( tokenAddress ) . transferFrom ( msg . sender , this , amount ) , stringLiteral_0 ) ; uint VariableDeclaration_0 = Identifier_1 ( balances [ tokenAddress ] [ msg . sender ] , amount ) ;

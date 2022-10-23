@@ -1,0 +1,1 @@
+require ( Identifier_2 [ Identifier_3 ] == 0 , stringLiteral_1 ) ; require ( registry . MemberAccess_0 ( Identifier_4 ) == address ( this ) , stringLiteral_2 ) ; Identifier_5 [ Identifier_6 ] . push ( Identifier_7 ) ;

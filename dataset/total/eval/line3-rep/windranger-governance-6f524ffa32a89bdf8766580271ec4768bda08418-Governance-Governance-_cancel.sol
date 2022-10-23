@@ -1,0 +1,1 @@
+status != ProposalState . MemberAccess_2 , stringLiteral_0 ) ;

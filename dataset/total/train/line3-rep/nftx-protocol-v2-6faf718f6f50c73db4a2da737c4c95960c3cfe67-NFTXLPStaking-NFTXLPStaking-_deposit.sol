@@ -1,0 +1,1 @@
+Identifier_0 ( pool . MemberAccess_1 ) . safeTransferFrom ( msg . sender , address ( this ) , amount ) ; Identifier_1 ( pool ) . mint ( msg . sender , msg . sender , amount ) ; }

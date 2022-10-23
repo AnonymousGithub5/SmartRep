@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes calldata Parameter_0 ) external view returns ( UserDefinedTypeName_0 Parameter_1 , address memory Parameter_2 , uint memory Parameter_3 , uint Parameter_4 ) ; 

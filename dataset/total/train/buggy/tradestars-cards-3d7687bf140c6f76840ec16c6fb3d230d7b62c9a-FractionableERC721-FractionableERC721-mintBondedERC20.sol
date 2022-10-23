@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _tokenId , address Parameter_0 , uint256 _amount , uint256 _value ) public override ModifierInvocation_0 { Identifier_0 . mint ( Identifier_1 [ _tokenId ] , _beneficiary , _amount , _value ) ; emit Identifier_2 ( _tokenId , address ( 0 ) , _beneficiary , _amount , _value ) ; }

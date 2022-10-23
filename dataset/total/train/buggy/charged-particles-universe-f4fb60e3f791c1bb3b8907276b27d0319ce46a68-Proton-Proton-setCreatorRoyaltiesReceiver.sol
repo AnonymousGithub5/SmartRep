@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId , address receiver ) external whenNotPaused ModifierInvocation_0 ( tokenId ) { Identifier_0 [ tokenId ] = receiver ; }

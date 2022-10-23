@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) payable external ModifierInvocation_0 ( ) ModifierInvocation_1 ( _dev ) { assert ( Identifier_0 [ _dev ] . state ) ; assert ( msg . value > 0 ) ; Identifier_1 [ _dev ] = safeAdd ( Identifier_2 [ _dev ] , msg . value ) ; }

@@ -1,0 +1,1 @@
+require ( amount > 0 , stringLiteral_0 ) ; require ( Identifier_0 [ token ] . MemberAccess_0 != address ( 0 ) , stringLiteral_1 ) ; IERC20 ( token ) . safeTransferFrom ( msg . sender , address ( this ) , amount ) ;

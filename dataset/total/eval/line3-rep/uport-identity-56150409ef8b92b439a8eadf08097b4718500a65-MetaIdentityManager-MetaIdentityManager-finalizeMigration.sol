@@ -1,0 +1,1 @@
+delete Identifier_5 [ identity ] ; identity . transfer ( Identifier_6 ) ; delete Identifier_7 [ identity ] ;

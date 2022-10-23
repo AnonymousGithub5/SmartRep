@@ -1,0 +1,1 @@
+super . transferFrom ( from , to , amount ) ; emit Identifier_0 ( from , to , Identifier_1 [ sender ] [ _msgSender ( ) ] . sub ( amount ) ) ; }

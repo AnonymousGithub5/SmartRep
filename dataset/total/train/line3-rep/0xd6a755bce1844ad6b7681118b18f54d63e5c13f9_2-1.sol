@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _from ) payable { balanceOf [ _from ] += msg . value ; }

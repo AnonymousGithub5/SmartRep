@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint16 ) { return Identifier_0 ;

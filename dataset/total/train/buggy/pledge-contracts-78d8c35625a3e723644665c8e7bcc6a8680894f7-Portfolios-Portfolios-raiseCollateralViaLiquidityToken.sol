@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint16 Parameter_0 , uint128 amount ) public override returns ( uint128 ) { return Identifier_0 ( account , currency , amount , Identifier_1 . MemberAccess_0 ( ) ) ; }

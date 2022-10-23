@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 storage Parameter_0 , uint Parameter_1 ) internal { require ( index < Identifier_0 . length , stringLiteral_0 ) ; while ( index < Identifier_1 . length - 1 ) { Identifier_2 [ index ] = Identifier_3 [ index + 1 ] ; index ++ ; } Identifier_4 . MemberAccess_0 ( ) ; }

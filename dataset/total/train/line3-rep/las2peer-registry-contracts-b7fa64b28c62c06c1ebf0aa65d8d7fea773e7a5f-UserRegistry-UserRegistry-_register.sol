@@ -1,0 +1,1 @@
+Identifier_1 [ user . MemberAccess_2 ] = user ; emit Identifier_2 ( name ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public internal returns ( bytes Parameter_1 ) { assembly {

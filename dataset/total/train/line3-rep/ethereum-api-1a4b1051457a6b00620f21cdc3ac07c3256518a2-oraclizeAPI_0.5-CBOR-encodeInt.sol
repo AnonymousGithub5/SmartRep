@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 , int value ) internal pure { if ( value >= 0 ) { Identifier_0 ( buf , Identifier_1 , uint ( value ) ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public onlyAdmin ModifierInvocation_0 { require ( Identifier_0 ( ) == 0 , stringLiteral_0 ) ; if ( Identifier_1 ( ) != 0 ) { Identifier_2 ( ) ; } Identifier_3 ( Identifier_4 ) ; }

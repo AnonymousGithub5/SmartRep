@@ -1,0 +1,1 @@
+Identifier_0 = Identifier_1 ; UserDefinedTypeName_0 VariableDeclaration_0 = new UserDefinedTypeName_1 ( Identifier_2 ) ; Identifier_3 = Identifier_4 ( Identifier_5 . MemberAccess_0 ( ) ) ;

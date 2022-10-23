@@ -1,0 +1,1 @@
+require ( item . disputed , stringLiteral_0 ) ; emit Identifier_1 ( arbitrator , item . disputeID , msg . sender , Identifier_2 ) ; }

@@ -1,0 +1,1 @@
+require ( msg . sender == Identifier_0 , stringLiteral_0 ) ; for ( uint i = 0 ; i < Identifier_1 . length ; i ++ ) { address token = Identifier_2 [ i ] . token ;

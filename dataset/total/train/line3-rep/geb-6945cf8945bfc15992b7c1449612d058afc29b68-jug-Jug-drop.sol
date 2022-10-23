@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) internal view returns ( uint , int ) { ( , uint prev ) = vat . MemberAccess_0 ( Identifier_0 ) ;

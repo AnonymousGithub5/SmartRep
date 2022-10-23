@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address receiver , uint256 amount ) external returns ( address , bool ) ;

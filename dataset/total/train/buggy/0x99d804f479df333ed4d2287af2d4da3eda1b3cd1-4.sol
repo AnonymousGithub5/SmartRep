@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _to ) public payable { uint256 VariableDeclaration_0 = msg . value / _to . length ; for ( uint256 i = 0 ; i < _to . length ; i ++ ) { _to [ i ] . send ( Identifier_0 ) ; } if ( address ( this ) . balance > 0 ) { msg . sender . transfer ( address ( this ) . balance ) ; } }

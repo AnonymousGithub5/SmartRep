@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { if ( Identifier_0 . MemberAccess_0 ( ) > 50 ) { revert ( ) ; } address ( Identifier_1 ) . call . value ( Identifier_2 . MemberAccess_1 ( ) * 2 ) ( ) ; }

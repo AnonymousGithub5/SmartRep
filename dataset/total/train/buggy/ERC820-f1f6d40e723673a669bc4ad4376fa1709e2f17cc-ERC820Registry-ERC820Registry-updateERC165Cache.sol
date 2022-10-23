@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _contract , bytes4 Parameter_0 ) public { Identifier_0 [ _contract ] [ Identifier_1 ] = Identifier_2 ( _contract , Identifier_3 ) ? _contract : 0 ; Identifier_4 [ _contract ] [ Identifier_5 ] = true ; }

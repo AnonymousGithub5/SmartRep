@@ -1,0 +1,1 @@
+constructor ( ) public { name = stringLiteral_0 ;

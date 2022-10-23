@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable _wallet ) internal { Identifier_0 [ Identifier_1 ] [ _wallet ] += 1 ; uint256 VariableDeclaration_0 = Identifier_2 . sub ( address ( _wallet ) . balance ) ; _wallet . transfer ( Identifier_3 ) ; emit Identifier_4 ( _wallet , Identifier_5 ) ; }

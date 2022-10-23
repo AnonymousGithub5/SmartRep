@@ -1,0 +1,1 @@
+Identifier_2 . burn ( msg . sender , amount ) ; Identifier_3 ( msg . sender , Identifier_4 ) ; }

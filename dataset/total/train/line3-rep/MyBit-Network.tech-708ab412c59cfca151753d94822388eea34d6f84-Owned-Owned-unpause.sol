@@ -1,0 +1,1 @@
+database . MemberAccess_0 ( keccak256 ( abi . encodePacked ( stringLiteral_0 , _contract ) ) , false ) ; emit Identifier_0 ( _contract , block . timestamp ) ; }

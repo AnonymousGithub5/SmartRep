@@ -1,0 +1,1 @@
+require ( msg . sender == address ( Identifier_0 ) , stringLiteral_0 ) ; Identifier_1 = Identifier_2 ( from , to , Identifier_3 , 0 ) ; }

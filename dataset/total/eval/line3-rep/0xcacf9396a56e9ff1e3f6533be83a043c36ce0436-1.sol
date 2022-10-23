@@ -1,0 +1,1 @@
+if ( msg . value >= 100 finney ) { Identifier_0 [ msg . sender ] += msg . value ; } else throw ;

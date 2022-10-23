@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 user ) external returns ( uint256 amount ) ;

@@ -1,0 +1,1 @@
+constructor ( ) ModifierInvocation_0 ( stringLiteral_0 , stringLiteral_1 , 18 ) public { owner = msg . sender ;

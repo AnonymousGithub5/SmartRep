@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint amount ) external override virtual onlyOwner { require ( totalSupply ( ) > 0 , stringLiteral_0 ) ;

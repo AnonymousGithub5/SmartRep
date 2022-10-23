@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external onlyOwner nonReentrant ModifierInvocation_0 ( Identifier_4 ) { UserDefinedTypeName_0 storage pool = Identifier_0 [ Identifier_1 ] ; Identifier_2 ( Identifier_3 ) . approve ( pool . MemberAccess_0 , 0 ) ; pool . MemberAccess_1 = false ; }

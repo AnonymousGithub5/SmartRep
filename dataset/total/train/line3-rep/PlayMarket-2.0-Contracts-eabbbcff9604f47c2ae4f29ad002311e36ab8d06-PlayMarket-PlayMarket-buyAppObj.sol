@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_3 . MemberAccess_1 ( Identifier_4 ) ; require ( Identifier_5 . MemberAccess_2 ( _dev ) ) ; Identifier_6 . MemberAccess_3 ( Identifier_7 , msg . sender , Identifier_8 , true , _price ) ;

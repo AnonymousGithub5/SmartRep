@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal virtual returns ( bool Parameter_0 ) ;

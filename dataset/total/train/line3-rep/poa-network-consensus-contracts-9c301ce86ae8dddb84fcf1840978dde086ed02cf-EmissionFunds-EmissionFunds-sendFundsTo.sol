@@ -1,0 +1,1 @@
+bool VariableDeclaration_0 = Identifier_0 . send ( _amount ) ; emit Identifier_1 ( Identifier_2 , msg . sender , _amount , success ) ; return success ;

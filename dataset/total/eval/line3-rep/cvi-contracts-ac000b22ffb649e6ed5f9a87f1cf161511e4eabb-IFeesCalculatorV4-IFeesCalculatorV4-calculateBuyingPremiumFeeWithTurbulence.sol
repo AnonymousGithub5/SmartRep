@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 Parameter_0 , uint8 Parameter_1 , uint256 Parameter_2 , uint16 Parameter_3 ) external view returns ( ElementaryTypeName_1 Parameter_4 , uint16 Parameter_5 ) ; 

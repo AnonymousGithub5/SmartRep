@@ -1,0 +1,1 @@
+function approve ( address _to , uint256 _tokenId ) public { address VariableDeclaration_0 = Identifier_0 ( _tokenId ) ; require ( _to != owner ) ; require ( msg . sender == owner || Identifier_1 ( owner , msg . sender ) ) ; if ( Identifier_2 ( _tokenId ) != address ( 0 ) || _to != address ( 0 ) ) { Identifier_3 [ _tokenId ] = _to ; Identifier_4 ( owner , _to , _tokenId ) ; } }

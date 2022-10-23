@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 VariableDeclaration_1 = Identifier_10 ( Identifier_11 , Identifier_12 ) ; require ( address ( controller ) . MemberAccess_4 ( controller . MemberAccess_5 ( ) , this , msg . sender , uint256 ( amount ) , Identifier_13 , Identifier_14 ) ) ; }

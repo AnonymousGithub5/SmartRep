@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) { require ( block . number > Identifier_0 ) ; require ( Identifier_1 [ msg . sender ] > 0 ) ; Identifier_2 ( ) ; Identifier_3 += 1 ; Identifier_4 = block . number ; Identifier_5 = Identifier_6 + Identifier_7 ; if ( Identifier_8 % Identifier_9 == 0 ) { Identifier_10 = Identifier_11 / 2 ; } }

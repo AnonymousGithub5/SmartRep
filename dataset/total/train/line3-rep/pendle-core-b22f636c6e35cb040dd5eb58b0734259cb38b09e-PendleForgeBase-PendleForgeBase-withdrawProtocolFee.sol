@@ -1,0 +1,1 @@
+address VariableDeclaration_2 = data . MemberAccess_0 ( ) ; Identifier_4 ( Identifier_5 , _expiry , Identifier_6 , Identifier_7 ) ; }

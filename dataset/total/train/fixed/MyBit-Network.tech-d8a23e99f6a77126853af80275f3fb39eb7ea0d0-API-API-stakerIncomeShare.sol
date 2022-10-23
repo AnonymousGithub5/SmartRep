@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public view returns ( uint ) { return database . uintStorage ( keccak256 ( abi . encodePacked ( stringLiteral_0 , _assetID ) ) ) ; }

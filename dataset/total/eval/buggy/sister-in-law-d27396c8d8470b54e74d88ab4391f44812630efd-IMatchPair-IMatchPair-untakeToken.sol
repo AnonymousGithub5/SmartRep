@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address _user , uint256 _amount ) external returns ( uint256 Parameter_1 ) ;

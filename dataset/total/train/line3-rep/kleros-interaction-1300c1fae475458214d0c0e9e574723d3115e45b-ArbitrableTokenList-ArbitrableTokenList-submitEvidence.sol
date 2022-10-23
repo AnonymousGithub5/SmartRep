@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage token = tokens [ _tokenID ] ; UserDefinedTypeName_1 storage VariableDeclaration_0 = token . requests [ token . requests . length - 1 ] ; require ( request . disputed , stringLiteral_0 ) ;

@@ -1,0 +1,1 @@
+function transfer ( address to , uint256 value ) external returns ( bool ) { require ( Identifier_0 . MemberAccess_0 ( msg . sender , to ) ) ; if ( Identifier_1 != Identifier_2 ( 0 ) ) {

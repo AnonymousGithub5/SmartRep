@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) private view returns ( bool Parameter_1 , string Parameter_2 ) { if ( ! Identifier_0 ( Identifier_1 ) ) { Identifier_2 = false ; Identifier_3 = stringLiteral_0 ; } else if ( ! Identifier_4 ( Identifier_5 ) ) { Identifier_6 = false ; Identifier_7 = stringLiteral_1 ; } else { Identifier_8 = true ; } }

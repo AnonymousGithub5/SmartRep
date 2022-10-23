@@ -1,0 +1,1 @@
+_mint ( address ( this ) , 10 ** NumberLiteral_0 ) ; _mint ( msg . sender , 10 ** NumberLiteral_1 ) ; }

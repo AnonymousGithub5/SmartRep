@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable to ) onlyOwner external { to . transfer ( address ( this ) . balance ) ; }

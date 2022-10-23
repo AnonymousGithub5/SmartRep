@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) private constant returns ( bool Parameter_0 ) { Identifier_0 = Identifier_1 ( Identifier_2 ) . MemberAccess_0 ( ) ; }

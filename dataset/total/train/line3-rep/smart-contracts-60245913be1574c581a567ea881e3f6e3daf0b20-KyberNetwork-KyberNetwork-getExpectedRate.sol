@@ -1,0 +1,1 @@
+require ( Identifier_0 != address ( 0 ) ) ; bool VariableDeclaration_0 = true ; if ( Identifier_1 & Identifier_2 > 0 ) {

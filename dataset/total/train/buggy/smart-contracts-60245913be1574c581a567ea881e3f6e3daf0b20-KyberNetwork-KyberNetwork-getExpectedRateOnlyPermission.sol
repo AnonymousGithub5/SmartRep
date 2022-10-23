@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ERC20 Parameter_0 , ERC20 Parameter_1 , uint Parameter_2 ) public view returns ( uint Parameter_3 , uint Parameter_4 ) { require ( Identifier_0 != address ( 0 ) ) ; return Identifier_1 . MemberAccess_0 ( Identifier_2 , Identifier_3 , Identifier_4 , false ) ; }

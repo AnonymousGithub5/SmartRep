@@ -1,0 +1,1 @@
+Identifier_0 = msg . sender ; controller = Identifier_1 ; reward = Identifier_2 ;

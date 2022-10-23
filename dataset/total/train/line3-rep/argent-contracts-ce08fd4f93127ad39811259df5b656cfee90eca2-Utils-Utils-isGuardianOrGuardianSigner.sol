@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address memory Parameter_0 , address Parameter_1 ) internal view returns ( bool , address memory ) { if ( Identifier_0 . length == 0 || Identifier_1 == address ( 0 ) ) {

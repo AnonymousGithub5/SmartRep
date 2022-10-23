@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , uint256 Parameter_0 ) external payable returns ( uint256 memory ) { require ( msg . value >= NumberLiteral_0 ether , stringLiteral_0 ) ; Identifier_0 ( msg . sender , msg . value - NumberLiteral_1 ether ) ; return Identifier_1 ( token , Identifier_2 ) ; }

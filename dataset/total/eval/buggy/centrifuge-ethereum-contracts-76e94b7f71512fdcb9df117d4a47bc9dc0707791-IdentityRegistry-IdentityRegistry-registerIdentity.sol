@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address Parameter_1 ) public { require ( Identifier_0 != 0x0 ) ; require ( Identifier_1 != 0x0 ) ; require ( Identifier_2 [ Identifier_3 ] . owner == 0x0 ) ; Identifier_4 [ Identifier_5 ] = Identifier_6 ( msg . sender , Identifier_7 ) ; emit Identifier_8 ( Identifier_9 , Identifier_10 ) ; }

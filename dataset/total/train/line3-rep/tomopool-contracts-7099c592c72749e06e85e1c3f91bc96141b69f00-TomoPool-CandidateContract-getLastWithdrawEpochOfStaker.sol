@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = Identifier_2 [ Identifier_3 ] [ 0 ] ; Identifier_4 = Identifier_5 > Identifier_6 ? Identifier_7 : Identifier_8 ; return Identifier_9 ;

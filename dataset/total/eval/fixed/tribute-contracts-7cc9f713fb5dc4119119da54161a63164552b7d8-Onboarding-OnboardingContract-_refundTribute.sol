@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address payable Parameter_1 , uint256 amount ) internal { if ( Identifier_0 == Identifier_1 ) { Identifier_2 . transfer ( amount ) ; } else { IERC20 token = IERC20 ( Identifier_3 ) ; token . safeTransfer ( Identifier_4 , amount ) ; } }

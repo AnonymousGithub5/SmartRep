@@ -1,0 +1,1 @@
+balanceOf [ _from ] -= _value ; balanceOf [ _to ] += _value ; emit Transfer ( _from , _to , _value ) ;

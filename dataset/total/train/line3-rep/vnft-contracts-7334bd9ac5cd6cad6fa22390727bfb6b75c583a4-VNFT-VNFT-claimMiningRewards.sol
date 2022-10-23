@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = this . MemberAccess_0 ( Identifier_12 ) ; token . mint ( msg . sender , Identifier_13 ) ; emit Identifier_14 ( Identifier_15 , Identifier_16 ) ;

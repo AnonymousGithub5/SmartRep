@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view returns ( uint64 Parameter_1 ) { uint64 VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] . MemberAccess_0 ; if ( Identifier_2 == 0 ) return 0 ; uint64 VariableDeclaration_1 = Identifier_3 ( ) / Identifier_4 ; return Identifier_5 + 1 - Identifier_6 ; }

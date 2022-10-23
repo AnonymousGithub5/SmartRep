@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) external view returns ( UserDefinedTypeName_0 memory Parameter_1 ) { return Identifier_0 ( loanId , 0 , false ) ; }

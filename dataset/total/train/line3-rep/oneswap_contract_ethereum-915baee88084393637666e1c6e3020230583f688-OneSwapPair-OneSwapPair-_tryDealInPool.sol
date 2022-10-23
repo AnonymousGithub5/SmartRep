@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = Identifier_12 - Identifier_13 . MemberAccess_5 ; bool VariableDeclaration_2 = Identifier_14 > Identifier_15 . MemberAccess_6 ; if ( Identifier_16 ) {

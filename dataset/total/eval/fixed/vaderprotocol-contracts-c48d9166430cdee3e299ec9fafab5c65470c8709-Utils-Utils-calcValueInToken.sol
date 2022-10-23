@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , uint amount ) public view returns ( uint ) { ( uint VariableDeclaration_0 , uint VariableDeclaration_1 ) = iPOOLS ( POOLS ) . MemberAccess_0 ( token ) ; return ( amount * Identifier_0 ) / Identifier_1 ; }

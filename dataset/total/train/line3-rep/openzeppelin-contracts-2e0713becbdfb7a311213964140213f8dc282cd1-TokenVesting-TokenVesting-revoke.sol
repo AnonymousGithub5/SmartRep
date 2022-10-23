@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ERC20 _token ) public onlyOwner { require ( Identifier_0 ) ;

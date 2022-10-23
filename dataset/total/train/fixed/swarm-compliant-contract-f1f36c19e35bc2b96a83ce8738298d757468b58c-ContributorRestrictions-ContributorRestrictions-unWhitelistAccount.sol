@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) external ModifierInvocation_0 { delete Identifier_0 [ account ] ; require ( Identifier_1 ( Identifier_2 ) . MemberAccess_0 ( account ) ) ; emit Identifier_3 ( account , msg . sender ) ; }

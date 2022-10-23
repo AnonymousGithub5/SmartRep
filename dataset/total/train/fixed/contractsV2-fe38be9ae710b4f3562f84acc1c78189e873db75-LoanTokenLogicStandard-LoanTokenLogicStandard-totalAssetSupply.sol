@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { uint256 VariableDeclaration_0 ; if ( Identifier_0 != ElementaryTypeName_0 ( block . timestamp ) ) { ( , Identifier_1 ) = Identifier_2 ( ) ; } return Identifier_3 ( Identifier_4 ) ; }

@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = Identifier_3 [ arbitrator ] ; require ( Identifier_4 >= Identifier_5 , stringLiteral_3 ) ; Identifier_6 = Identifier_7 . sub ( Identifier_8 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string calldata id ) external ModifierInvocation_0 returns ( uint256 ) { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 [ id ] ;

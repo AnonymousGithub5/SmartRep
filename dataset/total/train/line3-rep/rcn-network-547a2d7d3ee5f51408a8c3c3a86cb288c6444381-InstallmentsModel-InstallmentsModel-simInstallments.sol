@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes memory _data ) public view returns ( uint256 Parameter_0 ) { ( , , Identifier_0 , , ) = Identifier_1 ( _data ) ;

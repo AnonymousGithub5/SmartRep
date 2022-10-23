@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_2 [ Identifier_3 ] ; require ( msg . sender == Identifier_4 . MemberAccess_0 , stringLiteral_1 ) ; uint256 VariableDeclaration_1 = now . sub ( Identifier_5 . MemberAccess_1 ) < Identifier_6

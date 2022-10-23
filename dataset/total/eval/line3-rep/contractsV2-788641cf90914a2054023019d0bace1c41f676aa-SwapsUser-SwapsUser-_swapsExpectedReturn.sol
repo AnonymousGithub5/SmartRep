@@ -1,0 +1,1 @@
+} uint256 VariableDeclaration_1 = Identifier_6 ( Identifier_7 ) . MemberAccess_0 ( Identifier_8 ,

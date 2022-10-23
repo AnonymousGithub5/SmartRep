@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) public view returns ( uint256 ) { require ( Identifier_0 >= 2 && Identifier_1 <= 4 , stringLiteral_0 ) ; return Identifier_2 [ Identifier_3 ] [ 5 - Identifier_4 ] ; }

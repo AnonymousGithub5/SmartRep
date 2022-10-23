@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external returns ( uint ) { require ( Identifier_0 [ Identifier_1 ] > 1 , stringLiteral_0 ) ;

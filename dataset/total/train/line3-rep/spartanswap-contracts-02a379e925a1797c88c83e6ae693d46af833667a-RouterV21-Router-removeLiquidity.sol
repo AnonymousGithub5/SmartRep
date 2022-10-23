@@ -1,0 +1,1 @@
+require ( ( Identifier_0 > 0 && Identifier_1 <= NumberLiteral_0 ) , stringLiteral_0 ) ; uint VariableDeclaration_0 = Identifier_2 ( ) . MemberAccess_0 ( ) . MemberAccess_1 ( Identifier_3 , Identifier_4 ( Identifier_5 ( token ) ) . balanceOf ( msg . sender ) ) ; return Identifier_6 ( Identifier_7 , token ) ;

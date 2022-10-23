@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner , address Parameter_0 ) ModifierInvocation_0 ( _owner ) ModifierInvocation_1 ( Identifier_2 ) { owner = _owner ; Identifier_0 = Identifier_1 ; }

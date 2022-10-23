@@ -1,0 +1,1 @@
+Identifier_0 = new UserDefinedTypeName_0 ( address ( this ) ) ; Identifier_1 = Identifier_2 ; Identifier_3 = IERC20 ( Identifier_4 ) ;

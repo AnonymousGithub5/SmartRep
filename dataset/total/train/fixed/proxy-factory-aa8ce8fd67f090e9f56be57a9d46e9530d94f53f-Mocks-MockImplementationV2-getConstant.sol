@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external pure override returns ( uint256 Parameter_0 ) { return Identifier_0 ; }

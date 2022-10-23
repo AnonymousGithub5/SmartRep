@@ -1,0 +1,1 @@
+require ( recipient != address ( 0 ) , stringLiteral_1 ) ; Identifier_0 ( sender , recipient , amount ) ; balanceOf [ sender ] = balanceOf [ sender ] . sub (

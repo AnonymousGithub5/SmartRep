@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 memory ) { uint32 memory VariableDeclaration_0 = new uint32 ( 3 ) ;

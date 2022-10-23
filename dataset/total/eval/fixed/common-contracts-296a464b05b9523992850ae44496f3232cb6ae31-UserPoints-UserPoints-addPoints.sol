@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user , uint256 Parameter_0 ) public ModifierInvocation_0 { Identifier_0 [ _user ] = Identifier_1 [ _user ] . add ( Identifier_2 ) ; Identifier_3 = Identifier_4 . add ( Identifier_5 ) ; emit Identifier_6 ( _user , Identifier_7 ) ; }

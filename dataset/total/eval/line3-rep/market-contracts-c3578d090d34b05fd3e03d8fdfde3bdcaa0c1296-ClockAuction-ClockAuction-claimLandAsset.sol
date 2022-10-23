@@ -1,0 +1,1 @@
+Identifier_6 . MemberAccess_2 ( _tokenId ) ; } ERC20 token = ERC20 ( Identifier_7 . token ) ;

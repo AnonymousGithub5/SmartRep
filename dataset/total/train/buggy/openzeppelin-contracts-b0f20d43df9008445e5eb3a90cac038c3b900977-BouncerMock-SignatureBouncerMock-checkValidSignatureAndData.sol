@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address , bytes , uint , bytes Parameter_0 ) public view returns ( bool ) { return Identifier_0 ( _address , Identifier_1 ) ; }

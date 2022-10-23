@@ -1,0 +1,1 @@
+address VariableDeclaration_1 = Identifier_5 [ uint16 ( i ) ] ; Identifier_6 [ i ] = uint128 ( Identifier_7 ( base , Identifier_8 , amounts [ i ] ) ) ; }

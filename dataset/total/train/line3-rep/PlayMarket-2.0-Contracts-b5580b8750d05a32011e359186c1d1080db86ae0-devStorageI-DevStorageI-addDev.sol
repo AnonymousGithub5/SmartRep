@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bytes32 _name , bytes32 Parameter_1 , bool Parameter_2 , ElementaryTypeName_0 Parameter_3 ) external ; 

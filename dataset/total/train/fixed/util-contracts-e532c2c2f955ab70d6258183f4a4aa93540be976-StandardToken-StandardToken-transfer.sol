@@ -1,0 +1,1 @@
+function transfer ( address to , uint value ) public returns ( bool ) { if ( ! balances [ msg . sender ] . MemberAccess_0 ( value ) || ! balances [ to ] . MemberAccess_1 ( value ) ) return false ; balances [ msg . sender ] -= value ; balances [ to ] += value ; emit Transfer ( msg . sender , to , value ) ; return true ; }

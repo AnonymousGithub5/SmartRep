@@ -1,0 +1,1 @@
+uint256 Parameter_6 ) public ModifierInvocation_0 { require ( address ( Identifier_0 ) == address ( 0 ) , stringLiteral_0 ) ;

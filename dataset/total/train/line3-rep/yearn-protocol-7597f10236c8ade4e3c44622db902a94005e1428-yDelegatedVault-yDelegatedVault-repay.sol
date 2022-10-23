@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint amount ) public { IERC20 ( reserve ) . approve ( address ( Identifier_0 ( ) ) , 0 ) ;

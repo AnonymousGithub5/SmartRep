@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 ) { Identifier_0 = Identifier_1 ( Identifier_2 ) ; UserDefinedTypeName_0 VariableDeclaration_0 = new UserDefinedTypeName_1 ( stringLiteral_0 , stringLiteral_1 ) ; token = address ( _token ) ; Identifier_3 = Identifier_4 . MemberAccess_0 ( ) ; emit Identifier_5 ( Identifier_6 , Identifier_7 . MemberAccess_1 ( ) ) ; }

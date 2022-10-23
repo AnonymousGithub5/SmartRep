@@ -1,0 +1,1 @@
+{ require ( Identifier_0 ( msg . sender ) ) ; UserDefinedTypeName_0 storage VariableDeclaration_0 = proposalsById [ _proposalId ] ;

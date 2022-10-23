@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 ) public pure returns ( bytes32 ) { bytes32 VariableDeclaration_0 ;

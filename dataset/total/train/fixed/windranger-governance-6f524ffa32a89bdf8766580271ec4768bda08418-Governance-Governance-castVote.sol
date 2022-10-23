@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 proposalId , uint8 Parameter_0 ) external virtual { address VariableDeclaration_0 = _msgSender ( ) ; Identifier_0 ( proposalId , Identifier_1 , Identifier_2 , "" ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , UserDefinedTypeName_1 memory Parameter_1 ) public view returns ( bytes32 ) { bytes32 VariableDeclaration_0 = keccak256 ( abi . encode ( Identifier_0 , Identifier_1 . MemberAccess_0 ) ) ; return Identifier_2 ( dao , block . MemberAccess_1 , address ( this ) , message ) ; }

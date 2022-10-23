@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint a , uint b ) internal pure returns ( uint ) { require ( b <= a ) ; return a - b ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) public view returns ( uint Parameter_1 ) { price = Identifier_0 ( Identifier_1 , Identifier_2 ( ) , Identifier_3 ( ) , totalSupply ( ) , Identifier_4 . totalSupply ( ) ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _key ) public view returns ( bytes32 Parameter_0 , uint256 Parameter_1 , uint256 Parameter_2 ) { return ( _key , Identifier_0 [ _key ] . MemberAccess_0 , Identifier_1 [ _key ] . MemberAccess_1 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view override returns ( uint128 ) { return Identifier_0 ( dai . balanceOf ( address ( this ) ) ) ; }

@@ -1,0 +1,1 @@
+constructor ( ) internal { _owner = msg . sender ;

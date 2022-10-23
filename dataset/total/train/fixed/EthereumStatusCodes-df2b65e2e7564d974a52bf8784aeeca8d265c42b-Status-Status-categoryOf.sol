@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 Parameter_0 ) private pure returns ( ElementaryTypeName_1 Parameter_1 ) { return Identifier_0 >> 4 ; }

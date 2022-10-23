@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] . MemberAccess_0 ; require ( Identifier_2 != address ( 0 ) , Identifier_3 ) ; UserDefinedTypeName_0 VariableDeclaration_1 = Identifier_4 ( Identifier_5 ) ;

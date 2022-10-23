@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ERC20 token , uint Parameter_0 ) public payable returns ( uint ) ;

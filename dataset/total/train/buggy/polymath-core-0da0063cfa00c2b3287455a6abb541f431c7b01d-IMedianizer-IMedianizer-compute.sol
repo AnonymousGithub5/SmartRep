@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) constant external returns ( bytes32 , bool ) ;

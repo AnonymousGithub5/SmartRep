@@ -1,0 +1,1 @@
+Identifier_1 . safeTransferFrom ( address ( msg . sender ) , address ( this ) , _amount ) ; if ( userInfo [ msg . sender ] . amount == 0 ) { Identifier_2 . push ( address ( msg . sender ) ) ;

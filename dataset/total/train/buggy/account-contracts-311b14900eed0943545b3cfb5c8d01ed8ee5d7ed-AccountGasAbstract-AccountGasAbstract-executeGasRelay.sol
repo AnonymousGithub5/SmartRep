@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes calldata Parameter_0 , uint256 Parameter_1 , uint256 Parameter_2 , address Parameter_3 , bytes calldata Parameter_4 ) external ModifierInvocation_0 ( Identifier_2 , Identifier_3 , Identifier_4 , Identifier_5 , msg . sender , Identifier_6 ) { address ( this ) . call . MemberAccess_0 ( Identifier_0 ) ( Identifier_1 ) ; }

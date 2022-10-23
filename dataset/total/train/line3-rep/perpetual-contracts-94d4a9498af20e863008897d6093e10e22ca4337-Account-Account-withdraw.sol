@@ -1,0 +1,1 @@
+function withdraw ( uint256 amount , address Parameter_0 ) external override { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( market ) ; require ( amount > 0 , stringLiteral_0 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view override returns ( uint256 ) { return address ( this ) . balance + Identifier_0 ; }

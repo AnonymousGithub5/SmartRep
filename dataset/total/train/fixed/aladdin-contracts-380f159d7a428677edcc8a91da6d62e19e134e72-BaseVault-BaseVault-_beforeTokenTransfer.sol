@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address to , uint256 amount ) internal virtual override { if ( to != Identifier_0 && from != Identifier_1 ) { Identifier_2 ( from ) ; Identifier_3 ( to ) ; } super . MemberAccess_0 ( from , to , amount ) ; }

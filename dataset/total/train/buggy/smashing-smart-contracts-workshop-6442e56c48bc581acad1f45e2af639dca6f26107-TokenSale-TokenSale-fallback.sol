@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 ) public payable { require ( msg . value == 1 ether ) ; }

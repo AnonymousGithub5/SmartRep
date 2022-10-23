@@ -1,0 +1,1 @@
+bytes calldata data ) external override ModifierInvocation_0 ( Identifier_0 ) { _mint ( account , id , amount , data ) ;

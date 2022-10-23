@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string _name , string Parameter_0 , uint8 Parameter_1 , string Parameter_2 , address Parameter_3 , bool Parameter_4 ) public returns ( address ) ;

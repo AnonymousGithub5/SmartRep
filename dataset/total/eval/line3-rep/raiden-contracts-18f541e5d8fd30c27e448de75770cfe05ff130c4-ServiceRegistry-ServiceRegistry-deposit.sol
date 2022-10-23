@@ -1,0 +1,1 @@
+uint256 amount = Identifier_0 ( ) ; require ( Identifier_1 >= amount ) ; uint256 VariableDeclaration_0 = Identifier_2 [ msg . sender ] ;

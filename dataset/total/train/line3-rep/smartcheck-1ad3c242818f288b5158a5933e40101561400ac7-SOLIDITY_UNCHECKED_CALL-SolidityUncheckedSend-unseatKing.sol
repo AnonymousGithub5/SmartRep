@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address a , uint Parameter_0 ) public { a . call . value ( Identifier_0 ) ; a . send ( Identifier_1 ) ;

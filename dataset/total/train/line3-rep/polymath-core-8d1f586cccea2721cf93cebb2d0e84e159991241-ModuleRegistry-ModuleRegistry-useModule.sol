@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external { if ( Identifier_0 ( Identifier_1 ( stringLiteral_0 ) ) . MemberAccess_0 ( msg . sender ) ) { require ( registry [ Identifier_2 ] != 0 , stringLiteral_1 ) ;

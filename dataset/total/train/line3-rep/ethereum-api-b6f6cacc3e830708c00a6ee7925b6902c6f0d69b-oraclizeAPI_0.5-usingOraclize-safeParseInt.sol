@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 , uint Parameter_1 ) internal pure returns ( uint ) { bytes memory VariableDeclaration_0 = bytes ( Identifier_0 ) ;

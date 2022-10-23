@@ -1,0 +1,1 @@
+Identifier_2 . MemberAccess_2 = 18 ; Identifier_3 . totalSupply = NumberLiteral_0 * 10 ** 18 ; Identifier_4 . balance = msg . sender . balance ;

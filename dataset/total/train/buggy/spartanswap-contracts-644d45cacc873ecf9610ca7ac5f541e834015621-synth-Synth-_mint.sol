@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint256 amount ) internal { totalSupply = totalSupply . add ( amount ) ; Identifier_0 [ account ] = Identifier_1 [ account ] . add ( amount ) ; emit Identifier_2 ( address ( 0 ) , account , amount ) ; }

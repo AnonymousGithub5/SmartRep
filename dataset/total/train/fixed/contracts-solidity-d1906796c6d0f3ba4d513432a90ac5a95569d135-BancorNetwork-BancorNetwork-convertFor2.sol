@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address memory Parameter_0 , uint256 _amount , uint256 Parameter_1 , address payable Parameter_2 , address , uint256 ) public payable ModifierInvocation_0 ( Identifier_3 ) returns ( uint256 ) { return Identifier_0 ( Identifier_1 , _amount , Identifier_2 , _beneficiary ) ; }

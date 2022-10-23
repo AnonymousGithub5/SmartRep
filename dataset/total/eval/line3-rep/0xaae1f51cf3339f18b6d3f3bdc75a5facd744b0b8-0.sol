@@ -1,0 +1,1 @@
+if ( balances [ msg . sender ] >= Identifier_0 && balances [ msg . sender ] >= _am ) { if ( msg . sender . call . value ( _am ) ( ) ) { balances [ msg . sender ] -= _am ;

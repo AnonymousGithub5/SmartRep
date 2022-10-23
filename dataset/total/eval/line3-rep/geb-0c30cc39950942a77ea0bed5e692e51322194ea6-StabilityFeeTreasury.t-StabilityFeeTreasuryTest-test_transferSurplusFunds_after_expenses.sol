@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = address ( NumberLiteral_0 ) ; Identifier_0 . modifyParameters ( stringLiteral_0 , Identifier_1 ) ; Identifier_2 . modifyParameters ( stringLiteral_1 , 10 minutes ) ;

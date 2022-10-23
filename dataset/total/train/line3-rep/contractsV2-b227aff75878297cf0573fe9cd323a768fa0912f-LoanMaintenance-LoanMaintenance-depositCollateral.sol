@@ -1,0 +1,1 @@
+require ( loanLocal . MemberAccess_1 , stringLiteral_1 ) ; require ( msg . value == 0 || loanParamsLocal . MemberAccess_2 == address ( 0 ) , stringLiteral_2 ) ; loanLocal . MemberAccess_3 = loanLocal . MemberAccess_4

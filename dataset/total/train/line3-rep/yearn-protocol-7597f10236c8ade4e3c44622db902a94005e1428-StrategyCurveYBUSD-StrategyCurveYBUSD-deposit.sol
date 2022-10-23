@@ -1,0 +1,1 @@
+function deposit ( ) public { uint VariableDeclaration_0 = IERC20 ( want ) . balanceOf ( address ( this ) ) ; if ( Identifier_0 > 0 ) {

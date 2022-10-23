@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId ) external view returns ( string Parameter_0 , uint32 Parameter_1 , uint32 Parameter_2 ) { require ( Identifier_0 ( tokenId ) , stringLiteral_0 ) ; return ( Identifier_1 [ tokenId ] . MemberAccess_0 , Identifier_2 [ tokenId ] . MemberAccess_1 , Identifier_3 [ tokenId ] . MemberAccess_2 ) ; }

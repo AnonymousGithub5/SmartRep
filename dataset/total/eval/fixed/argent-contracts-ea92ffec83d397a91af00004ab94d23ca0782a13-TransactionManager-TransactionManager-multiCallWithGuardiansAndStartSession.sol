@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _wallet , UserDefinedTypeName_0 calldata Parameter_0 , address Parameter_1 , uint64 Parameter_2 ) external ModifierInvocation_0 ( ) ModifierInvocation_1 ( _wallet ) returns ( bytes memory ) { Identifier_0 ( _wallet , Identifier_1 , Identifier_2 ) ; return Identifier_3 ( _wallet , Identifier_4 ) ; }

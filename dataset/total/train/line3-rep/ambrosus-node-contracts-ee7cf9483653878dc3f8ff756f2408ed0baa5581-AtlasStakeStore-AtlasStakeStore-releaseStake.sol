@@ -1,0 +1,1 @@
+require ( Identifier_0 ( Identifier_1 ) ) ; require ( ! Identifier_2 ( Identifier_3 ) ) ; uint amount = Identifier_4 [ Identifier_5 ] . amount ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _contract , bytes32 _key ) external returns ( bytes32 _value ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , UserDefinedTypeName_0 memory Parameter_1 ) internal view returns ( bool ) { if ( Identifier_0 . MemberAccess_0 == type ( uint256 ) . max ) { return block . number - Identifier_1 . MemberAccess_1 >= Identifier_2 ;

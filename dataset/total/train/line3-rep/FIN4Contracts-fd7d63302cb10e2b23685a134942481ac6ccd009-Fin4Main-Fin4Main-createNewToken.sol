@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 VariableDeclaration_0 = new UserDefinedTypeName_1 ( name , symbol , Identifier_0 , address ( this ) , msg . sender ) ; for ( uint i = 0 ; i < 3 ; i ++ ) { Identifier_1 . MemberAccess_0 ( Identifier_2 [ i ] ) ;

@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = GD . MemberAccess_0 ( _proposalId ) ; GD . MemberAccess_1 ( _proposalId , msg . sender , Identifier_7 , Identifier_8 , Identifier_9 , Identifier_10 ) ; }

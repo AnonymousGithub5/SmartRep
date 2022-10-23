@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external returns ( bool ) { uint VariableDeclaration_0 = balanceOf ( address ( this ) ) ;

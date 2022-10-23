@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = Identifier_3 . add ( Identifier_4 . mul ( 1e18 ) . mul ( NumberLiteral_0 ) . div ( Identifier_5 ) . div ( 100 ) ) ;

@@ -1,0 +1,1 @@
+val = bytes32 ( Identifier_0 ) ; } 

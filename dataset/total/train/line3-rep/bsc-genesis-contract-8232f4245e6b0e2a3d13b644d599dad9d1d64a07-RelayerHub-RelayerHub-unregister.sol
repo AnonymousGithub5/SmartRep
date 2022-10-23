@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 [ msg . sender ] ; msg . sender . transfer ( r . deposit - r . MemberAccess_0 ) ; address payable VariableDeclaration_1 = address ( ElementaryTypeName_0 ( Identifier_1 ) ) ;

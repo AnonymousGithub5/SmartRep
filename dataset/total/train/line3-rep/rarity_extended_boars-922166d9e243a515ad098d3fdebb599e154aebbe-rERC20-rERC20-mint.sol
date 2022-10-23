@@ -1,0 +1,1 @@
+function mint ( uint Parameter_0 , uint amount ) external { require ( msg . sender == Identifier_0 ) ; totalSupply += amount ;

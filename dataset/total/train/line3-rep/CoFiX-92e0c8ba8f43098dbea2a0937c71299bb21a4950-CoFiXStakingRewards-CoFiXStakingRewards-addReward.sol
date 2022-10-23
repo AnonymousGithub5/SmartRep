@@ -1,0 +1,1 @@
+Identifier_0 . safeTransferFrom ( Identifier_1 , msg . sender , address ( this ) , amount ) ; Identifier_2 = Identifier_3 . add ( amount . mul ( 1e18 ) . div ( Identifier_4 ) ) ; emit Identifier_5 ( msg . sender , amount ) ;

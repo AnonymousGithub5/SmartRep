@@ -1,0 +1,1 @@
+_burn ( _from , _amount ) ; Identifier_0 ( address ( 0 ) , Identifier_1 [ _from ] , _amount ) ; }

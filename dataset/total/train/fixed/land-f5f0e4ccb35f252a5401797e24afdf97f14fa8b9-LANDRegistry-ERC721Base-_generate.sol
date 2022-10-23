@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 ) internal { require ( Identifier_0 [ Identifier_1 ] == 0 ) ; Identifier_2 ( Identifier_3 , Identifier_4 ) ; emit Transfer ( 0 , Identifier_5 , Identifier_6 , msg . sender , '' ) ; }

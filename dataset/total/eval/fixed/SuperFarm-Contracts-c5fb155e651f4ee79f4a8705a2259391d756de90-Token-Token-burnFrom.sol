@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint256 amount ) public virtual { require ( amount >= allowance ( account , _msgSender ( ) ) , stringLiteral_0 ) ; uint256 VariableDeclaration_0 = allowance ( account , _msgSender ( ) ) - amount ; Identifier_0 ( account , _msgSender ( ) , Identifier_1 ) ; _burn ( account , amount ) ; }

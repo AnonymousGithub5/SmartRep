@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) view public returns ( uint ) { return block . timestamp . sub ( Identifier_0 ) . div ( Identifier_1 ) ; }

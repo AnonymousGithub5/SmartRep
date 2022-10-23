@@ -1,0 +1,1 @@
+} uint256 VariableDeclaration_2 = Identifier_5 [ Identifier_6 ] ; if ( Identifier_7 > 0 ) {

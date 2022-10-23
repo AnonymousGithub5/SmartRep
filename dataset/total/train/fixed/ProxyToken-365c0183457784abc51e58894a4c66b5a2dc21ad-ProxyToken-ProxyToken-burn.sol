@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 value ) ModifierInvocation_0 ( msg . sender , value ) public { _burn ( msg . sender , value ) ; }

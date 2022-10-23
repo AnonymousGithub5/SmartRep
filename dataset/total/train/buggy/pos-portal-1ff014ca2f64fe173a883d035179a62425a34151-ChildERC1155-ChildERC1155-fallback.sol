@@ -1,0 +1,1 @@
+constructor ( string memory Parameter_0 ) public ModifierInvocation_0 ( Identifier_4 ) { Identifier_0 ( Identifier_1 , _msgSender ( ) ) ; Identifier_2 ( Identifier_3 , _msgSender ( ) ) ; }

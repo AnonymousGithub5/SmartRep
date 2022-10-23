@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) external ModifierInvocation_0 ( ) returns ( bool ) { require ( Identifier_0 == 0 ) ; Identifier_1 = Identifier_2 ( Identifier_3 ) ; return true ; }

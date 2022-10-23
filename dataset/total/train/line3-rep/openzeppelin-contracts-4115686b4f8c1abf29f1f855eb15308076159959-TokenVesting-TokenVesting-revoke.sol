@@ -1,0 +1,1 @@
+token . safeTransfer ( owner ( ) , Identifier_5 ) ; emit Identifier_6 ( ) ; }

@@ -1,0 +1,1 @@
+user . MemberAccess_2 = now ; Identifier_6 [ Identifier_7 ] = msg . sender ; if ( Identifier_8 != address ( 0 ) ) {

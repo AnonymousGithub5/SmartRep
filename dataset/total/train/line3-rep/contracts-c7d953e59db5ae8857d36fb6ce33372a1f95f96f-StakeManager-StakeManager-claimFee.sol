@@ -1,0 +1,1 @@
+Identifier_7 [ msg . sender ] = Identifier_8 ; require ( token . transfer ( msg . sender , Identifier_9 ) ) ; }

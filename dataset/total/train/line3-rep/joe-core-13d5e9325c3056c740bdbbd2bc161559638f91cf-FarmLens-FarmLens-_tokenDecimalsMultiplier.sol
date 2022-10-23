@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = 18 - Identifier_0 ( tokenAddress ) . MemberAccess_0 ( ) ; return uint256 ( 1 * ( 10 ** Identifier_1 ) ) ; }

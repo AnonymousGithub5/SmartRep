@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner , uint256 _tokenId ) internal { Identifier_0 . safeTransferFrom ( _owner , this , _tokenId ) ; }

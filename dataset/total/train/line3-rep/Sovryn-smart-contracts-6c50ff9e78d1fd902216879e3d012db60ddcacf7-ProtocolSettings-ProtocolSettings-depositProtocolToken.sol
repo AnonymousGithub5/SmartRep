@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 amount ) external onlyOwner { Identifier_0 = Identifier_1 . add ( amount ) ;

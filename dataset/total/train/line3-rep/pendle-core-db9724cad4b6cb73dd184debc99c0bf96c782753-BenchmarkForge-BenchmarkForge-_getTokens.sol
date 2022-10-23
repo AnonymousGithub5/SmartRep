@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 data = Identifier_0 . data ( ) ; ( _tokens . MemberAccess_0 , _tokens . MemberAccess_1 ) = data . MemberAccess_2 ( Identifier_1 , _expiry ) ; }

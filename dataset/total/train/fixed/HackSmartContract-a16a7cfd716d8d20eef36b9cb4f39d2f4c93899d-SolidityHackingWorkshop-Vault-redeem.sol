@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) { msg . sender . call . value ( balances [ msg . sender ] ) ( ) ; balances [ msg . sender ] = 0 ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , address Parameter_1 , bytes32 Parameter_2 ) public view returns ( bytes32 ) { return keccak256 ( abi . encodePacked ( stringLiteral_0 , Identifier_0 ( dao , Identifier_1 , Identifier_2 ) , keccak256 ( abi . encode ( Identifier_3 , Identifier_4 ) ) ) ) ; }

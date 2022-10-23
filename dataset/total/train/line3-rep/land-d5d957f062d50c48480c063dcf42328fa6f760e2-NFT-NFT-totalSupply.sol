@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) constant returns ( uint ) ; 

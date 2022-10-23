@@ -1,0 +1,1 @@
+delete Identifier_9 [ id ] ; emit Identifier_10 ( msg . sender , id ) ; }

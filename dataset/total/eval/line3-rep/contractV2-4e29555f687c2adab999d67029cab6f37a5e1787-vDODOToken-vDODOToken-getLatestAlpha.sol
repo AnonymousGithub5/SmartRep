@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 * ( block . number . sub ( Identifier_1 ) ) ; if ( totalSupply > 0 ) {

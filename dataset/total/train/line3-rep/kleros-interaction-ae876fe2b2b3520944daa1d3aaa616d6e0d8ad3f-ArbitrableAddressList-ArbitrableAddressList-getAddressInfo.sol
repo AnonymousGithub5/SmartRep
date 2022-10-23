@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 storage VariableDeclaration_0 = Identifier_0 [ _address ] ; return ( addr . status , addr . MemberAccess_0 ) ; }

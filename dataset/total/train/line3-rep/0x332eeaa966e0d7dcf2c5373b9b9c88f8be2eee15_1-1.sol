@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address target , uint amount ) public onlyOwner { totalSupply += amount ; balanceOf [ target ] += amount ;

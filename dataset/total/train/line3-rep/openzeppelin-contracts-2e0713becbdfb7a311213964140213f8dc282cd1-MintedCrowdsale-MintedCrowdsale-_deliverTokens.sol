@@ -1,0 +1,1 @@
+{ require ( Identifier_0 ( address ( token ) ) . mint ( _beneficiary , Identifier_1 ) ) ; }

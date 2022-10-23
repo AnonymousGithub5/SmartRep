@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 ) internal virtual returns ( bool Parameter_2 ) { Identifier_0 -= Identifier_1 ; return Identifier_2 . transfer ( Identifier_3 , Identifier_4 , Identifier_5 ) && Identifier_6 ( ) ; }

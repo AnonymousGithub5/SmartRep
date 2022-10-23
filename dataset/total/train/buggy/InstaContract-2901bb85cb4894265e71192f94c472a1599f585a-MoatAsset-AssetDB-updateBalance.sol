@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 , bool Parameter_2 , address target ) public ModifierInvocation_0 { if ( Identifier_0 ) { balances [ target ] [ Identifier_1 ] += Identifier_2 ; } else { balances [ target ] [ Identifier_3 ] -= Identifier_4 ; } }

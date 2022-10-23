@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 token ) internal pure returns ( bool ) { return ( address ( token ) == Identifier_0 ) ; }

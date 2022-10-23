@@ -1,0 +1,1 @@
+ERC20 ( registry . MemberAccess_3 ( Identifier_4 ) ) . transferFrom ( msg . sender , Identifier_5 ( registry . MemberAccess_4 ( Identifier_6 ) ) . MemberAccess_5 ( _tokenId ) , Identifier_7 ) ; Identifier_8 [ _tokenId ] = Identifier_9 ( {

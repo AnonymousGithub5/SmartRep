@@ -1,0 +1,1 @@
+returns ( bool ) { require ( msg . sender == Identifier_0 ) ; require ( Identifier_1 [ _from ] >= _amount ) ;

@@ -1,0 +1,1 @@
+bytes32 Parameter_7 ) external override ModifierInvocation_0 ( Identifier_14 ( Identifier_15 ) ) returns ( uint256 ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ;

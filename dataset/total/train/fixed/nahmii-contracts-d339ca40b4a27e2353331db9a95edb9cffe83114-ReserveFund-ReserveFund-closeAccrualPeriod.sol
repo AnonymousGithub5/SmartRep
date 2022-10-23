@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 ( Identifier_6 ) { Identifier_0 . push ( block . number ) ; Identifier_1 = 0 ; for ( uint256 i = 0 ; i < Identifier_2 . length ; i ++ ) { Identifier_3 [ Identifier_4 [ i ] ] = 0 ; } emit Identifier_5 ( ) ; }

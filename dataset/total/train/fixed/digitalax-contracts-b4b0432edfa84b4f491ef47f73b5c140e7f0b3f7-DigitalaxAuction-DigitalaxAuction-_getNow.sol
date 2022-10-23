@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal virtual view returns ( uint256 ) { return block . timestamp ; }

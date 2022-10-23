@@ -1,0 +1,1 @@
+. mul ( Identifier_13 ) . div ( NumberLiteral_0 ) : 0 ;

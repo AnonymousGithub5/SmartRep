@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; Identifier_2 . MemberAccess_0 ( _token , Identifier_3 , _amount ) ; return Identifier_4 ( Identifier_5 ) . MemberAccess_1 ( _amount ) == 0 ;

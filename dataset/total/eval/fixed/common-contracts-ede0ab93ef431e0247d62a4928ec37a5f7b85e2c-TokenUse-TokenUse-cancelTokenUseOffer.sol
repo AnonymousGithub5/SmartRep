@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _tokenId ) public { require ( Identifier_0 [ _tokenId ] . owner == msg . sender , stringLiteral_0 ) ; Identifier_1 ( registry . MemberAccess_0 ( Identifier_2 ) ) . transferFrom ( address ( this ) , msg . sender , _tokenId ) ; delete Identifier_3 [ _tokenId ] ; emit Identifier_4 ( _tokenId ) ; }

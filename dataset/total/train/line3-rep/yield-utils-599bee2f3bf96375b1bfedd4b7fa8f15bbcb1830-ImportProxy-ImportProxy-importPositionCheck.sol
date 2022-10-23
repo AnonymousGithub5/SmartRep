@@ -1,0 +1,1 @@
+bool VariableDeclaration_0 = vat . MemberAccess_0 ( msg . sender , address ( this ) ) == 1 ; bool VariableDeclaration_1 = controller . MemberAccess_1 ( msg . sender , address ( Identifier_0 ) ) ; return ( Identifier_1 , Identifier_2 ) ;

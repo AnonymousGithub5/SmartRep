@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address receiver , bytes calldata data ) external { emit Identifier_0 ( 1 , receiver , data ) ;

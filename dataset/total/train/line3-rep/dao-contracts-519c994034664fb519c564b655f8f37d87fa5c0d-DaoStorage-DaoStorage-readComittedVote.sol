@@ -1,0 +1,1 @@
+{ require ( Identifier_0 ( msg . sender ) ) ; Identifier_1 = proposalsById [ _proposalId ] . MemberAccess_0 [ _index ] . MemberAccess_1 [ Identifier_2 ] ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 ) internal returns ( uint256 ) { Identifier_0 . MemberAccess_0 ( ) ; uint256 amount = ( Identifier_1 ( ) . mul ( Identifier_2 ) ) . div ( totalSupply ( ) ) ;

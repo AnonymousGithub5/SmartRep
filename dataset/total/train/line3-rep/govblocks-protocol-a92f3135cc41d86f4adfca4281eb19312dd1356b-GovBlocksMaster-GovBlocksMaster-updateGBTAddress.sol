@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_3 [ Identifier_4 [ i ] ] . MemberAccess_0 ; Identifier_5 = Identifier_6 ( Identifier_7 ) ; if ( Identifier_8 . MemberAccess_1 ( ) > 0 )

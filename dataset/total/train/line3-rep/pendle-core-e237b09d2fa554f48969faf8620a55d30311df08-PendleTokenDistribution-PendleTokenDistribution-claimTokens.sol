@@ -1,0 +1,1 @@
+require ( ! Identifier_2 [ Identifier_3 ] , stringLiteral_1 ) ; uint256 VariableDeclaration_0 = Identifier_4 . MemberAccess_0 ( ) . add ( Identifier_5 [ Identifier_6 ] ) ; require ( block . timestamp >= Identifier_7 , stringLiteral_2 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 value , string calldata Parameter_0 ) external { _burn ( msg . sender , value ) ; emit Identifier_0 ( Identifier_1 ) ; }

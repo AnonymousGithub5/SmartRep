@@ -1,0 +1,1 @@
+{ require ( market . MemberAccess_0 ( ) . MemberAccess_1 ( ) > 0 ) ; int memory VariableDeclaration_0 = Identifier_0 ( market ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 amount , string memory Parameter_1 ) public ModifierInvocation_0 ModifierInvocation_1 ( Identifier_4 ) returns ( bool ) { require ( IERC20 ( Identifier_0 ) . transferFrom ( msg . sender , address ( this ) , amount ) , stringLiteral_0 ) ; Identifier_1 ( msg . sender , Identifier_2 , amount , Identifier_3 ) ; }

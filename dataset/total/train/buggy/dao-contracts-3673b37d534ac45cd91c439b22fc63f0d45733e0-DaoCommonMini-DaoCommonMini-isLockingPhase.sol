@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public constant returns ( bool Parameter_0 ) { Identifier_0 = Identifier_1 ( ) < getUintConfig ( Identifier_2 ) ; }

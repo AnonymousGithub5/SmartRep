@@ -1,0 +1,1 @@
+returns ( uint ) { return database . uintStorage ( keccak256 ( abi . encodePacked ( stringLiteral_0 , Identifier_0 ) ) ) ; }

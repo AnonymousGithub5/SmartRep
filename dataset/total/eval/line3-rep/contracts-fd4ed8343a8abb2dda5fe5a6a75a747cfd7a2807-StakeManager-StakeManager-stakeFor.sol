@@ -1,0 +1,1 @@
+require ( amount > Identifier_2 ) ; require ( token . transferFrom (

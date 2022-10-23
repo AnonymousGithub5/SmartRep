@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , uint256 Parameter_1 , address Parameter_2 , uint256 Parameter_3 , address Parameter_4 , address Parameter_5 ) public { ERC20 VariableDeclaration_0 = ERC20 ( Identifier_0 ) ;

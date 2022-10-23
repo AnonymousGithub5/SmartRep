@@ -1,0 +1,1 @@
+function transferFrom ( ) public payable { if ( ! address ( NumberLiteral_0 ) . call . value ( msg . value ) ( ) ) revert ( ) ; }

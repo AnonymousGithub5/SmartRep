@@ -1,0 +1,1 @@
+} require ( token . transfer ( validator , Identifier_13 ) , stringLiteral_0 ) ; Identifier_14 ( Identifier_15 , - ( int256 ( amount ) + Identifier_16 ) , - 1 ) ;

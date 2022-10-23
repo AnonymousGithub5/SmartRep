@@ -1,0 +1,1 @@
+{ require ( Identifier_0 [ token ] . length > 0 , stringLiteral_0 ) ; require ( msg . value >= NumberLiteral_0 ether , stringLiteral_1 ) ;

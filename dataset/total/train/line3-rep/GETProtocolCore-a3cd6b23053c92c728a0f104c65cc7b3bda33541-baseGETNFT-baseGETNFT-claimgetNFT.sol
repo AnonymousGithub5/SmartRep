@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( Identifier_1 , 0 ) ; uint256 VariableDeclaration_1 = Identifier_2 . MemberAccess_1 ( Identifier_3 ) ; require ( Identifier_4 > 0 , stringLiteral_0 ) ;

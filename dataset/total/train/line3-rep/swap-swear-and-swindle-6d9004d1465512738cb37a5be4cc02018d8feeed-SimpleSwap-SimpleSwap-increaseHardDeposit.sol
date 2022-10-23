@@ -1,0 +1,1 @@
+Identifier_6 = Identifier_7 . add ( amount ) ; Identifier_8 . MemberAccess_0 = 0 ; emit Identifier_9 ( Identifier_10 , Identifier_11 . amount ) ;

@@ -1,0 +1,1 @@
+require ( Identifier_0 > 0 , stringLiteral_1 ) ; UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_1 . MemberAccess_0 ( Identifier_2 ) ; require ( _fundingCycle . MemberAccess_1 ( ) , stringLiteral_2 ) ;

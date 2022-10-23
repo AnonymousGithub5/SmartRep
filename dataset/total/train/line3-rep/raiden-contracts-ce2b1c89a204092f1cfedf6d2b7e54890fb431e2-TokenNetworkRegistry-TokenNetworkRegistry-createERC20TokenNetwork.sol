@@ -1,0 +1,1 @@
+require ( Identifier_0 [ Identifier_1 ] == address ( 0x0 ) ) ; Identifier_2 = true ; UserDefinedTypeName_0 VariableDeclaration_0 ;

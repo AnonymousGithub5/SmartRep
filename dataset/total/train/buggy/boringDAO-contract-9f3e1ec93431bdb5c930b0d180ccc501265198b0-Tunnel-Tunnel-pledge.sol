@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint256 amount ) external override ModifierInvocation_0 { Identifier_0 [ account ] = Identifier_1 [ account ] . add ( amount ) ; Identifier_2 = Identifier_3 . add ( amount ) ; Identifier_4 ( ) . mint ( account , amount ) ; Identifier_5 ( ) . MemberAccess_0 ( account , amount ) ; }

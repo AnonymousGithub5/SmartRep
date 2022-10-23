@@ -1,0 +1,1 @@
+} else { uint VariableDeclaration_0 = Identifier_5 ( Identifier_6 ) . MemberAccess_0 ( ) . div ( 2 ) . mul ( 3 ) ; uint VariableDeclaration_1 = Identifier_7 . totalSupply ( ) . sub ( Identifier_8 . balanceOf ( Identifier_9 ) ) ;

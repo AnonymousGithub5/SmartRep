@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _value , bytes calldata _data , uint Parameter_0 , uint Parameter_1 , address Parameter_2 , bytes calldata Parameter_3 ) external ModifierInvocation_0 ( abi . encodePacked ( _value , _data , nonce , msg . sender ) , Identifier_1 , Identifier_2 , Identifier_3 , msg . sender , Identifier_4 ) { Identifier_0 ( _value , _data ) ; }

@@ -1,0 +1,1 @@
+constructor ( uint Parameter_0 , uint Parameter_1 ) public { require ( Identifier_0 < Identifier_1 , stringLiteral_0 ) ;

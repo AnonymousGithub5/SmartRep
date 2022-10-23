@@ -1,0 +1,1 @@
+token . safeTransfer ( _beneficiary , Identifier_5 ) ; emit Identifier_6 ( Identifier_7 ) ; }

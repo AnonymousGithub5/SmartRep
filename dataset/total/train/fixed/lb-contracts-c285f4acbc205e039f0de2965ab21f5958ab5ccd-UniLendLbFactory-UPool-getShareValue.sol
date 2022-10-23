@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 , uint _amount ) public pure returns ( uint ) { return ( _amount . mul ( Identifier_0 ) ) . div ( Identifier_1 ) ; }

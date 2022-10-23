@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) public view returns ( bool ) { return Identifier_0 ( order ) && Identifier_1 ( order . MemberAccess_0 . MemberAccess_1 . MemberAccess_2 , order . MemberAccess_3 . MemberAccess_4 . MemberAccess_5 , order . MemberAccess_6 ) ; }

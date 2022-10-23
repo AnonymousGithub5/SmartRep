@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 calldata Parameter_0 ) external { require ( msg . sender == Identifier_0 || msg . sender == owner ( ) , stringLiteral_0 ) ; Identifier_1 ( Identifier_2 ) ;

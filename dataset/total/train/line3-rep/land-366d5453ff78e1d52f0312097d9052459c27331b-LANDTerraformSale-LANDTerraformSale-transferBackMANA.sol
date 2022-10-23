@@ -1,0 +1,1 @@
+} require ( token . transferFrom ( Identifier_3 , _address , _amount ) ) ; }

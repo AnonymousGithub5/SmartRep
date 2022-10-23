@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = SafeMath . div ( Identifier_5 , NumberLiteral_0 ) ; if ( Identifier_6 < Identifier_7 . balanceOf ( address ( this ) ) ) { Identifier_8 = Identifier_9 . balanceOf ( address ( this ) ) ;

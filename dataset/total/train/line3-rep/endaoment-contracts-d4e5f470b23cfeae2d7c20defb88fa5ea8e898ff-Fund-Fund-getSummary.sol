@@ -1,0 +1,1 @@
+{ IERC20 VariableDeclaration_0 = IERC20 ( tokenAddress ) ; uint256 balance = Identifier_0 . balanceOf ( address ( this ) ) ;

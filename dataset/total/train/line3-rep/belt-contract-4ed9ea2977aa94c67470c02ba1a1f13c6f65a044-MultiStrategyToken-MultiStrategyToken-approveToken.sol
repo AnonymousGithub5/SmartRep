@@ -1,0 +1,1 @@
+uint i = 0 ; for ( ; i < uint ( Identifier_0 . MemberAccess_0 ) ; i += 1 ) { IERC20 ( token ) . safeApprove ( Identifier_1 [ i ] , uint ( - 1 ) ) ;

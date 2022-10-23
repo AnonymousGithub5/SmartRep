@@ -1,0 +1,1 @@
+delete Identifier_3 [ Identifier_4 - 1 ] ; for ( uint i = Identifier_5 - 1 ; i > 0 ; -- i ) { if ( Identifier_6 == Identifier_7 ) {

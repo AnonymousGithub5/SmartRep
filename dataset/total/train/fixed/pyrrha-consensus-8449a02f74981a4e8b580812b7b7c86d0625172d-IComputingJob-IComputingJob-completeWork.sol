@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes Parameter_0 ) external returns ( bool Parameter_1 ) ;

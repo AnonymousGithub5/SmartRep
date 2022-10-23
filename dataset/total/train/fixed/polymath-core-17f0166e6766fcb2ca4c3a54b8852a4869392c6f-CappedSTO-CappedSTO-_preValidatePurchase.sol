@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) internal view { require ( _beneficiary != address ( 0 ) , stringLiteral_0 ) ; require ( Identifier_0 != 0 , stringLiteral_1 ) ; require ( Identifier_1 . add ( Identifier_2 ( Identifier_3 ) ) <= Identifier_4 , stringLiteral_2 ) ; require ( now >= Identifier_5 && now <= Identifier_6 , stringLiteral_3 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) ModifierInvocation_0 public { require ( ! Identifier_0 , stringLiteral_0 ) ;

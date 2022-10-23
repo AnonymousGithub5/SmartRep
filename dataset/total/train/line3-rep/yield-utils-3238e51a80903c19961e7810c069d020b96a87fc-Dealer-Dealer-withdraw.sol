@@ -1,0 +1,1 @@
+function withdraw ( bytes32 Parameter_0 , address from , address to , uint256 amount ) public override ModifierInvocation_0 ( from , stringLiteral_2 ) ModifierInvocation_1 { Identifier_0 [ collateral ] [ from ] = Identifier_1 [ collateral ] [ from ] . sub ( amount ) ;

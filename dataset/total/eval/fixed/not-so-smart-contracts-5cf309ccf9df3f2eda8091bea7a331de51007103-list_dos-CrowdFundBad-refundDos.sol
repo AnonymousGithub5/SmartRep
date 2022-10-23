@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { for ( uint i ; i < Identifier_0 . length ; i ++ ) { require ( Identifier_1 [ i ] . transfer ( Identifier_2 [ Identifier_3 [ i ] ] ) ) ; } }

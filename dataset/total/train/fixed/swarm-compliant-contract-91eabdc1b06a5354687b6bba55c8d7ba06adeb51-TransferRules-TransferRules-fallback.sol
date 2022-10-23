@@ -1,0 +1,1 @@
+constructor ( address owner ) public { Identifier_0 ( owner ) ; Identifier_1 [ owner ] = true ; }

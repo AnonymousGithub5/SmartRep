@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _proposalId , uint Parameter_0 ) public { address VariableDeclaration_0 ; ( , , Identifier_0 , , , , , ) = Identifier_1 ( _categoryId ) ; Identifier_2 . call ( bytes4 ( Identifier_3 ( Identifier_4 [ _categoryId ] . MemberAccess_0 ) ) , _proposalId ) ; }

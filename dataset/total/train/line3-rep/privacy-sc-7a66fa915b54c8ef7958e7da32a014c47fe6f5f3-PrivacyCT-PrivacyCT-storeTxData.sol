@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 Parameter_0 , bool Parameter_1 ) private { uint8 VariableDeclaration_0 = uint8 ( Identifier_0 [ 0 ] ) ;

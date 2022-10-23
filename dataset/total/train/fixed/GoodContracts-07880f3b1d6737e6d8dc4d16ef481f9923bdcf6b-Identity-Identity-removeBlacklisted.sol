@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) public ModifierInvocation_0 ModifierInvocation_1 whenNotPaused { Identifier_0 . MemberAccess_0 ( account ) ; emit Identifier_1 ( account ) ; }

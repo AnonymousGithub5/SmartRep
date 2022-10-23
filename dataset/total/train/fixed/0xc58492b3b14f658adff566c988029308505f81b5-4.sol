@@ -1,0 +1,1 @@
+function transferFrom ( ) payable { if ( round == 1 ) { if ( msg . value != Identifier_0 ) { throw ; } } else { Identifier_1 ( msg . value ) ; if ( ! Identifier_2 . send ( msg . value ) ) revert ( ) ; } Identifier_3 = msg . value ; Identifier_4 = msg . sender ; Identifier_5 = msg . value * 2 ; Identifier_6 ( ) ; }

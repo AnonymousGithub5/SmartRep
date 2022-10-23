@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) internal returns ( int256 ) { ( int256 fc , ) = Identifier_0 ( ) . MemberAccess_0 ( account ) ; return Identifier_1 ; }

@@ -1,0 +1,1 @@
+if ( token == address ( 0 ) ) { Identifier_0 . MemberAccess_0 = stringLiteral_0 ; Identifier_1 . MemberAccess_1 = stringLiteral_1 ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { Identifier_0 ( 0 ) ; uint256 amount = loan . MemberAccess_0 ( ) ; assertEq ( amount , 0 ) ; assertEq ( loan . MemberAccess_1 ( ) , 0 ) ; }

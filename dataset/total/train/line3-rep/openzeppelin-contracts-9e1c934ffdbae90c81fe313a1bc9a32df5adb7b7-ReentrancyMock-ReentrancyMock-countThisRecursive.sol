@@ -1,0 +1,1 @@
+Identifier_0 ( ) ; bool VariableDeclaration_1 = this . call ( Identifier_1 , n - 1 ) ; require ( result == true ) ;

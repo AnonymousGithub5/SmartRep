@@ -1,0 +1,1 @@
+onlyOwner public { emit Identifier_0 ( address ( this ) . balance , msg . sender ) ;

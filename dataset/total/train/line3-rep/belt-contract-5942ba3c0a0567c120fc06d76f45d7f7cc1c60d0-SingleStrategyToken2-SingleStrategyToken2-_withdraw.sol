@@ -1,0 +1,1 @@
+r = Identifier_6 ( Identifier_7 ) . withdraw ( r ) ; require ( r >= Identifier_8 ) ; return r ;

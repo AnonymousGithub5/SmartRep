@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) ModifierInvocation_0 { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; Identifier_2 . MemberAccess_0 ( Identifier_3 ) ; }

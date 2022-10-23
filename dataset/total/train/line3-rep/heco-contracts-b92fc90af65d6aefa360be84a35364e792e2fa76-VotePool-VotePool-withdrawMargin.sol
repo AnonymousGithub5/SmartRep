@@ -1,0 +1,1 @@
+require ( state == Identifier_0 . MemberAccess_0 , stringLiteral_0 ) ; require ( block . number - Identifier_1 > Identifier_2 , stringLiteral_1 ) ; require ( Identifier_3 > 0 , stringLiteral_2 ) ;

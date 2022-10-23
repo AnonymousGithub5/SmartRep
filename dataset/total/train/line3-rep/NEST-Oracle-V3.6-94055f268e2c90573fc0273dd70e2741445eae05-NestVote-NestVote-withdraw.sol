@@ -1,0 +1,1 @@
+if ( uint ( Identifier_1 [ index ] . state ) == Identifier_2 ) { Identifier_3 [ index ] . MemberAccess_0 = ElementaryTypeName_0 ( Identifier_4 [ index ] . MemberAccess_1 - Identifier_5 ) ; }

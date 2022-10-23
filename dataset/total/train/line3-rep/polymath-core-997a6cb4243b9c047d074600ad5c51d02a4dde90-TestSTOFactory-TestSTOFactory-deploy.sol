@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 VariableDeclaration_0 = new UserDefinedTypeName_1 ( msg . sender , address ( Identifier_3 ) ) ; require ( Identifier_4 ( _data ) == Identifier_5 . MemberAccess_0 ( ) , stringLiteral_1 ) ; require ( address ( Identifier_6 ) . call ( _data ) , stringLiteral_2 ) ;

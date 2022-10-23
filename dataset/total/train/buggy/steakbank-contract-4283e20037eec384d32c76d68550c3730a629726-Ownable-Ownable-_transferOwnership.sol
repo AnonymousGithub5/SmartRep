@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) internal { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; emit Identifier_1 ( _owner , Identifier_2 ) ; _owner = Identifier_3 ; }

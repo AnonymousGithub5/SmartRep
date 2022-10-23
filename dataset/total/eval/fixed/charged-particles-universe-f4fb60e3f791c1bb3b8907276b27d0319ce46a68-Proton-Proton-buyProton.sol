@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId ) external payable virtual nonReentrant whenNotPaused returns ( bool ) { return Identifier_0 ( tokenId ) ; }

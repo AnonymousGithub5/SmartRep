@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) override public { require ( msg . sender == Identifier_0 ( stringLiteral_0 ) , stringLiteral_1 ) ; require ( Identifier_1 ( Identifier_2 ) , stringLiteral_2 ) ; require ( Identifier_3 ( Identifier_4 ) , stringLiteral_3 ) ; Identifier_5 ( Identifier_6 ) ; }

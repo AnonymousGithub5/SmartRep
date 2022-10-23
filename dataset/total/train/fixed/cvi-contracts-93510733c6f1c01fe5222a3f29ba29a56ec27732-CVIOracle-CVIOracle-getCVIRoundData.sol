@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 Parameter_0 ) external view override returns ( uint16 Parameter_1 , uint256 Parameter_2 ) { ( , int256 cviOracleValue , , uint256 cviOracleTimestamp , ) = Identifier_0 . MemberAccess_0 ( Identifier_1 ) ; Identifier_2 = Identifier_3 ; Identifier_4 = Identifier_5 ( Identifier_6 ) ; }

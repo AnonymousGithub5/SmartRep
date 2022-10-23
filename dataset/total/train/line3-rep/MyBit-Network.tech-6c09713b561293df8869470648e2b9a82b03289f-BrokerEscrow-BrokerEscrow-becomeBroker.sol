@@ -1,0 +1,1 @@
+else { require ( token . transfer ( Identifier_7 , Identifier_8 ) ) ; } require ( Identifier_9 ( _assetID , _amount ) ) ; return true ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , UserDefinedTypeName_0 Parameter_1 , address Parameter_2 ) public view returns ( bool ) { require ( hash == hash ) ; require ( Identifier_0 . MemberAccess_0 == Identifier_1 . MemberAccess_1 ) ; require ( wallet == wallet ) ; return Identifier_2 ; }

@@ -1,0 +1,1 @@
+Identifier_0 [ keccak256 ( abi . encode ( Identifier_1 , Identifier_2 ) ) ] = _amount ;

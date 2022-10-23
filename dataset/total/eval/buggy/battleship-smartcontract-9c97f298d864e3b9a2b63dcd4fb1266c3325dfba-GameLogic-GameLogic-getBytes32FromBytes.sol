@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes memory value , uint Parameter_0 ) external pure returns ( bytes32 ) { bytes32 VariableDeclaration_0 ; uint VariableDeclaration_1 = 32 * ( index + 1 ) ; require ( value . length >= Identifier_0 , stringLiteral_0 ) ; assembly { Identifier_1 := mload ( add ( AssemblyExpression_0 , AssemblyExpression_1 ) ) } return Identifier_2 ; }

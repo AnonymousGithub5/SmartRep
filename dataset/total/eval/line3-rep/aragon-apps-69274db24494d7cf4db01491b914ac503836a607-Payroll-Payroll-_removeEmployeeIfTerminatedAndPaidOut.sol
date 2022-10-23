@@ -1,0 +1,1 @@
+} if ( Identifier_6 . MemberAccess_1 > 0 || Identifier_7 . MemberAccess_2 > 0 || Identifier_8 . MemberAccess_3 > 0 ) { return ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId , bytes calldata Parameter_0 ) external virtual returns ( bytes memory ) { return abi . encode ( name ( ) , symbol ( ) , Identifier_0 ( tokenId ) , data ) ; }

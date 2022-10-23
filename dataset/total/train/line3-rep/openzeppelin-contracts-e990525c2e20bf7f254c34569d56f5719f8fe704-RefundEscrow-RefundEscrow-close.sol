@@ -1,0 +1,1 @@
+Identifier_2 = Identifier_3 . MemberAccess_1 ; emit Identifier_4 ( ) ; }

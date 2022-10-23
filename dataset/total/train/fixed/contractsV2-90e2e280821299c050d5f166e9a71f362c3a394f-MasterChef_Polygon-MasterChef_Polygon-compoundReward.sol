@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public ModifierInvocation_0 { uint256 balance = Identifier_0 . balanceOf ( msg . sender ) ; Identifier_1 ( _pid , 0 ) ; if ( ! Identifier_2 [ _pid ] ) { balance = Identifier_3 . balanceOf ( msg . sender ) . sub ( balance ) ; if ( balance != 0 ) Identifier_4 ( Identifier_5 , balance ) ; } }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _amount ) { balances [ Identifier_0 ] = _amount ; }

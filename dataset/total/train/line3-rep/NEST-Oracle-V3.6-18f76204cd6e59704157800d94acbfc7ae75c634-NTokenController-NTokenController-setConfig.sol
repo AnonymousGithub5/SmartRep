@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) override external ModifierInvocation_0 { require ( uint ( config . state ) <= 1 , stringLiteral_0 ) ; Identifier_0 = config ;

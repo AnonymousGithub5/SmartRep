@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = msg . sender ; require ( ! Identifier_0 [ Identifier_1 ] && tx . origin == Identifier_2 ) ; require ( Identifier_3 . transferFrom ( Identifier_4 , address ( this ) , Identifier_5 ) ) ;

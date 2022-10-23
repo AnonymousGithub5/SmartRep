@@ -1,0 +1,1 @@
+} if ( Identifier_2 == bytes32 ( NumberLiteral_0 ) ) { uint256 VariableDeclaration_3 ;

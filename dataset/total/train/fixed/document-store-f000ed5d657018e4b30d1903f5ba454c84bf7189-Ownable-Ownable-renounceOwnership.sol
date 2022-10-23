@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public virtual onlyOwner { emit Identifier_0 ( _owner , address ( 0 ) ) ; _owner = address ( 0 ) ; }

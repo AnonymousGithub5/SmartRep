@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) private returns ( uint ) { uint VariableDeclaration_0 = uint ( keccak256 ( abi . encodePacked ( now , msg . sender , Identifier_0 ) ) ) % 10 ; Identifier_1 ++ ; return Identifier_2 ; }

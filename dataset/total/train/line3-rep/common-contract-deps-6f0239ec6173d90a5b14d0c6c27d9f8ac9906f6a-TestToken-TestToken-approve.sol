@@ -1,0 +1,1 @@
+function approve ( address _spender , uint _value ) returns ( bool success ) { allowed [ msg . sender ] [ _spender ] = _value ;

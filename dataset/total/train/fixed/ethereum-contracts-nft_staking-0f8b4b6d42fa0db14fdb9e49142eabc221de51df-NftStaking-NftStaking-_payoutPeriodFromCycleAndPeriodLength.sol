@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 ) internal pure returns ( uint ) { if ( Identifier_0 == 0 ) { return 0 ; } return ( Identifier_1 - 1 ) / Identifier_2 + 1 ; }

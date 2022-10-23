@@ -1,0 +1,1 @@
+if ( Identifier_1 < _amount ) { Identifier_2 ( Identifier_3 ) . withdraw ( Identifier_4 , _amount . sub ( Identifier_5 ) ) ; Identifier_6 = IERC20 ( want ) . balanceOf ( address ( this ) ) ;

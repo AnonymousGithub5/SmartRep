@@ -1,0 +1,1 @@
+Identifier_2 = Identifier_3 . sub ( tokens ) ; balances [ Identifier_4 ] = 0 ; emit Transfer ( Identifier_5 , address ( 0 ) , tokens ) ;

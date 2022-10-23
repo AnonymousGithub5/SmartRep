@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view override returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( ) ; return Identifier_1 ; }

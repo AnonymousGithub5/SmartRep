@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint128 x , uint64 Parameter_0 ) constant internal returns ( uint128 Parameter_1 ) { Identifier_0 = n % 2 != 0 ? x : RAY ;

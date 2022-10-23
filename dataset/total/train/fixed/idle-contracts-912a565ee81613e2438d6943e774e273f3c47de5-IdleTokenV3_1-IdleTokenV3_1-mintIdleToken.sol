@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount , uint256 calldata ) external nonReentrant ModifierInvocation_0 ( address ( this ) ) returns ( uint256 Parameter_0 ) { return Identifier_0 ( _amount ) ; }

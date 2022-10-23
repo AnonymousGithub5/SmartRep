@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 ) public returns ( bool Parameter_1 ) { require ( Identifier_0 ( msg . sender ) , stringLiteral_0 ) ; require ( bytes ( Identifier_1 ) . length != 0 , stringLiteral_1 ) ; Identifier_2 [ msg . sender ] = Identifier_3 ; return true ; }

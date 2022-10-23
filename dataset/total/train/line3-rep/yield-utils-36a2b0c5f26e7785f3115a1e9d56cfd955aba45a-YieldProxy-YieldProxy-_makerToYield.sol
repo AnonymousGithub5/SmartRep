@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 VariableDeclaration_1 = Identifier_1 ( _pool . MemberAccess_0 ( ) ) ; uint256 VariableDeclaration_2 = _pool . MemberAccess_1 ( address ( this ) , address ( this ) , Identifier_2 . MemberAccess_2 ( ) ) ; Identifier_3 . MemberAccess_3 ( user , Identifier_4 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 , bytes32 Parameter_2 , bytes32 Parameter_3 ) external returns ( UserDefinedTypeName_0 Parameter_4 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) internal { status = Status . MemberAccess_0 ; Identifier_0 = arbitrator . MemberAccess_1 . value ( Identifier_1 ) ( Identifier_2 , Identifier_3 ) ; emit Identifier_4 ( arbitrator , Identifier_5 , Identifier_6 ) ; }

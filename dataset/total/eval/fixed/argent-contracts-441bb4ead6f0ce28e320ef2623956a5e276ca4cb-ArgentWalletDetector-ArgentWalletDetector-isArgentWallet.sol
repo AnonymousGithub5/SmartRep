@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _wallet ) external view returns ( bool ) { bytes32 VariableDeclaration_0 ; assembly { Identifier_0 := AssemblyExpression_1 ( AssemblyExpression_0 ) } return Identifier_1 [ Identifier_2 ] . MemberAccess_0 && Identifier_3 [ Identifier_4 ( _wallet ) . MemberAccess_1 ( ) ] . MemberAccess_2 ; }

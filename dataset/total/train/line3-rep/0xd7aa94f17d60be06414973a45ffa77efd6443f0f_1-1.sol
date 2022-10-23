@@ -1,0 +1,1 @@
+Identifier_1 [ msg . sender ] -= _amount ; Identifier_2 [ _to ] += _amount ; Transfer ( msg . sender , _to , _amount ) ;

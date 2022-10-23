@@ -1,0 +1,1 @@
+address owner ) public ModifierInvocation_0 ( name , symbol ) { _mint ( owner , Identifier_0 ) ;

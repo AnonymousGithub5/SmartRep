@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) payable ModifierInvocation_0 ModifierInvocation_1 { uint256 VariableDeclaration_0 = msg . value ; require ( Identifier_0 ( now + 1 weeks ) >= Identifier_1 . MemberAccess_0 ( Identifier_2 ) ) ; Identifier_3 = msg . sender ; Identifier_4 = now ; Identifier_5 = Identifier_6 ; }

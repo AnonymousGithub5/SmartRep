@@ -1,0 +1,1 @@
+daoStorage ( ) . MemberAccess_0 ( _proposalId , Identifier_0 ) ; require ( Identifier_1 ( ) . MemberAccess_1 ( daoStorage ( ) . MemberAccess_2 ( _proposalId ) ) ) ; }

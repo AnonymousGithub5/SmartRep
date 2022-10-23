@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = msg . sender ; Identifier_0 ( _token , _from , Identifier_1 ( _token ) ) ; }

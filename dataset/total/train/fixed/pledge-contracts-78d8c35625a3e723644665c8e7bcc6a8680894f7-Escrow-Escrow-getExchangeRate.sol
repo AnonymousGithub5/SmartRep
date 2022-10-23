@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint16 Parameter_0 , uint16 Parameter_1 ) external view returns ( UserDefinedTypeName_0 memory ) { return Identifier_0 [ base ] [ Identifier_1 ] ; }

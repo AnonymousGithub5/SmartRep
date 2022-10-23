@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public payable { address VariableDeclaration_0 = msg . sender ;

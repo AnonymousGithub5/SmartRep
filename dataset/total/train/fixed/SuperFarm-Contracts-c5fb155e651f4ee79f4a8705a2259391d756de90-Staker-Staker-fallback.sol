@@ -1,0 +1,1 @@
+constructor ( string memory _name , IERC20 _token ) { name = _name ; token = _token ; token . approve ( address ( this ) , Identifier_0 ) ; Identifier_1 = true ; Identifier_2 = true ; Identifier_3 = Identifier_4 ; Identifier_5 = true ; Identifier_6 = Identifier_7 ; }

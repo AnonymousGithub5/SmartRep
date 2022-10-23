@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner ) public onlyOwner returns ( uint ) { uint VariableDeclaration_0 = 0 ;

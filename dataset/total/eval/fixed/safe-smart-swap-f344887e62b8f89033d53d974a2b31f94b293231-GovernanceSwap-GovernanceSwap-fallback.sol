@@ -1,0 +1,1 @@
+constructor ( ) public ModifierInvocation_0 ( msg . sender ) ModifierInvocation_1 ( ) { }

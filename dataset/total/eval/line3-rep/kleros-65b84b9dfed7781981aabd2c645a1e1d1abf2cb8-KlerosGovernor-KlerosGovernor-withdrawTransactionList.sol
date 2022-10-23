@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 storage VariableDeclaration_1 = Identifier_2 [ session . MemberAccess_0 [ Identifier_3 ] ] ; require ( now - Identifier_4 <= Identifier_5 / 2 , stringLiteral_0 ) ; require ( Identifier_6 . MemberAccess_1 == Identifier_7 , stringLiteral_1 ) ;

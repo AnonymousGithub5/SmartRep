@@ -1,0 +1,1 @@
+constructor ( uint256 Parameter_0 , uint256 Parameter_1 , uint256 Parameter_2 , address Parameter_3 , UserDefinedTypeName_0 token , uint256 Parameter_4 ) public ModifierInvocation_0 ( rate , wallet , token ) ModifierInvocation_1 ( Identifier_0 , Identifier_1 ) ModifierInvocation_2 ( Identifier_2 ) { }

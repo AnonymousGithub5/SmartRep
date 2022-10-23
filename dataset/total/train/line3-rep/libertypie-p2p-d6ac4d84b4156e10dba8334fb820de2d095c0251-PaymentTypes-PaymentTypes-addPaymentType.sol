@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 , uint256 Parameter_1 ) external ModifierInvocation_0 ( ) returns ( uint256 ) { require ( bytes ( Identifier_0 [ Identifier_1 ] ) . length > 0 , stringLiteral_0 ) ;

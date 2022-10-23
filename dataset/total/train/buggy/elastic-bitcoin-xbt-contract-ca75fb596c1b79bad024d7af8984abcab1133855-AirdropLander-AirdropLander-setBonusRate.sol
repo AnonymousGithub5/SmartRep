@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 from , uint256 to ) private { require ( owner == msg . sender , stringLiteral_0 ) ; require ( uint256 ( from ) < uint256 ( to ) , stringLiteral_1 ) ; Identifier_0 = uint256 ( from ) ; Identifier_1 = uint256 ( to ) ; }

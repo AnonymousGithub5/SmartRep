@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) public view returns ( bool ) { address VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( Identifier_2 ) ; return Identifier_3 == _account ; }

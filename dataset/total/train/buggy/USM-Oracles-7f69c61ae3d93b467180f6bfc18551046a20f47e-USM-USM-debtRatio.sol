@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint ) { uint pool = Identifier_0 ( ) ; if ( pool == 0 ) { return 0 ; } return totalSupply ( ) . MemberAccess_0 ( Identifier_1 ( pool ) ) ; }

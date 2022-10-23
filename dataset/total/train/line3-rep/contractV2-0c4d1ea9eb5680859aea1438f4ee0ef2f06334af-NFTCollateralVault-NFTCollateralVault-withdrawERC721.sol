@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 tokenId ) external onlyOwner { Identifier_0 ( Identifier_1 , tokenId , 1 ) ; Identifier_2 ( Identifier_3 ) . safeTransferFrom ( address ( this ) , Identifier_4 , tokenId , "" ) ;

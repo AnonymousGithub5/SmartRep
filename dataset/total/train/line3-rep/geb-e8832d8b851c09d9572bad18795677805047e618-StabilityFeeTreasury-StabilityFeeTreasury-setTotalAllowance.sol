@@ -1,0 +1,1 @@
+require ( account != address ( 0 ) , stringLiteral_0 ) ; Identifier_0 [ account ] . MemberAccess_0 = rad ; }

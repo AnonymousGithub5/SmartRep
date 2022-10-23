@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) onlyOwner { UserDefinedTypeName_0 VariableDeclaration_0 = new UserDefinedTypeName_1 ( address ( this ) , msg . sender , Identifier_0 , Identifier_1 ) ; Identifier_2 [ msg . sender ] = Identifier_3 ; Identifier_4 . push ( Identifier_5 ) ; emit Identifier_6 ( Identifier_7 , msg . sender ) ; }

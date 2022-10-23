@@ -1,0 +1,1 @@
+public { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; Identifier_1 = NumberLiteral_0 ;

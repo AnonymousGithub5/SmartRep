@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint32 Parameter_0 , uint256 Parameter_1 ) public override view returns ( uint256 ) { int256 VariableDeclaration_0 = int256 ( ( Identifier_0 ) % Identifier_1 [ Identifier_2 ] ) ;

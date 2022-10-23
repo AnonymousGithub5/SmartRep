@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_3 [ Identifier_4 ] ; require ( Identifier_5 < Identifier_6 . totalSupply + Identifier_7 . MemberAccess_1 && Identifier_8 >= Identifier_9 . MemberAccess_2 ) ; require ( Identifier_10 [ Identifier_11 ] != 0x0 ) ;

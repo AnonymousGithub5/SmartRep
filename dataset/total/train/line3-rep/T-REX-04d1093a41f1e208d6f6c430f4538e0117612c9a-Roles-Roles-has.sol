@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 , address account ) internal view returns ( bool ) { require ( account != address ( 0 ) , stringLiteral_0 ) ; return Identifier_0 . MemberAccess_0 [ account ] ;

@@ -1,0 +1,1 @@
+if ( now <= Identifier_5 ) { Identifier_6 . MemberAccess_4 ( Identifier_7 , msg . sender , _amount ) ; }

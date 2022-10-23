@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 , address Parameter_1 , uint256 Parameter_2 ) payable returns ( bytes32 ) { bytes32 VariableDeclaration_0 = keccak256 ( Identifier_0 , arbitrator , Identifier_1 ) ; require ( Identifier_2 [ Identifier_3 ] . MemberAccess_0 == 0 ) ;

@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_0 ( data ) ; bytes32 VariableDeclaration_1 = Identifier_1 ( this , nonce [ Identifier_2 ] , Identifier_3 , data ) ; address VariableDeclaration_2 = Identifier_4 ( Identifier_5 , Identifier_6 , Identifier_7 , Identifier_8 ) ;

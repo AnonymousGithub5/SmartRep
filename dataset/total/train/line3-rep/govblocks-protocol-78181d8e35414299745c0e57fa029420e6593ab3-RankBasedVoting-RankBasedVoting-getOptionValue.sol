@@ -1,0 +1,1 @@
+uint8 VariableDeclaration_1 ; ( , , , Identifier_2 ) = GD . MemberAccess_1 ( _proposalId ) ; for ( uint i = 0 ; i < Identifier_3 . length ; i ++ )

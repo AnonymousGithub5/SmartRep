@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) override public view returns ( address Parameter_0 ) { return Identifier_0 . MemberAccess_0 ; }

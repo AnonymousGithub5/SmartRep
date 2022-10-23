@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , address target ) external { Identifier_0 ( token , target ) ; UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_1 ( token ) ; Identifier_2 . safeTransfer ( target , Identifier_3 . balanceOf ( address ( this ) ) ) ; }

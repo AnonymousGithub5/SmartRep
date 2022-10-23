@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes memory data ) public view returns ( bool ) { ( uint128 VariableDeclaration_0 , uint256 VariableDeclaration_1 , ElementaryTypeName_0 VariableDeclaration_2 , ElementaryTypeName_1 VariableDeclaration_3 , uint32 VariableDeclaration_4 ) = Identifier_0 ( data ) ;

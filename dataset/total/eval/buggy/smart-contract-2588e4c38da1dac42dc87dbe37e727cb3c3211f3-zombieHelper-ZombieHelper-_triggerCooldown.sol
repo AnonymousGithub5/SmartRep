@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 ) internal { Identifier_0 . MemberAccess_0 = uint32 ( now - now % Identifier_1 ) ; }

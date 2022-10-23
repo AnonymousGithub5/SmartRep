@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address Parameter_1 , bytes calldata ) external ModifierInvocation_0 ( Identifier_3 ) nonReentrant { uint256 VariableDeclaration_0 = NumberLiteral_0 + Identifier_0 ( ) + NumberLiteral_1 * msg . data . length ; require ( msg . sender == tx . origin , stringLiteral_0 ) ; return Identifier_1 ( loanId , Identifier_2 , "" ) ; }

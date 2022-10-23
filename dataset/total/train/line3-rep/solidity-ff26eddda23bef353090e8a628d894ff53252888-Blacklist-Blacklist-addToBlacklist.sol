@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public onlyOwner { Identifier_0 [ addr ] = true ; Identifier_1 ++ ;

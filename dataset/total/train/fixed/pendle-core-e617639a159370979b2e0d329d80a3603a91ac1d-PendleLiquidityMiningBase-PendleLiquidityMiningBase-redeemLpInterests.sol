@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address user ) external override nonReentrant returns ( uint256 Parameter_1 ) { require ( user != address ( 0 ) , stringLiteral_0 ) ; require ( Identifier_0 [ user ] . MemberAccess_0 [ expiry ] , stringLiteral_1 ) ; Identifier_1 = Identifier_2 ( expiry , user ) ; Identifier_3 ( expiry , user , Identifier_4 ) ; }

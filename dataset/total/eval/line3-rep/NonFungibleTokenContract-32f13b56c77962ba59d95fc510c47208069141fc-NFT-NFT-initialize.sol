@@ -1,0 +1,1 @@
+) public ModifierInvocation_0 { Identifier_0 ( name , symbol ) ; Identifier_1 = Identifier_2 ;

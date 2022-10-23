@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external onlyOwner { require ( Identifier_0 [ Identifier_1 ] . MemberAccess_0 , stringLiteral_0 ) ; require ( Identifier_2 [ Identifier_3 ] . MemberAccess_1 != address ( 0 ) , stringLiteral_1 ) ;

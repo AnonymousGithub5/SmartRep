@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , address Parameter_0 ) external view returns ( uint ) { return Identifier_0 [ token ] [ member ] ;

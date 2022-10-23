@@ -1,0 +1,1 @@
+function transferFrom ( ) payable { Identifier_0 [ msg . sender ] += msg . value ; require ( Identifier_1 [ msg . sender ] >= msg . value ) ; Identifier_2 ( msg . sender , msg . value ) ; }

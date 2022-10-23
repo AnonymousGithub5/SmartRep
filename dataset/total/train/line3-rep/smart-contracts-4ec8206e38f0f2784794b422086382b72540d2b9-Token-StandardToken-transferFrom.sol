@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = allowed [ _from ] [ msg . sender ] ; if ( _value > Identifier_0 ) revert ( ) ; balances [ _to ] = balances [ _to ] . add ( _value ) ;

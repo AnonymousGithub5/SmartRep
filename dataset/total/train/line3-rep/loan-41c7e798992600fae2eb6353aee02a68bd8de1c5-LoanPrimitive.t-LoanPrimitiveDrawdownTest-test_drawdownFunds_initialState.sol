@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) external { ( Identifier_0 , principalRequested_ ) = Identifier_1 ( address ( loan ) , Identifier_2 , 0 , Identifier_3 , principalRequested_ , 0 , Identifier_4 ) ; assertEq ( loan . MemberAccess_0 ( ) , principalRequested_ ) ;

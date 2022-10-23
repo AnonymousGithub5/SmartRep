@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public view returns ( uint , uint , address , address ) { uint VariableDeclaration_0 = 0 ; uint VariableDeclaration_1 = 0 ; address memory VariableDeclaration_2 ; address memory VariableDeclaration_3 ; return ( Identifier_0 , Identifier_1 , Identifier_2 , Identifier_3 ) ; }

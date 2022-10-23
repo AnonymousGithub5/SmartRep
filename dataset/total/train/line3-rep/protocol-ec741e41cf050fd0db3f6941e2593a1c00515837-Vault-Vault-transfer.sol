@@ -1,0 +1,1 @@
+function transfer ( address token , address from , address to , uint amount ) external ModifierInvocation_0 ( from ) { balances [ token ] [ from ] = balances [ token ] [ from ] . sub ( amount ) ; balances [ token ] [ to ] = balances [ token ] [ to ] . add ( amount ) ;

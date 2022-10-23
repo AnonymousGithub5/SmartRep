@@ -1,0 +1,1 @@
+daoStorage ( ) . MemberAccess_3 ( _proposalId , Identifier_9 ) ; require ( Identifier_10 ( ) . MemberAccess_4 ( msg . sender , _proposalId ) ) ; }

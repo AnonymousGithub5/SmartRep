@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 ) public pure returns ( string memory ) { return Identifier_0 ( Identifier_1 , string ( abi . encodePacked ( "" ) ) ) ; }

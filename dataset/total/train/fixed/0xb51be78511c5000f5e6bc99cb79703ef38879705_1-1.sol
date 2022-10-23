@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address to , uint256 value ) internal { Identifier_0 ( to , value , true , Identifier_1 [ from ] ) ; Identifier_2 [ from ] -= value ; Identifier_3 [ to ] += value ; require ( Identifier_4 [ to ] >= value ) ; emit Transfer ( from , to , value ) ; }

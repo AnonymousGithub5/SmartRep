@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external returns ( ElementaryTypeName_0 Parameter_0 ) { Identifier_0 = ElementaryTypeName_1 ( msg . sender ) ; require ( Identifier_1 [ Identifier_2 ] == Identifier_3 ( 0 ) ) ; Identifier_4 [ Identifier_5 ] = Identifier_6 ( msg . sender ) ; emit Identifier_7 ( Identifier_8 , Identifier_9 ( msg . sender ) ) ; }

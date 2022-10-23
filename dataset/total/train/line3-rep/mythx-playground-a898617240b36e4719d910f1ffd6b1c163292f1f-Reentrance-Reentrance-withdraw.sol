@@ -1,0 +1,1 @@
+( bool VariableDeclaration_0 , bytes memory VariableDeclaration_1 ) = msg . sender . call . value ( _amount ) ( "" ) ; require ( success ) ; balances [ msg . sender ] . sub ( _amount ) ;

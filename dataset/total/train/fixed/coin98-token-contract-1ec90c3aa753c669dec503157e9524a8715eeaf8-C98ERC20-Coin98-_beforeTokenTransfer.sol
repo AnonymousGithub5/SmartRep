@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address to , uint256 amount ) internal { require ( ! Identifier_0 ( ) , stringLiteral_0 ) ; }

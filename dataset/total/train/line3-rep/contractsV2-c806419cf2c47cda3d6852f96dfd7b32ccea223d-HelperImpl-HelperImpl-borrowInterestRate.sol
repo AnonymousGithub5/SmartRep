@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 calldata Parameter_0 ) public returns ( uint256 memory Parameter_1 )

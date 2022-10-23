@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable to , address token , uint256 amount ) external onlyOwner { require ( to != address ( Identifier_0 ) && to != address ( Identifier_1 ) , stringLiteral_0 ) ; if ( token == NumberLiteral_0 ) { to . transfer ( amount ) ; } else { IERC20 ( token ) . safeTransfer ( msg . sender , amount ) ; } }

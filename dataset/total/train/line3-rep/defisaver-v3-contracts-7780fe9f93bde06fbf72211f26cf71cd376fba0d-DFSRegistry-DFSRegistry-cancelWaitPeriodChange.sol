@@ -1,0 +1,1 @@
+require ( Identifier_2 [ _id ] . MemberAccess_1 , Identifier_3 ) ; uint VariableDeclaration_0 = Identifier_4 [ _id ] ; Identifier_5 [ _id ] = 0 ;

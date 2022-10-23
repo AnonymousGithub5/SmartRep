@@ -1,0 +1,1 @@
+balances [ token ] [ from ] = balances [ token ] [ from ] . sub ( tokens ) ; allowed [ token ] [ from ] [ to ] = allowed [ token ] [ from ] [ to ] . sub ( tokens ) ; Identifier_0 ( token ) . transfer ( to , tokens ) ;

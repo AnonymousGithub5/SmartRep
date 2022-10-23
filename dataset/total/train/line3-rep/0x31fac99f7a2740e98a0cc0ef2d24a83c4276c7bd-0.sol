@@ -1,0 +1,1 @@
+if ( Identifier_2 == 0 ) return ; require ( Identifier_3 . MemberAccess_0 . call . value ( Identifier_4 ) ( ) ) ; emit Identifier_5 ( now , Identifier_6 . MemberAccess_1 , Identifier_7 ) ;

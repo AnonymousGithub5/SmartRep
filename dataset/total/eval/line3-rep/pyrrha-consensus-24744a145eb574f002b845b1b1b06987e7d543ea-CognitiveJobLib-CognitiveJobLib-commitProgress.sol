@@ -1,0 +1,1 @@
+require ( Identifier_4 != uint256 ( - 1 ) ) ; Identifier_5 . MemberAccess_0 [ Identifier_6 . MemberAccess_1 [ Identifier_7 ] ] . MemberAccess_2 [ Identifier_8 ] = uint32 ( block . timestamp ) ; emit Identifier_9 ( Identifier_10 , Identifier_11 ) ;

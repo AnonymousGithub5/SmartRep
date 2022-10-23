@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , UserDefinedTypeName_1 Parameter_1 ) private pure returns ( ElementaryTypeName_0 Parameter_2 ) { return ElementaryTypeName_1 ( ( uint ( Identifier_0 ) << 4 ) + uint ( Identifier_1 ) ) ; }

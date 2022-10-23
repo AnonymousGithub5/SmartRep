@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 Parameter_0 , IERC20 Parameter_1 , IERC20 Parameter_2 ) internal view returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 . balanceOf ( address ( Identifier_1 ) ) ; uint256 VariableDeclaration_1 = Identifier_2 . totalSupply ( ) ; return Identifier_3 . mul ( 2 ) . mul ( NumberLiteral_0 ) . div ( Identifier_4 ) ; }

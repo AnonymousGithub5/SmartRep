@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) constant internal returns ( bool ) { uint256 VariableDeclaration_0 ;

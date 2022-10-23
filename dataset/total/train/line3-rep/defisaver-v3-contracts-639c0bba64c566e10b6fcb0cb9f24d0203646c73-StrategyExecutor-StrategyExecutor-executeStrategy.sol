@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 memory VariableDeclaration_1 = Identifier_2 . MemberAccess_1 ( Identifier_3 ) ; require ( Identifier_4 . MemberAccess_2 , Identifier_5 ) ; Identifier_6 ( Identifier_7 ) ;

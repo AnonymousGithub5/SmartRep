@@ -1,0 +1,1 @@
+Identifier_5 . transfer ( msg . sender , _amount ) ; emit Identifier_6 ( now , msg . sender , _amount ) ; }

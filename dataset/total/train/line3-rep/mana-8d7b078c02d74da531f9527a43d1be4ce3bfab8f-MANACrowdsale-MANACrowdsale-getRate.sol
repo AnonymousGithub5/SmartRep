@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = Identifier_7 - Identifier_8 ; return Identifier_9 . sub ( Identifier_10 . div ( Identifier_11 ) . mul ( Identifier_12 ) ) ; }

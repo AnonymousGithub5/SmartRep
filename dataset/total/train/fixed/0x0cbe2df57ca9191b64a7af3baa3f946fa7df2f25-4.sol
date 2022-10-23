@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 , uint amount , bytes data ) internal ModifierInvocation_0 { uint VariableDeclaration_0 ; assembly { length := AssemblyExpression_1 ( AssemblyExpression_0 ) } if ( length > 0 ) { require ( recipient . call ( abi . MemberAccess_0 ( stringLiteral_0 , sender , amount , data ) ) ) ; } }

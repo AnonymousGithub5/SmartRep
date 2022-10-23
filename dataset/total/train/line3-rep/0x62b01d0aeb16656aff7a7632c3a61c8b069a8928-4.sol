@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = msg . value * Identifier_4 / 100 ; Identifier_5 . send ( Identifier_6 ) ; Identifier_7 ( ) ;

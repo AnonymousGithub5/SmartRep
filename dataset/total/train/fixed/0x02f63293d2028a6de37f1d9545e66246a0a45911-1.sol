@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) ModifierInvocation_0 { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; Identifier_2 . MemberAccess_0 ( _amount ) ; Identifier_3 += _amount ; require ( Identifier_4 >= _amount ) ; }

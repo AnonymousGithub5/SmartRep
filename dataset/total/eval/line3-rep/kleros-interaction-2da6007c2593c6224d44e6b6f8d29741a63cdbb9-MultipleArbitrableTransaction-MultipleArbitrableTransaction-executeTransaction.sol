@@ -1,0 +1,1 @@
+require ( now - transaction . MemberAccess_0 >= transaction . MemberAccess_1 , stringLiteral_0 ) ; require ( transaction . status == Status . MemberAccess_2 , stringLiteral_1 ) ; transaction . MemberAccess_3 . transfer ( transaction . amount ) ;

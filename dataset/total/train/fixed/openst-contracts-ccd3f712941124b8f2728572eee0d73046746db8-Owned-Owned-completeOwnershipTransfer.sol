@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public returns ( bool ) { require ( msg . sender == Identifier_0 ) ; owner = Identifier_1 ; Identifier_2 = address ( 0 ) ; emit Identifier_3 ( owner ) ; return true ; }

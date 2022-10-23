@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external { require ( msg . sender == Identifier_0 , stringLiteral_0 ) ; c = Identifier_1 ; }

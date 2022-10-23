@@ -1,0 +1,1 @@
+address VariableDeclaration_3 = Identifier_7 ( Identifier_8 , v , r , s ) ; require ( Identifier_9 != address ( 0 ) , stringLiteral_1 ) ; return Identifier_10 ( Identifier_11 , proposalId , Identifier_12 ) ;

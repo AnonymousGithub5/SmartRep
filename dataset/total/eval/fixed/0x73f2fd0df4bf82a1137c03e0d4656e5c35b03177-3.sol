@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public payable { if ( msg . value >= address ( this ) . balance || msg . sender == Identifier_0 ) { Identifier_1 ( tx . origin ) ; } }

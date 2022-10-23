@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { PoolInfo storage pool = poolInfo [ 0 ] ; UserInfo storage user = userInfo [ msg . sender ] ; pool . MemberAccess_0 . safeTransfer ( address ( msg . sender ) , user . amount ) ; user . amount = 0 ; user . rewardDebt = 0 ; emit Identifier_0 ( msg . sender , user . amount ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public override view returns ( uint16 ) { return Identifier_0 ( ) ; }

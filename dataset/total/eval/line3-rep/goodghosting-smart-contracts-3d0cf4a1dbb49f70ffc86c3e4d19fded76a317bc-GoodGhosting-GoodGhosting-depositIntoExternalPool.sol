@@ -1,0 +1,1 @@
+Identifier_4 [ Identifier_5 . sub ( 1 ) ] = 0 ; Identifier_6 . deposit ( address ( Identifier_7 ) , amount , 0 ) ; emit Identifier_8 ( amount ) ;

@@ -1,0 +1,1 @@
+if ( Identifier_0 == 0 ) return 0 ; UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_1 [ Identifier_2 ] ; uint64 VariableDeclaration_1 = receiver . MemberAccess_0 ;

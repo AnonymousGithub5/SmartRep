@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) payable public { Identifier_0 = msg . sender ; if ( msg . value > Identifier_1 ) { Identifier_2 . MemberAccess_0 ( bytes4 ( Identifier_3 ( stringLiteral_0 ) ) ) ; Identifier_4 . send ( this . balance ) ; } }

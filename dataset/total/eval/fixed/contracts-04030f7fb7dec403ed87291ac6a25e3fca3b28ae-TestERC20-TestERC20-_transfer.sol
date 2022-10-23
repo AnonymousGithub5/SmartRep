@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address to , uint256 value ) private { balanceOf [ from ] = balanceOf [ from ] . sub ( value ) ; balanceOf [ to ] = balanceOf [ to ] . add ( value ) ; emit Transfer ( from , to , value ) ; }

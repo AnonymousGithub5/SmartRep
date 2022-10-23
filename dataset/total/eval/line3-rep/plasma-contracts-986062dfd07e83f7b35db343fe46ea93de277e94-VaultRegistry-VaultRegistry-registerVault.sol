@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 ) public ModifierInvocation_0 { require ( Identifier_0 != 0 , stringLiteral_0 ) ;

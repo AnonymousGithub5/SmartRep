@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 returns ( bool ) { require ( Identifier_0 ( Identifier_1 ) . balanceOf ( address ( this ) ) <= 10 * Identifier_2 , stringLiteral_0 ) ;

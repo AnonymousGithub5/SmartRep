@@ -1,0 +1,1 @@
+Identifier_4 ( Identifier_5 . token , Identifier_6 . MemberAccess_1 , Identifier_7 . MemberAccess_2 ) ; Identifier_8 . MemberAccess_3 ( Identifier_9 . MemberAccess_4 ) ; emit Identifier_10 ( Identifier_11 , Identifier_12 ) ;

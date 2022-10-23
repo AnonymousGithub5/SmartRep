@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( address , uint256 ) { address memory VariableDeclaration_0 = Identifier_0 ( ) ; uint256 VariableDeclaration_1 ;

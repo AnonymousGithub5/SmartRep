@@ -1,0 +1,1 @@
+Identifier_2 . MemberAccess_0 ( Identifier_3 ) . approve ( address ( Identifier_4 [ Identifier_5 ] ) , uint256 ( - 1 ) ) ; Identifier_6 [ Identifier_7 ] . MemberAccess_1 ( amount ) ; }

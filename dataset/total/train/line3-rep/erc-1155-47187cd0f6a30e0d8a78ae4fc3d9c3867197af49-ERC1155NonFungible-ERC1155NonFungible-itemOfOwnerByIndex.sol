@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address _owner , uint128 Parameter_1 ) external view returns ( uint256 ) { require ( Identifier_0 & Identifier_1 == 0 && Identifier_2 & Identifier_3 != 0 ) ; require ( _index < Identifier_4 [ Identifier_5 ] . MemberAccess_0 [ _owner ] ) ;

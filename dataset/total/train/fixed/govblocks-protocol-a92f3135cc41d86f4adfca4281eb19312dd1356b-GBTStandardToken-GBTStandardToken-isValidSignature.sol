@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address Parameter_1 , uint8 Parameter_2 , bytes32 Parameter_3 , bytes32 Parameter_4 ) public pure returns ( bool ) { address VariableDeclaration_0 = Identifier_0 ( hash , v , r , s ) ; return ( a == Identifier_1 ) ; }

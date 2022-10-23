@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) public { require ( msg . sender == Identifier_0 [ 0 ] ) ; bytes32 VariableDeclaration_0 = Identifier_1 ( Identifier_2 , Identifier_3 ) ; require ( ! Identifier_4 [ Identifier_5 ] ) ; Identifier_6 [ Identifier_7 ] = true ; emit Identifier_8 ( Identifier_9 [ 0 ] , Identifier_10 [ 1 ] , Identifier_11 ) ; }

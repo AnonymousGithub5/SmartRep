@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 x , uint256 y ) internal pure returns ( uint256 ) { if ( x == 0 ) { return 0 ; } uint256 VariableDeclaration_0 = x * y ; assert ( Identifier_0 / x == y ) ; Identifier_1 = Identifier_2 / NumberLiteral_0 ; return Identifier_3 ; }

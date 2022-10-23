@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address spender , uint256 amount , bytes memory data ) public returns ( bool ) { require ( Identifier_0 ( spender , amount ) ) ; Identifier_1 ( msg . sender , spender , amount , data ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address to , bytes calldata data ) external payable returns ( bool success ) { require ( to != address ( this ) , stringLiteral_0 ) ; Identifier_0 [ to ] += msg . value ; emit Transfer ( address ( 0 ) , to , msg . value ) ; Identifier_1 ( to ) . MemberAccess_0 ( msg . sender , msg . value , data ) ; return true ; }

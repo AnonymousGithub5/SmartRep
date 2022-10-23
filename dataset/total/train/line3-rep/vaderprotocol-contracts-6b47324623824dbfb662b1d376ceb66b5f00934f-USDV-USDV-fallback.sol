@@ -1,0 +1,1 @@
+totalSupply = 0 ; } 

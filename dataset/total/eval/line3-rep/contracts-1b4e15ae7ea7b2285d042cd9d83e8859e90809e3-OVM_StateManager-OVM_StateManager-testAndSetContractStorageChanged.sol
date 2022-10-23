@@ -1,0 +1,1 @@
+return Identifier_0 ( keccak256 ( abi . encodePacked ( _contract , _key ) ) , Identifier_1 . MemberAccess_0

@@ -1,0 +1,1 @@
+function transfer ( address Parameter_0 , uint256 amount ) public override returns ( bool ) { Identifier_0 ( _msgSender ( ) , recipient , amount ) ; return true ; }

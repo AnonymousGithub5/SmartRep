@@ -1,0 +1,1 @@
+Identifier_2 = msg . sender ; controller = Identifier_3 ; Identifier_4 ( ERC20 ( Identifier_5 ) . MemberAccess_0 ( ) ) ;

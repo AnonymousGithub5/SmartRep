@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) private view { require ( keccak256 ( abi . encodePacked ( tx . origin , block . number ) ) != Identifier_0 , stringLiteral_0 ) ; }

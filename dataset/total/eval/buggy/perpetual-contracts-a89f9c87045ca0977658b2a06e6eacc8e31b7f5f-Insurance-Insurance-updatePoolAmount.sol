@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public override { int256 VariableDeclaration_0 = ( Identifier_0 . MemberAccess_0 ( address ( this ) ) ) . MemberAccess_1 . MemberAccess_2 ; if ( Identifier_1 > 0 ) { Identifier_2 . withdraw ( uint256 ( Identifier_3 ) ) ; Identifier_4 = Identifier_5 + uint256 ( Identifier_6 ) ; } }

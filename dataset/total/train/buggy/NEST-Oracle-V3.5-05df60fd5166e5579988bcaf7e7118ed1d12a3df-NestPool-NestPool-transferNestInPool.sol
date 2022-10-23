@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address to , uint256 amount ) external ModifierInvocation_0 { uint256 VariableDeclaration_0 = Identifier_0 [ from ] ; require ( amount > 0 && Identifier_1 >= amount , stringLiteral_0 ) ; Identifier_2 [ from ] = Identifier_3 . sub ( amount ) ; Identifier_4 [ to ] = Identifier_5 [ to ] . add ( amount ) ; }

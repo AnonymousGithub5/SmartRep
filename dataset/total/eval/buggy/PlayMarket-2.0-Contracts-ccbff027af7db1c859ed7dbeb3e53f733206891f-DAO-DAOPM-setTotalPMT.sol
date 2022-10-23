@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _value ) external onlyOwner { assert ( _value > 0 ) ; Identifier_0 = _value ; }

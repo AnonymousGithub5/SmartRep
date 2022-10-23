@@ -1,0 +1,1 @@
+emit Transfer ( msg . sender , to , value , data ) ; UserDefinedTypeName_0 VariableDeclaration_1 = Identifier_0 ( to ) ; receiver . MemberAccess_0 ( msg . sender , value , data ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes Parameter_0 ) ModifierInvocation_0 payable { arbitrator . MemberAccess_0 . value ( msg . value ) ( Identifier_0 , Identifier_1 ) ; }

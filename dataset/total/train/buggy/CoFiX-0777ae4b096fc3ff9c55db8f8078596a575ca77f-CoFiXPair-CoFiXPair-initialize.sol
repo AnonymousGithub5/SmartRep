@@ -1,0 +1,1 @@
+function initialize ( address Parameter_0 , address Parameter_1 , string memory _name , string memory Parameter_2 ) external override { require ( msg . sender == factory , stringLiteral_0 ) ; Identifier_0 = Identifier_1 ; token1 = Identifier_2 ; name = _name ; symbol = _symbol ; }

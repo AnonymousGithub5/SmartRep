@@ -1,0 +1,1 @@
+uint256 Parameter_2 ) external returns ( uint256 , uint256 ) { uint VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( Identifier_2 ) ;

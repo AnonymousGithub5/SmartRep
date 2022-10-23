@@ -1,0 +1,1 @@
+{ return Identifier_0 ( Identifier_1 . balanceOf ( address ( this ) ) + totalSupply ( ) ) ; }

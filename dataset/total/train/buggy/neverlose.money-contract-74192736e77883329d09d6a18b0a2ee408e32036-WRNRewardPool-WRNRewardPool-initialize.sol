@@ -1,0 +1,1 @@
+function initialize ( address Parameter_0 ) public { Identifier_0 . MemberAccess_0 ( ) ; Identifier_1 = Identifier_2 ( Identifier_3 ) ; Identifier_4 = block . number ; Identifier_5 = NumberLiteral_0 ; Identifier_6 = Identifier_7 . add ( NumberLiteral_1 ) ; Identifier_8 = Identifier_9 . add ( NumberLiteral_2 ) ; Identifier_10 = 5 ; }

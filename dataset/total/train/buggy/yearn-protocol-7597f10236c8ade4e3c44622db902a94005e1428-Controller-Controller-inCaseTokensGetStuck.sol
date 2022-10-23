@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token , uint _amount ) public { require ( msg . sender == Identifier_0 || msg . sender == Identifier_1 , stringLiteral_0 ) ; IERC20 ( _token ) . safeTransfer ( msg . sender , _amount ) ; }

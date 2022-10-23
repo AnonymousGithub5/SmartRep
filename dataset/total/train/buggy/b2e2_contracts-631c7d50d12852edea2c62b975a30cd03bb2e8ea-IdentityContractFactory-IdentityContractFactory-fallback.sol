@@ -1,0 +1,1 @@
+constructor ( UserDefinedTypeName_0 Parameter_0 ) public { owner = msg . sender ; Identifier_0 = Identifier_1 ; }

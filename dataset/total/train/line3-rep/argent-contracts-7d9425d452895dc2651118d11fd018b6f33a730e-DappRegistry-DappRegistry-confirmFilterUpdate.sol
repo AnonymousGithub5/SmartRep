@@ -1,0 +1,1 @@
+require ( Identifier_5 <= block . timestamp , stringLiteral_1 ) ; Identifier_6 [ Identifier_7 ] [ Identifier_8 ] = bytes32 ( Identifier_9 ) ; emit Identifier_10 ( Identifier_11 , Identifier_12 , address ( ElementaryTypeName_0 ( Identifier_13 >> NumberLiteral_1 ) ) , Identifier_14 ) ;

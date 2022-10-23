@@ -1,0 +1,1 @@
+function withdraw ( uint amount ) onlyOwner { if ( now >= Identifier_0 ) { uint VariableDeclaration_0 = Identifier_1 [ msg . sender ] ; if ( amount <= max && max > 0 ) { msg . sender . send ( amount ) ; Identifier_2 ( msg . sender , amount ) ; } } }

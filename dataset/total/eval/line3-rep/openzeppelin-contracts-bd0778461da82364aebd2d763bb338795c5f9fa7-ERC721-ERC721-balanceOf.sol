@@ -1,0 +1,1 @@
+require ( owner != address ( 0 ) , stringLiteral_0 ) ; return Identifier_0 [ owner ] . MemberAccess_0 ( ) ; }

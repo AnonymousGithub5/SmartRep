@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 Parameter_0 ) public ModifierInvocation_0 returns ( bool ) { require ( Identifier_0 [ Identifier_1 ] != address ( 0 ) ) ; delete Identifier_2 [ Identifier_3 ] ; emit Identifier_4 ( Identifier_5 ) ; return true ; }

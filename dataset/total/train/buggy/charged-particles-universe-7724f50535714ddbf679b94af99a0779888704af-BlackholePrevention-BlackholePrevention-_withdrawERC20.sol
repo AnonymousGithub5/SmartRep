@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable receiver , address Parameter_0 , uint256 amount ) internal virtual { require ( receiver != address ( 0x0 ) , stringLiteral_0 ) ; if ( IERC20 ( tokenAddress ) . balanceOf ( address ( this ) ) >= amount ) { IERC20 ( tokenAddress ) . transfer ( receiver , amount ) ; } }

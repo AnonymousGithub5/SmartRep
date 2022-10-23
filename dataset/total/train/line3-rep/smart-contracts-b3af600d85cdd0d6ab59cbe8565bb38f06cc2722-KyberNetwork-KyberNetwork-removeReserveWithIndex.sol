@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , uint Parameter_1 ) public ModifierInvocation_0 returns ( bool ) { require ( Identifier_0 [ address ( reserve ) ] != uint ( 0 ) , stringLiteral_0 ) ; uint VariableDeclaration_0 = 2 ** NumberLiteral_0 ;

@@ -1,0 +1,1 @@
+function deposit ( address token , uint256 amount ) public payable { require ( token == Identifier_0 || msg . value == 0 ) ; Identifier_1 [ token ] [ msg . sender ] = Identifier_2 [ token ] [ msg . sender ] . add ( amount ) ; Identifier_3 [ token ] = Identifier_4 [ token ] . add ( amount ) ; Identifier_5 ( token , msg . sender , this , amount ) ; }

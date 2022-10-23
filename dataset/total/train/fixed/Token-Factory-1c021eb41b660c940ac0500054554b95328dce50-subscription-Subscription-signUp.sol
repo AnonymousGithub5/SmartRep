@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { uint VariableDeclaration_0 = 1 * 1 ether ; token . transferFrom ( msg . sender , this , Identifier_0 ) ; Identifier_1 [ msg . sender ] = Identifier_2 ; emit Identifier_3 ( msg . sender ) ; }

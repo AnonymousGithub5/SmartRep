@@ -1,0 +1,1 @@
+} uint256 VariableDeclaration_0 = Identifier_4 [ msg . sender ] . amount . mul ( Identifier_5 ) . sub ( Identifier_6 [ msg . sender ] . MemberAccess_0 ) ; if ( pending > 0 ) {

@@ -1,0 +1,1 @@
+Identifier_4 . MemberAccess_2 ( Identifier_5 . MemberAccess_3 ) ; Identifier_6 = Identifier_7 . MemberAccess_4 ; delete Identifier_8 [ id ] ;

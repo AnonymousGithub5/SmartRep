@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable _wallet , string memory Parameter_0 ) internal { bytes memory VariableDeclaration_0 = abi . MemberAccess_0 ( stringLiteral_0 , Identifier_0 , Identifier_1 ) ; address VariableDeclaration_1 = Identifier_2 ( Identifier_3 ) . MemberAccess_1 ( ) ;

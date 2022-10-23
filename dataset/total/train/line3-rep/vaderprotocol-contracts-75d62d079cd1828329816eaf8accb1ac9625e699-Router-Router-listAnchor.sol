@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) external { require ( Identifier_0 . length < 5 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint128 Parameter_0 , uint128 Parameter_1 , uint64 Parameter_2 ) internal view returns ( uint128 ) { if ( Identifier_0 > 0 && Identifier_1 < now ) { return Identifier_2 ;

@@ -1,0 +1,1 @@
+int128 VariableDeclaration_0 = Identifier_0 . mul ( k , Identifier_1 . MemberAccess_0 ( Identifier_2 ) ) ; int128 VariableDeclaration_1 = Identifier_3 . sub ( 0x10000000000000000 , Identifier_4 . mul ( Identifier_5 , Identifier_6 ) ) ; require ( a > 0 ) ;

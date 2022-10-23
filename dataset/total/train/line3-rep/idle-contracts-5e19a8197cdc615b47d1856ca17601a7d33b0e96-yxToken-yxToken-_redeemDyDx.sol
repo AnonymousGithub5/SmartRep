@@ -1,0 +1,1 @@
+Identifier_0 [ 0 ] = Identifier_1 ( address ( this ) , 0 ) ; UserDefinedTypeName_2 memory VariableDeclaration_1 = Identifier_2 ( false , Identifier_3 . MemberAccess_0 , Identifier_4 . MemberAccess_1 , _amount ) ; UserDefinedTypeName_3 memory VariableDeclaration_2 ;

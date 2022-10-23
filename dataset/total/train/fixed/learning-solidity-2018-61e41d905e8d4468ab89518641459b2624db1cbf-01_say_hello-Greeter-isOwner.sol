@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) view private returns ( bool ) { return msg . sender == owner ; }

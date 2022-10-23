@@ -1,0 +1,1 @@
+address VariableDeclaration_1 = registry . MemberAccess_2 ( Identifier_1 . MemberAccess_3 ) ; address VariableDeclaration_2 = registry . MemberAccess_4 ( Identifier_2 . MemberAccess_5 ) ; if ( msg . sender == Identifier_3 || msg . sender == Identifier_4 ) {

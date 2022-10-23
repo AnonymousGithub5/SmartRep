@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; ( uint VariableDeclaration_1 , UserDefinedTypeName_1 memory VariableDeclaration_2 ) = Identifier_2 ( session , Identifier_3 , Identifier_4 ) ; if ( Identifier_5 != 0 ) {

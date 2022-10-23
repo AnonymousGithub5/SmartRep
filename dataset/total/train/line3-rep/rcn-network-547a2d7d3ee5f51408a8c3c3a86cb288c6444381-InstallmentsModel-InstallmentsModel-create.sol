@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 id , bytes memory data ) public ModifierInvocation_0 returns ( bool ) { require ( Identifier_0 [ id ] . MemberAccess_0 == 0 , stringLiteral_0 ) ;

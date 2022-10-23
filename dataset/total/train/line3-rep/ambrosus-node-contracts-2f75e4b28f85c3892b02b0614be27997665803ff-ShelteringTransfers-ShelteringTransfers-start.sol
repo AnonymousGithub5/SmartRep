@@ -1,0 +1,1 @@
+Identifier_0 ( msg . sender , Identifier_1 ) ; bytes32 VariableDeclaration_0 = Identifier_2 . MemberAccess_0 ( msg . sender , Identifier_3 ) ; Identifier_4 . MemberAccess_1 ( Identifier_5 , msg . sender , Identifier_6 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , uint256 amount ) public view returns ( uint256 value ) { ( uint256 VariableDeclaration_0 , uint256 VariableDeclaration_1 ) = iPOOLS ( POOLS ) . MemberAccess_0 ( token ) ; if ( Identifier_0 > 0 && Identifier_1 > 0 ) { return ( amount * Identifier_2 ) / Identifier_3 ; } }

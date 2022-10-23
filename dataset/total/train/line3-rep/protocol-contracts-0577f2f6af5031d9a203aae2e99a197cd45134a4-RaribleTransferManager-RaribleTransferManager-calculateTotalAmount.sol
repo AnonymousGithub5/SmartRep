@@ -1,0 +1,1 @@
+uint Parameter_0 , UserDefinedTypeName_0 memory Parameter_1 ) internal pure returns ( uint Parameter_2 ) {

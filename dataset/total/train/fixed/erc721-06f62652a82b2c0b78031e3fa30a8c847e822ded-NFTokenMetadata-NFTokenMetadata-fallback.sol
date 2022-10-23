@@ -1,0 +1,1 @@
+constructor ( string _name , string Parameter_0 ) ModifierInvocation_0 ( ) public { Identifier_0 = _name ; Identifier_1 = _symbol ; Identifier_2 [ NumberLiteral_0 ] = true ; }

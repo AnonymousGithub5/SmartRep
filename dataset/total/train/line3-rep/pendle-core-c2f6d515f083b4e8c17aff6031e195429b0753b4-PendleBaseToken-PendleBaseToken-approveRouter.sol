@@ -1,0 +1,1 @@
+require ( msg . sender == address ( Identifier_0 ) , stringLiteral_0 ) ; Identifier_1 ( msg . sender , address ( Identifier_2 ) , type ( uint256 ) . max ) ; }

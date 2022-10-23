@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , address from , bytes memory Parameter_1 , bytes memory Parameter_2 , bytes memory Parameter_3 ) public { require ( Identifier_0 [ address ( pool ) ] , stringLiteral_0 ) ; bytes32 VariableDeclaration_0 ;

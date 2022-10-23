@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address receiver , uint Parameter_0 ) internal returns ( uint Parameter_1 ) { address VariableDeclaration_0 = Identifier_0 ;

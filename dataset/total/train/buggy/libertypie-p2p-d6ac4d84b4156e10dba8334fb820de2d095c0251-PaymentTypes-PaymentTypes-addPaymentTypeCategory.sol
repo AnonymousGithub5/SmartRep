@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string calldata Parameter_0 ) external ModifierInvocation_0 ( ) returns ( uint256 ) { return Identifier_0 ( name ) ; }

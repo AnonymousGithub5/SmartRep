@@ -1,0 +1,1 @@
+ERC20 token = ERC20 ( Identifier_0 ) ; token . transferFrom ( msg . sender , address ( this ) , _amount ) ; address VariableDeclaration_0 = Identifier_1 [ Identifier_2 ] ;

@@ -1,0 +1,1 @@
+internal { bool VariableDeclaration_0 ;

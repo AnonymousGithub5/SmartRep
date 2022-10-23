@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; require ( fee != Identifier_2 ) ; emit Identifier_3 ( fee , Identifier_4 ) ;

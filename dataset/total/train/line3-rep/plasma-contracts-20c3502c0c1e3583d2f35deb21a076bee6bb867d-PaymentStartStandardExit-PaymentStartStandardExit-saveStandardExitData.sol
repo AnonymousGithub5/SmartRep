@@ -1,0 +1,1 @@
+amount : data . MemberAccess_5 . amount , bondSize : msg . value - Identifier_2 . MemberAccess_6 ( tx . MemberAccess_7 ) , bountySize : Identifier_3 . MemberAccess_8 ( tx . MemberAccess_9 )

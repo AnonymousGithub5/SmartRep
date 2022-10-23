@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 , address Parameter_1 , address Parameter_2 , uint256 Parameter_3 ) public ModifierInvocation_0 ( Identifier_10 ( address ( 0 ) ) ) { dai = ERC20 ( Identifier_0 ) ; Identifier_1 = Identifier_2 ( Identifier_3 ) ; Identifier_4 = Identifier_5 ; Identifier_6 = block . number . div ( Identifier_7 ) ; Identifier_8 ( Identifier_9 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) internal view returns ( bytes32 ) { return keccak256 ( abi . encode ( Identifier_0 , Identifier_1 . nonce , Identifier_2 . MemberAccess_0 , keccak256 ( Identifier_3 . MemberAccess_1 ) ) ) ; }

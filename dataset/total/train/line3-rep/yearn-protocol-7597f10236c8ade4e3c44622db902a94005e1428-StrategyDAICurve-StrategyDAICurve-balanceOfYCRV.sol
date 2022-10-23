@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint ) { return IERC20 ( Identifier_0 ) . balanceOf ( address ( this ) ) ;

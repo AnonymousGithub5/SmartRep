@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external whenNotPaused { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ;

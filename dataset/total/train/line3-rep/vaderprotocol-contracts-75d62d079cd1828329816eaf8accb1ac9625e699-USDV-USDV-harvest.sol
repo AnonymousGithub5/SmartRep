@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) external returns ( uint Parameter_0 ) { address VariableDeclaration_0 = msg . sender ;

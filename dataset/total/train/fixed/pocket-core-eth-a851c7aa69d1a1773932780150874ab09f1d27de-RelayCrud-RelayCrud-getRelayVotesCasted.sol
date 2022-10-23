@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public returns ( uint Parameter_1 ) { return Identifier_0 [ Identifier_1 ] . MemberAccess_0 ; }

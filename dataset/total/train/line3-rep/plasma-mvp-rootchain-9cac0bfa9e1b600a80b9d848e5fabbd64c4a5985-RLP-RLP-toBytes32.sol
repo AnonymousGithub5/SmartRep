@@ -1,0 +1,1 @@
+internal view returns ( bytes32 data )

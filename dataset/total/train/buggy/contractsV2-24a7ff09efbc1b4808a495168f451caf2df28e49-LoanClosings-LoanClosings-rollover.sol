@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , bytes calldata ) external nonReentrant { uint256 VariableDeclaration_0 = Identifier_0 ( ) + NumberLiteral_0 ; require ( msg . sender == tx . origin , stringLiteral_0 ) ; return Identifier_1 ( loanId , Identifier_2 , "" ) ; }

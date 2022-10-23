@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) public pure returns ( bytes32 ) { return keccak256 ( abi . encodePacked ( order . MemberAccess_0 . MemberAccess_1 . MemberAccess_2 , order . MemberAccess_3 . MemberAccess_4 . MemberAccess_5 ) ) ; }

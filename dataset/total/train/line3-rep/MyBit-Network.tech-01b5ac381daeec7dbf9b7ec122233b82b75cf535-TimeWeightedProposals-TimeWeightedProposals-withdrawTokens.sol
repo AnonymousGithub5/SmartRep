@@ -1,0 +1,1 @@
+database . MemberAccess_1 ( Identifier_9 ) ; require ( ERC20 ( _token ) . transfer ( Identifier_10 , value ) ) ; emit Identifier_11 ( Identifier_12 , value ) ;

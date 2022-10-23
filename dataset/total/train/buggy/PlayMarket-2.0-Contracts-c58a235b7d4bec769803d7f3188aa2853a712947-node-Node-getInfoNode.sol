@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external view returns ( uint32 , bool , uint , string , string , string ) { return Identifier_0 . MemberAccess_0 ( _node ) ; }

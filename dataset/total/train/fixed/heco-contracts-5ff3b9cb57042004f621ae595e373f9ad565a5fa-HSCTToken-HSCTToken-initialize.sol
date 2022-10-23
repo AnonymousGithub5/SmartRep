@@ -1,0 +1,1 @@
+function initialize ( address Parameter_0 ) external ModifierInvocation_0 { Identifier_0 ( stringLiteral_0 , stringLiteral_1 ) ; require ( Identifier_1 != address ( 0 ) , stringLiteral_2 ) ; _mint ( Identifier_2 , NumberLiteral_0 * 10 ** 18 ) ; Identifier_3 = true ; }

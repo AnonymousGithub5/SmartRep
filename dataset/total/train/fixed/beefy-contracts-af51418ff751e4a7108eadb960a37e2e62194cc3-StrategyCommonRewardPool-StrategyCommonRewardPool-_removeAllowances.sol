@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal { IERC20 ( want ) . safeApprove ( Identifier_0 , 0 ) ; IERC20 ( Identifier_1 ) . safeApprove ( Identifier_2 , 0 ) ; if ( Identifier_3 != Identifier_4 ) { IERC20 ( Identifier_5 ) . safeApprove ( Identifier_6 , 0 ) ; IERC20 ( Identifier_7 ) . safeApprove ( Identifier_8 , 0 ) ; } }

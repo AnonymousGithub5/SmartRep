@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) internal view returns ( uint256 ) { if ( Identifier_0 != 0 ) { ( uint256 interestOwedPerDay , ) = Identifier_1 ( ) ; return Identifier_2 . mul ( NumberLiteral_0 * Identifier_3 ) . div ( Identifier_4 ) ; } }

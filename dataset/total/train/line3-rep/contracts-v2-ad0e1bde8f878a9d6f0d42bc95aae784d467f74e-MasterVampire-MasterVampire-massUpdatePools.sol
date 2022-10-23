@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { uint256 VariableDeclaration_0 = poolInfo . length ;

@@ -1,0 +1,1 @@
+bytes32 VariableDeclaration_1 = Identifier_1 . MemberAccess_1 ( address ( _wallet ) , Identifier_2 . MemberAccess_2 ( tokens [ i ] ) ) ; if ( loanId != 0 ) { Identifier_3 . MemberAccess_3 ( _wallet , loanId ) ;

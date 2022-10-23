@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , string calldata Parameter_1 ) external override { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; require ( Identifier_2 . status == Status . MemberAccess_0 , stringLiteral_0 ) ; emit Identifier_3 ( arbitrator , Identifier_4 , msg . sender , Identifier_5 ) ; }

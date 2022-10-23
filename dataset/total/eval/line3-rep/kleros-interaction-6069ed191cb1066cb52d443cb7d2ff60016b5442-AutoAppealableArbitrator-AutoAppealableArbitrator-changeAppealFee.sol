@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 ) public onlyOwner { UserDefinedTypeName_0 storage VariableDeclaration_0 = disputes [ _disputeID ] ;

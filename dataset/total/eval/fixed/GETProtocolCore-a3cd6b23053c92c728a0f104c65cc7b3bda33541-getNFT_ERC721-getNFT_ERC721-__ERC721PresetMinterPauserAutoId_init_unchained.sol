@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal ModifierInvocation_0 { Identifier_0 ( stringLiteral_0 ) ; Identifier_1 . MemberAccess_0 ( ) ; }

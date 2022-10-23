@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address receiver , uint64 Parameter_0 ) public ModifierInvocation_0 { uint64 memory VariableDeclaration_0 = new uint64 ( Identifier_0 ) ; for ( uint64 i = 0 ; i < Identifier_1 ; i ++ ) { Identifier_2 [ i ] = i + 1 ; } Identifier_3 ( receiver ) . MemberAccess_0 ( Identifier_4 ) ; Identifier_5 ++ ; }

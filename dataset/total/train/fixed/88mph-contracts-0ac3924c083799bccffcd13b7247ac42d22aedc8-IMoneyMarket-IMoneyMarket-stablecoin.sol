@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view virtual returns ( ERC20 ) ;

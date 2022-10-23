@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 , address Parameter_1 , address Parameter_2 ) public ModifierInvocation_0 ( Identifier_5 ) { factory = Identifier_0 ( Identifier_1 ) ; Identifier_2 = Identifier_3 ( Identifier_4 ) ; }

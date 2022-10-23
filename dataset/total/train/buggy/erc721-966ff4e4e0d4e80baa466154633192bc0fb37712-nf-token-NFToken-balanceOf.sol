@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner ) external view returns ( uint256 ) { require ( _owner != address ( 0 ) ) ; return Identifier_0 ( _owner ) ; }

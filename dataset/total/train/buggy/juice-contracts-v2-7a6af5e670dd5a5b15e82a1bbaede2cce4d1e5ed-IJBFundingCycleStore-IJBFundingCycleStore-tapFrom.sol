@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 _amount ) external returns ( UserDefinedTypeName_0 memory Parameter_1 ) ;

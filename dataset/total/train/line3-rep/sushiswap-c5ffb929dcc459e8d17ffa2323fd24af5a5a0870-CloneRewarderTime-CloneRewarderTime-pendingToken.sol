@@ -1,0 +1,1 @@
+} pending = ( user . amount . mul ( Identifier_11 ) / Identifier_12 ) . sub ( user . rewardDebt ) ; }

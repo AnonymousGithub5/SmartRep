@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _wallet ) public view returns ( uint64 Parameter_0 ) { uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( _wallet ) ; if ( Identifier_1 > now ) { Identifier_2 = uint64 ( Identifier_3 ) ; } }

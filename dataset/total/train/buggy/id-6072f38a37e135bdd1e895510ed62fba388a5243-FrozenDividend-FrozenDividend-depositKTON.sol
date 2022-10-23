@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public { address VariableDeclaration_0 = registry . MemberAccess_0 ( Identifier_0 . MemberAccess_1 ) ; ERC20 ( Identifier_1 ) . transferFrom ( msg . sender , address ( this ) , Identifier_2 ) ; Identifier_3 ( Identifier_4 ) ; }

@@ -1,0 +1,1 @@
+require ( address ( Identifier_0 ) != address ( 0 ) , stringLiteral_1 ) ; Identifier_1 ( msg . sender ) ; super . withdraw ( amount ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 token , address to , uint256 amount ) public virtual override ModifierInvocation_0 ModifierInvocation_1 ( to ) { Identifier_0 ( token , to , amount ) ; }

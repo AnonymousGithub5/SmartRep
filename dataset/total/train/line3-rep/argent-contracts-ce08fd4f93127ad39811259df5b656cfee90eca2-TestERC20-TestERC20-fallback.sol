@@ -1,0 +1,1 @@
+constructor ( address memory Parameter_0 , uint Parameter_1 , uint8 Parameter_2 ) { Identifier_0 ( Identifier_1 ) ; for ( uint i = 0 ; i < Identifier_2 . length ; i ++ ) {

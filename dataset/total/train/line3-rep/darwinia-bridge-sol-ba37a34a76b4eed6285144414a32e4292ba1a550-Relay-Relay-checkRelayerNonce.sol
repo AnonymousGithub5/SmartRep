@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint32 Parameter_0 ) view public returns ( bool ) { return nonce == Identifier_0 ( ) + 1 ; }

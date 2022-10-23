@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner , address _spender ) constant external returns ( uint256 Parameter_0 ) { return allowed [ _owner ] [ _spender ] ; }

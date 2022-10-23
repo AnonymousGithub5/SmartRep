@@ -1,0 +1,1 @@
+require ( Identifier_4 ( Identifier_5 ) ) ; require ( ERC20 ( Identifier_6 ) . transfer ( Identifier_7 , Identifier_8 ) ) ; }

@@ -1,0 +1,1 @@
+if AssemblyExpression_9 ( AssemblyExpression_8 , 0 ) { let Identifier_3 := AssemblyExpression_13 ( AssemblyExpression_12 ( DecimalNumber_4 , AssemblyExpression_11 ( DecimalNumber_5 , AssemblyExpression_10 ) ) , DecimalNumber_6 ) let Identifier_4 := AssemblyExpression_17 ( mload ( AssemblyExpression_14 ) , AssemblyExpression_16 ( AssemblyExpression_15 ) )

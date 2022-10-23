@@ -1,0 +1,1 @@
+constructor ( ) public { uint VariableDeclaration_0 ; assembly { Identifier_0 := AssemblyExpression_0 ( ) } Identifier_1 = keccak256 ( abi . encode ( keccak256 ( stringLiteral_0 ) , keccak256 ( bytes ( name ) ) , keccak256 ( bytes ( stringLiteral_1 ) ) , Identifier_2 , address ( this ) ) ) ; }

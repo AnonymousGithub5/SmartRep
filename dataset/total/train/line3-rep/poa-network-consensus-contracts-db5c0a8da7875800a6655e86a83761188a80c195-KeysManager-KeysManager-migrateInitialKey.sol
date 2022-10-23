@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public { require ( Identifier_0 ( Identifier_1 ) == uint8 ( Identifier_2 . MemberAccess_0 ) ) ;

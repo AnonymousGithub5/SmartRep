@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = Identifier_2 ( value , fee ) ; state . MemberAccess_0 ( from , sender , Identifier_3 ( state . MemberAccess_1 ( from , sender ) , value ) ) ; return Identifier_4 ( from , to , Identifier_5 , fee ) ;

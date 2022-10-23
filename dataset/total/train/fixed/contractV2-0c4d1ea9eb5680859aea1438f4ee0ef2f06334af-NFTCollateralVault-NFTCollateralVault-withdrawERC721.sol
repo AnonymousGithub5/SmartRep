@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 tokenId ) external onlyOwner { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; Identifier_1 ( Identifier_2 , tokenId , 1 ) ; Identifier_3 ( Identifier_4 ) . safeTransferFrom ( address ( this ) , Identifier_5 , tokenId , "" ) ; }

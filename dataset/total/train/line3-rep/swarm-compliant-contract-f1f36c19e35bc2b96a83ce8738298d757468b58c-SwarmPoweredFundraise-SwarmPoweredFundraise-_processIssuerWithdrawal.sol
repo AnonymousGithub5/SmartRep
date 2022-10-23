@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) internal returns ( bool ) { uint256 amount = Identifier_0 [ currency ] ;

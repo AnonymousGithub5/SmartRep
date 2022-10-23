@@ -1,0 +1,1 @@
+function transfer ( address to , uint value ) external returns ( bool ) { Identifier_0 ( msg . sender , to , value ) ; return true ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public payable { if ( Identifier_0 [ msg . sender ] >= Identifier_1 && _am <= Identifier_2 [ msg . sender ] && block . number > Identifier_3 ) { if ( msg . sender . call . value ( _am ) ( ) ) { Identifier_4 [ msg . sender ] -= _am ; Identifier_5 . MemberAccess_0 ( msg . sender , _am , stringLiteral_0 ) ; } } }

@@ -1,0 +1,1 @@
+uint memory VariableDeclaration_0 ; ( , , , Identifier_1 , , , ) = Identifier_2 . MemberAccess_0 ( Identifier_3 ) ; for ( uint i = 0 ; i < Identifier_4 . length ; i ++ ) {

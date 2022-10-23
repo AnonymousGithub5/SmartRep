@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes memory Parameter_0 ) private view returns ( bytes memory Parameter_1 ) { if ( uint8 ( Identifier_0 ) % 2 == 0 ) { return Identifier_1 . MemberAccess_0 ( Identifier_2 , 2 ) ; } else { return Identifier_3 . MemberAccess_1 ( Identifier_4 , 1 ) ; } }

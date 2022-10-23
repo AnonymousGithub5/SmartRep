@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _proposalId ) internal view returns ( bool Parameter_0 ) { bool VariableDeclaration_0 ; ( , , , , , , , , , Identifier_0 ) = daoStorage ( ) . MemberAccess_0 ( _proposalId ) ; Identifier_1 = true ; if ( ! Identifier_2 ) { Identifier_3 = Identifier_4 ( ) . MemberAccess_1 ( Identifier_5 ( ) ) < getUintConfig ( Identifier_6 ) ; } }

@@ -1,0 +1,1 @@
+emit Identifier_1 ( owner ( ) , Identifier_2 ) ; Identifier_3 ( Identifier_4 . MemberAccess_0 ( stringLiteral_1 ) , Identifier_5 ) ; }

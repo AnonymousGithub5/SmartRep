@@ -1,0 +1,1 @@
+constructor ( address _token , address Parameter_0 ) public { require ( _token != address ( 0 ) && Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; token = _token ; Identifier_1 = Identifier_2 ; Identifier_3 = NumberLiteral_0 ; IERC20 ( Identifier_4 ) . safeApprove ( _token , uint256 ( - 1 ) ) ; }

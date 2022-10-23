@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bool Parameter_0 ) internal view returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( ) ; if ( Identifier_1 < Identifier_2 . MemberAccess_1 ) { return 0 ; } if ( Identifier_3 ) { return Identifier_4 ; } return Identifier_5 . sub ( Identifier_6 . MemberAccess_2 ) ; }

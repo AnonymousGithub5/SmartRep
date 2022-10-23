@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint64 Parameter_0 ) private { Identifier_0 [ slot ] . state = Identifier_1 . MemberAccess_0 ; Identifier_2 [ slot ] = msg . sender ; emit Identifier_3 ( slot ) ; }

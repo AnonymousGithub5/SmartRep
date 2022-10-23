@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = arbitrator . MemberAccess_0 ( _disputeID , Identifier_8 ) ; return ( Identifier_9 , Identifier_10 . add ( Identifier_11 . mul ( Identifier_12 ) / Identifier_13 ) ) ; }

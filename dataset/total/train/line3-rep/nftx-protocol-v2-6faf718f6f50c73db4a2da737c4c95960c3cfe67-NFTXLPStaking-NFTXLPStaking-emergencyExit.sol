@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 memory pool = Identifier_0 ( Identifier_1 , Identifier_2 ) ; UserDefinedTypeName_1 VariableDeclaration_0 = Identifier_3 ( pool ) ; require ( Identifier_4 ( address ( Identifier_5 ) ) , stringLiteral_0 ) ;

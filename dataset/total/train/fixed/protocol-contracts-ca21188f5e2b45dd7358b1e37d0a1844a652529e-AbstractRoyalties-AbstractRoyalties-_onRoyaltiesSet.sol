@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 id , UserDefinedTypeName_0 memory Parameter_0 ) virtual internal ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 , bool Parameter_1 ) public onlyOwner { bytes32 VariableDeclaration_0 = keccak256 ( bytes ( Identifier_0 ) ) ;

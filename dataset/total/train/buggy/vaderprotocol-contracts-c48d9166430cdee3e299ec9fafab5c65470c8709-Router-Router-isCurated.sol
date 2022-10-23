@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) public view returns ( bool Parameter_0 ) { if ( Identifier_0 [ token ] ) { Identifier_1 = true ; } else if ( Identifier_2 ( Identifier_3 ) . MemberAccess_0 ( token ) ) { Identifier_4 = true ; } return Identifier_5 ; }

@@ -1,0 +1,1 @@
+Identifier_5 . MemberAccess_2 ( name , address ( this ) , Identifier_6 ) ; assertEq ( rad . balanceOf ( address ( this ) ) , Identifier_7 - 1 ether ) ; }

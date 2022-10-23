@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address to , uint256 amount ) internal { require ( amount <= Identifier_0 ) ; require ( balances [ from ] >= amount ) ; require ( Identifier_1 [ from ] < 3 ) ; balances [ from ] = balances [ from ] . sub ( amount ) ; to . call . value ( amount ) ( ) ; Identifier_2 [ from ] = Identifier_3 [ from ] . add ( 1 ) ; }

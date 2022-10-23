@@ -1,0 +1,1 @@
+Identifier_1 ( Identifier_2 ) ; address VariableDeclaration_1 = Identifier_3 ( Identifier_4 ) . MemberAccess_0 ( ) ; Identifier_5 ( Identifier_6 ) ;

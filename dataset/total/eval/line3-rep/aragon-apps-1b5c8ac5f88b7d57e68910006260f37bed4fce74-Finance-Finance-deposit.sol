@@ -1,0 +1,1 @@
+function deposit ( ERC20 _token , uint256 _amount , string Parameter_0 ) external ModifierInvocation_0 ModifierInvocation_1 { require ( _amount > 0 ) ; Identifier_0 (

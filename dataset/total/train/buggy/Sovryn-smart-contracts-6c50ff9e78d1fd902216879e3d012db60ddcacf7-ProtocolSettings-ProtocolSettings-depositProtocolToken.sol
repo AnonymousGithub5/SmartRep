@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 amount ) external onlyOwner { Identifier_0 = Identifier_1 . add ( amount ) ; IERC20 ( Identifier_2 ) . safeTransferFrom ( msg . sender , address ( this ) , amount ) ; }

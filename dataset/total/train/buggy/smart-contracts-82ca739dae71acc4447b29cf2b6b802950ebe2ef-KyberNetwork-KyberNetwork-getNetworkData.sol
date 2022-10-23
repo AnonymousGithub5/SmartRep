@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view returns ( uint Parameter_0 , uint Parameter_1 , uint Parameter_2 ) { ( Identifier_0 , Identifier_1 ) = Identifier_2 ( Identifier_3 ) ; Identifier_4 = Identifier_5 . MemberAccess_0 ( ) ; return ( Identifier_6 , Identifier_7 , Identifier_8 ) ; }

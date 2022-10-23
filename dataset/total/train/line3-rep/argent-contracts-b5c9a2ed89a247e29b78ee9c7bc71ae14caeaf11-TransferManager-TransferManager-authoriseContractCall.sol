@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _wallet , address _contract , bytes memory ) internal view { require (

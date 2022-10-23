@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 calldata Parameter_0 , address Parameter_1 ) public returns ( uint256 memory Parameter_2 ) { balances = new uint256 ( tokens . length ) ; for ( uint256 i = 0 ; i < tokens . length ; i ++ ) { balances [ i ] = tokens [ i ] . MemberAccess_0 ( wallet ) ; } }

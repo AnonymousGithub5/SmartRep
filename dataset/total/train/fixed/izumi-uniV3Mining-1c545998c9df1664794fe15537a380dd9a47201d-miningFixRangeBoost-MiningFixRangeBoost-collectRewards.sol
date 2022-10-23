@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) nonReentrant external { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ msg . sender ] ; for ( uint256 i = 0 ; i < Identifier_1 . length ( ) ; i ++ ) { require ( Identifier_2 [ Identifier_3 . MemberAccess_0 ( i ) ] == msg . sender , stringLiteral_0 ) ; Identifier_4 ( Identifier_5 . MemberAccess_1 ( i ) ) ; } }

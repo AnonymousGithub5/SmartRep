@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 ; ( , , , , , Identifier_0 , Identifier_1 ) = Identifier_2 . MemberAccess_0 ( _categoryId ) ; if ( Identifier_3 == 0 )

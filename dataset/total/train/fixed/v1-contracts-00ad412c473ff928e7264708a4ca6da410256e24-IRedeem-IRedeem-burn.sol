@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user , uint amount ) external ;

@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ expiry ] ; uint256 VariableDeclaration_1 = Identifier_1 ( expiry ) ; Identifier_2 = Identifier_3 . MemberAccess_0 . mul ( Identifier_4 ) . div (

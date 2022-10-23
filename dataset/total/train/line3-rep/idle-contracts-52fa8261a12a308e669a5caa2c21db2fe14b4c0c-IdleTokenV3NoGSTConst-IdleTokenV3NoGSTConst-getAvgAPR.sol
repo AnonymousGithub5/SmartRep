@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 ; for ( uint8 i = 0 ; i < Identifier_1 . length ; i ++ ) { if ( amounts [ i ] == 0 ) {

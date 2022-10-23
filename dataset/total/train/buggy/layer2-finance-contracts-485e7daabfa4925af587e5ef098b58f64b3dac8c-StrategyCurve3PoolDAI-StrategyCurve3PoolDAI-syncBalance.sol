@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view override returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) . balanceOf ( address ( this ) ) ; uint256 VariableDeclaration_1 = Identifier_2 . mul ( Identifier_3 ( Identifier_4 ) . MemberAccess_0 ( Identifier_5 , 0 ) ) ; return Identifier_6 ; }

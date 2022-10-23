@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external onlyOwner { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; Identifier_1 = Identifier_2 ; Identifier_3 = Identifier_4 ( Identifier_5 ) ; IERC20 ( Identifier_6 ) . approve ( token , uint256 ( - 1 ) ) ; }

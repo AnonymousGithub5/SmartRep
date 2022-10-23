@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external constant returns ( uint256 ) { return this . balance - Identifier_0 ; }

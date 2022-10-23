@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 , address account ) internal { require ( Identifier_0 ( Identifier_1 , account ) , stringLiteral_0 ) ; Identifier_2 . MemberAccess_0 [ account ] = false ; }

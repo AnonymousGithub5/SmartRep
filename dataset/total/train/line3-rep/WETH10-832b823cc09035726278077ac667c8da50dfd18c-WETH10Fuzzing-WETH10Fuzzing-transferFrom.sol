@@ -1,0 +1,1 @@
+assert ( Identifier_10 . balanceOf ( Identifier_11 ) == Identifier_12 ( Identifier_13 , Identifier_14 ) ) ; assert ( address ( Identifier_15 ) . balance == Identifier_16 . totalSupply ( ) ) ; }

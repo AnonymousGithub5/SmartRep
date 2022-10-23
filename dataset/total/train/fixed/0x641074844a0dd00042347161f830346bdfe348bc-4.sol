@@ -1,0 +1,1 @@
+function withdraw ( uint amount ) onlyOwner { uint VariableDeclaration_0 = Identifier_0 [ msg . sender ] ; if ( amount <= Identifier_1 && Identifier_2 > 0 ) if ( ! msg . sender . send ( amount ) ) revert ( ) ; }

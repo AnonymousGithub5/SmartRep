@@ -1,0 +1,1 @@
+returns ( bool ) { require ( token . MemberAccess_0 ( Identifier_0 , address ( this ) ) >= _amount ) ; require ( token . MemberAccess_1 ( Identifier_1 , _amount ) ) ;

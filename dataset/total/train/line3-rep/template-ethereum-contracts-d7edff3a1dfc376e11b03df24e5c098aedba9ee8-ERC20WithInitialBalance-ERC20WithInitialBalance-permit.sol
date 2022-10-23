@@ -1,0 +1,1 @@
+stringLiteral_1 , Identifier_1 , keccak256 ( abi . encode ( Identifier_2 , owner , spender , value , Identifier_3 , Identifier_4 ) )

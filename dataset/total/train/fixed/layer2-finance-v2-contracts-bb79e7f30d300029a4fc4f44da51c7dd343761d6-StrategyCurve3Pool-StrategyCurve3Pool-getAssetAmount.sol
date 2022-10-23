@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view override returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) . balanceOf ( address ( this ) ) ; return ( ( Identifier_2 * Identifier_3 ( pool ) . MemberAccess_0 ( ) ) / Identifier_4 ) / Identifier_5 ; }

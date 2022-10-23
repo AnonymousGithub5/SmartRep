@@ -1,0 +1,1 @@
+) external { require ( msg . sender == Identifier_0 , stringLiteral_0 ) ; if ( amount > 0 ) {

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 returns ( bool ) { require ( ! Identifier_0 [ msg . sender ] , stringLiteral_0 ) ;

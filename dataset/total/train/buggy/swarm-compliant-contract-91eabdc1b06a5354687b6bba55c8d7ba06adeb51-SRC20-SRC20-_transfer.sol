@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address to , uint256 value ) internal { require ( to != address ( 0 ) ) ; Identifier_0 [ from ] = Identifier_1 [ from ] . sub ( value ) ; Identifier_2 [ to ] = Identifier_3 [ to ] . add ( value ) ; Identifier_4 [ from ] ++ ; emit Transfer ( from , to , value ) ; }

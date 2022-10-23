@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external onlyOwner { Identifier_0 = true ; emit Identifier_1 ( now ) ; }

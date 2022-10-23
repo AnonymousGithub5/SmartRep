@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 returns ( string memory ) { return Identifier_0 ; }

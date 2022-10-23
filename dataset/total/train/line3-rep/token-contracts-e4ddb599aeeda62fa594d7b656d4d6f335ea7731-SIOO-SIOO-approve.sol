@@ -1,0 +1,1 @@
+if ( ! Identifier_1 ( controller ) . MemberAccess_0 ( msg . sender , _spender , _amount ) ) throw ; }

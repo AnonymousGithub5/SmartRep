@@ -1,0 +1,1 @@
+bytes32 id = keccak256 ( Identifier_0 , msg . sender ) ; UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_1 [ id ] ; Identifier_2 . MemberAccess_0 = msg . sender ;

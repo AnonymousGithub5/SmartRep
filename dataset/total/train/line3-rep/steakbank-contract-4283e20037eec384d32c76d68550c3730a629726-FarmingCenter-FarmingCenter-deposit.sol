@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = user . amount . mul ( pool . MemberAccess_0 ) . div ( 1e12 ) . sub ( user . rewardDebt ) ; if ( pending > 0 ) { Identifier_1 ( msg . sender , pending ) ;

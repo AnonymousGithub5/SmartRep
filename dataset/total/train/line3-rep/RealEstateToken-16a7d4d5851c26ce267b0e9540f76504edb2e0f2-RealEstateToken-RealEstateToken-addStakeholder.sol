@@ -1,0 +1,1 @@
+public { ( bool _isStakeholder , ) = Identifier_0 ( Identifier_1 ) ;

@@ -1,0 +1,1 @@
+UserDefinedTypeName_2 memory VariableDeclaration_1 = Identifier_6 . MemberAccess_0 ( uint256 ( Identifier_7 ) ) . div ( uint112 ( Identifier_8 ) )

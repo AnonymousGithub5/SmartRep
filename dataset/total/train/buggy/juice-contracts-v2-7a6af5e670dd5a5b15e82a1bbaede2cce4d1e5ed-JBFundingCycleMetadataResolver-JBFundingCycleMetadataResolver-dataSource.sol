@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) internal pure returns ( UserDefinedTypeName_1 ) { return Identifier_0 ( address ( ElementaryTypeName_0 ( _fundingCycle . MemberAccess_0 >> NumberLiteral_0 ) ) ) ; }

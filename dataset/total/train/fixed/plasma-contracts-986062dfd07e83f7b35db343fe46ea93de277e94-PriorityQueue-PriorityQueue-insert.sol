@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external ModifierInvocation_0 ( Identifier_7 ) { Identifier_0 . MemberAccess_0 . push ( Identifier_1 ) ; Identifier_2 . MemberAccess_1 = Identifier_3 . MemberAccess_2 . add ( 1 ) ; Identifier_4 ( Identifier_5 , Identifier_6 . MemberAccess_3 ) ; }

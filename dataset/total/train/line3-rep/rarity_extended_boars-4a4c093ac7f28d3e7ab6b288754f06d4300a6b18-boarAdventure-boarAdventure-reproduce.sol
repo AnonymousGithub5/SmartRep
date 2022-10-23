@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) external { require ( Identifier_0 ( Identifier_1 ) , stringLiteral_0 ) ; require ( block . timestamp > Identifier_2 [ Identifier_3 ] , stringLiteral_1 ) ;

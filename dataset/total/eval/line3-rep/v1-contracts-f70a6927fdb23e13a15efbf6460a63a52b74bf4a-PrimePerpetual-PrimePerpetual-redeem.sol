@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_0 ; ( , address tokenS , address tokenR , uint base , uint price , ) = Identifier_1 ( Identifier_2 ) . MemberAccess_0 ( ) ; require ( IERC20 ( Identifier_3 ) . balanceOf ( msg . sender ) >= Identifier_4 , stringLiteral_0 ) ;

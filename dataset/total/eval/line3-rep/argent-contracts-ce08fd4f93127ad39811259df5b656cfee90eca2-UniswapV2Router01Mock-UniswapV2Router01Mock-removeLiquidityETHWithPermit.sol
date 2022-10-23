@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( factory , token , Identifier_1 ) ; uint VariableDeclaration_1 = Identifier_2 ? uint ( - 1 ) : Identifier_3 ; Identifier_4 ( Identifier_5 ) . MemberAccess_1 ( msg . sender , address ( this ) , value , Identifier_6 , v , r , s ) ;

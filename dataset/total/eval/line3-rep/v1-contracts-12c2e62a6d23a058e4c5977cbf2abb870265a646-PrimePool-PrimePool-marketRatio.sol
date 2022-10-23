@@ -1,0 +1,1 @@
+address token = Identifier_2 == Identifier_3 ? Identifier_4 ( Identifier_5 ) . MemberAccess_1 ( ) : Identifier_6 ; Identifier_7 = Identifier_8 . div ( Identifier_9 ( Identifier_10 ) . MemberAccess_2 ( token ) ) ; }

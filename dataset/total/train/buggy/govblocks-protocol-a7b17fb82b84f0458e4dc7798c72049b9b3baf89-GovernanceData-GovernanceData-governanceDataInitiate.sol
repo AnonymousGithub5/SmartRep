@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { require ( Identifier_0 == false ) ; Identifier_1 ( ) ; Identifier_2 ( ) ; Identifier_3 ( stringLiteral_0 , NumberLiteral_0 ) ; Identifier_4 . push ( Identifier_5 ( NumberLiteral_1 , new uint ( 0 ) , 0 ) ) ; Identifier_6 = true ; }

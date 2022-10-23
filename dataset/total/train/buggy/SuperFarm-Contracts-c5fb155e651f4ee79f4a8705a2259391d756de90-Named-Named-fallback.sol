@@ -1,0 +1,1 @@
+constructor ( string memory _name ) public { name = _name ; emit Identifier_0 ( _msgSender ( ) , "" , _name ) ; }

@@ -1,0 +1,1 @@
+require ( msg . sender == Identifier_1 ) ; require ( _value <= balances [ tx . origin ] ) ; balances [ tx . origin ] = balances [ tx . origin ] . sub ( _value ) ;

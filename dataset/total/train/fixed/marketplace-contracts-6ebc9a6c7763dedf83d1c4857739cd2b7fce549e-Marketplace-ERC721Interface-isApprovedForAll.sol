@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner , address Parameter_0 ) external view returns ( bool ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 ) external onlyAdmin { Identifier_0 = Identifier_1 ; emit Identifier_2 ( msg . sender , Identifier_3 ) ; }

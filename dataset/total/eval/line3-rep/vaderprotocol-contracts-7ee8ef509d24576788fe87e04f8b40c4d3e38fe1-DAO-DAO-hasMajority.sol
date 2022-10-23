@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; uint VariableDeclaration_1 = Identifier_2 ( Identifier_3 ) . MemberAccess_0 ( ) . div ( 2 ) ; if ( Identifier_4 > Identifier_5 ) {

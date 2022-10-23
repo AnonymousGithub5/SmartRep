@@ -1,0 +1,1 @@
+function deposit ( uint256 Parameter_0 , uint256 _amount ) public { poolInfo [ _pid ] . MemberAccess_0 . safeTransferFrom ( address ( msg . sender ) , address ( this ) , _amount ) ; Identifier_0 ( _pid , _amount ) ; }

@@ -1,0 +1,1 @@
+Identifier_14 [ 6 ] = ( Identifier_15 >> NumberLiteral_7 ) & ( 2 ** NumberLiteral_8 - 1 ) ; } 

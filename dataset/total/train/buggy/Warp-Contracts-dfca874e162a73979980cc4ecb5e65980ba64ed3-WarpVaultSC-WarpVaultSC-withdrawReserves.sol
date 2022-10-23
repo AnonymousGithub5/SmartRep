@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _amount ) public ModifierInvocation_0 { require ( Identifier_0 >= _amount , stringLiteral_0 ) ; Identifier_1 = Identifier_2 . sub ( _amount ) ; stablecoin . transfer ( Identifier_3 , _amount ) ; emit Identifier_4 ( _amount ) ; }

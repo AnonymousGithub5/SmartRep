@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { uint256 VariableDeclaration_0 = 4 ;

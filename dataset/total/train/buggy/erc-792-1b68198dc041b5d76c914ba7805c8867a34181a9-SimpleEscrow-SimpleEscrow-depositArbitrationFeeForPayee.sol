@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public payable { require ( ! Identifier_0 , stringLiteral_0 ) ; require ( ! Identifier_1 , stringLiteral_1 ) ; require ( Identifier_2 > 0 , stringLiteral_2 ) ; arbitrator . MemberAccess_0 . value ( msg . value ) ( uint ( Identifier_3 . MemberAccess_1 ) , "" ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { Identifier_0 . safeTransferFrom ( address ( 0 ) , address ( 0 ) , 0 ) ; }

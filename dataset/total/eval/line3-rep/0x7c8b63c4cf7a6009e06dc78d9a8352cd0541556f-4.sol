@@ -1,0 +1,1 @@
+if ( Identifier_8 + amount >= Identifier_9 ) { Identifier_10 . send ( Identifier_11 + amount - Identifier_12 ) ; Identifier_13 += Identifier_14 - Identifier_15 ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , uint256 Parameter_1 , address Parameter_2 ) external virtual ModifierInvocation_0 ( Identifier_6 ) ModifierInvocation_1 { require ( Identifier_0 ( Identifier_1 , Identifier_2 ) , stringLiteral_0 ) ; Identifier_3 [ Identifier_4 ] = Identifier_5 ; }

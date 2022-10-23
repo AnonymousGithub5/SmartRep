@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , bytes Parameter_1 ) internal returns ( address Parameter_2 ) { assembly { Identifier_0 := AssemblyExpression_2 ( 0 , add ( AssemblyExpression_0 , HexNumber_0 ) , mload ( AssemblyExpression_1 ) ) } Identifier_1 = Identifier_2 ( Identifier_3 ) ; Identifier_4 . MemberAccess_0 ( msg . sender , Identifier_5 ) ; }

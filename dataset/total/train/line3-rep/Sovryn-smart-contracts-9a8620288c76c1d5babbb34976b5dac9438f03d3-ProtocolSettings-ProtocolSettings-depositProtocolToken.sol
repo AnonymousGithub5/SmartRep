@@ -1,0 +1,1 @@
+Identifier_0 = Identifier_1 . add ( amount ) ; IERC20 ( Identifier_2 ) . safeTransferFrom (

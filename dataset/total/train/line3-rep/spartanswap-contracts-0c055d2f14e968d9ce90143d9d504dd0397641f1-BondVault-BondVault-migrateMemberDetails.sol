@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 , address Parameter_2 ) public ModifierInvocation_0 returns ( bool ) { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( member , asset ) ;

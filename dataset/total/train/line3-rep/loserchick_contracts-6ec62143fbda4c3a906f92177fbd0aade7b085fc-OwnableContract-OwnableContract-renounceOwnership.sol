@@ -1,0 +1,1 @@
+emit Identifier_1 ( Identifier_2 , address ( 0 ) ) ; emit Identifier_3 ( Identifier_4 , address ( 0 ) ) ; owner = address ( 0 ) ;

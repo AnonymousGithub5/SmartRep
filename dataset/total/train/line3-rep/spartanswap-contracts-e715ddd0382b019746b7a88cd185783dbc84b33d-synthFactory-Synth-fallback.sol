@@ -1,0 +1,1 @@
+string memory VariableDeclaration_0 = stringLiteral_0 ; string memory VariableDeclaration_1 = stringLiteral_1 ; _name = string ( abi . encodePacked ( Identifier_3 , Identifier_4 ( _token ) . MemberAccess_0 ( ) ) ) ;

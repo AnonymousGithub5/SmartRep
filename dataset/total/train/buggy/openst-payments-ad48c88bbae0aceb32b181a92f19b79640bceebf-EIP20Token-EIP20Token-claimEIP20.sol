@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _amount ) internal returns ( bool success ) { balances [ address ( this ) ] = balances [ address ( this ) ] . sub ( _amount ) ; balances [ _beneficiary ] = balances [ _beneficiary ] . add ( _amount ) ; Transfer ( address ( this ) , _beneficiary , _amount ) ; return true ; }

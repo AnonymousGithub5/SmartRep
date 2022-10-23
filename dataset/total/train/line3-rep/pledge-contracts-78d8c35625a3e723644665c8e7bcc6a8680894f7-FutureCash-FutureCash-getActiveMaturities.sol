@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint32 memory ) { uint32 memory VariableDeclaration_0 = new uint32 ( Identifier_0 ) ;

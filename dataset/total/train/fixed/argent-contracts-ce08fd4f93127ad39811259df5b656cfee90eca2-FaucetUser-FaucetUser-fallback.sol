@@ -1,0 +1,1 @@
+constructor ( UserDefinedTypeName_0 Parameter_0 , IERC20 Parameter_1 ) { Identifier_0 . MemberAccess_0 ( address ( Identifier_1 ) ) ; Identifier_2 . transfer ( msg . sender , Identifier_3 . balanceOf ( address ( this ) ) ) ; Identifier_4 ( Identifier_5 ( msg . sender ) ) ; }

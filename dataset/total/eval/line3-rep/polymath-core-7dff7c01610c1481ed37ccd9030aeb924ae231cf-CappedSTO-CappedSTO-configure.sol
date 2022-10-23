@@ -1,0 +1,1 @@
+{ require ( Identifier_0 > 0 , stringLiteral_0 ) ; require ( Identifier_1 != address ( 0 ) , stringLiteral_1 ) ;

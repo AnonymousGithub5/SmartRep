@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public onlyOwner ( ) returns ( bool ) { require ( Identifier_0 ( currency ) , stringLiteral_0 ) ; Identifier_1 = currency ; return true ; }

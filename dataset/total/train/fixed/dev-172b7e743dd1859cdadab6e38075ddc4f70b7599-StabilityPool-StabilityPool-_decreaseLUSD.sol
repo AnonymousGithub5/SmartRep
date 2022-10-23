@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _amount ) internal { uint VariableDeclaration_0 = Identifier_0 . sub ( _amount ) ; Identifier_1 = Identifier_2 ; emit Identifier_3 ( Identifier_4 ) ; }

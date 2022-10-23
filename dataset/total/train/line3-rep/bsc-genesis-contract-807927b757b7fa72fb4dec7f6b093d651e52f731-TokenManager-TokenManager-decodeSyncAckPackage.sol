@@ -1,0 +1,1 @@
+else if ( Identifier_5 == 1 ) Identifier_6 . MemberAccess_6 = Identifier_7 . MemberAccess_7 ( ) . MemberAccess_8 ( ) ; else if ( Identifier_8 == 2 ) Identifier_9 . MemberAccess_9 = uint8 ( Identifier_10 . MemberAccess_10 ( ) . MemberAccess_11 ( ) ) ; else if ( Identifier_11 == 3 ) {

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view ModifierInvocation_0 returns ( uint256 ) { uint256 VariableDeclaration_0 = DecimalMath . MemberAccess_0 ( Identifier_0 ( block . timestamp ) , Identifier_1 ) ; return IERC20 ( Identifier_2 ) . balanceOf ( address ( this ) ) . sub ( Identifier_3 ) ; }

@@ -1,0 +1,1 @@
+} Identifier_6 . MemberAccess_0 ( owner ( ) , Identifier_7 ( token ) . balanceOf ( address ( this ) ) ) ; } else {

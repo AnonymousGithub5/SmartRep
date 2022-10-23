@@ -1,0 +1,1 @@
+Identifier_23 . MemberAccess_4 ( sender , Identifier_24 ) ; dai . transfer ( to , ( Identifier_25 - ( Identifier_26 / RAY ) ) ) ; }

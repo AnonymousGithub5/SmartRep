@@ -1,0 +1,1 @@
+bool VariableDeclaration_1 = Identifier_1 . MemberAccess_1 ( _msgSender ( ) ) ; require ( Identifier_2 || Identifier_3 , stringLiteral_0 ) ; Identifier_4 ( Identifier_5 , Identifier_6 ) ;

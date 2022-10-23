@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) internal pure returns ( int Parameter_1 ) { Identifier_0 = int ( Identifier_1 ) ; require ( Identifier_2 >= 0 , stringLiteral_0 ) ; }

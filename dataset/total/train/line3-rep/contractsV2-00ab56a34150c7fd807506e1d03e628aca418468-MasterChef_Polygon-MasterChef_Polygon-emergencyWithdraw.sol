@@ -1,0 +1,1 @@
+if ( Identifier_0 == Identifier_1 ) { uint256 VariableDeclaration_2 = _amount . sub ( Identifier_2 [ msg . sender ] ) ; if ( _amount > Identifier_3 ) {

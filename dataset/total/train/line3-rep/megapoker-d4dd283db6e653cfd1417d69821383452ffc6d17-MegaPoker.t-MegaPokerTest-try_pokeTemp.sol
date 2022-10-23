@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal returns ( bool Parameter_0 ) { ( Identifier_0 , ) = Identifier_1 . call ( abi . MemberAccess_0 ( stringLiteral_0 ) ) ; }

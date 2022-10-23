@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { uint VariableDeclaration_0 = Identifier_0 ( ) ; token . safeTransfer ( controller , Identifier_1 ) ;

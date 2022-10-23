@@ -1,0 +1,1 @@
+name = _name ; symbol = _symbol ; Identifier_0 = Identifier_1 * 10 ** Identifier_2 ;

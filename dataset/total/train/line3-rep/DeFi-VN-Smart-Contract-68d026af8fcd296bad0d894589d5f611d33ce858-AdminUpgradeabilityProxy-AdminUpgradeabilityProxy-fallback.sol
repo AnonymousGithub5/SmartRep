@@ -1,0 +1,1 @@
+bytes memory _data ) public payable ModifierInvocation_0 ( Identifier_3 , _data ) { assert ( Identifier_0 == bytes32 ( uint256 ( keccak256 ( stringLiteral_0 ) ) - 1 ) ) ;

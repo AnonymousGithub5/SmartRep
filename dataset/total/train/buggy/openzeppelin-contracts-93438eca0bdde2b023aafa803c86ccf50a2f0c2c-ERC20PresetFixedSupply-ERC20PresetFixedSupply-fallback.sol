@@ -1,0 +1,1 @@
+constructor ( string memory Parameter_0 , string memory Parameter_1 , uint256 Parameter_2 , address owner ) public ModifierInvocation_0 ( name , symbol ) { _mint ( owner , Identifier_0 ) ; }

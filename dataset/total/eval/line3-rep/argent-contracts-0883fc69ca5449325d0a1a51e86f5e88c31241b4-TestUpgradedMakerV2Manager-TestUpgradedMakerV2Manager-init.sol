@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _wallet ) public override ModifierInvocation_0 ( _wallet ) { address memory VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( ) ;

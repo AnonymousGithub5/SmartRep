@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public view returns ( uint256 Parameter_1 ) { return Identifier_0 * Identifier_1 . token / Identifier_2 . MemberAccess_0 ; }

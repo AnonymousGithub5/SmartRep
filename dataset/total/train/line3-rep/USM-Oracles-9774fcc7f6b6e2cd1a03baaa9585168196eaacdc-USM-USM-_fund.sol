@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_0 ( ) ; uint VariableDeclaration_1 = Identifier_1 . MemberAccess_0 ( Identifier_2 ) ; Identifier_3 = Identifier_4 . add ( Identifier_5 ) ;

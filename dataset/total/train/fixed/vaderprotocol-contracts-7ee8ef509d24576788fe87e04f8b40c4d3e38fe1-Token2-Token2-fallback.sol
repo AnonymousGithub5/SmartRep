@@ -1,0 +1,1 @@
+constructor ( ) { Identifier_0 [ msg . sender ] = totalSupply ; name = stringLiteral_0 ; symbol = stringLiteral_1 ; emit Transfer ( address ( 0 ) , msg . sender , totalSupply ) ; }

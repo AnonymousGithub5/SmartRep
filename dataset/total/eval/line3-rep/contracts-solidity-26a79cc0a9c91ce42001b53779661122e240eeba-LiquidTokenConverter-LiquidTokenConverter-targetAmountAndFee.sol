@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , UserDefinedTypeName_1 Parameter_1 , uint256 _amount ) public override view returns ( uint256 , uint256 ) { if ( Identifier_0 == Identifier_1 ( address ( Identifier_2 ) ) && Identifier_3 [ Identifier_4 ] . MemberAccess_0 )

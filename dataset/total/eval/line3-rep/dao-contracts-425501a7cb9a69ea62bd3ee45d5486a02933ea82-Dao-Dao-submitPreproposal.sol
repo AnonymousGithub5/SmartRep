@@ -1,0 +1,1 @@
+require ( msg . value == getUintConfig ( Identifier_2 ) ) ; require ( address ( Identifier_3 ( ) ) . call . value ( msg . value ) ( ) ) ; Identifier_4 ( Identifier_5 , Identifier_6 ) ;

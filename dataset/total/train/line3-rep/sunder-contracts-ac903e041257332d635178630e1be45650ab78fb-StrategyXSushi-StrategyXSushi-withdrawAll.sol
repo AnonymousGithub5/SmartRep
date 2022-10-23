@@ -1,0 +1,1 @@
+if ( _amount > 0 ) { Identifier_1 ( Identifier_2 ) . withdraw ( want , address ( this ) , address ( this ) , _amount . sub ( Identifier_3 ) , 0 ) ; }

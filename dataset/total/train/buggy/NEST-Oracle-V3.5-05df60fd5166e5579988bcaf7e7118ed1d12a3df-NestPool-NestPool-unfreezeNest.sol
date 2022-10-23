@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) override public ModifierInvocation_0 { if ( Identifier_0 > 0 ) { Identifier_1 [ address ( this ) ] = Identifier_2 [ address ( this ) ] . sub ( Identifier_3 ) ; Identifier_4 [ Identifier_5 ] = Identifier_6 [ Identifier_7 ] . add ( Identifier_8 ) ; } }

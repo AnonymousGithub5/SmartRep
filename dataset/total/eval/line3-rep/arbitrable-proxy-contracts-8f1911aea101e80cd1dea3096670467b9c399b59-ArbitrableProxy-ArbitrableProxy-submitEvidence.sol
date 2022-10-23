@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , string calldata Parameter_1 ) external { UserDefinedTypeName_0 storage VariableDeclaration_0 = disputes [ Identifier_0 ] ;

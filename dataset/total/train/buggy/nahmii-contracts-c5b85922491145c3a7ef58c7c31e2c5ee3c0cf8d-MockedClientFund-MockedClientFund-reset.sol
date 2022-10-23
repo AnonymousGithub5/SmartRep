@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { Identifier_0 . length = 0 ; Identifier_1 . length = 0 ; Identifier_2 . length = 0 ; }

@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 ; ( , , Identifier_0 ) = Identifier_1 . MemberAccess_1 ( _categoryId ) ; address VariableDeclaration_1 ;

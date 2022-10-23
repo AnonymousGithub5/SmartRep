@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) internal view returns ( UserDefinedTypeName_0 memory Parameter_1 ) { UserDefinedTypeName_1 data = Identifier_0 . data ( ) ; ( _tokens . MemberAccess_0 , _tokens . MemberAccess_1 ) = data . MemberAccess_2 ( Identifier_1 , _expiry ) ; }

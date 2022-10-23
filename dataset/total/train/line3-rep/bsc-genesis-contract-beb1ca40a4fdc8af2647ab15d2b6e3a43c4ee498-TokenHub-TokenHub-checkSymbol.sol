@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 , bytes32 Parameter_1 ) public pure returns ( bool ) { bytes memory VariableDeclaration_0 = bytes ( Identifier_0 ) ;

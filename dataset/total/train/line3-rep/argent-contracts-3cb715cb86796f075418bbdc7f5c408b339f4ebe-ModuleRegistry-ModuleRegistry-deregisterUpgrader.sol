@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external onlyOwner { require ( Identifier_0 [ Identifier_1 ] . MemberAccess_0 , stringLiteral_0 ) ; delete Identifier_2 [ Identifier_3 ] ;

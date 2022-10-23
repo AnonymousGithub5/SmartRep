@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint amount , uint Parameter_0 ) internal { Identifier_0 [ account ] . push ( Identifier_1 ( Identifier_2 , amount ) ) ; }

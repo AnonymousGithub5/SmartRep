@@ -1,0 +1,1 @@
+constructor ( address _token , string memory Parameter_0 , string memory Parameter_1 ) public { Identifier_0 = _token ; Identifier_1 = Identifier_2 ( _token ) ; Identifier_3 = new UserDefinedTypeName_0 ( Identifier_4 , Identifier_5 ) ; Identifier_6 = owner ( ) ; Identifier_7 ( Identifier_8 ) . safeApprove ( Identifier_9 , uint ( - 1 ) ) ; }

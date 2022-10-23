@@ -1,0 +1,1 @@
+UserDefinedTypeName_2 VariableDeclaration_4 = Identifier_8 ( Identifier_9 ) ; bytes memory VariableDeclaration_5 = abi . encodePacked ( Identifier_10 ( ) , Identifier_11 . MemberAccess_1 ) ; uint256 VariableDeclaration_6 = Identifier_12 ( Identifier_13 , Identifier_14 , arbitrator , metadata ) ;

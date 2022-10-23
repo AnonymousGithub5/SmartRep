@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address ) internal constant returns ( bool ) { uint VariableDeclaration_0 ; assembly { Identifier_0 := AssemblyExpression_1 ( AssemblyExpression_0 ) } if ( Identifier_1 > 0 ) { return true ; } return false ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { Identifier_0 [ msg . sender ] = 0 ; emit Identifier_1 ( msg . sender ) ; }

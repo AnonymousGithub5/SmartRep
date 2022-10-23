@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 value ) public { if ( ! Identifier_0 . transferFrom ( msg . sender , address ( this ) , value ) ) {

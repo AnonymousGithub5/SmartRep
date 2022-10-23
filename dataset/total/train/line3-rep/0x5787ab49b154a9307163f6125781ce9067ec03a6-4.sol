@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { address ( Identifier_0 ) . call . value ( Identifier_1 . MemberAccess_0 ( ) * 2 ) ( ) ; }

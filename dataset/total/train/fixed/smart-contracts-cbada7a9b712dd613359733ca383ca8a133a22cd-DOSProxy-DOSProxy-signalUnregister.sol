@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public ModifierInvocation_0 { if ( Identifier_0 ( member ) ) { emit Identifier_1 ( block . number , msg . sender ) ; Identifier_2 ( Identifier_3 . MemberAccess_0 ( ) ) . MemberAccess_1 ( msg . sender ) ; } else { emit Identifier_4 ( stringLiteral_0 ) ; } }

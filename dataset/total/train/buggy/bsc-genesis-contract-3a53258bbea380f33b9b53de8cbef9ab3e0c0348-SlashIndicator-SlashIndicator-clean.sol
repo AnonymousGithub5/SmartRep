@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external override ( ISlashIndicator ) ModifierInvocation_0 ModifierInvocation_1 { uint VariableDeclaration_0 = Identifier_0 . length ; for ( uint i = 0 ; i < n ; i ++ ) { delete Identifier_1 [ Identifier_2 [ n - i - 1 ] ] ; Identifier_3 . MemberAccess_0 ( ) ; } emit Identifier_4 ( ) ; }

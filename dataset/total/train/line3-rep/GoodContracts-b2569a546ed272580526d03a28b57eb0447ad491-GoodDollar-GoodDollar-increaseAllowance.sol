@@ -1,0 +1,1 @@
+{ return super . MemberAccess_0 ( msg . sender , spender , Identifier_0 ) ; }

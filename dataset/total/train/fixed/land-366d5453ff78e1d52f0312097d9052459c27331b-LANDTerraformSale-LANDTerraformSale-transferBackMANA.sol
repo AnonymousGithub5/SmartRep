@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address , uint256 _amount ) onlyOwner public { require ( _address != address ( 0 ) ) ; require ( _amount > 0 ) ; address VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( _address ) ; if ( Identifier_1 == address ( 0 ) ) { Identifier_2 = _address ; } require ( token . transferFrom ( Identifier_3 , Identifier_4 , _amount ) ) ; }

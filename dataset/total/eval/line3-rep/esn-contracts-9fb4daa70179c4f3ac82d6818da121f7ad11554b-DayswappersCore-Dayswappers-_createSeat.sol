@@ -1,0 +1,1 @@
+uint32 VariableDeclaration_0 = uint32 ( Identifier_0 . length ) ; require ( ! Identifier_1 ( Identifier_2 ) , stringLiteral_0 ) ; Identifier_3 . push ( ) ;

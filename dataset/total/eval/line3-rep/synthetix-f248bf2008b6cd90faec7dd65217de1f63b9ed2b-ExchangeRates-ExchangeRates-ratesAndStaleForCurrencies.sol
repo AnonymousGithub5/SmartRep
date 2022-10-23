@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public view returns ( uint , bool ) { uint memory VariableDeclaration_0 = new uint ( Identifier_0 . length ) ;

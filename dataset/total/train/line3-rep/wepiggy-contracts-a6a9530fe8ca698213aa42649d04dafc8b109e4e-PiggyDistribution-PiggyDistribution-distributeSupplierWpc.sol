@@ -1,0 +1,1 @@
+uint VariableDeclaration_6 = Identifier_25 ( Identifier_26 [ Identifier_27 ] , Identifier_28 ) ; Identifier_29 [ Identifier_30 ] = Identifier_31 ( Identifier_32 , Identifier_33 , Identifier_34 ? 0 : Identifier_35 ) ; emit Identifier_36 ( Identifier_37 ( Identifier_38 ) , Identifier_39 , Identifier_40 , Identifier_41 . MemberAccess_5 ) ;

@@ -1,0 +1,1 @@
+Identifier_7 [ Identifier_8 ] [ msg . sender ] = 0 ; address VariableDeclaration_1 = Identifier_9 . MemberAccess_0 ( Identifier_10 ) ; Identifier_11 ( Identifier_12 ) . transfer ( msg . sender , Identifier_13 ) ;

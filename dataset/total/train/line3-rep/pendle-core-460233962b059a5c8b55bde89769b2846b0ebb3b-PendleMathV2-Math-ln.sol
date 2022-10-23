@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = Identifier_0 ( p , Identifier_1 ) ; require ( ! Identifier_2 ( Identifier_3 , Identifier_4 ) ) ; return ( Identifier_5 * Identifier_6 ) / Identifier_7 ;

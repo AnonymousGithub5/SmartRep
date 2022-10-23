@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) ModifierInvocation_0 { Identifier_0 . transfer ( amount ) ;

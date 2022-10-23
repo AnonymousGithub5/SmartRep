@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_2 ( Identifier_3 . MemberAccess_0 ( ) ) ; Identifier_4 . deposit ( Identifier_5 , balance , NumberLiteral_0 ) ; Identifier_6 = IERC20 ( token ) . balanceOf ( address ( this ) ) ;

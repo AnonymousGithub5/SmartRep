@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , bytes memory Parameter_1 ) public view returns ( uint Parameter_2 ) { fee = Identifier_0 ** ( disputes [ _disputeID ] . MemberAccess_0 + 2 ) ; }

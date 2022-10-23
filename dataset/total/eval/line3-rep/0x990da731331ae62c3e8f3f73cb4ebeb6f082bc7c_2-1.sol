@@ -1,0 +1,1 @@
+balanceOf [ target ] += Identifier_0 ; totalSupply += Identifier_1 ; Transfer ( 0 , this , Identifier_2 ) ;

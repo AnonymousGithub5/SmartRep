@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external override view returns ( uint ) { return Identifier_0 . length ; }

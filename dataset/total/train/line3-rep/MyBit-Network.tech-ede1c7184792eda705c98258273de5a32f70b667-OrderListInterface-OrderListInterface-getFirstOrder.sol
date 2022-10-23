@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint32 Parameter_0 , bool Parameter_1 ) ; 

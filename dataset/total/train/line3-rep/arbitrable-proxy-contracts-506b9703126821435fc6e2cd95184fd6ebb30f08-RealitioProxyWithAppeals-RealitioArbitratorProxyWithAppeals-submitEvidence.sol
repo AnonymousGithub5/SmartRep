@@ -1,0 +1,1 @@
+require ( Identifier_2 . status == Status . MemberAccess_0 , stringLiteral_0 ) ; if ( bytes ( Identifier_3 ) . length > 0 ) emit Identifier_4 ( arbitrator , Identifier_5 , msg . sender , Identifier_6 ) ; }

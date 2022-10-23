@@ -1,0 +1,1 @@
+function transfer ( address , uint256 ) public returns ( bool ) { Identifier_0 = 0 ; return false ; }

@@ -1,0 +1,1 @@
+constructor ( address memory Parameter_0 , uint256 memory Parameter_1 ) { require ( Identifier_0 . length == Identifier_1 . length , stringLiteral_0 ) ;

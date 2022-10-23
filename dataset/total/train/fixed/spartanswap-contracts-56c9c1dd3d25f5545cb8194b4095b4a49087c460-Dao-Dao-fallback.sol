@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 ) { Identifier_0 = Identifier_1 ; Identifier_2 = msg . sender ; Identifier_3 = address ( this ) ; Identifier_4 = 1 ; Identifier_5 = NumberLiteral_0 ; Identifier_6 = NumberLiteral_1 ; Identifier_7 = 1000 ; Identifier_8 = 100 ; Identifier_9 = 0 ; Identifier_10 = Identifier_11 ( Identifier_12 ) . MemberAccess_0 ( ) ; }

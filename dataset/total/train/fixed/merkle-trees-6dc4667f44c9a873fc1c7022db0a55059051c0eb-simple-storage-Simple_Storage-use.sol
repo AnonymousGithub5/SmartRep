@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 memory Parameter_0 ) public { uint256 VariableDeclaration_0 = Identifier_0 . length ; bytes32 VariableDeclaration_1 ; for ( uint256 i ; i < Identifier_1 ; ++ i ) { Identifier_2 = Identifier_3 ( Identifier_4 , Identifier_5 [ Identifier_6 [ i ] ] ) ; } emit Identifier_7 ( Identifier_8 ) ; }

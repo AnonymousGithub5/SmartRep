@@ -1,0 +1,1 @@
+constructor ( address payable Parameter_0 , uint Parameter_1 ) public ModifierInvocation_0 { owner = Identifier_0 ;

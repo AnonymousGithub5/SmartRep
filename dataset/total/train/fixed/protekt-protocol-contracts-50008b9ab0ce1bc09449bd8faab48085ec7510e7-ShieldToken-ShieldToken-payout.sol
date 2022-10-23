@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external returns ( uint256 ) { require ( msg . sender == address ( Identifier_0 ) , stringLiteral_0 ) ; uint256 amount = Identifier_1 . balanceOf ( address ( this ) ) ; Identifier_2 . safeTransfer ( Identifier_3 . MemberAccess_0 ( ) , amount ) ; return amount ; }

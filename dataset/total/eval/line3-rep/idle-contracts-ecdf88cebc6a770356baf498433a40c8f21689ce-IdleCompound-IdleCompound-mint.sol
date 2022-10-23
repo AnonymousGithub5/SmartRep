@@ -1,0 +1,1 @@
+function mint ( ) external returns ( uint256 Parameter_0 ) {

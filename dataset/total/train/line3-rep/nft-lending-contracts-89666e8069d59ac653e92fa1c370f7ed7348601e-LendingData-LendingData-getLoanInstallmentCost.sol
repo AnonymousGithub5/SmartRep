@@ -1,0 +1,1 @@
+) { require ( Identifier_0 <= loans [ loanId ] . MemberAccess_0 , stringLiteral_0 ) ; uint256 VariableDeclaration_0 = Identifier_1 ( msg . sender ) ;

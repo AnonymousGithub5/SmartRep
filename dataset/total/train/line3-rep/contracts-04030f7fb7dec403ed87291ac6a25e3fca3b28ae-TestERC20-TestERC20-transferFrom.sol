@@ -1,0 +1,1 @@
+function transferFrom ( address from , address to , uint value ) external returns ( bool ) { if ( allowance [ from ] [ msg . sender ] != uint ( - 1 ) ) {

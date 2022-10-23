@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { require ( ! Identifier_0 , stringLiteral_0 ) ; require ( Identifier_1 > 0 , stringLiteral_1 ) ; Identifier_2 = true ; IERC20 ( Identifier_3 ) . safeTransferFrom ( msg . sender , address ( this ) , Identifier_4 . mul ( Identifier_5 ) ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external onlyOwner { Identifier_0 . MemberAccess_0 . push ( Identifier_1 ) ;

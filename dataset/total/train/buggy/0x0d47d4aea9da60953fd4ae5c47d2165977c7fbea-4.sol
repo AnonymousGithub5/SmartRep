@@ -1,0 +1,1 @@
+function withdraw ( ) ModifierInvocation_0 { Identifier_0 . send ( this . balance ) ; }

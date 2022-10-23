@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external view returns ( bool ) { return ( keccak256 ( bytes ( Identifier_0 [ Identifier_1 ] . MemberAccess_0 ) ) != keccak256 ( "" ) ) ; }

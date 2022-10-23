@@ -1,0 +1,1 @@
+} else { IERC20 ( asset ) . transferFrom ( from , address ( this ) , amount ) ; }

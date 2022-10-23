@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bool Parameter_0 ) public onlyOwner { Identifier_0 = Identifier_1 ; emit Identifier_2 ( Identifier_3 , now ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) ModifierInvocation_0 public returns ( bool ) { super . MemberAccess_0 ( ) ;

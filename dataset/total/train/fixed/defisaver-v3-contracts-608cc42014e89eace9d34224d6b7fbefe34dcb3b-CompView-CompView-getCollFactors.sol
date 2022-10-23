@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address memory Parameter_0 ) public view returns ( uint memory Parameter_1 ) { Identifier_0 = new uint ( Identifier_1 . length ) ; for ( uint i = 0 ; i < Identifier_2 . length ; ++ i ) { ( , Identifier_3 [ i ] ) = Identifier_4 . MemberAccess_0 ( Identifier_5 [ i ] ) ; } }

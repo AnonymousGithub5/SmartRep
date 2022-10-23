@@ -1,0 +1,1 @@
+} Identifier_3 . MemberAccess_4 . MemberAccess_5 ( _from , Identifier_4 . MemberAccess_6 ) ; uint256 VariableDeclaration_0 =

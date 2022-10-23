@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public returns ( uint256 Parameter_1 ) { Identifier_0 = Identifier_1 . mul ( ( Identifier_2 ( Identifier_3 ) . sub ( Identifier_4 . max ( Identifier_5 ( ) , Identifier_6 ( Identifier_7 ) ) ) ) ) . div ( Identifier_8 ( Identifier_9 ) . sub ( Identifier_10 ( Identifier_11 ) ) ) ; }

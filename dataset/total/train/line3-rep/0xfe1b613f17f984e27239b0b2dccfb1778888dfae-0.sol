@@ -1,0 +1,1 @@
+if ( Identifier_2 ) { require ( msg . sender . call . value ( _user . MemberAccess_5 ) ( ) ) ; Identifier_3 . MemberAccess_6 += _user . MemberAccess_7 ;

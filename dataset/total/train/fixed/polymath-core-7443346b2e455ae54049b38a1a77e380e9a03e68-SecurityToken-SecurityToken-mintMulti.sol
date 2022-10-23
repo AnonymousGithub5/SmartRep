@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) external ModifierInvocation_0 ( Identifier_6 , true ) returns ( bool success ) { require ( Identifier_0 . length == Identifier_1 . length , stringLiteral_0 ) ; for ( uint256 i = 0 ; i < Identifier_2 . length ; i ++ ) { Identifier_3 ( Identifier_4 [ i ] , Identifier_5 [ i ] ) ; } return true ; }

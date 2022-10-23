@@ -1,0 +1,1 @@
+uint64 VariableDeclaration_2 = Identifier_11 ( ) ; emit Identifier_12 ( Identifier_13 , Identifier_14 , Identifier_15 ( Identifier_16 ) , Identifier_17 , Identifier_18 ) ; }

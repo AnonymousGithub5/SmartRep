@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address ) public virtual override returns ( uint ) { return 2 ;

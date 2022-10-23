@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , bytes32 Parameter_1 , uint8 Parameter_2 , address Parameter_3 , uint32 Parameter_4 , uint32 Parameter_5 ) internal pure returns ( address Parameter_6 ) { bytes32 VariableDeclaration_0 = keccak256 ( abi . encode ( Identifier_0 , Identifier_1 , Identifier_2 ) ) ; return Identifier_3 ( message , v , r , s ) ; }

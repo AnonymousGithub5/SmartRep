@@ -1,0 +1,1 @@
+function mint ( ) external payable returns ( uint ) { require ( msg . value > Identifier_0 , stringLiteral_0 ) ; require ( Identifier_1 . totalSupply ( ) > 0 , stringLiteral_1 ) ; uint VariableDeclaration_0 = _mint ( msg . value ) ; Identifier_2 ( ) ; return Identifier_3 ; }

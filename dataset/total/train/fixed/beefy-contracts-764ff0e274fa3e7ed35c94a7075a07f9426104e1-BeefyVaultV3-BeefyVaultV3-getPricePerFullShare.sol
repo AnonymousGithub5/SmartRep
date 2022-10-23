@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { return totalSupply ( ) == 0 ? 1e18 : balance ( ) . mul ( 1e18 ) . div ( totalSupply ( ) ) ; }

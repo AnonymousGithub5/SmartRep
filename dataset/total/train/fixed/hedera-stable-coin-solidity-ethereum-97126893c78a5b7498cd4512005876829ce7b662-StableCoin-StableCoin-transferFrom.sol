@@ -1,0 +1,1 @@
+function transferFrom ( address from , address to , uint256 amount ) public override ( ERC20UpgradeSafe ) { super . transferFrom ( from , to , amount ) ; emit Identifier_0 ( from , to , allowance ( from , _msgSender ( ) ) . sub ( amount ) ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) public { require ( block . number < Identifier_0 , stringLiteral_0 ) ;

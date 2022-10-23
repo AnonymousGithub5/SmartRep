@@ -1,0 +1,1 @@
+) public view returns ( uint256 Parameter_5 ) { ( uint256 VariableDeclaration_0 , uint256 VariableDeclaration_1 ) = Identifier_0 ( Identifier_1 , Identifier_2 ) ; Identifier_3 = Identifier_4 . mul ( Identifier_5 ) . div ( Identifier_6 ) ;

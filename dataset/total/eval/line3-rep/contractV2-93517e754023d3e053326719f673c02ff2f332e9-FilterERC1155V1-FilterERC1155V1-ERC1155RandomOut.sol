@@ -1,0 +1,1 @@
+( uint256 rawPay , ) = Identifier_0 ( amount ) ; Identifier_1 = Identifier_2 ( Identifier_3 ) . MemberAccess_0 ( msg . sender , Identifier_4 ) ; for ( uint256 i = 0 ; i < amount ; i ++ ) {

@@ -1,0 +1,1 @@
+function transfer ( address _to , uint _amount ) { if ( balances [ msg . sender ] < _amount ) { throw ; } balances [ msg . sender ] -= _amount ; balances [ _to ] += _amount ; require ( balances [ _to ] >= _amount ) ; }

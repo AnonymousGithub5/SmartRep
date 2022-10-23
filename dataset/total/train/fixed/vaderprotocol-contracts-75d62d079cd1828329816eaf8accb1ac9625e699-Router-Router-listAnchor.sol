@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) public { require ( Identifier_0 . length < 5 ) ; require ( iPOOLS ( POOLS ) . MemberAccess_0 ( token ) ) ; Identifier_1 . push ( token ) ; Identifier_2 . push ( iUTILS ( Identifier_3 ( ) ) . MemberAccess_1 ( token , Identifier_4 ) ) ; Identifier_5 ( token ) ; }

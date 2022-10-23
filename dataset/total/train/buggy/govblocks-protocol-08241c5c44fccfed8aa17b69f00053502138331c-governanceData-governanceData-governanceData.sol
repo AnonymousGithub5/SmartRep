@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) { Identifier_0 = NumberLiteral_0 ; Identifier_1 = 0 ; Identifier_2 = NumberLiteral_1 ; Identifier_3 ( ) ; Identifier_4 . push ( Identifier_5 ( NumberLiteral_2 , 0 , 0 , now , 0 ) ) ; }

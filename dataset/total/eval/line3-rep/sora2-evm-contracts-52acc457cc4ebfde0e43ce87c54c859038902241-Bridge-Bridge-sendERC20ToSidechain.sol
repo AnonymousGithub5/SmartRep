@@ -1,0 +1,1 @@
+bytes32 VariableDeclaration_0 = Identifier_0 [ tokenAddress ] ; if ( Identifier_1 . length != 0 || Identifier_2 == tokenAddress || Identifier_3 == tokenAddress ) { UserDefinedTypeName_0 VariableDeclaration_1 = Identifier_4 ( tokenAddress ) ;

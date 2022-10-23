@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory data ) private pure { require ( data . MemberAccess_0 . MemberAccess_1 == true , stringLiteral_0 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 calldata Parameter_0 , uint256 Parameter_1 ) public pure returns ( uint256 ) { return Identifier_0 . mul ( uint256 ( Identifier_1 . MemberAccess_0 ( Identifier_2 . MemberAccess_1 ) ) , price ) ; }

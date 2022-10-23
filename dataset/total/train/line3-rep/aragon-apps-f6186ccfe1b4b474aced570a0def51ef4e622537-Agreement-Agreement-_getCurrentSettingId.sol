@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view returns ( uint256 ) { return Identifier_0 - 1 ; }

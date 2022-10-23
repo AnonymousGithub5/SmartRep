@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 , string memory , bytes memory , bytes memory , bytes memory ) internal pure returns ( bool ) { return true ;

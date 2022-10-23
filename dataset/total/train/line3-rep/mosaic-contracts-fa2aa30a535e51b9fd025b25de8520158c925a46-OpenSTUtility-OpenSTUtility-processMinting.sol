@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_1 [ Identifier_2 ] ; require ( Identifier_3 . MemberAccess_0 == keccak256 ( Identifier_4 ) ) ; require ( Identifier_5 . MemberAccess_1 > block . number ) ;

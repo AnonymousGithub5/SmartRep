@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 . MemberAccess_0 ( ) ) ; require ( Identifier_2 . MemberAccess_1 ( msg . sender , Identifier_3 ) >= Identifier_4 , stringLiteral_0 ) ; Identifier_5 [ msg . sender ] . MemberAccess_2 = Identifier_6 [ msg . sender ] . MemberAccess_3 . add ( 1 ) ;

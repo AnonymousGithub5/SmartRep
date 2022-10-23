@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user ) external ModifierInvocation_0 { if ( ! Identifier_0 [ user ] ) {

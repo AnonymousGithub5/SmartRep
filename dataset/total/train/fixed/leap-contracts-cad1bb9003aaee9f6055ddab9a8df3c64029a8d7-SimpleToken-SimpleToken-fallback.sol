@@ -1,0 +1,1 @@
+constructor ( ) public ModifierInvocation_0 ( stringLiteral_0 , stringLiteral_1 , 8 ) { _mint ( msg . sender , Identifier_0 ) ; }

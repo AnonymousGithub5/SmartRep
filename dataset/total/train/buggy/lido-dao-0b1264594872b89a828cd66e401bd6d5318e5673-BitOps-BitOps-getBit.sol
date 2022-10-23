@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) internal pure returns ( bool ) { return 0 != ( Identifier_0 & ( 1 << Identifier_1 ) ) ; }

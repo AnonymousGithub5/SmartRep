@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 , uint Parameter_1 ) public { Identifier_0 = Identifier_1 ; Identifier_2 = Identifier_3 ; }

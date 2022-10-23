@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view override returns ( UserDefinedTypeName_0 ) { return factory ; }

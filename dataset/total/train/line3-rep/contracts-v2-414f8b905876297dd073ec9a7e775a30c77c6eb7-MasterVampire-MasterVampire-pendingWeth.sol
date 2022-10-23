@@ -1,0 +1,1 @@
+if ( block . number > pool . MemberAccess_4 && Identifier_0 != 0 ) { uint256 VariableDeclaration_2 = block . number . sub ( pool . MemberAccess_5 ) ; uint256 VariableDeclaration_3 = Math . MemberAccess_6 ( Identifier_1 . mul ( pool . MemberAccess_7 ) . div ( Identifier_2 ) , pool . MemberAccess_8 ) ;

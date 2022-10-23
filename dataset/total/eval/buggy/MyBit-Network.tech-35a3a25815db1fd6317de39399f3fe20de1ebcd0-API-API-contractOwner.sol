@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external view returns ( bool ) { bool VariableDeclaration_0 = database . MemberAccess_0 ( keccak256 ( abi . encodePacked ( stringLiteral_0 , _account ) ) ) ; return status ; }

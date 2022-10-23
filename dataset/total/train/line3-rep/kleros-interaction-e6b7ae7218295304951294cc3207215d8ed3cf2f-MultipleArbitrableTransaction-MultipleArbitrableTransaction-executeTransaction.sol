@@ -1,0 +1,1 @@
+require ( transaction . status == Status . MemberAccess_2 , stringLiteral_1 ) ; transaction . sender . transfer ( transaction . amount ) ; transaction . amount = 0 ;

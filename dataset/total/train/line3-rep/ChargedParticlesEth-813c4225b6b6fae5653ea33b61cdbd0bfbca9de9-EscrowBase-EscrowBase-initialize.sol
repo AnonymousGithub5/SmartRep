@@ -1,0 +1,1 @@
+function initialize ( ) public virtual { Identifier_0 ( ) ;

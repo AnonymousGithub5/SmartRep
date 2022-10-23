@@ -1,0 +1,1 @@
+} return Identifier_3 * ( ( block . timestamp - Identifier_4 ) / Identifier_5 ) ; }

@@ -1,0 +1,1 @@
+Identifier_6 = NumberLiteral_1 ; Identifier_7 = NumberLiteral_2 ; Identifier_8 = 100 ;

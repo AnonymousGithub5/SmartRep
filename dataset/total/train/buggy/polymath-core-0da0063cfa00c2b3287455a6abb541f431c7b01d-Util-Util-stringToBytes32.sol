@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 ) internal pure returns ( bytes32 ) { return Identifier_0 ( bytes ( Identifier_1 ) , 0 ) ; }

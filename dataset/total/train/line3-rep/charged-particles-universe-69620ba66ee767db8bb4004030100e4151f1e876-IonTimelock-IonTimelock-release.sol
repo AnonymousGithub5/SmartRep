@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = token . balanceOf ( address ( this ) ) ; require ( amount > Identifier_9 , stringLiteral_0 ) ; token . safeTransfer ( receiver , amount ) ;

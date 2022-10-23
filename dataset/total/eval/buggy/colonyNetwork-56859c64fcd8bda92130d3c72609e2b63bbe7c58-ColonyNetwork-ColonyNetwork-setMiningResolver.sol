@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public ModifierInvocation_0 ModifierInvocation_1 { Identifier_0 = Identifier_1 ; emit Identifier_2 ( Identifier_3 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view override returns ( address ) { return data . MemberAccess_0 ; }

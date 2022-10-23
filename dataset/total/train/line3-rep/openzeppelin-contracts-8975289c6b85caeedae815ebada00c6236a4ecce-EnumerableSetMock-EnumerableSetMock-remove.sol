@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address value ) public { bool VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( Identifier_1 , value ) ; emit Identifier_2 ( result ) ;

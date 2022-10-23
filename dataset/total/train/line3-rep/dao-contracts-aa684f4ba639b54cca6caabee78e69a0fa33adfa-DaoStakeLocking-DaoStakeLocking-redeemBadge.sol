@@ -1,0 +1,1 @@
+require ( Identifier_1 ( ) . MemberAccess_1 ( msg . sender ) == ( Identifier_2 ( ) - 1 ) ) ;

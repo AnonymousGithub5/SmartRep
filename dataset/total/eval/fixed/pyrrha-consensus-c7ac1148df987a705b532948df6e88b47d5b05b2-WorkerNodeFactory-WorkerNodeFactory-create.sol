@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) onlyOwner external returns ( UserDefinedTypeName_0 Parameter_1 ) { Identifier_0 = new UserDefinedTypeName_1 ( Identifier_1 ( owner ) ) ; assert ( Identifier_2 != Identifier_3 ( 0 ) ) ; Identifier_4 . MemberAccess_0 ( Identifier_5 ) ; Identifier_6 ( Identifier_7 ) ; }

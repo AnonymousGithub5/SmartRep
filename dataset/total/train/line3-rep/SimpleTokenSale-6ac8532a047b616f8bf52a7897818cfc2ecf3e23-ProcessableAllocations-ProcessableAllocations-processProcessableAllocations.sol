@@ -1,0 +1,1 @@
+bool VariableDeclaration_1 = Identifier_4 . MemberAccess_1 ( Identifier_5 [ i ] , Identifier_6 . amount ) ; Identifier_7 . MemberAccess_2 = ( Identifier_8 == true ) ? ElementaryTypeName_0 ( 1 ) : - 1 ; if ( ! Identifier_9 ) status = Status . MemberAccess_3 ;

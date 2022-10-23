@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , UserDefinedTypeName_1 Parameter_1 ) public ModifierInvocation_0 ( Identifier_2 ) { Identifier_0 . MemberAccess_0 ( ) ; identity = Identifier_1 ; }

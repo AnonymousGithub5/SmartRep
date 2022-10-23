@@ -1,0 +1,1 @@
+function mint ( address user , uint256 tokenId , bytes calldata Parameter_0 ) external override ModifierInvocation_0 ( Identifier_2 ) { _mint ( user , tokenId ) ; Identifier_0 ( tokenId , Identifier_1 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( address ) { address memory VariableDeclaration_0 = new address ( Identifier_0 . length ) ;

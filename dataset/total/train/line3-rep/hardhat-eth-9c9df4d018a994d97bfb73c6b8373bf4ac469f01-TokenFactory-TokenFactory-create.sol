@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 token = new UserDefinedTypeName_2 ( _name , _symbol ) ; token . MemberAccess_0 ( msg . sender ) ; return token ;

@@ -1,0 +1,1 @@
+Identifier_3 ( Identifier_4 , Identifier_5 ) ; emit Transfer ( Identifier_6 , 0 , Identifier_7 , msg . sender , '' ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , int256 amount ) public { Identifier_0 ( msg . sender , amount , token ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _from , uint _amount , bytes _data ) public { if ( msg . sender == address ( Identifier_0 ) ) { return ; } if ( Identifier_1 [ msg . sender ] == true ) { Identifier_2 ( msg . sender ) . burn ( _amount ) ; } }

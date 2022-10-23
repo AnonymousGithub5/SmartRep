@@ -1,0 +1,1 @@
+require ( msg . sender == Identifier_0 , stringLiteral_0 ) ; if ( Identifier_1 > uint256 ( 0 ) ) Identifier_2 . transferFrom ( Identifier_3 , msg . sender , address ( this ) , Identifier_4 ) ; emit Identifier_5 ( Identifier_6 ( Identifier_7 , Identifier_8 ) , Identifier_9 , Identifier_10 ) ;

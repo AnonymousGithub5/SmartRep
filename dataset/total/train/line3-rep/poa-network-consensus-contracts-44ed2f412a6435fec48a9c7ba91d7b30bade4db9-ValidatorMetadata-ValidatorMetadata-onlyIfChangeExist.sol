@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view returns ( bool ) { return Identifier_0 [ keccak256 ( stringLiteral_0 , Identifier_1 , stringLiteral_1 ) ] > 0 ; }

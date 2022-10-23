@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 ) public view override returns ( uint256 ) { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 [ Identifier_1 [ Identifier_2 ] ] ; require ( transaction . MemberAccess_0 == Identifier_3 , stringLiteral_0 ) ; return transaction . amount ; }

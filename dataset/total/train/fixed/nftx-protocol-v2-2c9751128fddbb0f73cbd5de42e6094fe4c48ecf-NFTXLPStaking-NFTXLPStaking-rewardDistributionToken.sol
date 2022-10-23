@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external view returns ( UserDefinedTypeName_0 ) { UserDefinedTypeName_1 memory pool = Identifier_0 [ Identifier_1 ] ; if ( pool . MemberAccess_0 == address ( 0 ) ) { return Identifier_2 ( address ( 0 ) ) ; } return Identifier_3 ( pool ) ; }

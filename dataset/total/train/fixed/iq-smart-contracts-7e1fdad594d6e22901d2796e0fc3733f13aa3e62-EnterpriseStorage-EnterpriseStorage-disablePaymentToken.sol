@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) external onlyOwner { Identifier_0 ( token ) ; }

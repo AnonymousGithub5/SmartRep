@@ -1,0 +1,1 @@
+constructor ( string memory _name , string memory Parameter_0 , uint256 _tokenId , address Parameter_1 ) public { name = _name ; symbol = _symbol ; tokenId = _tokenId ; Identifier_0 = 18 ; owner = Identifier_1 ( Identifier_2 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) payable ModifierInvocation_0 ModifierInvocation_1 { uint256 VariableDeclaration_0 = msg . value ;

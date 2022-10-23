@@ -1,0 +1,1 @@
+Identifier_0 = 0 ; vat . MemberAccess_0 ( address ( this ) , msg . sender , vat . MemberAccess_1 ( address ( this ) ) ) ; }

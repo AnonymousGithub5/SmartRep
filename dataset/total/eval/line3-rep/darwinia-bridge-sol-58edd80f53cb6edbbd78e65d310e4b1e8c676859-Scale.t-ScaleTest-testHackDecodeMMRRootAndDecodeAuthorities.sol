@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 memory data = Identifier_0 . MemberAccess_0 ( Identifier_1 ) ; ( bytes memory VariableDeclaration_1 , uint32 VariableDeclaration_2 , bytes32 VariableDeclaration_3 ) = Identifier_2 . MemberAccess_1 ( data ) ; Identifier_3 ( Identifier_4 , hexLiteral_1 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner ) public view returns ( uint ) { uint memory VariableDeclaration_0 = new uint ( Identifier_0 [ _owner ] ) ; uint VariableDeclaration_1 = 0 ; for ( uint i = 0 ; i < Identifier_1 . length ; i ++ ) { if ( Identifier_2 [ i ] . owner == _owner ) { result [ Identifier_3 ] = i ; Identifier_4 ++ ; } } return result ; }

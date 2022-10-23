@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 ) external ModifierInvocation_0 returns ( bool ) { require ( Identifier_0 . length < Identifier_1 , stringLiteral_0 ) ; Identifier_2 . push ( Identifier_3 ( Identifier_4 ) ) ; return true ; }

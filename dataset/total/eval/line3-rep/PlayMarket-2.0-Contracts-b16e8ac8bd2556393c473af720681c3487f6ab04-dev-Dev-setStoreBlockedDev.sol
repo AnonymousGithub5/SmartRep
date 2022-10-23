@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bool Parameter_1 ) external ModifierInvocation_0 { require ( ! Identifier_0 . MemberAccess_0 ( _dev ) ) ; Identifier_1 . MemberAccess_1 ( _dev , Identifier_2 ) ;

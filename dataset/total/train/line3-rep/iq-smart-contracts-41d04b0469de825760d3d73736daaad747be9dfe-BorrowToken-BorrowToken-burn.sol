@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 memory VariableDeclaration_1 = Identifier_1 . MemberAccess_0 ( tokenId ) ; IERC20 VariableDeclaration_2 = IERC20 ( Identifier_2 . MemberAccess_1 ( loan . MemberAccess_2 ) ) ; Identifier_3 . safeTransfer ( Identifier_4 , loan . MemberAccess_3 ) ;

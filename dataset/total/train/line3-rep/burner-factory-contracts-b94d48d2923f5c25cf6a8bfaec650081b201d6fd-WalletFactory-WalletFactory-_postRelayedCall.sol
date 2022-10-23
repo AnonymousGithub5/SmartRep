@@ -1,0 +1,1 @@
+abi . MemberAccess_0 ( Identifier_0 , ( address , uint256 , uint256 ) ) ; uint256 VariableDeclaration_3 = Identifier_1 ( Identifier_2 . sub ( NumberLiteral_0 ) , Identifier_3 , Identifier_4 ) ; Identifier_5 = Identifier_6 . sub ( Identifier_7 ) ;

@@ -1,0 +1,1 @@
+function transferFrom ( address from , address to , uint Parameter_0 ) public returns ( bool ) { require ( allowed [ from ] [ msg . sender ] >= tokens ) ; require ( balances [ from ] >= tokens ) ; balances [ from ] -= tokens ; balances [ to ] += tokens ; allowed [ from ] [ msg . sender ] -= tokens ; emit Transfer ( from , to , tokens ) ; return true ; }

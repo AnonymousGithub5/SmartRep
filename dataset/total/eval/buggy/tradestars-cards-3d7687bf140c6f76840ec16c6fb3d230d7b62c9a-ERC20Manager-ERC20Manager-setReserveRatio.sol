@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token , uint32 Parameter_0 ) internal { return Identifier_0 ( _token ) . MemberAccess_0 ( Identifier_1 ) ; }

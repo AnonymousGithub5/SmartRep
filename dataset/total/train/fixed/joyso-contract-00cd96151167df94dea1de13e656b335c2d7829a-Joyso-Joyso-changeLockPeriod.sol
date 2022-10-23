@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external onlyOwner { require ( Identifier_0 * 1 days < Identifier_1 ) ; Identifier_2 = Identifier_3 * 1 days ; }

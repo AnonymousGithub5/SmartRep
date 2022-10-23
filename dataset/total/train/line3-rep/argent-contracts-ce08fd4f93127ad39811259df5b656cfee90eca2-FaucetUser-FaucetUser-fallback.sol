@@ -1,0 +1,1 @@
+Identifier_2 . transfer ( msg . sender , Identifier_3 . balanceOf ( address ( this ) ) ) ; Identifier_4 ( msg . sender ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _id , bool Parameter_0 ) public onlyOwner { Identifier_0 [ _id ] = Identifier_1 ; }

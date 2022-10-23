@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { Identifier_0 = block . timestamp ; Identifier_1 ++ ; Identifier_2 . mint ( msg . sender , Identifier_3 ) ; emit Identifier_4 ( address ( Identifier_5 ) , Identifier_6 , Identifier_7 ) ; }

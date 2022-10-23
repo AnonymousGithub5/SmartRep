@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _name , bytes32 Parameter_0 ) public { Identifier_0 . MemberAccess_0 ( msg . sender , _name , Identifier_1 ) ; emit Identifier_2 ( msg . sender , _name , Identifier_3 ) ; }

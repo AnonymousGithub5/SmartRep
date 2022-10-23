@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) public { require ( Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( Identifier_2 ) == msg . sender ) ; Identifier_3 -= _tokens ;

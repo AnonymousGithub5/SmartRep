@@ -1,0 +1,1 @@
+function transferFrom ( address from , address to , uint256 value ) public ModifierInvocation_0 ModifierInvocation_1 ( from ) ModifierInvocation_2 ( to ) returns ( bool ) { value = Identifier_0 ( from , value ) ; return super . transferFrom ( from , to , value ) ; }

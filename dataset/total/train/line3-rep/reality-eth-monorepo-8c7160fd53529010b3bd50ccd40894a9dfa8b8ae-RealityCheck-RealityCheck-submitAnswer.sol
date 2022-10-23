@@ -1,0 +1,1 @@
+bytes32 VariableDeclaration_0 = Identifier_6 [ Identifier_7 ] . MemberAccess_3 ; if ( msg . value == 0 ) throw ; if ( msg . value < ( Identifier_8 [ Identifier_9 ] . MemberAccess_4 * 2 ) ) throw ;

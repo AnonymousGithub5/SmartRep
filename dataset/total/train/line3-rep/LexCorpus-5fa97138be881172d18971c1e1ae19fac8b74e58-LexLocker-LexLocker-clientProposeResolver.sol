@@ -1,0 +1,1 @@
+require ( _msgSender ( ) == Identifier_8 . MemberAccess_4 , stringLiteral_3 ) ; if ( Identifier_9 . MemberAccess_5 == Identifier_10 && Identifier_11 . MemberAccess_6 == 1 ) { Identifier_12 . MemberAccess_7 = Identifier_13 ;

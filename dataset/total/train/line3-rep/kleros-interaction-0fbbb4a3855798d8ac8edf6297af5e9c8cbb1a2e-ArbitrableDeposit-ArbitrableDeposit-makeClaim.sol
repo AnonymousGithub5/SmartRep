@@ -1,0 +1,1 @@
+Identifier_2 = Identifier_3 ; Identifier_4 = ( Identifier_5 * Identifier_6 ) / 100 ; address ( this ) . transfer ( Identifier_7 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , bool b ) public { require ( msg . sender == Identifier_0 ) ; require ( index < uint256 ( Identifier_1 . MemberAccess_0 ) ) ; require ( Identifier_2 [ Identifier_3 [ index ] ] != b ) ; Identifier_4 = b ? Identifier_5 . add ( 1 ) : Identifier_6 . sub ( 1 ) ; Identifier_7 [ Identifier_8 [ index ] ] = b ; }

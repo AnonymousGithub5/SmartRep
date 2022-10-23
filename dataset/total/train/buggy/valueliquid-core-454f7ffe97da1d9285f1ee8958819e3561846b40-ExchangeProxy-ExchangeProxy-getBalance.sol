@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 token ) internal view returns ( uint ) { if ( Identifier_0 ( token ) ) { return Identifier_1 . balanceOf ( address ( this ) ) ; } else { return token . balanceOf ( address ( this ) ) ; } }

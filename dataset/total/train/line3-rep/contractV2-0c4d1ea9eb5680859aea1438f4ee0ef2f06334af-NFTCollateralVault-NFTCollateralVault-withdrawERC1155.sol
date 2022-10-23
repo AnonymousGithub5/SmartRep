@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 memory Parameter_1 , uint256 memory Parameter_2 ) external onlyOwner { require ( Identifier_0 . length == amounts . length , stringLiteral_0 ) ; for ( uint256 i = 0 ; i < Identifier_1 . length ; i ++ ) {

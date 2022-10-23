@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view virtual returns ( address ) { return _owner ;

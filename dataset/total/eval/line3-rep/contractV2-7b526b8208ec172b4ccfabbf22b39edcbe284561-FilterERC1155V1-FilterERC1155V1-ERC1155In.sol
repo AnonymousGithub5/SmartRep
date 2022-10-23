@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_4 = Identifier_5 ( tokenId ) ; Identifier_6 += Identifier_7 ; emit Identifier_8 ( tokenId , Identifier_9 ) ;

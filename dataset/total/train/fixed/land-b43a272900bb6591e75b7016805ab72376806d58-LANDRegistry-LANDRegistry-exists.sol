@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( int x , int y ) external view returns ( bool ) { return Identifier_0 ( x , y ) ; }

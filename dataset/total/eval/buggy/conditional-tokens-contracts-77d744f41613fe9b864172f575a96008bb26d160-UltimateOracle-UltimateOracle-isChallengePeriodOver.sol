@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public returns ( bool ) { return Identifier_0 != 0 && now . sub ( Identifier_1 ) > Identifier_2 ; }

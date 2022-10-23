@@ -1,0 +1,1 @@
+{ Identifier_0 ( Identifier_1 ( ) , 1 ) ; UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_2 ;

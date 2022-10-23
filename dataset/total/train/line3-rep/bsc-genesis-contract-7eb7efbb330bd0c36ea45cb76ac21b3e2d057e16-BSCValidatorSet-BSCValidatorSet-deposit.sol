@@ -1,0 +1,1 @@
+function deposit ( address Parameter_0 ) external payable ModifierInvocation_0 ModifierInvocation_1 ModifierInvocation_2 ModifierInvocation_3 { uint256 VariableDeclaration_0 = msg . value ;

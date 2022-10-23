@@ -1,0 +1,1 @@
+} Identifier_1 = Identifier_2 . sub ( _value ) ; emit Identifier_3 ( _token , msg . sender , _value ) ;

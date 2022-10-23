@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = b * T ; uint256 VariableDeclaration_2 = ( b * 2 ) + Identifier_2 ; uint256 VariableDeclaration_3 = Identifier_3 + T ;

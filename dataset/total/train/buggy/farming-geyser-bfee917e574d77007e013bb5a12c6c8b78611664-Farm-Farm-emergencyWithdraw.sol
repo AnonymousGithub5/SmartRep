@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public { PoolInfo storage pool = poolInfo [ _pid ] ; UserInfo storage user = userInfo [ _pid ] [ msg . sender ] ; pool . MemberAccess_0 . safeTransfer ( address ( msg . sender ) , user . amount ) ; emit Identifier_0 ( msg . sender , _pid , user . amount ) ; user . amount = 0 ; user . rewardDebt = 0 ; }

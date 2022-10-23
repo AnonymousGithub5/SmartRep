@@ -1,0 +1,1 @@
+function transfer ( address _to , uint _value ) ModifierInvocation_0 public returns ( bool success ) { require ( _to != address ( 0 ) && _value <= balanceOf ( msg . sender ) ) ; { Identifier_0 [ msg . sender ] -= _value ; Identifier_1 [ _to ] += _value ; Transfer ( msg . sender , _to , _value ) ; return true ; } return false ; }

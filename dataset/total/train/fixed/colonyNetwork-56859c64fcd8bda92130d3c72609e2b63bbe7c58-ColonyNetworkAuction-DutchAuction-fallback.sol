@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 , address _token , address Parameter_1 ) public { require ( Identifier_0 != address ( 0x0 ) , stringLiteral_0 ) ; Identifier_1 = msg . sender ; Identifier_2 = Identifier_3 ; Identifier_4 = Identifier_5 ( Identifier_6 ) ; token = Identifier_7 ( _token ) ; }

@@ -1,0 +1,1 @@
+address VariableDeclaration_1 ; uint256 VariableDeclaration_2 = IERC20 ( token ) . balanceOf ( address ( this ) ) . mul ( 10 ** ( Identifier_2 ) ) . mul ( 10 ** ( 18 - Identifier_3 ) ) ; for ( uint256 i = 0 ; i < Identifier_4 . length ; i ++ ) {

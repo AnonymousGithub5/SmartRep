@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 Parameter_0 , uint128 Parameter_1 ) external { require ( Identifier_0 ( msg . sender , Identifier_1 , Identifier_2 ) ) ; }

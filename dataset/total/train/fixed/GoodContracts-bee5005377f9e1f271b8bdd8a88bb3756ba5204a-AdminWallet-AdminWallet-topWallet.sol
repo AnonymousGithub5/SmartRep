@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable _user ) public onlyAdmin ModifierInvocation_0 { Identifier_0 ( ) ; require ( Identifier_1 [ Identifier_2 ] [ _user ] < Identifier_3 , stringLiteral_0 ) ; if ( address ( _user ) . balance >= Identifier_4 . div ( 4 ) ) return ; Identifier_5 ( _user ) ; }

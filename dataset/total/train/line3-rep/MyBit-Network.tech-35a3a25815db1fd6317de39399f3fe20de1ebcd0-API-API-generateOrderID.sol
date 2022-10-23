@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address Parameter_1 , uint _amount , uint Parameter_2 , bool Parameter_3 ) external pure

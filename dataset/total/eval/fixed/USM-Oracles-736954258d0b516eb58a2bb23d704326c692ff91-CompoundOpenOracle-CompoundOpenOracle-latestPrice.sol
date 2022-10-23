@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public virtual override view returns ( uint Parameter_0 ) { price = Identifier_0 ( ) ; }

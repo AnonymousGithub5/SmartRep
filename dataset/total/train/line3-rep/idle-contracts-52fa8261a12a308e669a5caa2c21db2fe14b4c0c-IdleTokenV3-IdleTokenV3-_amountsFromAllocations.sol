@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = 0 ; for ( uint8 i = 0 ; i < Identifier_1 . length ; i ++ ) { if ( i == Identifier_2 . length - 1 ) {

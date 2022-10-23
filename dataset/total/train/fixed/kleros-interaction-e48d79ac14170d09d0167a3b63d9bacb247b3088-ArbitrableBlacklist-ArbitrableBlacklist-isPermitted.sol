@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _value ) public view returns ( bool Parameter_0 ) { return Identifier_0 [ _value ] . status <= Identifier_1 . MemberAccess_0 || ( Identifier_2 [ _value ] . status == Identifier_3 . MemberAccess_1 && ! Identifier_4 [ _value ] . disputed ) ; }

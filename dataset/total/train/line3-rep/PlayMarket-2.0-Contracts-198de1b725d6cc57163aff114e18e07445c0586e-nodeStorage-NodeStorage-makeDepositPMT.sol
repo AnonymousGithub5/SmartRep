@@ -1,0 +1,1 @@
+assert ( _value > 0 ) ; assert ( ! Identifier_1 . transferFrom ( _from , this , _value ) ) ; Identifier_2 [ _node ] . MemberAccess_0 = safeAdd ( Identifier_3 [ _node ] . MemberAccess_1 , _value ) ;

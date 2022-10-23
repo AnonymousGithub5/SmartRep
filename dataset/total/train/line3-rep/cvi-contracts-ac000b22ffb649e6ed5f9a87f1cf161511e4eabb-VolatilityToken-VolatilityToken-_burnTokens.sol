@@ -1,0 +1,1 @@
+require ( Identifier_3 == ElementaryTypeName_0 ( Identifier_4 ) , stringLiteral_0 ) ; Identifier_5 = Identifier_6 . MemberAccess_1 ( ElementaryTypeName_1 ( Identifier_7 ) , 0 ) ; _burn ( address ( this ) , Identifier_8 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes memory value , uint Parameter_0 ) external pure returns ( bytes32 ) {

@@ -1,0 +1,1 @@
+function mint ( address user , uint256 tokenId , string calldata Parameter_0 ) external ;

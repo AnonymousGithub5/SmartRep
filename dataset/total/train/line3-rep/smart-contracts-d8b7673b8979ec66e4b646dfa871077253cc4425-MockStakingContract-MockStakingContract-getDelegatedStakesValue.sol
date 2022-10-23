@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 ) public view returns ( uint ) { return Identifier_0 [ Identifier_1 ] [ Identifier_2 ] ; }

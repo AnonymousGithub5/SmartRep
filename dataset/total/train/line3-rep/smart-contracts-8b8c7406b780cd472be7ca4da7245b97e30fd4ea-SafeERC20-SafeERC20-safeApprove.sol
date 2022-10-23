@@ -1,0 +1,1 @@
+require ( ( value == 0 ) || ( token . MemberAccess_0 ( address ( this ) , spender ) == 0 ) , stringLiteral_0 ) ;

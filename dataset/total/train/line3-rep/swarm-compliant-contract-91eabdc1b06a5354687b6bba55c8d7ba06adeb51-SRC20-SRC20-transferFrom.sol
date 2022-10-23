@@ -1,0 +1,1 @@
+function transferFrom ( address from , address to , uint256 value ) public returns ( bool ) { require ( Identifier_0 . MemberAccess_0 ( from , to ) ) ; if ( Identifier_1 != Identifier_2 ( 0 ) ) {

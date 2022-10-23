@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , bytes Parameter_1 ) public { Identifier_0 ( Identifier_1 ( name , Identifier_2 , msg . sender , "" ) ) ; }

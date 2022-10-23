@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user , uint256 amount , address Parameter_0 ) payable public returns ( bool ) ;

@@ -1,0 +1,1 @@
+require ( msg . value == Identifier_0 * Identifier_1 ) ; balanceOf [ msg . sender ] += Identifier_2 ; }

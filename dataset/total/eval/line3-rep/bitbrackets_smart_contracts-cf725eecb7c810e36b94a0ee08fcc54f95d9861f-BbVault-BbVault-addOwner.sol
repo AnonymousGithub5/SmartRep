@@ -1,0 +1,1 @@
+Identifier_0 . MemberAccess_0 ( keccak256 ( stringLiteral_0 , _owner ) , true ) ; Identifier_1 ( address ( this ) , _owner ) ; }

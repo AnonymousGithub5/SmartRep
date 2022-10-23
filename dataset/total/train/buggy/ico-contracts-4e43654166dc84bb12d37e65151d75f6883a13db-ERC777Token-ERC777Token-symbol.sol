@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public constant returns ( string ) ;

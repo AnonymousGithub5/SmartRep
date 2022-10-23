@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , string Parameter_0 ) internal { bytes32 VariableDeclaration_0 = keccak256 ( bytes ( Identifier_0 ) ) ; require ( Identifier_1 [ Identifier_2 ] == address ( 0 ) , stringLiteral_0 ) ; Identifier_3 [ account ] = Identifier_4 ; Identifier_5 [ Identifier_6 ] = account ; Identifier_7 ( account ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 x , uint256 y ) internal pure returns ( uint256 Parameter_0 ) { require ( y == 0 || ( Identifier_0 = x * y ) / y == x , stringLiteral_0 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 , UserDefinedTypeName_1 calldata Parameter_1 ) internal

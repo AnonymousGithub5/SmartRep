@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) private returns ( uint256 ) { ( uint256 VariableDeclaration_0 , uint256 VariableDeclaration_1 ) = Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( ) ;

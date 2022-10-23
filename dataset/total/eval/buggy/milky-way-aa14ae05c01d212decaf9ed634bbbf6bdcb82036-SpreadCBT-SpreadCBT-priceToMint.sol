@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public view returns ( uint256 ) { return Identifier_0 ( totalSupply ( ) . add ( Identifier_1 ) , Identifier_2 , Identifier_3 ) . sub ( Identifier_4 ) ; }

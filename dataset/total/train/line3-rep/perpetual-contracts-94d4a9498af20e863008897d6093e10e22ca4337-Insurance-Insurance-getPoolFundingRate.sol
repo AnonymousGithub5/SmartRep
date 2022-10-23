@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external override view returns ( uint256 ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( market ) ; uint256 VariableDeclaration_1 = NumberLiteral_0 ;

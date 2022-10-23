@@ -1,0 +1,1 @@
+ModifierInvocation_0 ( Identifier_14 ) returns ( bool ) { require ( Identifier_0 > 0 , stringLiteral_0 ) ;

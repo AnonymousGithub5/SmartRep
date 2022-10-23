@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address owner ) public view returns ( uint ) { return balances [ owner ] ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , UserDefinedTypeName_0 Parameter_1 ) external ModifierInvocation_0 { require ( Identifier_0 [ uint8 ( pool ) ] . balanceOf ( Identifier_1 ) == 0 , stringLiteral_0 ) ; Identifier_2 ( ) ; Identifier_3 [ uint8 ( pool ) ] [ Identifier_4 ] = Identifier_5 [ uint8 ( pool ) ] ; }

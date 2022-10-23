@@ -1,0 +1,1 @@
+require ( Identifier_3 [ Identifier_4 ] [ Identifier_5 ] . MemberAccess_0 != address ( 0 ) ) ; require ( Identifier_6 [ Identifier_7 ] [ Identifier_8 ] . MemberAccess_1 ) ; emit Identifier_9 ( Identifier_10 , Identifier_11 [ Identifier_12 ] [ Identifier_13 ] . MemberAccess_2 , now ) ;

@@ -1,0 +1,1 @@
+constructor ( address _token ) public { token = IERC20 ( _token ) ; Identifier_0 ( msg . sender ) ; }

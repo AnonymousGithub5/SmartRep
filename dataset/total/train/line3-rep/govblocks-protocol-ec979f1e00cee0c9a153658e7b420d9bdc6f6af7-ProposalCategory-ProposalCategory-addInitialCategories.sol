@@ -1,0 +1,1 @@
+{ require ( Identifier_0 . length <= 18 ) ; require ( msg . sender == Identifier_1 || Identifier_2 == address ( 0 ) ) ;

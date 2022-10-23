@@ -1,0 +1,1 @@
+function deposit ( address _from , uint _value ) public ModifierInvocation_0 ( Identifier_2 ) { require ( Identifier_0 . transferFrom ( _from , this , _value ) ) ; Identifier_1 [ _from ] . balance += _value ; }

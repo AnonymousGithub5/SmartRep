@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) returns ( uint Parameter_1 ) { uint8 VariableDeclaration_0 = ( block . number - Identifier_0 ) . div ( Identifier_1 ) ; if ( Identifier_2 >= Identifier_3 . length ) {

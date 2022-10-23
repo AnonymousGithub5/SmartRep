@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _id ) external onlyAdmin ( ) { Identifier_0 ( ) . MemberAccess_0 ( _id ) ; emit Identifier_1 ( _id ) ; }

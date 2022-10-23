@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) public ModifierInvocation_0 ModifierInvocation_1 { require ( Identifier_0 ( account ) , stringLiteral_0 ) ; Identifier_1 . add ( account ) ; Identifier_2 ( account ) ; emit Identifier_3 ( account ) ; }

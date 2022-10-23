@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ERC20 Parameter_0 , uint256 Parameter_1 , uint256 Parameter_2 ) external { uint256 amount = Identifier_0 . balanceOf ( this ) . mul ( Identifier_1 ) . div ( Identifier_2 ) ; require ( Identifier_3 . MemberAccess_0 ( tx . origin , this , amount ) ) ; }

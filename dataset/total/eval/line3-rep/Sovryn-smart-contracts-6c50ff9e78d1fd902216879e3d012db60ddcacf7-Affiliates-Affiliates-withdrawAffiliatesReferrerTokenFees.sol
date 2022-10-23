@@ -1,0 +1,1 @@
+uint256 amount ) public { require ( receiver != address ( 0 ) , stringLiteral_0 ) ;

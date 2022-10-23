@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public ModifierInvocation_0 ModifierInvocation_1 { require ( Identifier_0 != address ( 0x0 ) , stringLiteral_0 ) ; require ( Identifier_1 == address ( 0x0 ) , stringLiteral_1 ) ; Identifier_2 = Identifier_3 ; emit Identifier_4 ( Identifier_5 ) ; }

@@ -1,0 +1,1 @@
+) internal { uint32 VariableDeclaration_0 = Identifier_0 ( block . number , stringLiteral_0 ) ; if (

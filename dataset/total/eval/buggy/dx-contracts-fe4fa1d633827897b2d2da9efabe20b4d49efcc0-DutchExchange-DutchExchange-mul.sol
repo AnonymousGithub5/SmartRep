@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint a , uint b ) public constant returns ( uint ) { require ( Identifier_0 ( a , b ) ) ; return a * b ; }

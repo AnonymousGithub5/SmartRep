@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 , uint256 Parameter_1 ) internal pure returns ( uint256 Parameter_2 ) { return Identifier_0 . MemberAccess_0 ( state . MemberAccess_1 , state . MemberAccess_2 , DecimalMath . MemberAccess_3 ( Identifier_1 , state . MemberAccess_4 ) , false , state . MemberAccess_5 ) ; }

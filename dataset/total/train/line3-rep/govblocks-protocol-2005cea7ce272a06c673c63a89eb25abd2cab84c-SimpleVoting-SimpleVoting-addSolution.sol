@@ -1,0 +1,1 @@
+require ( Identifier_3 . MemberAccess_0 ( msg . sender ) || msg . sender == _memberAddress ) ; require ( Identifier_4 ( _proposalId , _memberAddress ) == false ) ; Identifier_5 (

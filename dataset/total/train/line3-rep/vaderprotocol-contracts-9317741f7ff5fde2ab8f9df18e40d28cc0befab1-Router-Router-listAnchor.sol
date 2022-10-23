@@ -1,0 +1,1 @@
+require ( Identifier_0 . length < Identifier_1 ) ; require ( iPOOLS ( POOLS ) . MemberAccess_0 ( token ) ) ; Identifier_2 . push ( token ) ;

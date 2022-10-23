@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _to , uint256 _amount ) override external onlyOwner returns ( bool ) { _mint ( _to , _amount ) ; Identifier_0 ( address ( 0 ) , Identifier_1 [ _to ] , _amount ) ; return true ; }

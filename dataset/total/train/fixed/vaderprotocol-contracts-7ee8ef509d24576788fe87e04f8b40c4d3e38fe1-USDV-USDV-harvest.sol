@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { address VariableDeclaration_0 = msg . sender ; uint VariableDeclaration_1 = Identifier_0 ( member ) ; Identifier_1 [ member ] = block . timestamp ; Identifier_2 ( address ( this ) , member , Identifier_3 ) ; emit Identifier_4 ( member , Identifier_5 ) ; }

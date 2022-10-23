@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) onlyOwner returns ( bool ) { if ( Identifier_0 != Identifier_1 ) { Identifier_2 . push ( Identifier_3 ) ; ElementaryTypeName_0 VariableDeclaration_0 = Identifier_4 ; Identifier_5 = Identifier_6 ; Identifier_7 ( Identifier_8 , Identifier_9 ) ; return true ; } return false ; }

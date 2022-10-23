@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) private { require ( owner == msg . sender , stringLiteral_0 ) ; require ( uint256 ( Identifier_0 ) > 0 , stringLiteral_1 ) ; uint256 VariableDeclaration_0 = uint256 ( Identifier_1 . MemberAccess_0 ( ) ) ; Identifier_2 = uint256 ( Identifier_3 . mul ( 10 ** Identifier_4 ) ) ; }

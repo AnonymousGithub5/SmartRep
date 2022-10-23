@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user ) public view returns ( bool ) { bool VariableDeclaration_0 = database . MemberAccess_0 ( keccak256 ( abi . encodePacked ( Identifier_0 ( ) , _user ) ) ) ; return status ; }

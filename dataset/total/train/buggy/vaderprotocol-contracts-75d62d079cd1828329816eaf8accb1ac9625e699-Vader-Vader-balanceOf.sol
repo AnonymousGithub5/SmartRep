@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) external view override returns ( uint ) { return Identifier_0 [ account ] ; }

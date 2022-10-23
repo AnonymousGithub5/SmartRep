@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes4 ) external view returns ( bool ) ;

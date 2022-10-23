@@ -1,0 +1,1 @@
+view returns ( bool Parameter_1 , string Parameter_2 ) {

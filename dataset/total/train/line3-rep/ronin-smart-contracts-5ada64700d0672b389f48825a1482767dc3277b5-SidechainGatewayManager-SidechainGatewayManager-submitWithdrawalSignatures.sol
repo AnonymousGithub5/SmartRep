@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , bool Parameter_1 , bytes calldata Parameter_2 ) external whenNotPaused ModifierInvocation_0 { bytes memory VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] [ msg . sender ] ;

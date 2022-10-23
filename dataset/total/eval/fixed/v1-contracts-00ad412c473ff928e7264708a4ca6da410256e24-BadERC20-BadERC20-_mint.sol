@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint amount ) internal virtual { require ( account != address ( 0 ) , stringLiteral_0 ) ; Identifier_0 ( address ( 0 ) , account , amount ) ; Identifier_1 = Identifier_2 . add ( amount ) ; Identifier_3 [ account ] = Identifier_4 [ account ] . add ( amount ) ; emit Transfer ( address ( 0 ) , account , amount ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 , uint256 Parameter_2 ) public view returns ( int256 ) { if ( 0 < Identifier_0 [ Identifier_1 ] [ Identifier_2 ] . MemberAccess_0 ( ) ) return Identifier_3 [ Identifier_4 ] [ Identifier_5 ] . MemberAccess_1 ( Identifier_6 ) ; else return Identifier_7 ( Identifier_8 ) ; }

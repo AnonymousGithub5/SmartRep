@@ -1,0 +1,1 @@
+} UserDefinedTypeName_0 token = Identifier_1 ( Identifier_2 ) ; token . safeTransferFrom ( sender , address ( this ) , Identifier_3 ) ;

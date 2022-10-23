@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 amount ) private { Identifier_0 = Identifier_1 . add ( amount ) ; Identifier_2 . MemberAccess_0 ( validatorId , Identifier_3 [ validatorId ] . MemberAccess_1 , amount ) ; }

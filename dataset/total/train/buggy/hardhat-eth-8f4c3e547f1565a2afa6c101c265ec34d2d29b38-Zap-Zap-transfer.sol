@@ -1,0 +1,1 @@
+function transfer ( address _to , uint256 _amount ) public returns ( bool ) { uint VariableDeclaration_0 = balanceOf ( msg . sender ) ; Identifier_0 ( msg . sender , Identifier_1 - _amount ) ; Identifier_2 = balanceOf ( _to ) ; require ( Identifier_3 + _amount >= Identifier_4 ) ; Identifier_5 ( _to , Identifier_6 + _amount ) ; return token . transfer ( _to , _amount ) ; }

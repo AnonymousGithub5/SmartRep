@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 , uint256 Parameter_2 , uint256 Parameter_3 , uint256 Parameter_4 , uint256 Parameter_5 ) public view { require ( Identifier_0 <= block . timestamp + Identifier_1 , stringLiteral_0 ) ; require ( Identifier_2 >= Identifier_3 , stringLiteral_1 ) ; require ( Identifier_4 >= Identifier_5 , stringLiteral_2 ) ; }

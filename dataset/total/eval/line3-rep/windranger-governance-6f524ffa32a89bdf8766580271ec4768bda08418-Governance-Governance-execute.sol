@@ -1,0 +1,1 @@
+status == ProposalState . MemberAccess_0 || status == ProposalState . MemberAccess_1 , stringLiteral_0 ) ;

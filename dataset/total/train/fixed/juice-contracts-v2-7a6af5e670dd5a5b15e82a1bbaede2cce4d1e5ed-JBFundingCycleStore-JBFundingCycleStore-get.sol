@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external view override returns ( UserDefinedTypeName_0 memory ) { require ( Identifier_0 > 0 , stringLiteral_0 ) ; return Identifier_1 ( Identifier_2 ) ; }

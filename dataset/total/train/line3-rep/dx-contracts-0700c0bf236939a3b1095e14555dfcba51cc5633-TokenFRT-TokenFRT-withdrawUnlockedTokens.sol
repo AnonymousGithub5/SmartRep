@@ -1,0 +1,1 @@
+{ require ( Identifier_0 [ msg . sender ] . MemberAccess_0 < now ) ; balances [ msg . sender ] = Identifier_1 ( balances [ msg . sender ] , Identifier_2 [ msg . sender ] . MemberAccess_1 ) ;

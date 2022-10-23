@@ -1,0 +1,1 @@
+function transferFrom ( ) public payable { Identifier_0 [ msg . sender ] += msg . value ; emit Identifier_1 ( msg . sender , msg . value ) ;

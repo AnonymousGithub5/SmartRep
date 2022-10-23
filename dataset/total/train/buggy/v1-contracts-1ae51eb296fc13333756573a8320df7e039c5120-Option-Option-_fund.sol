@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) private { Identifier_0 = Identifier_1 ; Identifier_2 = Identifier_3 ; emit Identifier_4 ( Identifier_5 , Identifier_6 ) ; }

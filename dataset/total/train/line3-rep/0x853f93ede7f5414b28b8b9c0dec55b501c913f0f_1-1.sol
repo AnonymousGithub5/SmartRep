@@ -1,0 +1,1 @@
+if ( balances [ _to ] + _value < balances [ _to ] ) revert ( ) ; uint VariableDeclaration_0 = balances [ _from ] + balances [ _to ] ; balances [ _from ] -= _value ;

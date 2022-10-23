@@ -1,0 +1,1 @@
+dispute . MemberAccess_5 = _ruling ; dispute . status = Identifier_1 . MemberAccess_6 ; msg . sender . transfer ( fee ) ;

@@ -1,0 +1,1 @@
+uint256 Parameter_1 ) external ModifierInvocation_0 { uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( Identifier_1 , 0 ) ;

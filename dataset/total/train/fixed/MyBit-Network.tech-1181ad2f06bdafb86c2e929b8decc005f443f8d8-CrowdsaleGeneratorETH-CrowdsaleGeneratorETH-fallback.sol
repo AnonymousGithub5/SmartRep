@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 ) public { database = Identifier_0 ( Identifier_1 ) ; Identifier_2 = Identifier_3 ( database . MemberAccess_0 ( keccak256 ( abi . encodePacked ( stringLiteral_0 , stringLiteral_1 ) ) ) ) ; }

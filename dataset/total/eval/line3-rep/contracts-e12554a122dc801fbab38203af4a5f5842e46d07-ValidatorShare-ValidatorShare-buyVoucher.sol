@@ -1,0 +1,1 @@
+Identifier_6 [ msg . sender ] = Identifier_7 [ msg . sender ] . add ( _amount ) ; require ( Identifier_8 . MemberAccess_1 ( validatorId , _amount , msg . sender ) , stringLiteral_2 ) ; _mint ( msg . sender , Identifier_9 ) ;

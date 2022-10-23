@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 ) internal view returns ( bool ) { uint [ 2 ] memory VariableDeclaration_0 ;

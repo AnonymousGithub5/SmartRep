@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = registry . MemberAccess_0 ( Identifier_0 ) ; uint256 VariableDeclaration_1 = registry . MemberAccess_1 ( Identifier_1 . MemberAccess_2 ) ; address VariableDeclaration_2 = registry . MemberAccess_3 ( Identifier_2 ) ;

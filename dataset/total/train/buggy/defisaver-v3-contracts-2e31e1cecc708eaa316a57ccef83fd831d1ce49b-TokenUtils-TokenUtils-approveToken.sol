@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address _to , uint _amount ) internal { if ( IERC20 ( Identifier_0 ) . MemberAccess_0 ( address ( this ) , _to ) < _amount ) { IERC20 ( Identifier_1 ) . approve ( _to , _amount ) ; } }

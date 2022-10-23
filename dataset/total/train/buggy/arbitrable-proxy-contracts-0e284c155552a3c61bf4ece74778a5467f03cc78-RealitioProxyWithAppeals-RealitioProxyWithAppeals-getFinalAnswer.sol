@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) external view override returns ( bytes32 ) { return Identifier_0 . MemberAccess_0 ( Identifier_1 ) ; }

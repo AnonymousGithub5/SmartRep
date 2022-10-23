@@ -1,0 +1,1 @@
+Identifier_0 = 0 ; for ( ElementaryTypeName_0 i = 0 ; i < Identifier_1 ; i ++ ) { if ( Identifier_2 [ i ] . MemberAccess_0 ) {

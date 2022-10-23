@@ -1,0 +1,1 @@
+require ( Identifier_1 > 0 , stringLiteral_0 ) ; require ( Identifier_2 [ msg . sender ] . amount == 0 , stringLiteral_1 ) ; Identifier_3 = Identifier_4 . add ( _amount ) ;

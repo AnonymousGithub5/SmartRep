@@ -1,0 +1,1 @@
+if ( token == Identifier_0 ) return Identifier_1 ; uint VariableDeclaration_0 = Identifier_2 [ token ] ; if ( Identifier_3 == 0 ) return token . MemberAccess_0 ( ) ;

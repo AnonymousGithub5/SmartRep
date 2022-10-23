@@ -1,0 +1,1 @@
+uint16 VariableDeclaration_0 = NumberLiteral_0 minutes ; uint256 VariableDeclaration_1 = ( Identifier_0 . sub ( block . timestamp ) ) . div ( 100 ) ; if ( Identifier_1 < Identifier_2 ) {

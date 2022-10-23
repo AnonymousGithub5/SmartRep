@@ -1,0 +1,1 @@
+transaction . amount -= _amount ; require ( token . transfer ( transaction . sender , _amount ) != false , stringLiteral_3 ) ; }

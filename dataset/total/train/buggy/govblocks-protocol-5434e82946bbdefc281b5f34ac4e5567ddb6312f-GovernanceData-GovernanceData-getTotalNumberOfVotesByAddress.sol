@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view returns ( uint Parameter_1 ) { for ( uint i = 0 ; i < Identifier_0 . length ; i ++ ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_1 ( Identifier_2 [ i ] . MemberAccess_0 ) ; Identifier_3 += Identifier_4 . MemberAccess_1 ( Identifier_5 ) ; } }

@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; require ( msg . sender == transaction . MemberAccess_0 || msg . sender == transaction . sender , stringLiteral_0 ) ; require ( transaction . status >= Status . MemberAccess_1 , stringLiteral_1 ) ;

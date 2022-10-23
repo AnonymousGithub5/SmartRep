@@ -1,0 +1,1 @@
+require ( msg . sender == Identifier_0 ) ; UserDefinedTypeName_1 VariableDeclaration_0 = new UserDefinedTypeName_2 ( Identifier_1 ,

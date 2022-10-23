@@ -1,0 +1,1 @@
+function approve ( address spender , uint value ) returns ( bool Parameter_0 ) ; 

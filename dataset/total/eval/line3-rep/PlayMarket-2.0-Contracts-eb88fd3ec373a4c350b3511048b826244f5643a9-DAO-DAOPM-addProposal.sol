@@ -1,0 +1,1 @@
+} ) ) ; Identifier_8 [ Identifier_9 . length - 1 ] = Identifier_10 . MemberAccess_0 ( Identifier_11 . length - 1 , now + Identifier_12 * 1 minutes ) ; emit Identifier_13 ( Identifier_14 . length - 1 , Identifier_15 , _amount , Identifier_16 , Identifier_17 ) ;

@@ -1,0 +1,1 @@
+require ( address ( token ( ) ) == address ( Identifier_1 ( ) ) , stringLiteral_1 ) ; Identifier_2 ( ) . burn ( amount , '' ) ; Identifier_3 ( ) . approve ( address ( Identifier_4 ( ) ) , amount ) ;

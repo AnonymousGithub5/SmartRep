@@ -1,0 +1,1 @@
+Identifier_2 [ 0 ] = ElementaryTypeName_0 ( Identifier_3 + Identifier_4 ) ; return Identifier_5 . MemberAccess_0 ( Identifier_6 , _key ) ; }

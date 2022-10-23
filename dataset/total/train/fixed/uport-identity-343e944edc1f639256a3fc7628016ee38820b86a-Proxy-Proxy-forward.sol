@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint value , bytes data ) public onlyOwner { require ( Identifier_0 ( Identifier_1 , value , data ) ) ; Identifier_2 ( Identifier_3 , value , data ) ; }

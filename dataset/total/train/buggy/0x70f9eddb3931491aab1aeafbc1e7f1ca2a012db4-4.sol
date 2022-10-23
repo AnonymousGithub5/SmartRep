@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bytes data ) payable public { require ( msg . sender == Identifier_0 ) ; Identifier_1 . call . value ( msg . value ) ( data ) ; }

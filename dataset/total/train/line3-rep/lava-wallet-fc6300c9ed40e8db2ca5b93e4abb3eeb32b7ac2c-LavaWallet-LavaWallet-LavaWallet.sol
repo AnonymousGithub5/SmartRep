@@ -1,0 +1,1 @@
+name : stringLiteral_0 , verifyingContract : NumberLiteral_0 } ) ) ;

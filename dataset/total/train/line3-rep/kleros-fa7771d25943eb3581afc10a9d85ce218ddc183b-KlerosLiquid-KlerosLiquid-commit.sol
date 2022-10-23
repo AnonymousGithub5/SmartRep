@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = disputes [ _disputeID ] ; for ( uint i = 0 ; i < Identifier_0 . length ; i ++ ) { require ( dispute . votes [ dispute . votes . length - 1 ] [ Identifier_1 [ i ] ] . MemberAccess_0 == msg . sender , stringLiteral_0 ) ;

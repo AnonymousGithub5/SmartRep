@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external returns ( bool ) { require ( msg . sender == Identifier_0 [ Identifier_1 . length - 1 ] . MemberAccess_0 ) ; require ( status == Status . MemberAccess_1 ) ; status = Status . MemberAccess_2 ; Identifier_2 ( Identifier_3 , address ( this ) , Identifier_4 ) ; return true ; }

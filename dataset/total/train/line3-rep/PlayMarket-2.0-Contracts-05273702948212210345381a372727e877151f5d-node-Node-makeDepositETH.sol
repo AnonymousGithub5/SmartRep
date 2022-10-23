@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external payable { require ( ! Identifier_0 . MemberAccess_0 ( _node ) ) ; require ( msg . value > 0 ) ;

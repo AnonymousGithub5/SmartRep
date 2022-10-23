@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 memory Parameter_0 , uint256 memory Parameter_1 , uint256 memory Parameter_2 ) public returns ( bool , uint256 memory ) { return Identifier_0 ( Identifier_1 , Identifier_2 , Identifier_3 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) external override { Identifier_0 ( ) ; uint VariableDeclaration_0 ; if ( Identifier_1 > 0 ) { Identifier_2 = Identifier_3 . mul ( Identifier_4 ) . div ( Identifier_5 ) ; } Identifier_6 = Identifier_7 . add ( Identifier_8 ) ; }

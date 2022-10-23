@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_0 ; if ( Identifier_1 % 32 != 0 ) Identifier_2 += 32 - ( Identifier_3 % 32 ) ; buf . MemberAccess_0 = Identifier_4 ;

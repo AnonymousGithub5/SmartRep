@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token ) internal { if ( iPOOLS ( POOLS ) . MemberAccess_0 ( _token ) ) { Identifier_0 ( _token ) ; } }

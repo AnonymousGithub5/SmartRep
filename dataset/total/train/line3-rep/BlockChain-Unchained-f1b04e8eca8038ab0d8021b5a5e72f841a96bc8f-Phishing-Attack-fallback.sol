@@ -1,0 +1,1 @@
+constructor ( UserDefinedTypeName_0 _wallet ) public { wallet = Identifier_0 ( _wallet ) ;

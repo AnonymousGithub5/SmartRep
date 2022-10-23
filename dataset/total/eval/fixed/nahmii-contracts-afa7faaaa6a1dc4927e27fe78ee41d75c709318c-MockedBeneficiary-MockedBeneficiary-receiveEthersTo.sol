@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , string Parameter_1 ) public payable { Identifier_0 . push ( Identifier_1 ( wallet , balance , Identifier_2 . MemberAccess_0 ( int256 ( msg . value ) , Identifier_3 . MemberAccess_1 ( address ( 0 ) , 0 ) ) , "" ) ) ; }

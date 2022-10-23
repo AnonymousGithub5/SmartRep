@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; return ( Identifier_2 * 100 ) / Identifier_3 ( Identifier_4 ) . totalSupply ( ) ; }

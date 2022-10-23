@@ -1,0 +1,1 @@
+amount -= Identifier_4 ; _burn ( msg . sender , Identifier_5 ) ; }

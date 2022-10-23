@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) public view returns ( uint ) { return state . balanceOf ( account ) ; }

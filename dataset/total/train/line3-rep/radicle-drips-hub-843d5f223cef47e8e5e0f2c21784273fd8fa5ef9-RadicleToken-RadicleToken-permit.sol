@@ -1,0 +1,1 @@
+) ; bytes32 VariableDeclaration_1 = keccak256 ( abi . encodePacked ( stringLiteral_0 , Identifier_3 ( ) , Identifier_4 ) ) ; require ( owner == Identifier_5 ( Identifier_6 , v , r , s ) , stringLiteral_1 ) ;

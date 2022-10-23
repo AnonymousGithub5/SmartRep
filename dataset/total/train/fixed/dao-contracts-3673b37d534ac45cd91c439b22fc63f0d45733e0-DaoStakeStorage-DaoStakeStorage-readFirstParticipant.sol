@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( address Parameter_0 ) { Identifier_0 = Identifier_1 ( Identifier_2 ) ; }

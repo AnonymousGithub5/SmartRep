@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) public override view returns ( bool ) { return Identifier_0 [ Identifier_1 ] [ Identifier_2 ] ; }

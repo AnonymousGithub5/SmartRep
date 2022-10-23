@@ -1,0 +1,1 @@
+} Identifier_4 = _amount . mul ( 10 ** 18 ) . div ( Identifier_5 ) ; _mint ( msg . sender , Identifier_6 ) ;

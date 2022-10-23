@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address ) internal returns ( bool ) { if ( Identifier_0 ( _address ) ) { require ( Identifier_1 ( ) . MemberAccess_0 ( _address ) ) ; } return true ; }

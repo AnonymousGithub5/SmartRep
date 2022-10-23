@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token ) public override view returns ( bool ) { return ( Identifier_0 [ _token ] ) ; }

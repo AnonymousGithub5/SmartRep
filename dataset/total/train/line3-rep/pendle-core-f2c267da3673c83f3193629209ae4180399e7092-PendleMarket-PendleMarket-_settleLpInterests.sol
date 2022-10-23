@@ -1,0 +1,1 @@
+if ( Identifier_10 == 0 ) return 0 ; IERC20 ( Identifier_11 ( xyt ) . MemberAccess_0 ( ) ) . safeTransfer ( account , Identifier_12 ) ; }

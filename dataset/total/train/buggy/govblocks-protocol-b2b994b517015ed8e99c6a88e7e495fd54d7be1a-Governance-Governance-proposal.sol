@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _proposalId ) external returns ( uint , uint , uint , uint , uint , uint ) { return ( _proposalId , Identifier_0 [ _proposalId ] . MemberAccess_0 , Identifier_1 [ _proposalId ] . MemberAccess_1 , Identifier_2 [ _proposalId ] , Identifier_3 [ _proposalId ] . MemberAccess_2 , Identifier_4 [ _proposalId ] . MemberAccess_3 ) ; }

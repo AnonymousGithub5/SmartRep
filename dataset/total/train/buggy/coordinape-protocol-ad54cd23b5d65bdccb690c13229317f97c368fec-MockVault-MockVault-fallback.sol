@@ -1,0 +1,1 @@
+constructor ( address _token ) { token = Identifier_0 ( _token ) ; Identifier_1 = type ( uint256 ) . max ; }

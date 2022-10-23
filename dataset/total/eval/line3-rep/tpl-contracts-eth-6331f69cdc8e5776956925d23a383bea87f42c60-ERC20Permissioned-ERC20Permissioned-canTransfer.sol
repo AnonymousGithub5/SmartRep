@@ -1,0 +1,1 @@
+super . balanceOf ( msg . sender ) >= value && Identifier_0 . MemberAccess_0 ( to , Identifier_1 ) ) ;

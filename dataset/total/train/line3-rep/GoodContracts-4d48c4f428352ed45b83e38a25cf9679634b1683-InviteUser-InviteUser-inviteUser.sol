@@ -1,0 +1,1 @@
+{ Identifier_0 [ _user ] = msg . sender ; return true ;

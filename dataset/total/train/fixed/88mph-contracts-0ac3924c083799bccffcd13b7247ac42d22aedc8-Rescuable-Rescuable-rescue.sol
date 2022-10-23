@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , address target ) external virtual { Identifier_0 ( token , target ) ; IERC20 VariableDeclaration_0 = IERC20 ( token ) ; Identifier_1 . safeTransfer ( target , Identifier_2 . balanceOf ( address ( this ) ) ) ; }

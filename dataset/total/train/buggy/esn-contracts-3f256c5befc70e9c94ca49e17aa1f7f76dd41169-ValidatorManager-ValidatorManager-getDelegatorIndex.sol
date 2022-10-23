@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint32 Parameter_0 , uint256 Parameter_1 , address Parameter_2 ) public view override returns ( uint256 ) { require ( Identifier_0 [ Identifier_1 ] [ Identifier_2 ] [ Identifier_3 ] > 0 , stringLiteral_0 ) ; return Identifier_4 [ Identifier_5 ] [ Identifier_6 ] [ Identifier_7 ] - 1 ; }

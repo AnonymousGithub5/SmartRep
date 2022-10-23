@@ -1,0 +1,1 @@
+) internal { require ( state ( proposalId ) == ProposalState . MemberAccess_0 , stringLiteral_0 ) ; UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ proposalId ] ;

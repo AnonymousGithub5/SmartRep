@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 , bytes memory Parameter_2 ) internal virtual returns ( bool Parameter_3 ) { address VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] [ Identifier_2 ] ; if ( Identifier_3 == address ( 0 ) ) return true ;

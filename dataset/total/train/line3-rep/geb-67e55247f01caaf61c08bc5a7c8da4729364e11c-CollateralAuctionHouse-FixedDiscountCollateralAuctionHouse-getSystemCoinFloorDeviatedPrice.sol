@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) private returns ( uint256 Parameter_1 ) { uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 , Identifier_2 ) ;

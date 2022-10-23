@@ -1,0 +1,1 @@
+{ Identifier_0 . push ( Identifier_1 ( NumberLiteral_0 ) ) ; Identifier_2 . push ( Identifier_3 ( NumberLiteral_1 ) ) ;

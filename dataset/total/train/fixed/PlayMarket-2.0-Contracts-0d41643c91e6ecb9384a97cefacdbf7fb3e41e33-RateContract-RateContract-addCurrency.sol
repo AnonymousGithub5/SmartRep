@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , string _name , uint Parameter_1 , uint Parameter_2 ) public ModifierInvocation_0 { currency [ Identifier_0 ] = Identifier_1 ( _name , Identifier_2 , Identifier_3 , block . timestamp , 0 ) ; emit Identifier_4 ( Identifier_5 , _name , Identifier_6 , Identifier_7 , block . timestamp ) ; }

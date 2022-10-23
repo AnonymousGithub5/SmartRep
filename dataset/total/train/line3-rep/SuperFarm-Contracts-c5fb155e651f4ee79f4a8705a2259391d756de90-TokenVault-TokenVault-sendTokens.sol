@@ -1,0 +1,1 @@
+token . transfer ( recipient , amount ) ; Identifier_6 = Identifier_7 . add ( amount ) ; }

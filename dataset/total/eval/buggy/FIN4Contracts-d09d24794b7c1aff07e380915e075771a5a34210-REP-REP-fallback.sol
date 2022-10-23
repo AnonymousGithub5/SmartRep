@@ -1,0 +1,1 @@
+constructor ( ) ModifierInvocation_0 ( stringLiteral_0 , stringLiteral_1 , NumberLiteral_0 , address ( 0 ) , true , true , true , 0 , address ( 0 ) ) public { }

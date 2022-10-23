@@ -1,0 +1,1 @@
+) public { if ( Identifier_0 . length > 0 ) controller . MemberAccess_0 ( Identifier_1 ) ; if ( Identifier_2 . length > 0 ) pool . MemberAccess_1 ( Identifier_3 ) ;

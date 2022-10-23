@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 , address Parameter_1 ) external onlyOwner ( Identifier_9 ) { require ( Identifier_0 [ Identifier_1 ] [ Identifier_2 ] != bytes32 ( 0 ) , stringLiteral_0 ) ; delete Identifier_3 [ Identifier_4 ] [ Identifier_5 ] ;

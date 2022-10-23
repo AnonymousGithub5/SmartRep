@@ -1,0 +1,1 @@
+for ( uint i = 0 ; i < x . length ; i ++ ) { Identifier_0 ( Identifier_1 ( x [ i ] , y [ i ] ) , data ) ; }

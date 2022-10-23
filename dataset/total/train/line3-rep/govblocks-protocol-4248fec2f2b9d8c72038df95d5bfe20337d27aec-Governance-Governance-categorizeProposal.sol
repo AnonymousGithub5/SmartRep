@@ -1,0 +1,1 @@
+require ( GD . MemberAccess_2 ( _proposalId ) == 1 || GD . MemberAccess_3 ( _proposalId ) == 0 ) ; Identifier_7 ( _proposalId , _categoryId , Identifier_8 , Identifier_9 ) ; Identifier_10 ( _proposalId , msg . sender ) ;

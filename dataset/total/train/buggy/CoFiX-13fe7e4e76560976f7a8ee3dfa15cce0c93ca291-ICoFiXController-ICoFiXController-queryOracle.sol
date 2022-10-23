@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , address Parameter_0 ) external payable returns ( uint256 Parameter_1 , uint256 Parameter_2 , uint256 Parameter_3 , uint256 Parameter_4 , uint256 Parameter_5 ) ;

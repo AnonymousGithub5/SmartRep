@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) override public view returns ( uint256 ) { mapping ( address => uint256 ) storage VariableDeclaration_0 = Identifier_0 [ address ( Identifier_1 ) ] ; return Identifier_2 [ Identifier_3 ] ; }

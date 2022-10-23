@@ -1,0 +1,1 @@
+bytes32 VariableDeclaration_1 ; assembly { Identifier_1 := AssemblyExpression_1 ( AssemblyExpression_0 ) } bytes memory VariableDeclaration_2 = abi . MemberAccess_0 ( stringLiteral_0 , from , to ) ; uint VariableDeclaration_3 = now ;

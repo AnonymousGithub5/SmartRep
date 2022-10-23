@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) constant returns ( uint8 ) { uint8 VariableDeclaration_0 = 0 ; for ( uint8 VariableDeclaration_1 = NumberLiteral_0 ; s > 0 ; s >>= 1 ) { if ( n >= ( uint256 ( 1 ) << s ) ) { n >>= s ; Identifier_0 |= s ; } } return Identifier_1 ; }

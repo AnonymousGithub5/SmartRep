@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) public view returns ( uint256 ) { return Identifier_0 [ uint8 ( Identifier_1 ) ] ; }

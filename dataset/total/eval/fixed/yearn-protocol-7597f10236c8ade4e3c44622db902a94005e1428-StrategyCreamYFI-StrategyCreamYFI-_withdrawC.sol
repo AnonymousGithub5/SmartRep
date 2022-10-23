@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 amount ) internal { Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( amount ) ; }

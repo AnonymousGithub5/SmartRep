@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 ) external whenNotPaused ( ) { uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( Identifier_1 , msg . sender ) ; Identifier_2 ( Identifier_3 , Identifier_4 ) ; }

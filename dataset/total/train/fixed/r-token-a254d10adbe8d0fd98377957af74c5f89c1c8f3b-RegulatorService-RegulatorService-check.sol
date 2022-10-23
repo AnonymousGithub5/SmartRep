@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token , address _spender , address _from , address _to , uint256 _amount ) public returns ( uint8 ) ;

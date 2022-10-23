@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { require ( Identifier_0 == address ( 0x0 ) , stringLiteral_0 ) ; Identifier_1 = msg . sender ; }

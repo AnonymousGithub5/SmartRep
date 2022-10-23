@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 , uint Parameter_2 ) external pure returns ( uint ) { uint VariableDeclaration_0 = ( Identifier_0 * Identifier_1 ) ;

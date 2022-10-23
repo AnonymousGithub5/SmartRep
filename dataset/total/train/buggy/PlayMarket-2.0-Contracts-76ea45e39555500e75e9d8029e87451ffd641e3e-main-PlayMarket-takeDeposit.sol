@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public onlyOwner { uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( _node ) ; Identifier_1 . MemberAccess_1 ( _node , Identifier_2 ) ; Identifier_3 . MemberAccess_2 ( _node , false ) ; _node . transfer ( Identifier_4 ) ; emit Identifier_5 ( _node , false ) ; emit Identifier_6 ( _node , Identifier_7 ) ; }

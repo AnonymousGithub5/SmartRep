@@ -1,0 +1,1 @@
+Identifier_2 [ msg . sender ] . MemberAccess_1 = block . number ; emit Identifier_3 ( msg . sender , Identifier_4 , block . number ) ; }

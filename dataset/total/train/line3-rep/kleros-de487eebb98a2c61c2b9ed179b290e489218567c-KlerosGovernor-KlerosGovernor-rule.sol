@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = _ruling ; if ( Identifier_2 != uint ( - 1 ) ) Identifier_3 = Identifier_4 + 1 ;

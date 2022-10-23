@@ -1,0 +1,1 @@
+Identifier_1 . transfer ( Identifier_2 , _value ) ; Identifier_3 ( user , _value ) ; }

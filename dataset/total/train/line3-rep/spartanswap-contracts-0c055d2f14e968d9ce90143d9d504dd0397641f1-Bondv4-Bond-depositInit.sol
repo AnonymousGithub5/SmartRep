@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 amount , address Parameter_1 ) public ModifierInvocation_0 returns ( bool success ) { Identifier_0 ( Identifier_1 ) . transferFrom ( msg . sender , Identifier_2 , amount ) ;

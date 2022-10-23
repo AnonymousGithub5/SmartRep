@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _proposalId , uint Parameter_0 ) public constant returns ( uint Parameter_1 ) { Identifier_0 = Identifier_1 [ _proposalId ] [ Identifier_2 ] ; }

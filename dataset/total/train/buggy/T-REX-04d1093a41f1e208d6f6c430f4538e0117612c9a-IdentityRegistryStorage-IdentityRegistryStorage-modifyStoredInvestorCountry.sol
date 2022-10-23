@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint16 Parameter_1 ) external override ModifierInvocation_0 { require ( address ( Identifier_0 [ Identifier_1 ] . MemberAccess_0 ) != address ( 0 ) , stringLiteral_0 ) ; Identifier_2 [ Identifier_3 ] . MemberAccess_1 = Identifier_4 ; emit Identifier_5 ( Identifier_6 , Identifier_7 ) ; }

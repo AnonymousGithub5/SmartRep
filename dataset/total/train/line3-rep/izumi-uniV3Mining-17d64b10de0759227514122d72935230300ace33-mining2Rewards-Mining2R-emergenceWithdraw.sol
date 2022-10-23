@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId ) external ModifierInvocation_0 { Identifier_0 . safeTransferFrom ( address ( this ) , Identifier_1 [ tokenId ] , tokenId ) ;

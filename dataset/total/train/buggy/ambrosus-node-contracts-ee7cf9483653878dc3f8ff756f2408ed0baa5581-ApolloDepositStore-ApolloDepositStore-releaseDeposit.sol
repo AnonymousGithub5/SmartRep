@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) public ModifierInvocation_0 returns ( uint ) { require ( Identifier_0 ( Identifier_1 ) ) ; uint VariableDeclaration_0 = Identifier_2 [ Identifier_3 ] ; Identifier_4 [ Identifier_5 ] = 0 ; Identifier_6 . transfer ( Identifier_7 ) ; return Identifier_8 ; }

@@ -1,0 +1,1 @@
+constructor ( ) public ModifierInvocation_0 ( stringLiteral_0 , stringLiteral_1 , 18 ) { owner = msg . sender ; Identifier_0 = 10 ** 20 ; balances [ address ( msg . sender ) ] = Identifier_1 ; Identifier_2 = 10 ** NumberLiteral_0 ; }

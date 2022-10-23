@@ -1,0 +1,1 @@
+( , Identifier_0 ) = Identifier_1 ( address ( Identifier_2 ) . balance ) ; return Identifier_3 ( Identifier_4 , Identifier_5 . totalSupply ( ) , Identifier_6 ) ; }

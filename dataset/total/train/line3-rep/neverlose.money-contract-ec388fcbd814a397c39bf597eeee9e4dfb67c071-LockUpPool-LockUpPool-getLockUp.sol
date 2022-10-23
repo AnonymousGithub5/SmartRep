@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address account , uint256 Parameter_1 ) external view returns ( uint8 , uint256 , uint256 , uint256 , uint256 ) { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ tokenAddress ] [ account ] . MemberAccess_0 [ Identifier_1 ] ;

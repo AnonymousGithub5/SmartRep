@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = IERC20 ( Identifier_0 ) . balanceOf ( address ( this ) ) ; Identifier_1 ( Identifier_2 ) . MemberAccess_0 ( Identifier_3 , 0 , Identifier_4 , address ( this ) , now . add ( NumberLiteral_0 ) ) ; }

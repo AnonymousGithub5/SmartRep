@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _id ) public payable ModifierInvocation_0 ( _id ) { Identifier_0 . MemberAccess_0 . value ( msg . value ) ( _id ) ; }

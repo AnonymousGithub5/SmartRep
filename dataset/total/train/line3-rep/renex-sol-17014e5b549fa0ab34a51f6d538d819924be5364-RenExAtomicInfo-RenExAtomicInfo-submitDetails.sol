@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , bytes Parameter_1 ) external ModifierInvocation_0 ( Identifier_7 , msg . sender ) { require ( Identifier_0 [ Identifier_1 ] == 0 , stringLiteral_0 ) ;

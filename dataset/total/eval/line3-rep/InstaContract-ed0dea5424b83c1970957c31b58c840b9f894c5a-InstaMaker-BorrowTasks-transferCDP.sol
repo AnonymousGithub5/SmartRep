@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public { require ( Identifier_0 != 0 , stringLiteral_0 ) ; UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_1 ( Identifier_2 ) ;

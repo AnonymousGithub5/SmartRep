@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public view returns ( bool ) { return Identifier_0 ( Identifier_1 [ validatorId ] . status , Identifier_2 [ validatorId ] . amount , Identifier_3 [ validatorId ] . MemberAccess_0 , Identifier_4 ) ; }

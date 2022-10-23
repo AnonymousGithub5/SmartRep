@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external ModifierInvocation_0 ( ) ModifierInvocation_1 ( _dev ) { assert ( Identifier_0 [ _dev ] . state ) ; uint256 amount = Identifier_1 [ _dev ] ; assert ( amount > 0 ) ; Identifier_2 [ _dev ] = 0 ; _dev . transfer ( amount ) ; }

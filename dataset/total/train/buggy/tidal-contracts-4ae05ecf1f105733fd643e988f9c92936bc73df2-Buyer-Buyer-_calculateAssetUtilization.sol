@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint16 Parameter_0 ) private { if ( Identifier_0 == 0 ) { Identifier_1 [ Identifier_2 ] = registry . MemberAccess_0 ( ) ; } else { Identifier_3 [ Identifier_4 ] = Identifier_5 [ Identifier_6 ] * registry . MemberAccess_1 ( ) / Identifier_7 ; } }

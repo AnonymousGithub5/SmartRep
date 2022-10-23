@@ -1,0 +1,1 @@
+uint128 VariableDeclaration_1 = sender . MemberAccess_4 - ( sender . MemberAccess_5 % sender . MemberAccess_6 ) ; ElementaryTypeName_0 VariableDeclaration_2 = ( now ( ) - sender . MemberAccess_7 ) * Identifier_1 ; if ( Identifier_2 > sender . MemberAccess_8 ) {

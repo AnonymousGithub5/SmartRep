@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view virtual returns ( uint256 ) { return now ; }

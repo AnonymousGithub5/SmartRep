@@ -1,0 +1,1 @@
+bytes32 Parameter_3 ) public view override returns ( UserDefinedTypeName_0 ) { if ( Identifier_0 == 1 ) {

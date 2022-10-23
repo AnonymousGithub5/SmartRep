@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( int Parameter_0 , int Parameter_1 ) public ModifierInvocation_0 ( Identifier_0 . MemberAccess_0 ) returns ( int Parameter_2 ) { revert ( ) ; }

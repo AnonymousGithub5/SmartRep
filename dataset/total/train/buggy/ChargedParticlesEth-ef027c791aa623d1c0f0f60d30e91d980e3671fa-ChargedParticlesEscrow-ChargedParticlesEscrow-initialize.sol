@@ -1,0 +1,1 @@
+function initialize ( address Parameter_0 ) public ModifierInvocation_0 { Identifier_0 . MemberAccess_0 ( sender ) ; Identifier_1 . MemberAccess_1 ( ) ; Identifier_2 = stringLiteral_0 ; }

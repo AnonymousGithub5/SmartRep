@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public pure returns ( uint8 ) { return 18 ; }

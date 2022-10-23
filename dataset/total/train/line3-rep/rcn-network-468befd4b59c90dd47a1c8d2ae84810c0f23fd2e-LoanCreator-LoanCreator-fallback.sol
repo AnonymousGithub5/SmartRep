@@ -1,0 +1,1 @@
+require ( token != address ( 0 ) , stringLiteral_0 ) ; } 

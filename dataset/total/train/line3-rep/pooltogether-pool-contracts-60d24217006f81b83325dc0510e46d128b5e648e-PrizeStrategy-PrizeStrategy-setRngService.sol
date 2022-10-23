@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) external onlyOwner { require ( ! Identifier_0 ( ) , stringLiteral_0 ) ; Identifier_1 = Identifier_2 ;

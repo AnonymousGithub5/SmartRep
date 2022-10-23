@@ -1,0 +1,1 @@
+function initialize ( UserDefinedTypeName_0 Parameter_0 , IERC20 token ) public ModifierInvocation_0 { Identifier_0 = Identifier_1 ; Identifier_2 = token ; }

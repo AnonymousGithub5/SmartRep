@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _wallet , UserDefinedTypeName_0 memory Parameter_0 ) external override ModifierInvocation_0 ( _wallet ) { Identifier_0 [ _wallet ] . MemberAccess_0 = Identifier_1 ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public override view returns ( UserDefinedTypeName_0 ) { require ( index > 0 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 a , uint256 b ) internal returns ( uint256 ) { uint256 VariableDeclaration_0 = a * b ; assert ( a == 0 || c / a == b ) ; return c ; }

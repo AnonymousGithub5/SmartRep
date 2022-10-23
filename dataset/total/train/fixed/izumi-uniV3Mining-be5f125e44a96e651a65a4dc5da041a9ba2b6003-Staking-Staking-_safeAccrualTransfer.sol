@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _to , uint256 _amount ) private { IERC20 ( token ) . safeTransferFrom ( Identifier_0 , _to , _amount ) ; }

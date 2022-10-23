@@ -1,0 +1,1 @@
+bytes32 id = keccak256 ( _assetID , msg . sender ) ; UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ id ] ; Identifier_1 . MemberAccess_0 = msg . sender ;

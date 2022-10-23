@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address Parameter_1 , uint256 Parameter_2 , address _to ) public override returns ( uint256 Parameter_3 ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( data . MemberAccess_0 ( Identifier_1 ) ) ; Identifier_2 = Identifier_3 . MemberAccess_1 ( _underlyingAsset , _expiry , _to ) ; }

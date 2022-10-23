@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _proposalId , bytes32 Parameter_0 , uint Parameter_1 ) constant returns ( uint Parameter_2 , bytes32 Parameter_3 , address Parameter_4 ) {

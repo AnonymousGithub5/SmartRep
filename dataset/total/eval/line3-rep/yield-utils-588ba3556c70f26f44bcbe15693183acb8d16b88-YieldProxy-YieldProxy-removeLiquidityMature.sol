@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , uint256 Parameter_1 ) external { require ( Identifier_0 [ address ( pool ) ] , stringLiteral_0 ) ; UserDefinedTypeName_1 VariableDeclaration_0 = pool . MemberAccess_0 ( ) ;

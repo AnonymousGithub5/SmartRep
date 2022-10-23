@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_5 ( Identifier_6 ) ? 1 : 0 ; bytes32 VariableDeclaration_1 = Identifier_7 ( Identifier_8 , Identifier_9 ) ; bytes32 VariableDeclaration_2 = Identifier_10 ( Identifier_11 , Identifier_12 ) ;

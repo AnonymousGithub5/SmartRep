@@ -1,0 +1,1 @@
+constructor ( address _token , address Parameter_0 ) public { require ( _token != address ( 0 ) && Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; token = _token ;

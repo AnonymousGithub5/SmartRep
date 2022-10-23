@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 , bytes32 _name ) public view returns ( bytes32 , address ) { if ( Identifier_0 [ Identifier_1 ] . length > 0 ) {

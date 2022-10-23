@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 amount , address payable Parameter_0 ) external returns ( uint256 ) ;

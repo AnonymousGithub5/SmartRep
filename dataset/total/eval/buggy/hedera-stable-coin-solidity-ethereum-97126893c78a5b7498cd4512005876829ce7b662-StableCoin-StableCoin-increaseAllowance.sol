@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address spender , uint256 amount ) private override ( ERC20UpgradeSafe ) { Identifier_0 ( _msgSender ( ) , spender , Identifier_1 [ _msgSender ( ) ] [ spender ] . add ( amount ) ) ; emit Identifier_2 ( spender , amount ) ; }

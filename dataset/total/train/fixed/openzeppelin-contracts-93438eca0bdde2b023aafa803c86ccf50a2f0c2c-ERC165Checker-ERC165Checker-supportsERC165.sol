@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) internal view returns ( bool ) { return Identifier_0 ( account , type ( Identifier_1 ) . MemberAccess_0 ) && ! Identifier_2 ( account , Identifier_3 ) ; }

@@ -1,0 +1,1 @@
+require ( Identifier_3 >= Identifier_4 , stringLiteral_1 ) ; require ( Identifier_5 . transferFrom ( _msgSender ( ) , address ( this ) , Identifier_6 ) , stringLiteral_2 ) ; Identifier_7 ( tokenAddress ) . mint ( _msgSender ( ) , Identifier_8 ) ;

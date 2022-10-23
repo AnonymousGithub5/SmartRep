@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_4 = ( Identifier_7 * Identifier_8 ) / Identifier_9 ; uint256 VariableDeclaration_5 = _contract . MemberAccess_0 . MemberAccess_1 * _contract . MemberAccess_2 . MemberAccess_3 / Identifier_10 ; require ( Identifier_11 + Identifier_12 >= Identifier_13 , stringLiteral_0 ) ;

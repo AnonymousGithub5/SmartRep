@@ -1,0 +1,1 @@
+function transfer ( bytes32 _name , address _to ) external ModifierInvocation_0 ( _name ) ModifierInvocation_1 ( _name ) returns ( bool success ) { require ( _to != address ( 0 ) , stringLiteral_0 ) ; Identifier_0 [ _name ] . owner = _to ; emit Identifier_1 ( _name , msg . sender , _to ) ; return true ; }

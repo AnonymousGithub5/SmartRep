@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public view returns ( bool Parameter_1 ) { if ( Identifier_0 [ Identifier_1 ] . MemberAccess_0 == 0 ) Identifier_2 = true ; }

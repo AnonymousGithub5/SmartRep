@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) ModifierInvocation_0 ( Identifier_13 ) { if ( Identifier_0 ( Identifier_1 ) != Identifier_2 || Identifier_3 != 0 ) throw ; Identifier_4 = Identifier_5 . MemberAccess_0 ( Identifier_6 ^ Identifier_7 ) ; Identifier_8 = 1 ; Identifier_9 = 0 ; Identifier_10 = 0 ; Identifier_11 = 0 ; Identifier_12 = now ; }

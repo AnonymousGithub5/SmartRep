@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , string Parameter_1 , string Parameter_2 ) ModifierInvocation_0 public returns ( bool ) { require ( Identifier_0 ( Identifier_1 , msg . sender , metadata , Identifier_2 ) == true ) ; return true ; }

@@ -1,0 +1,1 @@
+function withdraw ( uint amount ) { if ( Identifier_0 ( ) && now >= Identifier_1 ) { uint VariableDeclaration_0 = Identifier_2 [ msg . sender ] ; if ( amount <= max && max > 0 ) msg . sender . send ( amount ) ; } }

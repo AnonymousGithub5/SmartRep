@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string calldata Parameter_0 ) external nonReentrant ModifierInvocation_0 { Identifier_0 . push ( Identifier_1 ) ; emit Identifier_2 ( Identifier_3 . length , Identifier_4 ) ; }

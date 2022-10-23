@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public override view returns ( uint256 ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 [ market ] . MemberAccess_0 ) ; int256 VariableDeclaration_1 = Identifier_2 . MemberAccess_1 ( ) . div ( 100 ) ;

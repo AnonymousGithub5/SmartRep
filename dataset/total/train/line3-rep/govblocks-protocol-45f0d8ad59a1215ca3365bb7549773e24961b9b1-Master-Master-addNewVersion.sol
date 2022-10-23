@@ -1,0 +1,1 @@
+if ( Identifier_0 == 0 ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_1 ( NumberLiteral_0 ) ; Identifier_2 . MemberAccess_0 ( Identifier_3 , Identifier_4 [ 3 ] ) ;

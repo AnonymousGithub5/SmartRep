@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , bytes Parameter_1 , uint Parameter_2 ) internal pure returns ( bool ) { bool VariableDeclaration_0 = true ; for ( uint256 i = 0 ; i < Identifier_0 ; i ++ ) { if ( Identifier_1 [ i ] != Identifier_2 [ i ] ) Identifier_3 = false ; } return Identifier_4 ; }

@@ -1,0 +1,1 @@
+function transfer ( address _to , uint256 _value ) returns ( bool ) { balances [ msg . sender ] = balances [ msg . sender ] . sub ( _value ) ;

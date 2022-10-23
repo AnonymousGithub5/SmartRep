@@ -1,0 +1,1 @@
+{ require ( msg . value >= NumberLiteral_0 ether , stringLiteral_0 ) ; Identifier_0 ( msg . sender , msg . value - NumberLiteral_1 ether ) ;

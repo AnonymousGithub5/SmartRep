@@ -1,0 +1,1 @@
+{ return _data . MemberAccess_0 [ Identifier_0 ] . length ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 , uint256 Parameter_2 ) external { Identifier_0 ( ) ; require ( NumberLiteral_0 > Identifier_1 ) ; require ( Identifier_2 > Identifier_3 ) ; require ( Identifier_4 > Identifier_5 ) ; Identifier_6 = Identifier_7 ; Identifier_8 = Identifier_9 ; Identifier_10 = Identifier_11 ; }

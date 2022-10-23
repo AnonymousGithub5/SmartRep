@@ -1,0 +1,1 @@
+tokens . MemberAccess_4 . burn ( _account , Identifier_13 ) ; Identifier_14 ( Identifier_15 , _expiry , _account , Identifier_16 ) ; emit Identifier_17 ( Identifier_18 , _underlyingAsset , _expiry , Identifier_19 , Identifier_20 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) public view returns ( uint256 Parameter_0 ) { rate = Identifier_0 [ token ] ; }

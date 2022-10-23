@@ -1,0 +1,1 @@
+constructor ( uint256 Parameter_0 ) ModifierInvocation_0 ( stringLiteral_0 , stringLiteral_1 ) public { _mint ( msg . sender , Identifier_0 ) ;

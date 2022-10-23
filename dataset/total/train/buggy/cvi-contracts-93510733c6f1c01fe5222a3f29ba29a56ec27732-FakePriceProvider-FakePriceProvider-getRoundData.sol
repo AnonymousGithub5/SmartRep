@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 Parameter_0 ) external override view returns ( ElementaryTypeName_1 Parameter_1 , int256 Parameter_2 , uint256 Parameter_3 , uint256 , ElementaryTypeName_2 ) { Identifier_0 = Identifier_1 ; Identifier_2 = int ( Identifier_3 [ Identifier_4 ] ) ; Identifier_5 = Identifier_6 [ Identifier_7 ] ; }

@@ -1,0 +1,1 @@
+function transferFrom ( address Parameter_0 , address Parameter_1 , uint256 amount ) external returns ( bool ) ;

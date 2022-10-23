@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 , uint Parameter_1 ) ModifierInvocation_0 internal returns ( uint ) { return Identifier_0 . MemberAccess_0 ( Identifier_1 , Identifier_2 ) ; }

@@ -1,0 +1,1 @@
+int256 VariableDeclaration_0 = Identifier_2 . MemberAccess_0 ( ) ; int256 VariableDeclaration_1 = Identifier_3 . totalSupply ( ) . MemberAccess_1 ( ) ; return Identifier_4 . mul ( rate . MemberAccess_2 ( ) . sub ( Identifier_5 ) . div ( Identifier_6 ) ) ;

@@ -1,0 +1,1 @@
+FunctionDefinition_0 ( ) external virtual payable { address VariableDeclaration_0 = Identifier_0 ( ) ;

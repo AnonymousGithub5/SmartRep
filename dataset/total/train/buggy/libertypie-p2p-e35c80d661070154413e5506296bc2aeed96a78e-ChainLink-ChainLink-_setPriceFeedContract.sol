@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 , address _contract ) private { Identifier_0 ( Identifier_1 , _contract ) ; }

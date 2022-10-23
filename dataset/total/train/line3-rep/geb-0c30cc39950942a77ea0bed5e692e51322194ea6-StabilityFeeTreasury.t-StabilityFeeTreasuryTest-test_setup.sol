@@ -1,0 +1,1 @@
+assertEq ( address ( Identifier_1 . MemberAccess_1 ( ) ) , address ( safeEngine ) ) ; assertEq ( address ( Identifier_2 . MemberAccess_2 ( ) ) , Identifier_3 ) ; assertEq ( Identifier_4 . MemberAccess_3 ( ) , now ) ;

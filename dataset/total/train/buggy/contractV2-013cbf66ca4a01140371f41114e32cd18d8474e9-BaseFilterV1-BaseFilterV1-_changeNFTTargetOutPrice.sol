@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 , bool Parameter_2 ) internal { require ( Identifier_0 > DecimalMath . MemberAccess_0 , stringLiteral_0 ) ; Identifier_1 = Identifier_2 ; Identifier_3 = Identifier_4 ; Identifier_5 = true ; emit Identifier_6 ( Identifier_7 , Identifier_8 , Identifier_9 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( bool ) { return msg . sender == Identifier_0 ; }

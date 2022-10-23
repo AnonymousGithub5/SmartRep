@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public returns ( bool ) { if ( Identifier_0 [ Identifier_1 ] > 0 ) { return false ; } Identifier_2 [ Identifier_3 ] = block . number ; Identifier_4 ( Identifier_5 ) ; return true ; }

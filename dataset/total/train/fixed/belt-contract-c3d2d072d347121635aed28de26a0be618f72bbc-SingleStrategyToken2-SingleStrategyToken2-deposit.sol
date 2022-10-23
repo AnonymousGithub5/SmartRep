@@ -1,0 +1,1 @@
+function deposit ( uint256 _amount , uint256 Parameter_0 ) override external { require ( ! Identifier_0 , stringLiteral_0 ) ; require ( _amount != 0 , stringLiteral_1 ) ; IERC20 ( token ) . safeTransferFrom ( msg . sender , address ( this ) , _amount ) ; Identifier_1 ( _amount , Identifier_2 ) ; }

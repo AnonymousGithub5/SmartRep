@@ -1,0 +1,1 @@
+database . MemberAccess_0 ( keccak256 ( abi . encodePacked ( stringLiteral_1 , msg . sender ) ) , Identifier_1 . add ( _amount ) ) ; emit Identifier_2 ( msg . sender , _amount , now ) ; return true ;

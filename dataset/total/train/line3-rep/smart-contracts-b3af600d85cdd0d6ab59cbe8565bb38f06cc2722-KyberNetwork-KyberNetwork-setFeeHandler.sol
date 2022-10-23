@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) public onlyAdmin { require ( Identifier_0 != Identifier_1 ( 0 ) ) ; emit Identifier_2 ( Identifier_3 , Identifier_4 ) ;

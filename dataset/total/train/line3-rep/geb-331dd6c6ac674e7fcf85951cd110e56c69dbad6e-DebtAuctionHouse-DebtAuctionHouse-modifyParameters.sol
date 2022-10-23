@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , uint data ) external ModifierInvocation_0 ModifierInvocation_1 { if ( Identifier_0 == stringLiteral_0 ) Identifier_1 = data ; else if ( Identifier_2 == stringLiteral_1 ) Identifier_3 = data ;

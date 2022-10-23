@@ -1,0 +1,1 @@
+balances [ account ] = 0 ; balances [ address ( 0 ) ] = Identifier_0 ; emit Transfer ( account , address ( 0 ) , Identifier_1 ) ;

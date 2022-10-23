@@ -1,0 +1,1 @@
+address VariableDeclaration_1 = Identifier_1 [ Identifier_2 - 1 ] ; Identifier_3 [ Identifier_4 - 1 ] = address ( 0 ) ; for ( uint i = Identifier_5 - 1 ; i > 0 ; -- i ) {

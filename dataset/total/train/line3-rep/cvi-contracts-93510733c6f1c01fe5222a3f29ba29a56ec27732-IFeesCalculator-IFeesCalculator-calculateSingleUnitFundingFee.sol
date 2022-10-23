@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) external pure returns ( uint256 Parameter_1 ) ; 

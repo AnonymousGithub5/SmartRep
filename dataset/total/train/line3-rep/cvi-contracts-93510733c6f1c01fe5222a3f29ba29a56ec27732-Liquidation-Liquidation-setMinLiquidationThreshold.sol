@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint16 Parameter_0 ) external override onlyOwner { Identifier_0 = Identifier_1 ; }

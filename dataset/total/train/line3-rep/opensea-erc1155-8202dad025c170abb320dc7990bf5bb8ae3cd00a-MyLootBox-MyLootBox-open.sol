@@ -1,0 +1,1 @@
+uint256 _amount ) external { _mint ( Identifier_0 ( Identifier_1 ) , Identifier_2 , _amount , "" ) ;

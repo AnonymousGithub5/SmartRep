@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 , bytes calldata Parameter_1 ) ModifierInvocation_0 ModifierInvocation_1 external override returns ( bytes memory ) { if ( Identifier_0 == Identifier_1 ) { return Identifier_2 ( Identifier_3 ) ; } else { require ( false , stringLiteral_0 ) ; return new bytes ( 0 ) ; } }

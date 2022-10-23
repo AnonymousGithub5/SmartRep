@@ -1,0 +1,1 @@
+constructor ( IERC20 _token ) public { token = _token ;

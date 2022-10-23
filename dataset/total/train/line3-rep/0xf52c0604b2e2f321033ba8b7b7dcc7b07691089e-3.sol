@@ -1,0 +1,1 @@
+for ( uint i = 0 ; i < l ; i ++ ) { require ( balances [ _token ] [ tx . origin ] >= Identifier_1 [ i ] ) ; require ( _token . call ( NumberLiteral_0 , Identifier_2 [ i ] , Identifier_3 [ i ] ) ) ;

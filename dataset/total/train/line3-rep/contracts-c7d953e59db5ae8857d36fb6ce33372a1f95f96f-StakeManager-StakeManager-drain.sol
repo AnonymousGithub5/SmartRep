@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 amount ) external ModifierInvocation_0 { require ( token . transfer ( Identifier_0 , amount ) , stringLiteral_0 ) ; }

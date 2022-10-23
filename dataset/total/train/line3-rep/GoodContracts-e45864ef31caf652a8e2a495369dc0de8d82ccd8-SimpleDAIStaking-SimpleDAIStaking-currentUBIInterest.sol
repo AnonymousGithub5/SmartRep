@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_4 = Identifier_9 % NumberLiteral_1 ; if ( Identifier_10 > 0 ) { Identifier_11 = Identifier_12 . div ( NumberLiteral_2 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view returns ( bool ) { address VariableDeclaration_0 ; ( , Identifier_0 ) = Identifier_1 ( Identifier_2 ) . MemberAccess_0 ( 3 , 0 ) ; if ( Identifier_3 == address ( 0 ) ) return false ; return true ; }

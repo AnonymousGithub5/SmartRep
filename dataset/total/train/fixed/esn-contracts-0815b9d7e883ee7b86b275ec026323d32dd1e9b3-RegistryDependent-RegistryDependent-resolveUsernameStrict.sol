@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _wallet ) public view virtual returns ( bytes32 ) { bytes32 VariableDeclaration_0 = Identifier_0 ( _wallet ) ; require ( Identifier_1 != bytes32 ( 0 ) , stringLiteral_0 ) ; return Identifier_2 ; }

@@ -1,0 +1,1 @@
+require ( Identifier_0 > 0 && Identifier_1 > 0 , stringLiteral_1 ) ; uint VariableDeclaration_0 = amountIn . mul ( NumberLiteral_0 ) ; uint VariableDeclaration_1 = Identifier_2 . mul ( Identifier_3 ) ;

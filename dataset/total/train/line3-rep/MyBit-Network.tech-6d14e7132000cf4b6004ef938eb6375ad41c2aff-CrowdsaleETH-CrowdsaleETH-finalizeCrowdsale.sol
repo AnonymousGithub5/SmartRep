@@ -1,0 +1,1 @@
+database . MemberAccess_1 ( keccak256 ( abi . encodePacked ( stringLiteral_1 , _assetID ) ) ) ; database . MemberAccess_2 ( keccak256 ( abi . encodePacked ( stringLiteral_2 , _assetID ) ) ) ; return true ;

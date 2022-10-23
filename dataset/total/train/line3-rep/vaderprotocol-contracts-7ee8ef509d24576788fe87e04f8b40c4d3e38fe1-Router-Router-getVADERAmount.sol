@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_0 ( ) ; return ( _price . mul ( Identifier_1 ) ) . div ( Identifier_2 ) ; }

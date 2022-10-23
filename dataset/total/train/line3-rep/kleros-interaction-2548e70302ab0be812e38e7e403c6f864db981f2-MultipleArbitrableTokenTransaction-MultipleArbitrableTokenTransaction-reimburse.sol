@@ -1,0 +1,1 @@
+transaction . amount -= Identifier_3 ; require ( token . transfer ( transaction . MemberAccess_1 , Identifier_4 ) != false , stringLiteral_3 ) ; }

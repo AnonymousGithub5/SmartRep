@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 ( Identifier_3 ) { Identifier_0 = Identifier_1 . MemberAccess_0 ; emit Identifier_2 ( ) ; }

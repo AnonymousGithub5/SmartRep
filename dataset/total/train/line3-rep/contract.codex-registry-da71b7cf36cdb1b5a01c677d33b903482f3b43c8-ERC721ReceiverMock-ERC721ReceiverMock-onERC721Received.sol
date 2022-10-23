@@ -1,0 +1,1 @@
+require ( ! Identifier_0 ) ; Identifier_1 ( _address , _tokenId , _data , msg . MemberAccess_0 ) ; return Identifier_2 ;

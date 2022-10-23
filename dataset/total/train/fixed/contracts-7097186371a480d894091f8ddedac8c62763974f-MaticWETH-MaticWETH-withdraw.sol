@@ -1,0 +1,1 @@
+function withdraw ( uint Parameter_0 , address payable user ) public { require ( balanceOf ( msg . sender ) >= Identifier_0 ) ; user . transfer ( Identifier_1 ) ; _burn ( msg . sender , Identifier_2 ) ; emit Identifier_3 ( user , Identifier_4 ) ; }

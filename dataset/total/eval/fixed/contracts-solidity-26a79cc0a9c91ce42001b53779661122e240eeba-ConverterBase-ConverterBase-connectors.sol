@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _address ) public view override returns ( uint256 , uint32 , bool , bool , bool ) { UserDefinedTypeName_1 memory VariableDeclaration_0 = Identifier_0 [ _address ] ; return ( reserve . balance , reserve . MemberAccess_0 , false , false , reserve . MemberAccess_1 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external override view returns ( uint Parameter_0 , uint Parameter_1 , uint Parameter_2 , uint Parameter_3 ) { return ( Identifier_0 , Identifier_1 , Identifier_2 , Identifier_3 ) ; }

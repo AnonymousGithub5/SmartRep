@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) view public returns ( uint [ NumberLiteral_0 ] memory ) { return Identifier_0 . MemberAccess_0 ( ) ; }

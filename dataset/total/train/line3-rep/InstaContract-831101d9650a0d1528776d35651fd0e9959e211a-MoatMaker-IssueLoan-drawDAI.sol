@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 ) public ModifierInvocation_0 ( Identifier_14 ) { Identifier_0 . MemberAccess_0 ( Identifier_1 [ Identifier_2 ] , Identifier_3 ) ; uint VariableDeclaration_0 = Identifier_4 ( Identifier_5 ) ;

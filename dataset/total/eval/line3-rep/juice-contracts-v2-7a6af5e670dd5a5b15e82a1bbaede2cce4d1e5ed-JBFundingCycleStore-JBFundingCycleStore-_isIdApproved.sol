@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) private view returns ( bool ) { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; return Identifier_2 ( _fundingCycle ) ;

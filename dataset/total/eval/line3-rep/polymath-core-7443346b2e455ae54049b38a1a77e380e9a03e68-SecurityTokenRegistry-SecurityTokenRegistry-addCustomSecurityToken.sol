@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string _name , string Parameter_0 , address _owner , address Parameter_1 , string Parameter_2 , bytes32 Parameter_3 ) public onlyOwner { require ( bytes ( _name ) . length > 0 && bytes ( _symbol ) . length > 0 , stringLiteral_0 ) ;

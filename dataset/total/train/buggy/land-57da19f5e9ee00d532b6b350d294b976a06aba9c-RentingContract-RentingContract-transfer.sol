@@ -1,0 +1,1 @@
+function transfer ( address target ) public onlyOwner ModifierInvocation_0 { Identifier_0 ( ) ; Identifier_1 . transfer ( target , tokenId ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) onlyOwner returns ( bool ) { Identifier_0 = true ; Identifier_1 ( ) ; return true ; }

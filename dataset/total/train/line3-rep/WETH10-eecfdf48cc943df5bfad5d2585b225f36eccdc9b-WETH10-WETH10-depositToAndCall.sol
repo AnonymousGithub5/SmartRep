@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address to , bytes calldata data ) external payable returns ( bool success ) { Identifier_0 [ to ] += msg . value ; emit Transfer ( address ( 0 ) , to , msg . value ) ;

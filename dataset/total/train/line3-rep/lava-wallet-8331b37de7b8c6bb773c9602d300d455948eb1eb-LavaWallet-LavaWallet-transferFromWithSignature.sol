@@ -1,0 +1,1 @@
+if ( from != Identifier_5 ) revert ( ) ; if ( tokens < Identifier_6 ) revert ( ) ; uint VariableDeclaration_2 = Identifier_7 [ Identifier_8 ] ;

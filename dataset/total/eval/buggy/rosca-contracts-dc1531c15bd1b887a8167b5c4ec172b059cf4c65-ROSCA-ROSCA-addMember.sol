@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) internal { require ( ! Identifier_0 [ Identifier_1 ] . MemberAccess_0 ) ; Identifier_2 [ Identifier_3 ] = Identifier_4 ( { paid : false , credit : 0 , alive : true , debt : false } ) ; Identifier_5 . push ( Identifier_6 ) ; }

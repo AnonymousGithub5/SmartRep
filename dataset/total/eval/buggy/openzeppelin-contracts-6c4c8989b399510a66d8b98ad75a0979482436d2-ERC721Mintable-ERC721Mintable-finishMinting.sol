@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 ModifierInvocation_1 returns ( bool ) { Identifier_0 = true ; emit Identifier_1 ( ) ; return true ; }

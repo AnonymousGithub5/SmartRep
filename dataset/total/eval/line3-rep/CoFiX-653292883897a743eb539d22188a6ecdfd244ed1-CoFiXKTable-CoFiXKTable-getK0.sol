@@ -1,0 +1,1 @@
+require ( Identifier_0 < NumberLiteral_0 , stringLiteral_0 ) ; require ( Identifier_1 < NumberLiteral_1 , stringLiteral_1 ) ; return Identifier_2 [ Identifier_3 ] [ Identifier_4 ] ;

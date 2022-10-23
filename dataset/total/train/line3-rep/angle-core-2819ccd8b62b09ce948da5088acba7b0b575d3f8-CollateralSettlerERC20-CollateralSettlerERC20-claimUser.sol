@@ -1,0 +1,1 @@
+Identifier_1 . transferFrom ( msg . sender , address ( this ) , Identifier_2 ) ; uint256 VariableDeclaration_0 = ( Identifier_3 * Identifier_4 ) / Identifier_5 ; Identifier_6 ( Identifier_7 , Identifier_8 , Identifier_9 , 0 ) ;

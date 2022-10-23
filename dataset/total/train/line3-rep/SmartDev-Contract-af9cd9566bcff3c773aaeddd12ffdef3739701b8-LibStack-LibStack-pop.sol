@@ -1,0 +1,1 @@
+bytes32 data = self . MemberAccess_1 [ self . MemberAccess_2 . length - 1 ] ; self . MemberAccess_3 . MemberAccess_4 ( ) ; return data ;

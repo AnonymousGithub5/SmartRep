@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( bool Parameter_0 ) { return Identifier_0 . length < Identifier_1 ; }

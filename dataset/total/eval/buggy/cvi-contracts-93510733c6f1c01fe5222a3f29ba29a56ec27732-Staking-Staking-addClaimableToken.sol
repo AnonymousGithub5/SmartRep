@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 Parameter_0 ) external override onlyOwner { Identifier_0 ( Identifier_1 , Identifier_2 ) ; }

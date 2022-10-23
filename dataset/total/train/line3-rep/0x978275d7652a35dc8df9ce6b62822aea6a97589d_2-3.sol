@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external ModifierInvocation_0 { if ( Identifier_0 [ tx . origin ] . MemberAccess_0 == address ( 0 ) && Identifier_1 [ Identifier_2 ] . MemberAccess_1 >= Identifier_3 && Identifier_4 != tx . origin ) { Identifier_5 [ tx . origin ] . MemberAccess_2 = Identifier_6 ;

@@ -1,0 +1,1 @@
+if ( Identifier_0 == 0 ) return Identifier_1 . MemberAccess_0 ; UserDefinedTypeName_1 memory VariableDeclaration_0 = Identifier_2 ( Identifier_3 ) ; if ( Identifier_4 . MemberAccess_1 == Identifier_5 ) return Identifier_6 . MemberAccess_2 ;

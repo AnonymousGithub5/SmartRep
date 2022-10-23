@@ -1,0 +1,1 @@
+function mint ( address user , uint amount ) external ;

@@ -1,0 +1,1 @@
+public { Identifier_0 [ _address ] = _account ;

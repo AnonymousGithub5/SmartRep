@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint amount , uint32 Parameter_0 ) external payable ;

@@ -1,0 +1,1 @@
+function approve ( address spender , uint Parameter_0 ) public returns ( bool success ) { allowed [ msg . sender ] [ spender ] = tokens ; Identifier_0 ( msg . sender , spender , tokens ) ;

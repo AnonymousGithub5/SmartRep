@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view returns ( bytes32 ) { bytes32 memory VariableDeclaration_0 = new bytes32 ( 2 ) ; Identifier_0 [ 0 ] = stringLiteral_0 ;

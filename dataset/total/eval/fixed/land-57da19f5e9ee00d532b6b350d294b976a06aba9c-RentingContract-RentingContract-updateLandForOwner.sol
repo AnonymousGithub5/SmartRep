@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 ) public onlyOwner ModifierInvocation_0 { Identifier_0 . MemberAccess_0 ( tokenId , Identifier_1 ) ; }

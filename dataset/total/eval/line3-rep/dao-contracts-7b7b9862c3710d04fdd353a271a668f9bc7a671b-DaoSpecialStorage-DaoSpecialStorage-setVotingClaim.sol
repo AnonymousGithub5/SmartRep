@@ -1,0 +1,1 @@
+require ( Identifier_0 ( Identifier_1 ) ) ; UserDefinedTypeName_0 VariableDeclaration_0 = proposalsById [ _proposalId ] ; Identifier_2 . MemberAccess_0 . MemberAccess_1 = Identifier_3 ;

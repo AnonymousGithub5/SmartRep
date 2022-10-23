@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { Identifier_0 ( ) ; Identifier_1 ( ) ; uint256 VariableDeclaration_0 = Identifier_2 [ msg . sender ] ; Identifier_3 ( Identifier_4 ) ; }

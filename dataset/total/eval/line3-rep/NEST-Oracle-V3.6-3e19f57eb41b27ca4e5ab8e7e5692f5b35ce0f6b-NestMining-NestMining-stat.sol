@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ tokenAddress ] ; Identifier_1 ( Identifier_2 , Identifier_3 . MemberAccess_0 , Identifier_4 ) ; }

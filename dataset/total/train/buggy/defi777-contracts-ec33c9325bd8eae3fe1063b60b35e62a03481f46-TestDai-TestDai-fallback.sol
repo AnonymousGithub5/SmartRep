@@ -1,0 +1,1 @@
+constructor ( ) public { _mint ( msg . sender , 100 ether ) ; Identifier_0 = keccak256 ( abi . encode ( keccak256 ( stringLiteral_0 ) , keccak256 ( bytes ( stringLiteral_1 ) ) , keccak256 ( bytes ( stringLiteral_2 ) ) , 1 , address ( this ) ) ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , address Parameter_0 ) public view returns ( uint Parameter_1 , uint Parameter_2 ) { address pool = Identifier_0 ( token ) ;

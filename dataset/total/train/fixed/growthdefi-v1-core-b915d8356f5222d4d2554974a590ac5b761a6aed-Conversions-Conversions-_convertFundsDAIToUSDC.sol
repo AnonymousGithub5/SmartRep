@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) internal { address VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ; address VariableDeclaration_1 = Identifier_1 ( Identifier_2 ) . MemberAccess_1 ( 0 ) ; Identifier_3 . MemberAccess_2 ( _token , Identifier_4 , _amount ) ; Identifier_5 ( Identifier_6 ) . MemberAccess_3 ( 0 , 1 , _amount , 0 ) ; }

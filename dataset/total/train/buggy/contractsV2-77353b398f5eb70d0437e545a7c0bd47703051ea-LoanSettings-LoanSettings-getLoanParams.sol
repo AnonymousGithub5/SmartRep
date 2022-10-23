@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) external view returns ( UserDefinedTypeName_0 memory ) { return Identifier_0 [ Identifier_1 ] ; }

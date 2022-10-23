@@ -1,0 +1,1 @@
+keccak256 ( abi . encode ( Identifier_0 , keccak256 ( bytes ( name ) ) , Identifier_1 ( ) , address ( this ) ) ) ;

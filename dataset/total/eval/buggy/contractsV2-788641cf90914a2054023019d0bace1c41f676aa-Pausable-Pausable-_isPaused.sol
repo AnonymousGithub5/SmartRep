@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes4 Parameter_0 ) internal view returns ( bool Parameter_1 ) { bytes32 VariableDeclaration_0 = keccak256 ( abi . encodePacked ( Identifier_0 , uint256 ( NumberLiteral_0 ) ) ) ; assembly { Identifier_1 := AssemblyExpression_1 ( AssemblyExpression_0 ) } }

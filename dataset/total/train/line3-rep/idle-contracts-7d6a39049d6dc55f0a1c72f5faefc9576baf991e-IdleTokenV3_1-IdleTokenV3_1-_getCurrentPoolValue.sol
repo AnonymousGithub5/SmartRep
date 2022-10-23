@@ -1,0 +1,1 @@
+IERC20 ( Identifier_6 ) . balanceOf ( address ( this ) ) ) . div ( 10 ** 18 ) ) ; }

@@ -1,0 +1,1 @@
+mapping ( uint256 => uint256 ) VariableDeclaration_1 = Identifier_3 [ Identifier_4 ] ; require ( Identifier_5 [ Identifier_6 ] != 0 , stringLiteral_1 ) ; uint VariableDeclaration_2 = Identifier_7 . length . sub ( 1 ) ;

@@ -1,0 +1,1 @@
+uint balance = 1000 * Identifier_0 ( ) ; Identifier_1 ( address ( Identifier_2 ) , balance ) ; Identifier_3 ( ) ;

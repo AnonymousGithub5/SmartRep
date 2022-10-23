@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 , address Parameter_2 ) internal { require ( Identifier_0 . MemberAccess_0 ( Identifier_1 ) ) ; uint VariableDeclaration_0 = Identifier_2 . MemberAccess_1 ( ) ;

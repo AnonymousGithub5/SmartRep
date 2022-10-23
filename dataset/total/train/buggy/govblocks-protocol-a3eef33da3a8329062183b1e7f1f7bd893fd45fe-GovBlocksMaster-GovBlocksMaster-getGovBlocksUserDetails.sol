@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) constant returns ( bytes32 Parameter_1 , address Parameter_2 , bytes32 Parameter_3 , bytes32 Parameter_4 ) { return ( Identifier_0 , Identifier_1 [ Identifier_2 ] , Identifier_3 , Identifier_4 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { Identifier_0 . MemberAccess_0 ( address ( this ) , 0 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 ) { assert ( Identifier_0 . MemberAccess_0 ( bytes ( Identifier_1 ( stringLiteral_0 ) ) , Identifier_2 ) ) ; }

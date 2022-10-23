@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _id , address Parameter_0 , uint _amount , bytes _data , string Parameter_1 , bytes32 Parameter_2 , string Parameter_3 , bytes32 Parameter_4 ) public payable ModifierInvocation_0 ( _id ) { require ( Identifier_0 [ _id ] . MemberAccess_0 == address ( 0 ) , stringLiteral_0 ) ; Identifier_1 [ _id ] . MemberAccess_1 = Identifier_2 ;

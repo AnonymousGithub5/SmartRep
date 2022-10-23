@@ -1,0 +1,1 @@
+Identifier_1 . transfer ( Identifier_2 , addr , tokenAmount ) ; emit Identifier_3 ( addr , Identifier_4 ) ; }

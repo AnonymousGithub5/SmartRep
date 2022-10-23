@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint x , uint y ) internal pure returns ( uint256 ) { return ( WAD / 2 ) . add ( x . mul ( y ) ) . div ( WAD ) ; }

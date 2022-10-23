@@ -1,0 +1,1 @@
+{ Identifier_0 ( ) ; require ( ! Identifier_1 , stringLiteral_0 ) ;

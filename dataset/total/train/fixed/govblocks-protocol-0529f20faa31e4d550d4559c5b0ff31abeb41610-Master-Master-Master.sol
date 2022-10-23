@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bytes32 Parameter_1 ) { Identifier_0 [ address ( this ) ] = true ; Identifier_1 = 0 ; Identifier_2 = Identifier_3 ; Identifier_4 = Identifier_5 ; Identifier_6 ( ) ; }

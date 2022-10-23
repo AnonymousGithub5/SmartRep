@@ -1,0 +1,1 @@
+Identifier_0 = Identifier_1 ; state = new UserDefinedTypeName_0 ( _owner , address ( this ) ) ; require ( Identifier_2 <= Identifier_3 ) ;

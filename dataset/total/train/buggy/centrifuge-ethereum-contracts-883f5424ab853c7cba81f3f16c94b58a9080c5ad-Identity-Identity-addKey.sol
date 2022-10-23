@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _key , uint Parameter_0 ) onlyOwner public { require ( Identifier_0 > 0 ) ; Identifier_1 [ Identifier_2 ] . push ( _key ) ; Identifier_3 ( Identifier_4 , _key ) ; }

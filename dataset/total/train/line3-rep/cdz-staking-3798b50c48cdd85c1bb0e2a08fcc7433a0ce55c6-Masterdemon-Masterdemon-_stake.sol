@@ -1,0 +1,1 @@
+user . MemberAccess_7 = block . timestamp ; emit Identifier_6 ( _user ) ; }

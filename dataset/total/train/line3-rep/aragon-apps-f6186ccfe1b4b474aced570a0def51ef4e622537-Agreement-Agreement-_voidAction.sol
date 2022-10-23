@@ -1,0 +1,1 @@
+Identifier_18 ( Identifier_19 , Identifier_20 , Identifier_21 ) ; address ( Identifier_22 ) . call ( abi . MemberAccess_6 ( Identifier_23 . MemberAccess_7 . selector , Identifier_24 . MemberAccess_8 ) ) ; emit Identifier_25 ( Identifier_26 , Identifier_27 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) internal view returns ( bytes32 , address ) { uint256 VariableDeclaration_0 = 0 ;

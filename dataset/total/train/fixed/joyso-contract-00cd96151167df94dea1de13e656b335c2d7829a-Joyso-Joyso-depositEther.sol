@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external payable { Identifier_0 ( msg . sender ) ; balances [ 0 ] [ msg . sender ] = balances [ 0 ] [ msg . sender ] . add ( msg . value ) ; Identifier_1 ( 0 , msg . sender , msg . value , balances [ 0 ] [ msg . sender ] ) ; }

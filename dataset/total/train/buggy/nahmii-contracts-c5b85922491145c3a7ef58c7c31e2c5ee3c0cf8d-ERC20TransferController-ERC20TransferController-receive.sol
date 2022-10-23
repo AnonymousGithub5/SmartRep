@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address to , uint256 amount , address Parameter_0 , uint256 Parameter_1 ) public { require ( msg . sender != address ( 0 ) ) ; require ( amount > 0 ) ; require ( Identifier_0 == 0 ) ; require ( ERC20 ( Identifier_1 ) . transferFrom ( from , to , amount ) ) ; emit Identifier_2 ( from , to , amount , Identifier_3 , 0 ) ; }

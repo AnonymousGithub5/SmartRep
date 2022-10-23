@@ -1,0 +1,1 @@
+Identifier_8 = block . timestamp + Identifier_9 ; Identifier_10 = NumberLiteral_1 ; Identifier_11 = msg . sender ;

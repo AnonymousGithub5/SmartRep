@@ -1,0 +1,1 @@
+require ( Identifier_0 != 0x0 ) ; Identifier_1 ( ) ; uint256 VariableDeclaration_0 = Identifier_2 ( Identifier_3 ) ;

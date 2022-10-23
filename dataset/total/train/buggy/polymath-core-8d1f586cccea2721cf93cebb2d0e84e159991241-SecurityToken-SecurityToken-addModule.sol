@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bytes _data , uint256 Parameter_1 , uint256 Parameter_2 ) external onlyOwner { Identifier_0 ( Identifier_1 , _data , Identifier_2 , Identifier_3 ) ; }

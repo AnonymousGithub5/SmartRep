@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _proposalId ) public ModifierInvocation_0 ( _proposalId ) ModifierInvocation_1 ( _proposalId ) { uint VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( governanceDat . MemberAccess_1 ( _proposalId ) ) ; require ( Identifier_1 != 0 ) ; governanceDat . MemberAccess_2 ( _proposalId , 2 ) ; Identifier_2 ( _proposalId ) ; }

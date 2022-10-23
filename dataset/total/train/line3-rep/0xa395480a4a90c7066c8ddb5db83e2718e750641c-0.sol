@@ -1,0 +1,1 @@
+if ( msg . sender != address ( this ) ) throw ; if ( target . call . value ( amount ) ( ) ) { Identifier_0 ( amount , Identifier_1 , target , Identifier_2 ) ;

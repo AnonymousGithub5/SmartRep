@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _key ) public view returns ( bytes32 ) { uint256 VariableDeclaration_0 = Identifier_0 [ _key ] ; require ( index > 0 , stringLiteral_0 ) ;

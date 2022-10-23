@@ -1,0 +1,1 @@
+require ( ! Identifier_0 [ _to ] && ! Identifier_1 [ _from ] ) ; require ( _value <= balanceOf ( msg . sender ) . sub ( Identifier_2 [ msg . sender ] ) , stringLiteral_0 ) ; if ( Identifier_3 . MemberAccess_0 ( _to ) && Identifier_4 . MemberAccess_1 ( _from , _to , _value ) ) {

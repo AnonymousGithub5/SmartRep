@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint256 id ) public view virtual returns ( uint256 ) ; 

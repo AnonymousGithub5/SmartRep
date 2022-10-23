@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , UserDefinedTypeName_0 Parameter_1 , uint memory Parameter_2 ) public override onlyOwner { require ( index > 0 ) ;

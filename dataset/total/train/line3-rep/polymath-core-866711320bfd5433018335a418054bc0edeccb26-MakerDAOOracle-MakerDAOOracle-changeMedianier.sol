@@ -1,0 +1,1 @@
+require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; emit Identifier_1 ( Identifier_2 , Identifier_3 , now ) ; Identifier_4 = Identifier_5 ;

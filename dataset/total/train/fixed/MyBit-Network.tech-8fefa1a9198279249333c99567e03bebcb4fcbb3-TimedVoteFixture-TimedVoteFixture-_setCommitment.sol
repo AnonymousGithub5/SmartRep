@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _amount ) external { Identifier_0 [ _account ] = Identifier_1 ( _amount , Identifier_2 ( ) ) ; }

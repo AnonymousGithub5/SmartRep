@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public returns ( bool ) { return Identifier_0 != 0 ;

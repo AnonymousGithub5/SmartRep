@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) { bool VariableDeclaration_0 = ( block . number % 2 ) == 0 ;

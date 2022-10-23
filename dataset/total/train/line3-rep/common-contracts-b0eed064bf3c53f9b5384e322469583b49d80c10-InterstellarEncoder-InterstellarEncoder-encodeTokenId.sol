@@ -1,0 +1,1 @@
+_tokenId = ( Identifier_4 << NumberLiteral_0 ) + ( Identifier_5 << NumberLiteral_1 ) + ( uint256 ( Identifier_6 ) << NumberLiteral_2 ) + ( Identifier_7 << NumberLiteral_3 ) + ( uint256 ( Identifier_8 ) << 200 ) + ( uint256 ( Identifier_9 . MemberAccess_0 ) << NumberLiteral_4 ) + ( Identifier_10 << NumberLiteral_5 ) + uint256 ( Identifier_11 ) ; }

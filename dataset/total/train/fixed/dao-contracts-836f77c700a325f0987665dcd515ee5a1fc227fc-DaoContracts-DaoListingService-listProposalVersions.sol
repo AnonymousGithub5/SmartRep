@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _proposalId , uint256 Parameter_0 , bool Parameter_1 ) public view returns ( bytes32 Parameter_2 ) { Identifier_0 = Identifier_1 ( _proposalId , Identifier_2 , daoStorage ( ) . MemberAccess_0 , daoStorage ( ) . MemberAccess_1 , daoStorage ( ) . MemberAccess_2 , daoStorage ( ) . MemberAccess_3 , Identifier_3 ) ; }

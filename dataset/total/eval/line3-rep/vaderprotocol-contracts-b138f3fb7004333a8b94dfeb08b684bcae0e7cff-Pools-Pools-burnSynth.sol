@@ -1,0 +1,1 @@
+address Parameter_1 ) external returns ( uint256 Parameter_2 ) { address VariableDeclaration_0 = Identifier_0 ( token ) ;

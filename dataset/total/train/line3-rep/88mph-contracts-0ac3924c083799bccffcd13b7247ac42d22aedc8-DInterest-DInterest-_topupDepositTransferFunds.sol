@@ -1,0 +1,1 @@
+stablecoin . safeTransferFrom ( sender , address ( this ) , Identifier_0 ) ; stablecoin . MemberAccess_0 ( address ( Identifier_1 ) , Identifier_2 ) ; Identifier_3 . deposit ( Identifier_4 ) ;

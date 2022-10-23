@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { return Identifier_0 . balanceOf ( address ( this ) ) . add ( Identifier_1 ( controller ) . balanceOf ( address ( Identifier_2 ) ) ) ; }

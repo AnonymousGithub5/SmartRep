@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public onlyOwner { UserDefinedTypeName_0 storage pool = Identifier_0 [ Identifier_1 ] ; Identifier_2 ( Identifier_3 ) . approve ( pool . MemberAccess_0 , 0 ) ; pool . MemberAccess_1 = false ; }

@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_2 [ from ] ; Identifier_3 . MemberAccess_0 ( to , Identifier_4 , 0 ) ; }

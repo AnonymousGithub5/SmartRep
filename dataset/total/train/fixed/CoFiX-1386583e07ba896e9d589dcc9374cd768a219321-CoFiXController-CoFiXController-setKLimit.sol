@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( int128 Parameter_0 ) external ModifierInvocation_0 { Identifier_0 = Identifier_1 ; emit Identifier_2 ( Identifier_3 ) ; }

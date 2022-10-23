@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { Identifier_0 . safeApprove ( address ( 0 ) , 0 ) ; }

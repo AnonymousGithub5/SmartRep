@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint _value , bytes _data ) public onlyOwner { if ( ! Identifier_0 . call . value ( _value ) ( _data ) ) revert ( ) ; }

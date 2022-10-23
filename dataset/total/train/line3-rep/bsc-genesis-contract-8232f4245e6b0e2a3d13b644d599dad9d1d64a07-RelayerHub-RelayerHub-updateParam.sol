@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_2 . MemberAccess_1 ( 32 , value ) ; require ( Identifier_3 >= 1 && Identifier_4 <= NumberLiteral_0 , stringLiteral_2 ) ; Identifier_5 = Identifier_6 ;

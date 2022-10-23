@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 VariableDeclaration_1 = new UserDefinedTypeName_1 ( Identifier_4 , Identifier_5 , _amount ) ; database . MemberAccess_1 ( keccak256 ( abi . encodePacked ( stringLiteral_1 , Identifier_6 ) ) , msg . sender ) ; database . MemberAccess_2 ( keccak256 ( abi . encodePacked ( stringLiteral_2 , Identifier_7 ) ) , address ( Identifier_8 ) ) ;

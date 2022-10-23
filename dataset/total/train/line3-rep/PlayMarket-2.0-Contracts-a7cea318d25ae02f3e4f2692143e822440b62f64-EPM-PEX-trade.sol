@@ -1,0 +1,1 @@
+Identifier_15 [ user ] [ hash ] = Identifier_16 ( Identifier_17 [ user ] [ hash ] , amount ) ; emit Identifier_18 ( Identifier_19 , amount , Identifier_20 , Identifier_21 * amount / Identifier_22 , user , msg . sender ) ; }

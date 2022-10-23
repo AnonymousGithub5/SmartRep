@@ -1,0 +1,1 @@
+Identifier_6 ( Identifier_7 ) . MemberAccess_0 ( amount ) ; emit Identifier_8 ( Identifier_9 , Identifier_10 , amount ) ; }

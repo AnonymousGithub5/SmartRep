@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _wallet ) public ModifierInvocation_0 ( _wallet ) { _wallet . MemberAccess_0 ( address ( this ) , bytes4 ( keccak256 ( stringLiteral_0 ) ) ) ; _wallet . MemberAccess_1 ( address ( this ) , bytes4 ( keccak256 ( stringLiteral_1 ) ) ) ; _wallet . MemberAccess_2 ( address ( this ) , bytes4 ( keccak256 ( stringLiteral_2 ) ) ) ; }

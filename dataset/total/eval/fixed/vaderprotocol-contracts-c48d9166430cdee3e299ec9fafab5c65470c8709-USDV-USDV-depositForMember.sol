@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , address Parameter_0 , uint amount ) public { require ( token == address ( this ) || ( iPOOLS ( POOLS ) . MemberAccess_0 ( token ) && iPOOLS ( POOLS ) . MemberAccess_1 ( Identifier_0 ( token ) . MemberAccess_2 ( ) ) ) ) ; Identifier_1 ( token , amount ) ; Identifier_2 ( token , member , amount ) ; }

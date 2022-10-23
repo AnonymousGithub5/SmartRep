@@ -1,0 +1,1 @@
+function deposit ( ) external payable { balanceOf [ msg . sender ] += msg . value ;

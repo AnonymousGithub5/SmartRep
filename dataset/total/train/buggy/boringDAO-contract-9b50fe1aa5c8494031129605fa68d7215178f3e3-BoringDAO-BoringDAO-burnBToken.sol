@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , uint256 amount , string memory Parameter_1 ) public override ModifierInvocation_0 ( Identifier_3 ) ModifierInvocation_1 ( Identifier_4 ) { Identifier_0 ( Identifier_1 ) . burn ( msg . sender , amount , Identifier_2 ) ; }

@@ -1,0 +1,1 @@
+) public ModifierInvocation_0 { require ( Identifier_0 ( msg . sender ) . MemberAccess_0 ( ) , stringLiteral_0 ) ; require ( Identifier_1 [ _tokenId ] == address ( 0 ) , stringLiteral_1 ) ;

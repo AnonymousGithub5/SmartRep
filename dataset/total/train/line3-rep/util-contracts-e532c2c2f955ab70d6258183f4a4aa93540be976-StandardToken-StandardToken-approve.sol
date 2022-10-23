@@ -1,0 +1,1 @@
+Identifier_0 [ msg . sender ] [ spender ] = value ; Identifier_1 ( msg . sender , spender , value ) ; return true ;

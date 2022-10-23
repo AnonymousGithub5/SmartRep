@@ -1,0 +1,1 @@
+require ( Identifier_0 [ _tokenId ] . owner != address ( 0 ) , stringLiteral_0 ) ; require ( Identifier_1 [ _tokenId ] . MemberAccess_0 == address ( 0 ) , stringLiteral_1 ) ; Identifier_2 [ _tokenId ] = Identifier_3 ( {

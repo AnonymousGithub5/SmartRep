@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { require ( Identifier_0 [ msg . sender ] != 0 ) ; Identifier_1 [ msg . sender ] = 0 ; Identifier_2 ( msg . sender , Identifier_3 [ msg . sender ] ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 [ 3 ] memory Parameter_1 ) public payable { uint32 VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; uint32 VariableDeclaration_1 = Identifier_2 [ Identifier_3 ] . MemberAccess_0 ; if ( msg . value > 0 ) { Identifier_4 ( Identifier_5 , msg . value , true , false , Identifier_6 , 0 ) ; } }

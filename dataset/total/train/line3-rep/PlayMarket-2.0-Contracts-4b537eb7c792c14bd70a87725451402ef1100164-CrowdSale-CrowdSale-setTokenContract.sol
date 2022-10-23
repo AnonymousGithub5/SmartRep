@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _contract ) external onlyOwner { ERC20 = Identifier_0 ( _contract ) ; }

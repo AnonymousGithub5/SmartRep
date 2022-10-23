@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { uint64 VariableDeclaration_0 = Identifier_0 ; require ( Identifier_1 > 0 && Identifier_2 <= block . timestamp , stringLiteral_0 ) ; Identifier_3 = Identifier_4 ; Identifier_5 = 0 ; Identifier_6 = 0 ; emit Identifier_7 ( Identifier_8 ) ; }

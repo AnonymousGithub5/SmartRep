@@ -1,0 +1,1 @@
+function withdraw ( ) public ModifierInvocation_0 ModifierInvocation_1 { msg . sender . transfer ( balance ) ; balance = 0 ; }

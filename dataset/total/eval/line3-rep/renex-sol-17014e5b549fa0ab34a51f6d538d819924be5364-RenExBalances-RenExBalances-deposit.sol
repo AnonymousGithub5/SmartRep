@@ -1,0 +1,1 @@
+require ( msg . value == 0 , stringLiteral_1 ) ; require ( _token . transferFrom ( Identifier_1 , this , _value ) , stringLiteral_2 ) ; }

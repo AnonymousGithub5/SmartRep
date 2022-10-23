@@ -1,0 +1,1 @@
+balanceOf [ from ] = Identifier_5 - amount ; balanceOf [ to ] += amount ; emit Transfer ( from , to , amount ) ;

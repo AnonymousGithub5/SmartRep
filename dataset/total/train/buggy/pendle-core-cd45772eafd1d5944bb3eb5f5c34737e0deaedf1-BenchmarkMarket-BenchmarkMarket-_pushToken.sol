@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 , uint256 Parameter_2 ) internal { require ( IERC20 ( Identifier_0 ) . transfer ( Identifier_1 , Identifier_2 ) , stringLiteral_0 ) ; }

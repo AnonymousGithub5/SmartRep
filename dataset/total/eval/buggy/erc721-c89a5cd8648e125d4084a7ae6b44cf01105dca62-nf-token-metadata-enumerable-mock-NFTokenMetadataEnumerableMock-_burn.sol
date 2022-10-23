@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _tokenId ) internal override ( NFTokenMetadata , NFTokenEnumerable ) virtual { Identifier_0 . MemberAccess_0 ( _tokenId ) ; if ( bytes ( Identifier_1 [ _tokenId ] ) . length != 0 ) { delete Identifier_2 [ _tokenId ] ; } }

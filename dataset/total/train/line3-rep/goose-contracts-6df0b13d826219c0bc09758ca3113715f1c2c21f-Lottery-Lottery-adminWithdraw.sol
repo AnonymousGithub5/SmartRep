@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) public onlyAdmin { Identifier_0 . safeTransfer ( address ( msg . sender ) , _amount ) ;

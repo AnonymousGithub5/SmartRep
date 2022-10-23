@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable receiver , uint256 amount ) internal virtual { require ( receiver != address ( 0x0 ) , stringLiteral_0 ) ; if ( address ( this ) . balance >= amount ) { receiver . MemberAccess_0 ( amount ) ; emit Identifier_0 ( receiver , amount ) ; } }

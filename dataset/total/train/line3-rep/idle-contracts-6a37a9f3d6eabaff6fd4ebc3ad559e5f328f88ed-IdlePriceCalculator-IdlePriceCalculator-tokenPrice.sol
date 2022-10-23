@@ -1,0 +1,1 @@
+if ( totalSupply == 0 ) { return 10 ** 18 ; }

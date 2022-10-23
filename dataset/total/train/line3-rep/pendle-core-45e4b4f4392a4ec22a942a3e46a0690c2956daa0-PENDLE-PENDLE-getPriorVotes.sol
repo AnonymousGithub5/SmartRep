@@ -1,0 +1,1 @@
+{ require ( Identifier_0 < block . number , stringLiteral_0 ) ; uint32 VariableDeclaration_0 = Identifier_1 [ account ] ;

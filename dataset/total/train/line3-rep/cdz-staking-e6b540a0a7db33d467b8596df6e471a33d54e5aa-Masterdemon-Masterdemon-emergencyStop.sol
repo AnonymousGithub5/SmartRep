@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_2 [ i ] ; if ( Identifier_3 . MemberAccess_0 = true ) { Identifier_4 . MemberAccess_1 = false ;

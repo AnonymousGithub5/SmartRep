@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 , uint Parameter_1 ) private constant { bytes memory VariableDeclaration_0 = buf . MemberAccess_0 ; Identifier_0 ( buf , Identifier_1 ) ; Identifier_2 ( buf , Identifier_3 ) ; }

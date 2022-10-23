@@ -1,0 +1,1 @@
+UserDefinedTypeName_2 VariableDeclaration_1 = Identifier_8 ( dao . MemberAccess_0 ( Identifier_9 ) ) ; uint256 VariableDeclaration_2 = Identifier_10 . MemberAccess_1 ( Identifier_11 , Identifier_12 , vote . MemberAccess_2 ) ; uint256 VariableDeclaration_3 = Identifier_13 - Identifier_14 - Identifier_15 ;

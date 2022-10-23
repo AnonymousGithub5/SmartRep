@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = address ( 0 ) ; emit Identifier_3 ( Identifier_4 , Identifier_5 ) ; Identifier_6 = Identifier_7 ;

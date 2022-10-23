@@ -1,0 +1,1 @@
+{ require ( Identifier_0 [ address ( pool ) ] , stringLiteral_0 ) ; uint256 VariableDeclaration_0 = controller . MemberAccess_0 ( collateral , maturity , to ) ;

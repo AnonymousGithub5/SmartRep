@@ -1,0 +1,1 @@
+Identifier_0 ( from , to , value ) ; Identifier_1 ( from , msg . sender , Identifier_2 [ from ] [ msg . sender ] . sub ( value ) ) ; return true ;

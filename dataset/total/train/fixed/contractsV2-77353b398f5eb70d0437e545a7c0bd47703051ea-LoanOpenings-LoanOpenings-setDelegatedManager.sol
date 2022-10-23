@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address Parameter_1 , bool Parameter_2 ) external { require ( loans [ loanId ] . MemberAccess_0 == msg . sender , stringLiteral_0 ) ; Identifier_0 ( loanId , msg . sender , Identifier_1 , Identifier_2 ) ; }

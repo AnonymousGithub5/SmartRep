@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view returns ( uint Parameter_0 ) { total = 0 ; for ( uint i = 0 ; i < Identifier_0 . length ; i ++ ) { ( , uint memory holding , , ) = Identifier_1 . MemberAccess_0 ( Identifier_2 [ i ] ) ; total += Identifier_3 . length ; } }

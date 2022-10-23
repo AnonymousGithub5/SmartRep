@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user ) external view returns ( uint256 memory Parameter_0 ) { uint256 VariableDeclaration_0 = poolInfo . length ;

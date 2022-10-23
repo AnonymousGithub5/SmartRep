@@ -1,0 +1,1 @@
+Identifier_21 [ Identifier_22 . length - 1 ] = Identifier_23 ; emit Identifier_24 ( msg . sender , tokenId , Identifier_25 ( ) ) ; }

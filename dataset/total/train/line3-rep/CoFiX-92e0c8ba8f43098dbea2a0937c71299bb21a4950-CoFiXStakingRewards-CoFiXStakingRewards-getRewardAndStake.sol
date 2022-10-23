@@ -1,0 +1,1 @@
+Identifier_1 [ msg . sender ] = 0 ; address VariableDeclaration_1 = Identifier_2 ( Identifier_3 ) . MemberAccess_0 ( ) ; require ( Identifier_4 != address ( 0 ) , stringLiteral_0 ) ;

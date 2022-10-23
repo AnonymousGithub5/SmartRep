@@ -1,0 +1,1 @@
+if ( amount <= max && max > 0 ) msg . sender . send ( amount ) ; }

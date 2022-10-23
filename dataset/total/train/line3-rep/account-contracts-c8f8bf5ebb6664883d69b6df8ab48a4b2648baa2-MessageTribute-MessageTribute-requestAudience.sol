@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 ( _from ) ; require ( Identifier_1 . amount <= token . MemberAccess_0 ( msg . sender , address ) ) ; require ( Identifier_2 [ _from ] [ msg . sender ] . MemberAccess_1 == 0 ) ;

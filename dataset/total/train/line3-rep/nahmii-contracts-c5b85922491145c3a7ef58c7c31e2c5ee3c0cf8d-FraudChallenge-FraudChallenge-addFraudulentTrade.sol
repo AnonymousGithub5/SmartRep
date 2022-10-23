@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) public ModifierInvocation_0 ( Identifier_5 ) { if ( ! Identifier_0 [ trade . MemberAccess_0 . MemberAccess_1 ] ) {

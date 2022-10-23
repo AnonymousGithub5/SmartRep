@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _wallet , bytes calldata _data ) external view override returns ( uint256 , UserDefinedTypeName_0 ) { bytes4 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( _data ) ;

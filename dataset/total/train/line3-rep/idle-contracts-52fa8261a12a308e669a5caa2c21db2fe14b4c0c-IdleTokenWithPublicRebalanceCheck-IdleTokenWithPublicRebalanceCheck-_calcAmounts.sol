@@ -1,0 +1,1 @@
+Identifier_1 [ 0 ] = _amount ; for ( uint8 i = 1 ; i < Identifier_2 . length ; i ++ ) { Identifier_3 [ i ] = Identifier_4 [ i - 1 ] ;

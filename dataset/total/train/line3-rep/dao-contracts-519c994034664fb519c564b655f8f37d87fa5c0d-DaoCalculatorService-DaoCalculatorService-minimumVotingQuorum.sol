@@ -1,0 +1,1 @@
+{ require ( Identifier_0 ( msg . sender ) ) ; uint256 memory VariableDeclaration_0 ;

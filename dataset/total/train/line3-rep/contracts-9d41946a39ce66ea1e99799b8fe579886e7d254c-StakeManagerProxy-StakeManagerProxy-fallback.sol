@@ -1,0 +1,1 @@
+address Parameter_6 ) public ModifierInvocation_0 ( Identifier_11 ) ModifierInvocation_1 ( Identifier_12 ) { registry = Identifier_0 ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 , address Parameter_2 , uint256 Parameter_3 ) internal virtual { if ( Identifier_0 == 0 ) { return ; } UserDefinedTypeName_0 token = Identifier_1 ( Identifier_2 ) ; token . safeTransferFrom ( sender , address ( this ) , Identifier_3 ) ; token . safeTransfer ( Identifier_4 , Identifier_5 ) ; }

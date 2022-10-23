@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address _spender ) public view returns ( uint ) { return state . MemberAccess_0 ( _account , _spender ) ; }

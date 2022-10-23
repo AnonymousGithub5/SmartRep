@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) public onlyOwner { require ( _amount < Identifier_0 . balanceOf ( address ( this ) ) , stringLiteral_0 ) ;

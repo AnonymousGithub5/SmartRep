@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 , uint256 Parameter_2 , uint256 Parameter_3 ) public ModifierInvocation_0 whenNotPaused { require ( Identifier_0 > 0 , stringLiteral_0 ) ; Identifier_1 ( Identifier_2 ) . MemberAccess_0 ( Identifier_3 , Identifier_4 ) ; emit Identifier_5 ( Identifier_6 , Identifier_7 , Identifier_8 , Identifier_9 ) ; }

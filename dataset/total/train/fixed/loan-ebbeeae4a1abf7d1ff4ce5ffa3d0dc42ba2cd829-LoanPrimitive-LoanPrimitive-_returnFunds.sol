@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal virtual returns ( uint256 amount ) { Identifier_0 += ( amount = Identifier_1 ( Identifier_2 ) ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner ) internal { require ( _owner != 0x0 ) ; Identifier_0 . MemberAccess_0 ( keccak256 ( stringLiteral_0 , _owner ) , true ) ; Identifier_1 ( address ( this ) , _owner ) ; }

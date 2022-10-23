@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _spender , uint256 _amount , bytes Parameter_0 ) returns ( bool success ) { allowed [ msg . sender ] [ _spender ] = _amount ; Identifier_0 ( msg . sender , _spender , _amount ) ; if ( ! _spender . call ( bytes4 ( bytes32 ( Identifier_1 ( stringLiteral_0 ) ) ) , msg . sender , _amount , this , Identifier_2 ) ) { throw ; } return true ; }

@@ -1,0 +1,1 @@
+constructor ( ) public { vat = new UserDefinedTypeName_0 ( ) ; }

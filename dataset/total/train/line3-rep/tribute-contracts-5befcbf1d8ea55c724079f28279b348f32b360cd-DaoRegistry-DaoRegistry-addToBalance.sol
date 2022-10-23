@@ -1,0 +1,1 @@
+uint256 amount ) public ModifierInvocation_0 ( this , Identifier_1 . MemberAccess_0 . MemberAccess_1 ) { Identifier_0 ( user , token , amount ) ;

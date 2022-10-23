@@ -1,0 +1,1 @@
+constructor ( UserDefinedTypeName_0 Parameter_0 , bytes memory _data ) ModifierInvocation_0 ( address ( Identifier_0 ) , _data ) public payable {

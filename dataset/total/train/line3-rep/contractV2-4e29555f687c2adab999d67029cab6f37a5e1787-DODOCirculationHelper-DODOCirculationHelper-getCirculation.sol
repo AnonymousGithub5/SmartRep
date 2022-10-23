@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 Parameter_0 ) { Identifier_0 = 10 ** NumberLiteral_0 ; for ( uint256 i = 0 ; i < Identifier_1 . length ; i ++ ) {

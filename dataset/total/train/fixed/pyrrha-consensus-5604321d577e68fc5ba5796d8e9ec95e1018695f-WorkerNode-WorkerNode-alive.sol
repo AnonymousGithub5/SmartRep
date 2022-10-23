@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external onlyOwner ModifierInvocation_0 { if ( Identifier_0 . MemberAccess_0 ( owner ( ) ) ) { Identifier_1 ( Identifier_2 ) ; } else { Identifier_3 ( Identifier_4 ) ; } }

@@ -1,0 +1,1 @@
+Identifier_0 ( token , target ) ; UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_1 ( token ) ; Identifier_2 . safeTransfer (

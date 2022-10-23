@@ -1,0 +1,1 @@
+_burn ( Identifier_3 , Identifier_4 ) ; Identifier_5 . transfer ( to , amount ) ; return Identifier_6 ;

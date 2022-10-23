@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _to , uint256 _value , bytes memory _data ) internal whenNotPaused returns ( bool ) { super . transfer ( _to , _value ) ; emit Transfer ( msg . sender , _to , _value , _data ) ; if ( Identifier_0 ( _to ) ) { require ( Identifier_1 ( _to , _value , _data ) , stringLiteral_0 ) ; } return true ; }

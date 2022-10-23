@@ -1,0 +1,1 @@
+{ bytes memory VariableDeclaration_0 ; if ( b . length > 0 ) {

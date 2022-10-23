@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes memory _key , bytes memory _value ) public view returns ( bytes32 ) { return Identifier_0 . MemberAccess_0 ( _key , _value ) ; }

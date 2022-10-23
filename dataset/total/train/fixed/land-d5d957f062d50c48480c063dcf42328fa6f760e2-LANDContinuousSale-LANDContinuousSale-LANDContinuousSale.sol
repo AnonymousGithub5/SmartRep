@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token , address Parameter_0 ) public { token = Identifier_0 ( _token ) ; Identifier_1 = Identifier_2 ( Identifier_3 ) ; }

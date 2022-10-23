@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address to ) external payable { balanceOf [ to ] += msg . value ;

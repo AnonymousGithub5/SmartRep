@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint amount ) public ModifierInvocation_0 { require ( Identifier_0 != 0x0 ) ; require ( amount <= this . balance ) ; Identifier_1 ( Identifier_2 , amount ) ; Identifier_3 . send ( amount ) ; }

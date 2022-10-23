@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _id , uint256 , address ) internal { Identifier_0 [ _id ] . MemberAccess_0 = true ; emit Identifier_1 ( _id ) ;

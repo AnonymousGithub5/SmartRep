@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) ModifierInvocation_0 ( Identifier_0 , Identifier_1 ( _amount ) ) external { _mint ( address ( this ) , _amount ) ;

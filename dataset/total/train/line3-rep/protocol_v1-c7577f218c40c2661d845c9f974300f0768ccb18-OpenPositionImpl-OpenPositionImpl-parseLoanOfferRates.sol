@@ -1,0 +1,1 @@
+minAmount : Identifier_2 [ 1 ] , minQuoteToken : Identifier_3 [ 2 ] , interestRate : Identifier_4 [ 2 ] ,

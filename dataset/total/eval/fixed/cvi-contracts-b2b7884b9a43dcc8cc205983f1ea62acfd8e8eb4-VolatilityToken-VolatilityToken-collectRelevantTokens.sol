@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 , uint256 Parameter_1 ) private { if ( Identifier_0 == Identifier_1 ) { require ( balanceOf ( msg . sender ) >= Identifier_2 , stringLiteral_0 ) ; IERC20 ( address ( this ) ) . safeTransferFrom ( msg . sender , address ( this ) , Identifier_3 ) ; } else { Identifier_4 ( Identifier_5 ) ; } }

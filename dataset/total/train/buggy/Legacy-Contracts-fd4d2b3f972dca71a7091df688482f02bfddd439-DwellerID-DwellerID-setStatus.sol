@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 ) public ModifierInvocation_0 { status = Identifier_0 ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external onlyAdmin { Identifier_0 . add ( Identifier_1 ) ; string memory VariableDeclaration_0 = stringLiteral_0 ; emit Identifier_2 ( Identifier_3 , Identifier_4 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _id ) public view returns ( UserDefinedTypeName_0 memory ) { return Identifier_0 . MemberAccess_0 ( _id ) ; }

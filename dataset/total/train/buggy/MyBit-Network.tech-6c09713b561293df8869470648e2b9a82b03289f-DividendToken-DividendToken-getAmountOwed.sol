@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user ) public view returns ( uint ) { uint VariableDeclaration_0 = Identifier_0 . sub ( Identifier_1 [ _user ] ) ; return Identifier_2 . mul ( balances [ _user ] ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint amount ) public virtual override ModifierInvocation_0 { _burn ( account , amount ) ; }

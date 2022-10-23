@@ -1,0 +1,1 @@
+require ( ! Identifier_5 . MemberAccess_0 , stringLiteral_1 ) ; require ( Identifier_6 . MemberAccess_1 ( Identifier_7 ) , stringLiteral_2 ) ; uint32 VariableDeclaration_2 = Identifier_8 . MemberAccess_2 ;

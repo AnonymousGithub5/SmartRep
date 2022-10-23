@@ -1,0 +1,1 @@
+for ( uint8 VariableDeclaration_1 = NumberLiteral_0 ; s > 0 ; s >>= 1 ) { if ( Identifier_0 >= ( uint256 ( 1 ) << s ) ) { Identifier_1 >>= s ;

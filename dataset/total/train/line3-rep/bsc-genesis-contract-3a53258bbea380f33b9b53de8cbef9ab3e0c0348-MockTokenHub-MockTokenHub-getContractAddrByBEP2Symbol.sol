@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) external view override ( ITokenHub ) returns ( address ) { return address ( 0x0 ) ;

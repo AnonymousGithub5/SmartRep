@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view override returns ( UserDefinedTypeName_0 memory ) { return Identifier_0 ; }

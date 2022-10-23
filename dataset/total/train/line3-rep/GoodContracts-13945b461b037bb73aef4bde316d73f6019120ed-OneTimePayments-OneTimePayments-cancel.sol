@@ -1,0 +1,1 @@
+Identifier_3 ( hash , value ) ; emit Identifier_4 ( msg . sender , hash , value ) ; }

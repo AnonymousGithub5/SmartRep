@@ -1,0 +1,1 @@
+Identifier_11 . MemberAccess_0 ( validatorId , - int256 ( Identifier_12 ) ) ; uint256 VariableDeclaration_4 = Identifier_13 . mul ( Identifier_14 ) . div ( Identifier_15 ( ) ) ; Identifier_16 = Identifier_17 . add ( Identifier_18 ) ;

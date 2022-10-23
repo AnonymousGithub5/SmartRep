@@ -1,0 +1,1 @@
+view returns ( UserDefinedTypeName_0 memory ) ; 

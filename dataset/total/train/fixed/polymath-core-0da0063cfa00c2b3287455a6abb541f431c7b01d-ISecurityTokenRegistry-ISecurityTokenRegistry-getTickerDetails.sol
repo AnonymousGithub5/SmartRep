@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string calldata Parameter_0 ) external view returns ( address Parameter_1 , uint256 Parameter_2 , uint256 Parameter_3 , string memory Parameter_4 , bool Parameter_5 ) ;

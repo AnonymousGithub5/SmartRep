@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , uint256 amount ) public { if ( amount != 0 ) { Identifier_0 ( token , amount ) ;

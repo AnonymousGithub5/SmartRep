@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = msg . sender ; require ( Identifier_0 [ Identifier_1 ] [ Identifier_2 ] . amount != 0 , stringLiteral_0 ) ; require ( Identifier_3 [ Identifier_4 ] . status == Identifier_5 , stringLiteral_1 ) ;

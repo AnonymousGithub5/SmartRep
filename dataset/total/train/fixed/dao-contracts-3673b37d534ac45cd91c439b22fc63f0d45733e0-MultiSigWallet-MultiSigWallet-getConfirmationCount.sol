@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public view returns ( uint Parameter_1 ) { for ( uint i = 0 ; i < Identifier_0 . length ; i ++ ) if ( Identifier_1 [ Identifier_2 ] [ Identifier_3 [ i ] ] ) Identifier_4 += 1 ; }

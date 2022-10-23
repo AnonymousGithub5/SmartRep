@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId ) public ModifierInvocation_0 ( tokenId ) { Identifier_0 [ tokenId ] . MemberAccess_0 = false ; emit Identifier_1 ( tokenId ) ; }

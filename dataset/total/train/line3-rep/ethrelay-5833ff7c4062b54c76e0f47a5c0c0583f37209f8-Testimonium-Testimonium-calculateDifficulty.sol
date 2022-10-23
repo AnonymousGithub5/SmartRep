@@ -1,0 +1,1 @@
+int VariableDeclaration_0 = int ( ( Identifier_0 - Identifier_1 . timestamp ) / NumberLiteral_0 ) ; if ( Identifier_2 . MemberAccess_0 == Identifier_3 ) { x = 1 - x ;

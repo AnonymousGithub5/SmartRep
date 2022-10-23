@@ -1,0 +1,1 @@
+function approve ( address _spender , uint _value ) public returns ( bool success ) ; 

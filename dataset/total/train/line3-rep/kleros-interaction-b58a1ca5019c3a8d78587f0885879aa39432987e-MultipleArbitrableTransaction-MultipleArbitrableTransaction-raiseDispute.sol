@@ -1,0 +1,1 @@
+transaction . MemberAccess_1 = arbitrator . MemberAccess_2 . value ( Identifier_2 ) ( Identifier_3 , Identifier_4 ) ; Identifier_5 [ keccak256 ( arbitrator , transaction . MemberAccess_3 ) ] = Identifier_6 ; emit Identifier_7 ( arbitrator , transaction . MemberAccess_4 , Identifier_8 ) ;

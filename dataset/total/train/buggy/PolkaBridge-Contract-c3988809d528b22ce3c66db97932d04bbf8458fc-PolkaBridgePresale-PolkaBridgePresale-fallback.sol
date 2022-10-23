@@ -1,0 +1,1 @@
+constructor ( UserDefinedTypeName_0 Parameter_0 ) public { Identifier_0 = Identifier_1 ; owner = msg . sender ; Identifier_2 = NumberLiteral_0 ; Identifier_3 = NumberLiteral_1 ; Identifier_4 = NumberLiteral_2 ; Identifier_5 = NumberLiteral_3 ; Identifier_6 = NumberLiteral_4 ; Identifier_7 [ owner ] = true ; Identifier_8 [ stringLiteral_0 ] = true ; }

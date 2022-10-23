@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) public constant returns ( bool Parameter_2 ) { if ( ( Identifier_0 . mul ( Identifier_1 ( Identifier_2 ) ) ) > ( Identifier_3 ( Identifier_4 ) . mul ( Identifier_5 . add ( Identifier_6 ) ) ) ) { Identifier_7 = true ; } }

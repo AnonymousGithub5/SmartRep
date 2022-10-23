@@ -1,0 +1,1 @@
+if ( amount > 0 ) { receiver . transfer ( amount ) ; emit Identifier_0 ( receiver , amount ) ;

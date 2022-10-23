@@ -1,0 +1,1 @@
+{ require ( Identifier_0 [ reserve ] == bytes32 ( 0 ) , stringLiteral_0 ) ; require ( Identifier_1 != 0 , stringLiteral_1 ) ;

@@ -1,0 +1,1 @@
+constructor ( ) ModifierInvocation_0 ( ) ModifierInvocation_1 ( 'DAI' , 'DAI' , 18 ) public { _mint ( address ( this ) , 10 ** NumberLiteral_0 ) ; _mint ( msg . sender , 10 ** NumberLiteral_1 ) ; }

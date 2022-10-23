@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = NumberLiteral_0 ; Identifier_0 ( msg . sender , Identifier_1 , amount * 1e18 ) ; emit Identifier_2 ( msg . sender , amount ) ;

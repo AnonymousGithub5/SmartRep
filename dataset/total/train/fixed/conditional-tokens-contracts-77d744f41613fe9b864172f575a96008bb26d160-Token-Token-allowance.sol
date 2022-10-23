@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address owner , address spender ) public view returns ( uint ) ;

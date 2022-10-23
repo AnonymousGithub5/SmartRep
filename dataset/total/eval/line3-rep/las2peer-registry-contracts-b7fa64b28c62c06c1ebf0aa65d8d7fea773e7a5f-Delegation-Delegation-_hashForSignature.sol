@@ -1,0 +1,1 @@
+bytes memory VariableDeclaration_0 = stringLiteral_0 ; return keccak256 ( Identifier_0 , Identifier_1 ) ; }

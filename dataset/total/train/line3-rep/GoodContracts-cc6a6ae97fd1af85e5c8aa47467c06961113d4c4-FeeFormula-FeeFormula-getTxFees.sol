@@ -1,0 +1,1 @@
+) public view returns ( uint256 , bool ) { return ( _value . div ( 100 ) . mul ( Identifier_0 ) , Identifier_1 ) ; }

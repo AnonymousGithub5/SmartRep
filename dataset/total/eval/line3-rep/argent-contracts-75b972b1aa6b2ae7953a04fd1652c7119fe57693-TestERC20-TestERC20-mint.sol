@@ -1,0 +1,1 @@
+function mint ( address account , uint256 amount ) public { super . MemberAccess_0 ( account , amount ) ; }

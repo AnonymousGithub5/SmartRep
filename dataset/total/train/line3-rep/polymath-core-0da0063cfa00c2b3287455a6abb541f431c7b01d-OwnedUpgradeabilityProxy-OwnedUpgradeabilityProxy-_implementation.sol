@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view returns ( address ) { return Identifier_0 ;

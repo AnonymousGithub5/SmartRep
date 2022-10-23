@@ -1,0 +1,1 @@
+uint256 Parameter_2 ) public onlyOwner { require ( Identifier_0 > block . number , stringLiteral_0 ) ;

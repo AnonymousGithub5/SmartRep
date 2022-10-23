@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external view returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( ) ;

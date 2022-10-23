@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; uint VariableDeclaration_1 = Identifier_2 ( ) ; require (

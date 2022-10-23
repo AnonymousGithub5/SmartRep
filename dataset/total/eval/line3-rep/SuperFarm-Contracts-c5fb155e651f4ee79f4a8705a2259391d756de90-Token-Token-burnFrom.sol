@@ -1,0 +1,1 @@
+stringLiteral_0 ) ; uint256 VariableDeclaration_0 = allowance ( account , _msgSender ( ) ) . sub ( amount ) ; Identifier_0 ( account , _msgSender ( ) , Identifier_1 ) ;

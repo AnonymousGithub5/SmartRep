@@ -1,0 +1,1 @@
+constructor ( string memory Parameter_0 ) public { id = Identifier_0 ; }

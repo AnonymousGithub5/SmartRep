@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint amount ) public view returns ( uint ) { return iUTILS ( Identifier_0 ) . MemberAccess_0 ( 1 , Identifier_1 , amount ) ; }

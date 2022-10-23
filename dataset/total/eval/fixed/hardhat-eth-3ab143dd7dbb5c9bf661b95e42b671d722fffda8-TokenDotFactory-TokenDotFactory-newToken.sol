@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 , string memory Parameter_1 ) public onlyOwner returns ( address Parameter_2 ) { UserDefinedTypeName_0 token = Identifier_0 . MemberAccess_0 ( name , symbol ) ; tokenAddress = address ( token ) ; return tokenAddress ; }

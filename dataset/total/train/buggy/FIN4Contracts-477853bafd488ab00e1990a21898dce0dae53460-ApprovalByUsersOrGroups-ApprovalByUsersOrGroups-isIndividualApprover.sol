@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , address user ) internal returns ( bool ) { address VariableDeclaration_0 = Identifier_0 [ token ] ; for ( uint i = 0 ; i < Identifier_1 . length ; i ++ ) { if ( Identifier_2 [ i ] == user ) { return true ; } } return false ; }

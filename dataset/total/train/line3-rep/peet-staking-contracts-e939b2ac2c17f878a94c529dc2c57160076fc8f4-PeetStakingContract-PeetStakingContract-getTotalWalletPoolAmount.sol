@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = 0 ; for ( uint256 i = 0 ; i < wallet . MemberAccess_2 ; i ++ ) { Identifier_2 += wallet . MemberAccess_3 [ i ] ;

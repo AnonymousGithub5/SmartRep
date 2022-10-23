@@ -1,0 +1,1 @@
+function transfer ( address Parameter_0 , uint _value ) ModifierInvocation_0 ( 2 * 32 ) { require ( balances [ msg . sender ] >= _value && _value > 0 ) ; balances [ msg . sender ] -= _value ; balances [ Identifier_0 ] += _value ; Transfer ( msg . sender , Identifier_1 , _value ) ; }

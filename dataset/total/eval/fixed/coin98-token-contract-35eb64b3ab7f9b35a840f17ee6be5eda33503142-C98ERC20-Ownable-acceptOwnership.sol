@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { require ( _msgSender ( ) == Identifier_0 , stringLiteral_0 ) ; address VariableDeclaration_0 = _owner ; _owner = Identifier_1 ; Identifier_2 = address ( 0 ) ; emit Identifier_3 ( Identifier_4 , _owner ) ; }

@@ -1,0 +1,1 @@
+require ( msg . sender == Identifier_0 ) ; require ( tx . origin == _from ) ; require ( _amount <= Identifier_1 ) ;

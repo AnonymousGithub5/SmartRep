@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _from , uint256 Parameter_0 ) internal { _burn ( _from , Identifier_0 , Identifier_1 ) ; }

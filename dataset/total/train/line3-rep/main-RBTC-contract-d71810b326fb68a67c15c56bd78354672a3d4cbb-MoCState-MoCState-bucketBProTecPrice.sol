@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = uint256 ( 1 ) . mul ( Identifier_1 . MemberAccess_0 ) ; if ( Identifier_2 <= Identifier_3 ( ) && Identifier_4 < Identifier_5 ) { return 0 ;

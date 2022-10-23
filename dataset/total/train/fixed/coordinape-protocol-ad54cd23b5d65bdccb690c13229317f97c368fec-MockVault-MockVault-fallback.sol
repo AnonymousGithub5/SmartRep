@@ -1,0 +1,1 @@
+constructor ( address _token , string memory _name , string memory Parameter_0 ) ModifierInvocation_0 ( _name , _symbol ) { token = Identifier_0 ( _token ) ; Identifier_1 = type ( uint256 ) . max ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) private { if ( Identifier_0 ( stringLiteral_0 ) > this . balance ) { state = Identifier_1 . MemberAccess_0 ; Identifier_2 ( ) ; } else { bytes32 VariableDeclaration_0 = Identifier_3 ( Identifier_4 , stringLiteral_1 , Identifier_5 ) ; Identifier_6 [ Identifier_7 ] = true ; } }

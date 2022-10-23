@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address , uint256 ) external override returns ( uint32 , uint32 ) { return ( 1 , 1 ) ;

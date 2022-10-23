@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 ) view external returns ( address ) { bytes32 VariableDeclaration_0 = keccak256 ( bytes ( Identifier_0 ) ) ; require ( Identifier_1 [ Identifier_2 ] != address ( 0 ) , stringLiteral_0 ) ; return Identifier_3 [ Identifier_4 ] ; }

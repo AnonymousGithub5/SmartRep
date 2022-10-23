@@ -1,0 +1,1 @@
+if ( _user != address ( 0 ) ) { require ( msg . sender == Identifier_0 && _user == tx . origin || Identifier_1 [ msg . sender ] != 0 , stringLiteral_0 ) ; Identifier_2 = _user ;

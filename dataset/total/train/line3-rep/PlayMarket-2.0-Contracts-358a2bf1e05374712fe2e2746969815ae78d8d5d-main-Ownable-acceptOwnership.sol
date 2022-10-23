@@ -1,0 +1,1 @@
+if ( msg . sender == Identifier_0 ) { Identifier_1 ( owner , Identifier_2 ) ; owner = Identifier_3 ;

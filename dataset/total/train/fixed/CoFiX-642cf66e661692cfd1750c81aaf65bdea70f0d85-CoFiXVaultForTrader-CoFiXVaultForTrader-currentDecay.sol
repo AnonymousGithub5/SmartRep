@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public override view returns ( int128 ) { uint256 VariableDeclaration_0 = Identifier_0 ( ) ; return Identifier_1 . MemberAccess_0 ( Identifier_2 , Identifier_3 ) ; }

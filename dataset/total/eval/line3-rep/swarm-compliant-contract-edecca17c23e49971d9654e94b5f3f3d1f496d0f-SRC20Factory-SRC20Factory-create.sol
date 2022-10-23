@@ -1,0 +1,1 @@
+{ address token = address ( new UserDefinedTypeName_0 ( name ,

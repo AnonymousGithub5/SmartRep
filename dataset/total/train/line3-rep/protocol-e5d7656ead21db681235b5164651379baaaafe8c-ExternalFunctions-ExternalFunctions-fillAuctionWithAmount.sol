@@ -1,0 +1,1 @@
+{ Identifier_0 . MemberAccess_0 ( state , Identifier_1 ) ; Identifier_2 . MemberAccess_1 ( state , Identifier_3 , amount ) ;

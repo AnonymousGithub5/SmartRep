@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , string calldata Parameter_1 ) external ;

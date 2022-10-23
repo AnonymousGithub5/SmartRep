@@ -1,0 +1,1 @@
+function deposit ( uint256 Parameter_0 , uint256 _amount ) public ModifierInvocation_0 { require ( _pid != 0 , stringLiteral_0 ) ;

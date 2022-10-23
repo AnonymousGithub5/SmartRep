@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 , uint256 Parameter_2 ) internal constant { require ( Identifier_0 > 0 ) ; require ( now < Identifier_1 . add ( Identifier_2 ) ) ; require ( now >= Identifier_3 . add ( Identifier_4 ) ) ; }

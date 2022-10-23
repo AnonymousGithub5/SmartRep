@@ -1,0 +1,1 @@
+function approve ( address spender , uint value ) public ModifierInvocation_0

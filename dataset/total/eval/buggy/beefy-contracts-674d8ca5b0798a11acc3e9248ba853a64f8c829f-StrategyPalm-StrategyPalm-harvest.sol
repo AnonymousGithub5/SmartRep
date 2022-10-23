@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external whenNotPaused { require ( ! Identifier_0 . MemberAccess_0 ( msg . sender ) , stringLiteral_0 ) ; Identifier_1 ( Identifier_2 ) . MemberAccess_1 ( 0 ) ; Identifier_3 ( ) ; Identifier_4 ( ) ; emit Identifier_5 ( msg . sender ) ; }

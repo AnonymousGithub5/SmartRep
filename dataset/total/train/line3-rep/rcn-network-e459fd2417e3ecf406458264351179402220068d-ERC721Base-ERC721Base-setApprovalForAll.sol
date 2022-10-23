@@ -1,0 +1,1 @@
+Identifier_3 [ msg . sender ] [ Identifier_4 ] = Identifier_5 ; emit Identifier_6 ( Identifier_7 , msg . sender , Identifier_8 ) ; }

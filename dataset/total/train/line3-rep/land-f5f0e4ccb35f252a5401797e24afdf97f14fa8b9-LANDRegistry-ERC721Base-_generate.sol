@@ -1,0 +1,1 @@
+Identifier_2 ( Identifier_3 , Identifier_4 ) ; Transfer ( 0 , Identifier_5 , Identifier_6 , msg . sender , '' ) ; }

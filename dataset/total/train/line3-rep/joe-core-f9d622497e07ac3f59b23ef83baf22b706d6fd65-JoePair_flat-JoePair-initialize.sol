@@ -1,0 +1,1 @@
+function initialize ( address Parameter_0 , address Parameter_1 ) external { require ( msg . sender == factory , stringLiteral_0 ) ; Identifier_0 = Identifier_1 ;

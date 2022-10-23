@@ -1,0 +1,1 @@
+) public override view returns ( bool ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( market ) ; int256 VariableDeclaration_1 = Identifier_1 . mul ( Identifier_2 . MemberAccess_0 ( ) . MemberAccess_1 ( ) ) ;

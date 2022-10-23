@@ -1,0 +1,1 @@
+constructor ( address memory Parameter_0 , uint Parameter_1 , uint8 Parameter_2 ) public { Identifier_0 = Identifier_1 ; for ( uint i = 0 ; i < Identifier_2 . length ; i ++ ) { _mint ( Identifier_3 [ i ] , Identifier_4 * 10 ** uint ( Identifier_5 ) ) ; } }

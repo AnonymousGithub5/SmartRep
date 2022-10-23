@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) external { require ( Identifier_0 ( address ( Identifier_1 ) ) && Identifier_2 . MemberAccess_0 ( keccak256 ( abi . encode ( msg . sender ) ) , 1 ) , stringLiteral_0 ) ; token . MemberAccess_1 ( ) ; }

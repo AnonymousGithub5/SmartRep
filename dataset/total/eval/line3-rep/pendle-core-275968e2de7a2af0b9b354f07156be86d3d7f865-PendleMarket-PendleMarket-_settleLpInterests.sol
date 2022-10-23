@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) internal returns ( uint256 Parameter_0 ) { Identifier_0 ( ) ; if ( Identifier_1 [ account ] == 0 ) {

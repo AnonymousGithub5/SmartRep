@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address owner ) view external returns ( int , int ) ; 

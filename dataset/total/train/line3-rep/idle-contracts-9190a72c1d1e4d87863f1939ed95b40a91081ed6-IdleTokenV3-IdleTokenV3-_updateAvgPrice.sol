@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = Identifier_3 . sub ( Identifier_4 ) ; Identifier_5 [ Identifier_6 ] = Identifier_7 . mul ( Identifier_8 . div ( Identifier_9 ) ) . add ( price . mul ( Identifier_10 . div ( Identifier_11 ) ) ) ; return true ;

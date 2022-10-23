@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address ) external returns ( uint256 Parameter_0 ) ;

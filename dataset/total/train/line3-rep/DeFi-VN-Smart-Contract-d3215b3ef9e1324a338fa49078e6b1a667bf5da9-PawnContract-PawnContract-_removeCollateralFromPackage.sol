@@ -1,0 +1,1 @@
+} delete Identifier_13 . MemberAccess_9 [ Identifier_14 . MemberAccess_10 - 1 ] ; }

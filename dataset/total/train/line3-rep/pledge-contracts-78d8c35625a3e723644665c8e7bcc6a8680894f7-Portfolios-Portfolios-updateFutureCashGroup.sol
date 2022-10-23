@@ -1,0 +1,1 @@
+) ; require ( Identifier_6 ( ) . MemberAccess_0 ( currency ) , Identifier_7 ( Identifier_8 ( Identifier_9 ) ) ) ; UserDefinedTypeName_0 storage i = Identifier_10 [ Identifier_11 ] ;

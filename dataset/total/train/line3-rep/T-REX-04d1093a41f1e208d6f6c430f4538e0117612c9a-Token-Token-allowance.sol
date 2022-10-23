@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner , address _spender ) external override view virtual returns ( uint256 ) { return Identifier_0 [ _owner ] [ _spender ] ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) onlyOwner ModifierInvocation_0 public returns ( bool ) { state = Identifier_0 . MemberAccess_0 ;

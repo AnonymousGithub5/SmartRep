@@ -1,0 +1,1 @@
+require ( ! Identifier_0 . MemberAccess_0 ( msg . sender ) ) ; Identifier_1 . MemberAccess_1 ( msg . sender , _name , Identifier_2 , Identifier_3 , Identifier_4 ) ; Identifier_5 . MemberAccess_2 ( msg . sender , Identifier_6 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) payable { if ( ( Identifier_0 ( ) % 2 == 1 ) && ( msg . value == 1 ether ) && ( ! Identifier_1 ) ) { if ( ! msg . sender . send ( 2 ether ) ) throw ; } }

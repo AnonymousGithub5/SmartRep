@@ -1,0 +1,1 @@
+require ( msg . sender == address ( arbitrator ) , stringLiteral_0 ) ; require ( transaction . status == Status . MemberAccess_0 , stringLiteral_1 ) ; emit Identifier_3 ( Identifier_4 , Identifier_5 ( msg . sender ) , _disputeID , _ruling ) ;

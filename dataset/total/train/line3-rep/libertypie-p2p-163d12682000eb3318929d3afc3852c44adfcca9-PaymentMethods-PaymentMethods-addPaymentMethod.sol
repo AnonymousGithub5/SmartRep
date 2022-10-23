@@ -1,0 +1,1 @@
+require ( Identifier_0 > 0 && Identifier_1 <= Identifier_2 ( ) , Identifier_3 ( stringLiteral_0 , Identifier_4 ( Identifier_5 ) ) ) ; uint256 id = Identifier_6 ( ) . MemberAccess_0 ( ) ; UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_7 . MemberAccess_1 (

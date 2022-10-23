@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint Parameter_0 , uint Parameter_1 , int Parameter_2 ) { ( Identifier_0 , Identifier_1 ) = Identifier_2 ( ) ; Identifier_3 = Identifier_4 < 0 ? Math . MemberAccess_0 ( Identifier_5 , Identifier_6 ( ) ) : Math . MemberAccess_1 ( Identifier_7 - uint ( Identifier_8 ) , Identifier_9 ( ) ) ; }

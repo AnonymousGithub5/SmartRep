@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( int a , int b ) public pure returns ( bool ) { return ( b >= 0 && a - b <= a ) || ( b < 0 && a - b > a ) ; }

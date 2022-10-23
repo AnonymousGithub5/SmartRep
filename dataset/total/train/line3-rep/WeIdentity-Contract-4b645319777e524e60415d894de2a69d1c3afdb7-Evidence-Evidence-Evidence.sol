@@ -1,0 +1,1 @@
+for ( index = 0 ; index < Identifier_1 ; index ++ ) { Identifier_2 . push ( Identifier_3 [ index ] ) ; }

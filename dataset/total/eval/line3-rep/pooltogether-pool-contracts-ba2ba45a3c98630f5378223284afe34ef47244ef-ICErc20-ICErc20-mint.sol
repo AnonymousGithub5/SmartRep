@@ -1,0 +1,1 @@
+function mint ( uint Parameter_0 ) external returns ( uint ) ; 

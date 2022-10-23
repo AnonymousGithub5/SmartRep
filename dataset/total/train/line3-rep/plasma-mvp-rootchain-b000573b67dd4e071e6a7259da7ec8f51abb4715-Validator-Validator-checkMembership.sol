@@ -1,0 +1,1 @@
+{ require ( Identifier_0 . length == NumberLiteral_0 ) ; bytes32 VariableDeclaration_0 ;

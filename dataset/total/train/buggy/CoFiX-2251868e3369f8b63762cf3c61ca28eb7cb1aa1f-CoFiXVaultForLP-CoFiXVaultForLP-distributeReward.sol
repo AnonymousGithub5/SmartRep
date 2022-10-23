@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address to , uint256 amount ) external override { require ( Identifier_0 [ msg . sender ] == true , stringLiteral_0 ) ; Identifier_1 ( Identifier_2 ) . mint ( to , amount ) ; }

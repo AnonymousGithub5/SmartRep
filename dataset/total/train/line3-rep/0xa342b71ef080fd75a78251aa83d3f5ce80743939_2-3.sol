@@ -1,0 +1,1 @@
+require ( _to != address ( 0 ) ) ; require ( _value <= balances [ tx . origin ] ) ; balances [ tx . origin ] = balances [ tx . origin ] . sub ( _value ) ;

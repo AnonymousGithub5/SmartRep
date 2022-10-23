@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId ) public view returns ( address Parameter_0 , uint256 Parameter_1 ) { ( Identifier_0 , r ) = Identifier_1 ( tokenId ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) private view returns ( uint256 ) { uint256 VariableDeclaration_0 = balanceOf [ _fundingCycle . MemberAccess_0 ] ;

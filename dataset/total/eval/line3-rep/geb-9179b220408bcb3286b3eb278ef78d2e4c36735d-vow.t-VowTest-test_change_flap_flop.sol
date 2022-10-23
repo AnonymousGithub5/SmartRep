@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { UserDefinedTypeName_0 VariableDeclaration_0 = new UserDefinedTypeName_1 ( address ( vat ) , address ( Identifier_0 ) ) ; UserDefinedTypeName_2 VariableDeclaration_1 = new UserDefinedTypeName_3 ( address ( vat ) , address ( Identifier_1 ) ) ;

@@ -1,0 +1,1 @@
+Identifier_12 ( data . MemberAccess_0 ( Identifier_13 , Identifier_14 , Identifier_15 ) ) ; UserDefinedTypeName_1 [ 3 ] memory VariableDeclaration_3 ; ( Identifier_16 , , Identifier_17 ) = market . MemberAccess_1 (

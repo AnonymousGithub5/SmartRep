@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address receiver ) external returns ( uint Parameter_0 ) ;

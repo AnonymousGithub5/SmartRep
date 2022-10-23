@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = amount < address ( this ) . balance ? amount : address ( this ) . balance ; if ( Identifier_0 > 0 ) { to . transfer ( Identifier_1 ) ;

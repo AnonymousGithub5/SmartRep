@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _contract , bytes Parameter_0 ) external onlyOwner { Identifier_0 = _contract ; Identifier_1 = Identifier_2 ; require ( address ( Identifier_3 ) . call . value ( 0 ) ( abi . MemberAccess_0 ( stringLiteral_0 ) ) ) ; require ( address ( Identifier_4 ) . call . value ( 0 ) ( abi . MemberAccess_1 ( stringLiteral_1 , Identifier_5 ) ) ) ; }

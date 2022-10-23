@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external onlyOwner { address VariableDeclaration_0 = Identifier_0 ; Identifier_1 = Identifier_2 ; emit Identifier_3 ( msg . sender , Identifier_4 , Identifier_5 ) ; }

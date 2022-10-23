@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address Parameter_1 ) ModifierInvocation_0 ( Identifier_6 ) ModifierInvocation_1 ( Identifier_7 ) external { Identifier_0 [ Identifier_1 ] . MemberAccess_0 = Identifier_2 ; Identifier_3 ( Identifier_4 , Identifier_5 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) external override pure returns ( uint256 Parameter_1 ) { for ( uint8 i = 0 ; i < Identifier_0 . length ; i ++ ) { Identifier_1 = Identifier_2 . add ( Identifier_3 ( Identifier_4 [ i ] ) ) ; } }

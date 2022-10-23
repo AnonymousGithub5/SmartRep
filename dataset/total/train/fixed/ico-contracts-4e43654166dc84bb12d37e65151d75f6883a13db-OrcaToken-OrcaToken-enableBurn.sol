@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bool Parameter_0 ) public onlyOwner returns ( bool ) { require ( state == Identifier_0 . MemberAccess_0 || state == Identifier_1 . MemberAccess_1 ) ; state = ( Identifier_2 ? Identifier_3 . MemberAccess_2 : Identifier_4 . MemberAccess_3 ) ; }

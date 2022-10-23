@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint128 a , uint128 b ) internal pure returns ( uint128 ) { uint128 VariableDeclaration_0 = a + b ; require ( c >= a , stringLiteral_0 ) ; return c ; }

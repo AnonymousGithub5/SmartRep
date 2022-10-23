@@ -1,0 +1,1 @@
+constructor ( address _token , address Parameter_0 ) public { token = _token ; Identifier_0 = Identifier_1 ; Identifier_2 = NumberLiteral_0 ; IERC20 ( Identifier_3 ) . approve ( _token , uint256 ( - 1 ) ) ; }

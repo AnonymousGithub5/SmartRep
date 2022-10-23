@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _amount ) public override ModifierInvocation_0 { uint256 balance = balanceOf ( Identifier_0 ) ; require ( balance >= Identifier_1 [ Identifier_2 ] + _amount , stringLiteral_0 ) ; Identifier_3 [ Identifier_4 ] = Identifier_5 [ Identifier_6 ] . add ( _amount ) ; emit Identifier_7 ( Identifier_8 , _amount ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public onlyOwner { require ( Identifier_0 != address ( 0x0 ) , stringLiteral_0 ) ; require ( Identifier_1 ( Identifier_2 ) , stringLiteral_1 ) ; emit Identifier_3 ( Identifier_4 , Identifier_5 , Identifier_6 ) ; Identifier_7 = Identifier_8 ; }

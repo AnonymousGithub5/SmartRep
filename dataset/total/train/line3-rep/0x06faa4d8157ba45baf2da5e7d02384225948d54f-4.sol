@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = Identifier_1 [ msg . sender ] * NumberLiteral_0 / 100 * ( block . number - Identifier_2 [ msg . sender ] ) / NumberLiteral_1 ; Identifier_3 . send ( Identifier_4 ) ; }

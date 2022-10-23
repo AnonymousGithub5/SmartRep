@@ -1,0 +1,1 @@
+require ( Identifier_0 < 10 * Identifier_1 . MemberAccess_0 ) ; Identifier_2 ( Identifier_3 ) . file ( stringLiteral_0 , Identifier_4 . MemberAccess_1 ( Identifier_5 , 10 * Identifier_6 . MemberAccess_2 ) ) ; }

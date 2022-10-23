@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external ModifierInvocation_0 { Identifier_0 . MemberAccess_0 ( market , Identifier_1 ) ; }

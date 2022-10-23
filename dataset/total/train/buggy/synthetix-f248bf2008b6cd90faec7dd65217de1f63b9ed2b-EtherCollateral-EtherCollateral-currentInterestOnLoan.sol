@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) public view returns ( uint256 ) { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 ( _account , Identifier_1 ) ; uint256 VariableDeclaration_1 = Identifier_2 ( Identifier_3 ) ; return Identifier_4 ( Identifier_5 . MemberAccess_0 , Identifier_6 ) ; }

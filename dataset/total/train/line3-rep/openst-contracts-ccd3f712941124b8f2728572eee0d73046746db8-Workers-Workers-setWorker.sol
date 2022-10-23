@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_5 - block . number ; Identifier_6 ( Identifier_7 , Identifier_8 , Identifier_9 ) ; return ( Identifier_10 ) ;

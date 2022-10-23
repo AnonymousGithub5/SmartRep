@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) private view returns ( bytes32 Parameter_1 ) { bytes memory VariableDeclaration_0 ; if ( _node . length < 32 ) { Identifier_0 = Identifier_1 . MemberAccess_0 ( _node ) ; } else { Identifier_2 = Identifier_3 . MemberAccess_1 ( _node ) ; } return Identifier_4 . MemberAccess_2 ( Identifier_5 ) ; }

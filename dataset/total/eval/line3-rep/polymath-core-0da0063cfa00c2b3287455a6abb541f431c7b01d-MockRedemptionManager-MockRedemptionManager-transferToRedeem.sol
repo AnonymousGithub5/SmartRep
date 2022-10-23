@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _value ) public { require ( Identifier_0 ( Identifier_1 ) . transferFrom ( msg . sender , address ( this ) , _value ) , stringLiteral_0 ) ; Identifier_2 [ msg . sender ] = _value ;

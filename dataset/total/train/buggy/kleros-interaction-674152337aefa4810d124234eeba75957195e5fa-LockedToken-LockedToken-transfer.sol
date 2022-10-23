@@ -1,0 +1,1 @@
+function transfer ( address _to , uint256 _value ) public returns ( bool ) { Identifier_0 ( msg . sender ) ; require ( balanceOf ( msg . sender ) . sub ( Identifier_1 [ msg . sender ] ) >= _value , stringLiteral_0 ) ; assert ( super . transfer ( _to , _value ) ) ; return true ; }

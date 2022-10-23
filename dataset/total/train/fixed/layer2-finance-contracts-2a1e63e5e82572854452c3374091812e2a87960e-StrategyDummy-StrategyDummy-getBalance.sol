@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view override returns ( uint256 ) { return IERC20 ( asset ) . balanceOf ( address ( this ) ) ; }

@@ -1,0 +1,1 @@
+if ( Identifier_0 == Identifier_1 ) { return 10 ** 18 ; } else {

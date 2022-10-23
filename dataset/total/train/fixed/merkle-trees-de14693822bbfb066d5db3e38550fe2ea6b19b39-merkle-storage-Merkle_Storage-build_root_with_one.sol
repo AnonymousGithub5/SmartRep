@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) internal { Identifier_0 ( 1 , Identifier_1 ( bytes32 ( 0 ) , Identifier_2 ) ) ; }

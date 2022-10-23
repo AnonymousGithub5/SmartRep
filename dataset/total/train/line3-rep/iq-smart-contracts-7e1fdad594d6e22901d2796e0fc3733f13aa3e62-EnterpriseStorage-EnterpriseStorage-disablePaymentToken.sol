@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) public onlyOwner { Identifier_0 ( token ) ;

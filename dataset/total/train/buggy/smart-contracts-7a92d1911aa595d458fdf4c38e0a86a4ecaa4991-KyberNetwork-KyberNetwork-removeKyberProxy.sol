@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external { Identifier_0 ( ) ; require ( Identifier_1 [ Identifier_2 ] , stringLiteral_0 ) ; require ( Identifier_3 . MemberAccess_0 ( Identifier_4 ) ) ; emit Identifier_5 ( Identifier_6 ) ; }

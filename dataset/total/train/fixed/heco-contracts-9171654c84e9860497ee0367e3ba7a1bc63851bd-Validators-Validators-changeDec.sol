@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) public ModifierInvocation_0 onlyAdmin { require ( Identifier_0 != 0 , stringLiteral_0 ) ; Identifier_1 . MemberAccess_0 = Identifier_2 ; Identifier_3 . MemberAccess_1 = Identifier_4 ; emit Identifier_5 ( Identifier_6 , Identifier_7 , block . timestamp ) ; }

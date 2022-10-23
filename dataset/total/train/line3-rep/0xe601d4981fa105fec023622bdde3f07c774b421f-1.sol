@@ -1,0 +1,1 @@
+balances [ msg . sender ] -= _amount ; balances [ _to ] += _amount ; }

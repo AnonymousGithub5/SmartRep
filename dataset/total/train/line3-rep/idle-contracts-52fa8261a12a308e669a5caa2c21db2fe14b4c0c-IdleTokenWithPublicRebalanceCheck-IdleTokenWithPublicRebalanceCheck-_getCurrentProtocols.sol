@@ -1,0 +1,1 @@
+Identifier_0 = new UserDefinedTypeName_1 ( Identifier_1 . length ) ; for ( uint8 i = 0 ; i < Identifier_2 . length ; i ++ ) { Identifier_3 [ i ] = Identifier_4 (

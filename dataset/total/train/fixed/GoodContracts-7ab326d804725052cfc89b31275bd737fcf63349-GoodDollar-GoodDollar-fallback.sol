@@ -1,0 +1,1 @@
+constructor ( string memory _name , string memory Parameter_0 , uint256 Parameter_1 , UserDefinedTypeName_0 Parameter_2 , UserDefinedTypeName_1 Parameter_3 , address Parameter_4 ) public ModifierInvocation_0 ( _name , _symbol , Identifier_2 ) ModifierInvocation_1 ( Identifier_3 ) ModifierInvocation_2 ( Identifier_4 ) { Identifier_0 = Identifier_1 ; }

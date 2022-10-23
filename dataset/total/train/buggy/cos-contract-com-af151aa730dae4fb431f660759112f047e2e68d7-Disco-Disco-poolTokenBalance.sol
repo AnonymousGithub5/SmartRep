@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string calldata id ) external ModifierInvocation_0 returns ( uint256 ) { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 [ id ] ; UserDefinedTypeName_1 VariableDeclaration_1 = Identifier_1 . MemberAccess_0 ; IERC20 token = Identifier_2 . token ; return Identifier_3 . MemberAccess_1 ( token ) ; }

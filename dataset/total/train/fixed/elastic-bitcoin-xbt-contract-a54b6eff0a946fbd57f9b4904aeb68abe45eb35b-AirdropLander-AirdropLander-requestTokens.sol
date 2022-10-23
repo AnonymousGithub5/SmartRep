@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { uint256 VariableDeclaration_0 = Identifier_0 . balanceOf ( address ( this ) ) - Identifier_1 ; require ( Identifier_2 > 0 , stringLiteral_0 ) ; require ( Identifier_3 [ msg . sender ] == false , stringLiteral_1 ) ; Identifier_4 . transfer ( msg . sender , Identifier_5 ) ; Identifier_6 [ msg . sender ] = true ; }

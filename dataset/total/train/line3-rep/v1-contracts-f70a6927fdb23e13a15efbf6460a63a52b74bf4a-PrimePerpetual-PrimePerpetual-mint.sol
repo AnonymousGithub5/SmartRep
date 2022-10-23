@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_0 ; ( address tokenU , address tokenS , , uint base , uint price , ) = Identifier_1 ( Identifier_2 ) . MemberAccess_0 ( ) ; uint VariableDeclaration_1 = Identifier_3 . mul ( base ) . div ( price ) ;

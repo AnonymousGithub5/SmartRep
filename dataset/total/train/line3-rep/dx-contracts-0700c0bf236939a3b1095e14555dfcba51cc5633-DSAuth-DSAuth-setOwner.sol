@@ -1,0 +1,1 @@
+owner = Identifier_0 ; Identifier_1 ( owner ) ; }

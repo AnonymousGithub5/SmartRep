@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public payable { if ( ( ! Identifier_0 && msg . value > NumberLiteral_0 ether ) || sender == 0x0 ) { sender = msg . sender ; receiver = Identifier_1 ; Identifier_2 += now ; } }

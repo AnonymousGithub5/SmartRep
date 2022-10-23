@@ -1,0 +1,1 @@
+{ Identifier_0 ( Identifier_1 , uint128 ( _price ) , uint32 ( now + NumberLiteral_0 ) ) ; }

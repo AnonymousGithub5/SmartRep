@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint128 Parameter_0 , uint128 Parameter_1 , uint128 Parameter_2 , uint128 Parameter_3 ) public pure returns ( uint128 ) { Identifier_0 ( Identifier_1 , Identifier_2 , Identifier_3 , Identifier_4 ) ; }

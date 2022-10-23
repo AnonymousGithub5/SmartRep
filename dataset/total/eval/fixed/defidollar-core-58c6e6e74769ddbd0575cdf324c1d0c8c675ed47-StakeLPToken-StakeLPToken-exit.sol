@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { Identifier_0 ( ) ; Identifier_1 ( balanceOf ( msg . sender ) ) ; }

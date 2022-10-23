@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view returns ( uint256 ) { return Identifier_0 > 0 ? Identifier_1 ( ) . mul ( Identifier_2 [ addr ] . MemberAccess_0 ) . div ( Identifier_3 ) : 0 ; }

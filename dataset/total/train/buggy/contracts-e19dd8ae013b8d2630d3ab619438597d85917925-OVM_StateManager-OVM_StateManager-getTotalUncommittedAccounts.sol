@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) override public ModifierInvocation_0 returns ( uint256 Parameter_0 ) { return Identifier_0 ; }

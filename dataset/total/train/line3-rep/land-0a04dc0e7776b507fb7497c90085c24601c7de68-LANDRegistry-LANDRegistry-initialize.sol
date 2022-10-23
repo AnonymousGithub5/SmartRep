@@ -1,0 +1,1 @@
+function initialize ( bytes ) onlyOwner public { _name = stringLiteral_0 ;

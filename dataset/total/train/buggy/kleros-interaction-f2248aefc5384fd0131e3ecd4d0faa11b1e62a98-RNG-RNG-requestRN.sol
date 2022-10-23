@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) payable { Identifier_0 ( Identifier_1 ) ; }

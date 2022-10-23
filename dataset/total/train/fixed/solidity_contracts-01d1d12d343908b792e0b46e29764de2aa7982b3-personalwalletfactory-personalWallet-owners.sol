@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( address memory Parameter_0 ) { Identifier_0 = new address ( 1 ) ; Identifier_1 [ 0 ] = owner ; }

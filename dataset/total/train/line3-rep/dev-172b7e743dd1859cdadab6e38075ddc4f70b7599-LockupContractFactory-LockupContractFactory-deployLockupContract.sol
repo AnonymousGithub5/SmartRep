@@ -1,0 +1,1 @@
+Identifier_5 [ address ( Identifier_6 ) ] = msg . sender ; emit Identifier_7 ( address ( Identifier_8 ) , _beneficiary , Identifier_9 ) ; }

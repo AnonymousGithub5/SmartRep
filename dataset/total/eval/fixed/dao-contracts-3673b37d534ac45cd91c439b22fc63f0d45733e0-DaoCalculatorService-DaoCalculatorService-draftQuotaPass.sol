@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) public view returns ( bool Parameter_2 ) { Identifier_0 = Identifier_1 . mul ( getUintConfig ( Identifier_2 ) ) > getUintConfig ( Identifier_3 ) . mul ( Identifier_4 . add ( Identifier_5 ) ) ; }

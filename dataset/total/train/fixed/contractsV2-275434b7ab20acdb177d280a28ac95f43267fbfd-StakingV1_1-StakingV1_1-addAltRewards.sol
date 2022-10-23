@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , uint256 amount ) public { if ( amount != 0 ) { Identifier_0 ( token , amount ) ; IERC20 ( token ) . transferFrom ( msg . sender , address ( this ) , amount ) ; } }

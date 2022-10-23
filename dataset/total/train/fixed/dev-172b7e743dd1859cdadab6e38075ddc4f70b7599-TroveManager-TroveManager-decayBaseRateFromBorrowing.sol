@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external override { Identifier_0 ( ) ; uint VariableDeclaration_0 = Identifier_1 ( ) ; assert ( Identifier_2 <= Identifier_3 ) ; Identifier_4 = Identifier_5 ; emit Identifier_6 ( Identifier_7 ) ; Identifier_8 ( ) ; }

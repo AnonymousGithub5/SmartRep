@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { require ( ! Identifier_0 . MemberAccess_0 ( msg . sender ) ) ; uint VariableDeclaration_0 ; ( , , , , Identifier_1 , ) = Identifier_2 . MemberAccess_1 ( msg . sender ) ; require ( block . timestamp > Identifier_3 ) ; Identifier_4 . MemberAccess_2 ( msg . sender ) ; Identifier_5 . MemberAccess_3 ( msg . sender ) ; }

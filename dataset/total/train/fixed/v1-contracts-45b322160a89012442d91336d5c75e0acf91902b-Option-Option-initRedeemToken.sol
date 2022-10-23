@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external override { require ( msg . sender == factory , stringLiteral_0 ) ; Identifier_0 = Identifier_1 ; emit Identifier_2 ( msg . sender , Identifier_3 ) ; }

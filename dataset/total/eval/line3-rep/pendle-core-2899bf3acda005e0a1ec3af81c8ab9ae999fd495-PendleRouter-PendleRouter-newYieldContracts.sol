@@ -1,0 +1,1 @@
+require ( _underlyingAsset != address ( 0 ) , stringLiteral_1 ) ; UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_1 ( data . MemberAccess_0 ( Identifier_2 ) ) ; require ( address ( Identifier_3 ) != address ( 0 ) , stringLiteral_2 ) ;

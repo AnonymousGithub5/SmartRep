@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public view returns ( uint , address , ElementaryTypeName_0 , uint ) { return ( _categoryId , Identifier_0 [ _categoryId ] . MemberAccess_0 , Identifier_1 [ _categoryId ] . MemberAccess_1 , Identifier_2 [ _categoryId ] . MemberAccess_2 ) ; }

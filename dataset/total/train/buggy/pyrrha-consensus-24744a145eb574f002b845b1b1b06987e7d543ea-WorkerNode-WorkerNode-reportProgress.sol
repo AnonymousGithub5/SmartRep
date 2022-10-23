@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 ) external onlyOwner { Identifier_0 = Identifier_1 ; Identifier_2 . MemberAccess_0 ( Identifier_3 ) ; }

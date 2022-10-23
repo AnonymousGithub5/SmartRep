@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view returns ( uint ) { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; if ( Identifier_2 . MemberAccess_0 ) { return now . sub ( Identifier_3 . MemberAccess_1 ) ; } else { return Identifier_4 . MemberAccess_2 . sub ( Identifier_5 . MemberAccess_3 ) ; } }

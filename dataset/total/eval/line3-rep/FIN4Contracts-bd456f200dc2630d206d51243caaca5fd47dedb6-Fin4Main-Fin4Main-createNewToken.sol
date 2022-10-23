@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 VariableDeclaration_0 = new UserDefinedTypeName_1 ( name , symbol , Identifier_0 , address ( this ) ) ; uint memory VariableDeclaration_1 = new uint ( Identifier_1 ) ; Identifier_2 [ 0 ] = 0 ;

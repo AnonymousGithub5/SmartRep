@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint value , address Parameter_0 , uint32 Parameter_1 ) external returns ( bool ) ;

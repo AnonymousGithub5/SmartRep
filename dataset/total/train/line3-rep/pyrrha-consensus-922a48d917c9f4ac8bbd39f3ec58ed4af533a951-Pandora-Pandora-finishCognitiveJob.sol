@@ -1,0 +1,1 @@
+for ( uint VariableDeclaration_1 = 0 ; Identifier_2 < Identifier_3 . MemberAccess_0 ( ) ; Identifier_4 ++ ) { if ( Identifier_5 . MemberAccess_1 [ Identifier_6 ] != bytes ( 0 ) ) { Identifier_7 . MemberAccess_2 ( Identifier_8 ) . MemberAccess_3 ( ) ;

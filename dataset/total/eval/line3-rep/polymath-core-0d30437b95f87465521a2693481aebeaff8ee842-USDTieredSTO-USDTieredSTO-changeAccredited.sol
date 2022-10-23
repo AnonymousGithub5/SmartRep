@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bool Parameter_1 ) public onlyOwner { require ( Identifier_0 . length == Identifier_1 . length ) ; for ( uint256 i = 0 ; i < Identifier_2 . length ; i ++ ) {

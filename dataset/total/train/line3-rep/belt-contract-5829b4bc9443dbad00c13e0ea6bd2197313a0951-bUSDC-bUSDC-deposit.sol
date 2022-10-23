@@ -1,0 +1,1 @@
+} else { Identifier_2 = ( _amount . mul ( totalSupply ( ) ) ) . div ( pool ) ; }

@@ -1,0 +1,1 @@
+string memory VariableDeclaration_0 ; if ( bytes ( Identifier_0 ) . length > 0 ) { Identifier_1 = Identifier_2 ; } else { Identifier_3 = Identifier_4 ; } totalSupply ++ ;

@@ -1,0 +1,1 @@
+registry = Identifier_5 ; Identifier_6 = ERC20 ( registry . MemberAccess_1 ( Identifier_7 . MemberAccess_2 ) ) ; Identifier_8 ( Identifier_9 ) ;

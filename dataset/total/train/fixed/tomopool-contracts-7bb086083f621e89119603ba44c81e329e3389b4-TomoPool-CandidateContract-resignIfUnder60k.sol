@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 { uint256 VariableDeclaration_0 = Identifier_0 ( ) ; require ( Identifier_1 < NumberLiteral_0 * 10 ** 18 && Identifier_2 > 0 && Identifier_3 >= Identifier_4 . add ( Identifier_5 ) , stringLiteral_0 ) ; Identifier_6 ( ) ; }

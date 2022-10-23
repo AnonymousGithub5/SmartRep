@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external returns ( bool ) { require ( Identifier_0 ( Identifier_1 ) . withdraw ( ) ) ; return true ; }

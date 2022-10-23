@@ -1,0 +1,1 @@
+require ( ! Identifier_0 [ msg . sender ] . MemberAccess_0 || Identifier_1 ) ; uint256 VariableDeclaration_0 = Identifier_2 [ msg . sender ] . MemberAccess_1 + Identifier_3 ; uint256 VariableDeclaration_1 = Identifier_4 [ msg . sender ] . MemberAccess_2

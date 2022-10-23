@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) internal virtual returns ( bool success , uint256 amount ) { success = ( Identifier_0 == uint256 ( 0 ) ) && ( Identifier_1 != uint256 ( 0 ) ) && ( Identifier_2 == ( Identifier_3 = Identifier_4 = amount = Identifier_5 ( ) ) ) ; Identifier_6 = Identifier_7 ; Identifier_8 = block . timestamp + Identifier_9 ; }

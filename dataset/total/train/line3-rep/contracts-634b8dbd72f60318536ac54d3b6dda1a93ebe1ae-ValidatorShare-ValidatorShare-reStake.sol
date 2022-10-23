@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 ( msg . sender ) ; Identifier_1 [ msg . sender ] = Identifier_2 [ msg . sender ] . add ( Identifier_3 ) ; Identifier_4 = Identifier_5 . add ( Identifier_6 ) ;

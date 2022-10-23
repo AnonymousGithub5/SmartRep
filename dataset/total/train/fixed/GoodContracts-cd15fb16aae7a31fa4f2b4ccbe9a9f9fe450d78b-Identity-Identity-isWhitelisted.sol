@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) public view returns ( bool ) { uint256 VariableDeclaration_0 = ( now . sub ( Identifier_0 [ account ] ) ) / 1 days ; return ( Identifier_1 <= Identifier_2 ) && Identifier_3 . MemberAccess_0 ( account ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address from , bytes32 Parameter_1 ) public ModifierInvocation_0 { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 [ currency ] ) ;

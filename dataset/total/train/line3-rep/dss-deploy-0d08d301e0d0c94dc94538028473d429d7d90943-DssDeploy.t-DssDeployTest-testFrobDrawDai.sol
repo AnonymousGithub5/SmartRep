@@ -1,0 +1,1 @@
+assertEq ( vat . MemberAccess_2 ( stringLiteral_1 , address ( this ) ) , NumberLiteral_2 ether ) ; assertEq ( vat . MemberAccess_3 ( address ( this ) ) , Identifier_5 ( ONE , NumberLiteral_3 ether ) ) ; vat . MemberAccess_4 ( address ( Identifier_6 ) ) ;

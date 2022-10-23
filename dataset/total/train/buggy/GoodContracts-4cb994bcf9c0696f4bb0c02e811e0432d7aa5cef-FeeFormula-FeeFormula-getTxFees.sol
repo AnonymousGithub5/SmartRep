@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _value ) public view ModifierInvocation_0 returns ( uint256 ) { return _value . div ( 100 ) ; }

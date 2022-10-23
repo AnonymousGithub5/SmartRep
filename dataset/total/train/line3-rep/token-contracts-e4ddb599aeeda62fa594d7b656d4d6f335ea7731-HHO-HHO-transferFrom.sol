@@ -1,0 +1,1 @@
+if ( ! Identifier_1 ( controller ) . MemberAccess_0 ( _from , _to , _amount ) ) throw ; }

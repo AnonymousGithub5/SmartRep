@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 ) payable public { require ( Identifier_0 > 0 && Identifier_1 <= 100 , stringLiteral_0 ) ; require ( msg . value == NumberLiteral_0 ether , stringLiteral_1 ) ; Identifier_2 [ Identifier_3 ] . push ( msg . sender ) ; }

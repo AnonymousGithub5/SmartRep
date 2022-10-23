@@ -1,0 +1,1 @@
+Identifier_0 = Identifier_1 . sub ( _amount ) ; Identifier_2 . safeTransfer ( msg . sender , _amount ) ; }

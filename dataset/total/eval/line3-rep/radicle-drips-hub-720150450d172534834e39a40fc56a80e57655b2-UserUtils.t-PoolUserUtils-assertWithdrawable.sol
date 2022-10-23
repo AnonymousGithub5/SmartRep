@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 user , uint128 Parameter_0 ) internal { uint128 VariableDeclaration_0 = user . MemberAccess_0 ( Identifier_0 ( user ) ) ; assertEq ( Identifier_1 , Identifier_2 , stringLiteral_0 ) ;

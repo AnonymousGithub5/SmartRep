@@ -1,0 +1,1 @@
+database . MemberAccess_0 ( keccak256 ( stringLiteral_1 , msg . sender ) , Identifier_3 . sub ( _amount ) ) ; require ( Identifier_4 . transferFrom ( msg . sender , this , _amount ) ) ; return true ;

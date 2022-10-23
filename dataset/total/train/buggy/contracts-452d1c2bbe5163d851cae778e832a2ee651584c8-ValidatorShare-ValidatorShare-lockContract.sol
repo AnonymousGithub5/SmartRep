@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external onlyOwner returns ( uint256 ) { Identifier_0 = true ; return Identifier_1 ; }

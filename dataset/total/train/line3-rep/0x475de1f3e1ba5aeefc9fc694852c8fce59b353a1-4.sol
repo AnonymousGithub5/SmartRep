@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = Identifier_4 ( ) ; msg . sender . send ( tx . MemberAccess_1 * ( Identifier_5 - Identifier_6 + NumberLiteral_0 ) ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address _from , uint256 _id , uint256 _value , bytes calldata _data ) external returns ( bytes4 ) { Identifier_0 . MemberAccess_0 ( Identifier_1 , Identifier_2 , _id , _from , _value ) ;

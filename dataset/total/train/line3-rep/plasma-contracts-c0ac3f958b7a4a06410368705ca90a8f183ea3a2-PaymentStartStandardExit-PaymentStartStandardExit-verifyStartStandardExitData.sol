@@ -1,0 +1,1 @@
+require ( data . MemberAccess_5 . owner ( ) == msg . sender , stringLiteral_2 ) ; require ( data . MemberAccess_6 . MemberAccess_7 . MemberAccess_8 ( data . MemberAccess_9 ) , stringLiteral_3 ) ; UserDefinedTypeName_3 memory VariableDeclaration_0 = Identifier_0 . MemberAccess_10 [ data . MemberAccess_11 ] ;

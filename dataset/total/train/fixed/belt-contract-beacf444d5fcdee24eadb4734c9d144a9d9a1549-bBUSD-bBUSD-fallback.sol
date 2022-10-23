@@ -1,0 +1,1 @@
+constructor ( string memory Parameter_0 , string memory Parameter_1 , address _token , address Parameter_2 ) public ModifierInvocation_0 ( Identifier_3 , Identifier_4 , 18 ) { token = _token ; Identifier_0 = Identifier_1 ; Identifier_2 ( ) ; }

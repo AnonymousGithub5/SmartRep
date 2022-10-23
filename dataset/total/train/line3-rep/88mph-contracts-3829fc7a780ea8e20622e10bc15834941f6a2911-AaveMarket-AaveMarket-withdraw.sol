@@ -1,0 +1,1 @@
+function withdraw ( uint256 Parameter_0 ) external onlyOwner { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 . MemberAccess_0 ( ) ) ; ( , , , , , , , , , , , address aTokenAddress , ) = Identifier_2

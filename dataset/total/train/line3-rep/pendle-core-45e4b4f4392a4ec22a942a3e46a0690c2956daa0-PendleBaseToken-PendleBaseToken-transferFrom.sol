@@ -1,0 +1,1 @@
+msg . sender , allowance [ sender ] [ msg . sender ] . sub ( amount , stringLiteral_0 ) ) ;

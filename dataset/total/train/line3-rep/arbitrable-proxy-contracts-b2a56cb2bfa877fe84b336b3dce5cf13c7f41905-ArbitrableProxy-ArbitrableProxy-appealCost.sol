@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 ; if ( _ruling == 0 ) Identifier_0 = Identifier_1 ; else if ( _ruling == Identifier_2 ) Identifier_3 = Identifier_4 ;

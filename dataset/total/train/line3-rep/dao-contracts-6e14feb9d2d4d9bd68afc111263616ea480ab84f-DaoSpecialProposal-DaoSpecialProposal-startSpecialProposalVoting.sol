@@ -1,0 +1,1 @@
+Identifier_5 ( ) . MemberAccess_2 ( _proposalId , now ) ; emit Identifier_6 ( _proposalId ) ; }

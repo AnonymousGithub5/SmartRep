@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 ; if ( Identifier_2 ( Identifier_3 ) . MemberAccess_1 ( ) == Identifier_4 ) { reserve = Identifier_5 ;

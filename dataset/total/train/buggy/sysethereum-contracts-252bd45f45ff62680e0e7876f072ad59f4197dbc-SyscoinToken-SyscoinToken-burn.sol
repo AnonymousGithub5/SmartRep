@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _value , uint32 Parameter_0 , bytes ) payable public returns ( bool success ) { require ( Identifier_0 == Identifier_1 ) ; require ( _value >= Identifier_2 ) ; require ( balances [ msg . sender ] >= _value ) ; balances [ msg . sender ] -= _value ; totalSupply -= _value ; emit Transfer ( msg . sender , 0 , _value ) ; return true ; }

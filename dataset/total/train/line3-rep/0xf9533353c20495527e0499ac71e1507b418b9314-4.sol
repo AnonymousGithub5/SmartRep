@@ -1,0 +1,1 @@
+if ( Identifier_2 + amount >= Identifier_3 ) { Identifier_4 . send ( Identifier_5 + amount - Identifier_6 ) ; Identifier_7 . push ( Identifier_8 ( Identifier_9 , Identifier_10 - Identifier_11 , Identifier_12 ) ) ;

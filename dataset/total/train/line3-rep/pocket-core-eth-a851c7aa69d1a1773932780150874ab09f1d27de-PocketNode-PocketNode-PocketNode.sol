@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner , address Parameter_0 , address _token , bool Parameter_1 , bool Parameter_2 ) { owner = _owner ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) public view returns ( UserDefinedTypeName_0 ) { require ( Identifier_0 [ wallet ] . length > index ) ; return Identifier_1 [ Identifier_2 [ wallet ] [ index ] - 1 ] ; }

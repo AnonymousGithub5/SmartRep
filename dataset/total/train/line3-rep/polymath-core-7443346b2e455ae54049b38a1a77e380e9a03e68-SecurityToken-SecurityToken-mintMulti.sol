@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) public ModifierInvocation_0 ( Identifier_6 , true ) returns ( bool success ) { require ( Identifier_0 . length == Identifier_1 . length , stringLiteral_0 ) ;

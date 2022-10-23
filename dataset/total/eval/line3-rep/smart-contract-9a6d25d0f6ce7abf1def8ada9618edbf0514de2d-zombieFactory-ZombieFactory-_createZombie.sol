@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory _name , uint16 Parameter_0 ) internal { uint id = Identifier_0 . push ( Identifier_1 ( _name , Identifier_2 , 0 , 0 , 1 , 0 ) ) - 1 ;

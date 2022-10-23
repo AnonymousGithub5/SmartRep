@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _tokenId ) public { require ( Identifier_0 ( registry . MemberAccess_0 ( Identifier_1 ) ) . MemberAccess_1 ( _tokenId ) == msg . sender , stringLiteral_0 ) ; Identifier_2 ( registry . MemberAccess_2 ( Identifier_3 ) ) . transferFrom ( address ( this ) , msg . sender , _tokenId ) ;

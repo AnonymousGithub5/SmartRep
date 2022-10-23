@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bytes memory Parameter_1 , bytes32 Parameter_2 ) internal view returns ( address _address ) { bytes32 VariableDeclaration_0 = keccak256 ( abi . encodePacked ( ElementaryTypeName_0 ( NumberLiteral_0 ) , Identifier_0 , Identifier_1 , keccak256 ( Identifier_2 ) ) ) ; return Identifier_3 ( Identifier_4 ) ; }

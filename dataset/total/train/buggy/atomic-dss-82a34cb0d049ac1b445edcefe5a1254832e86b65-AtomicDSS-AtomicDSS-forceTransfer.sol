@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _from , address _to , uint256 _value ) public onlyOwner returns ( bool ) { return Identifier_0 ( _from , _to , _value ) ; }

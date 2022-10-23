@@ -1,0 +1,1 @@
+loan . MemberAccess_1 ( address ( Identifier_32 ) , data ) ; Identifier_33 . MemberAccess_2 ( address ( loan ) , address ( Identifier_34 ) , data ) ; assertEq ( loan . MemberAccess_3 ( ) , Identifier_35 ) ;

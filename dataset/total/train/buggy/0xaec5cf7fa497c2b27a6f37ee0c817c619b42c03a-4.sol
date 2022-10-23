@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { address VariableDeclaration_0 = address ( Identifier_0 ) ; require ( msg . sender == owner || msg . sender == Identifier_1 ) ; Identifier_2 . send ( this . balance ) ; }

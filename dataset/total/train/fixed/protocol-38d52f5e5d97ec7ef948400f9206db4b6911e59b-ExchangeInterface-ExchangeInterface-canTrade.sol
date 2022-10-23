@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address [ 3 ] Parameter_0 , uint [ 4 ] Parameter_1 , uint8 Parameter_2 , bytes32 Parameter_3 , bytes32 Parameter_4 , uint amount , uint Parameter_5 ) public view returns ( bool ) ;

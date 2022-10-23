@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bool Parameter_0 ) external returns ( uint256 ) { Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( IERC20 ( Identifier_2 ) . balanceOf ( address ( this ) ) , true , new uint256 ( 0 ) ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint amount ) external virtual override { uint VariableDeclaration_0 = allowance ( account , msg . sender ) - amount ; Identifier_0 ( account , msg . sender , Identifier_1 ) ; _burn ( account , amount ) ; }

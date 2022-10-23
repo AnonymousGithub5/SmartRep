@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public override payable { require ( msg . value > 0 , stringLiteral_0 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address spender , uint256 Parameter_1 , uint256 Parameter_2 , bool Parameter_3 , uint8 Parameter_4 , bytes32 Parameter_5 , bytes32 Parameter_6 ) virtual external ;

@@ -1,0 +1,1 @@
+FunctionDefinition_0 ( ) external payable { Identifier_0 ( msg . sender , Identifier_1 . MemberAccess_0 ( msg . value ) ) ; }

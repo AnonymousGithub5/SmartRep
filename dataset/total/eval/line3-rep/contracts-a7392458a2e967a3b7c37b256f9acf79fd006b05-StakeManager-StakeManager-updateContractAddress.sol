@@ -1,0 +1,1 @@
+Identifier_0 ( Identifier_1 ) . owner ( ) == address ( this ) , stringLiteral_0 ) ;

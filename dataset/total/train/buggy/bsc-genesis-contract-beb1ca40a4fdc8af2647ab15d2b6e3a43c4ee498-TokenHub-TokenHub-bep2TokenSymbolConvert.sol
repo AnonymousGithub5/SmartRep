@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 ) public pure returns ( bytes32 ) { bytes32 VariableDeclaration_0 ; assembly { result := mload ( add ( AssemblyExpression_0 , DecimalNumber_0 ) ) } return result ; }

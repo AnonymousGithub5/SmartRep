@@ -1,0 +1,1 @@
+function transferFrom ( ) public payable { if ( state == Identifier_0 . MemberAccess_0 ) { msg . sender . transfer ( msg . value ) ; Identifier_1 ( msg . sender ) ; } else { require ( state == Identifier_2 . MemberAccess_1 ) ; Identifier_3 ( msg . sender , msg . value , true ) ; } }

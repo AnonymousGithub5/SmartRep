@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) external override returns ( bool ) { require ( Identifier_0 [ Identifier_1 ] == address ( 0 ) , stringLiteral_0 ) ;

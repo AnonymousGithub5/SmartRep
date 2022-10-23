@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 ) internal view returns ( uint ) { if ( Identifier_0 == 0 ) { return 0 ; } return Identifier_1 ( Identifier_2 ) . mul ( 10 ** uint ( Identifier_3 ( ) ) ) . div ( Identifier_4 ) ; }

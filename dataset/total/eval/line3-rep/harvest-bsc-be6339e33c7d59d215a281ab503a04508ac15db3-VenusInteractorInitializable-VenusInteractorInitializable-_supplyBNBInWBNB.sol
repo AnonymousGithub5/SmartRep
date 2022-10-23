@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) internal nonReentrant { uint256 balance = Identifier_0 . balanceOf ( address ( this ) ) ; if ( Identifier_1 < balance ) {

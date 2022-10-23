@@ -1,0 +1,1 @@
+{ ( Identifier_0 , Identifier_1 , Identifier_2 ) = Identifier_3 ( uint256 ( 1 ) ) ; emit Identifier_4 ( uint256 ( 1 ) , Identifier_5 , Identifier_6 , Identifier_7 ) ;

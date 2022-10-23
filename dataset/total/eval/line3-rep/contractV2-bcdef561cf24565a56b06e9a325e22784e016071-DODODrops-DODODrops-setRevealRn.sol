@@ -1,0 +1,1 @@
+require ( Identifier_0 == 0 , stringLiteral_0 ) ; Identifier_1 = uint256 ( keccak256 ( abi . encodePacked ( Identifier_2 ( block . number - 1 ) ) ) ) ; emit Identifier_3 ( ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view ModifierInvocation_0 ( tokenAddress ) returns ( uint256 , uint256 ) { return ( Identifier_0 [ tokenAddress ] [ msg . sender ] . MemberAccess_0 , Identifier_1 [ tokenAddress ] [ msg . sender ] . MemberAccess_1 ) ; }

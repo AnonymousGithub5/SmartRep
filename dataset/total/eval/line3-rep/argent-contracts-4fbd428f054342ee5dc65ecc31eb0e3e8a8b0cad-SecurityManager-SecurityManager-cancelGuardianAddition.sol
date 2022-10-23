@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_1 [ _wallet ] ; require ( config . MemberAccess_0 [ id ] > 0 , stringLiteral_1 ) ; delete config . MemberAccess_1 [ id ] ;

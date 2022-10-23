@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) public onlyOwner { require ( Identifier_0 . MemberAccess_0 ( ) , stringLiteral_0 ) ; identity = Identifier_1 ; }

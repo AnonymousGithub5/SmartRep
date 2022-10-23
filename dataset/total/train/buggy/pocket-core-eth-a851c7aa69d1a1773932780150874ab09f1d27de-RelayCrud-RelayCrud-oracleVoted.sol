@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address Parameter_1 ) returns ( bool Parameter_2 ) { return Identifier_0 [ Identifier_1 ] . MemberAccess_0 [ Identifier_2 ] ; }

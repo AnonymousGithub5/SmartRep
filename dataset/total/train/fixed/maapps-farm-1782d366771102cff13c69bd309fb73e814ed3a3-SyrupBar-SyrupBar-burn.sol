@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _from , uint256 _amount ) public onlyOwner { _burn ( _from , _amount ) ; Identifier_0 ( Identifier_1 [ _from ] , address ( 0 ) , _amount ) ; }

@@ -1,0 +1,1 @@
+msg . sender == Identifier_0 && msg . sender != address ( 0 ) , stringLiteral_0 ) ;

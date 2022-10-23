@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 calldata Parameter_0 ) public returns ( uint256 memory Parameter_1 )

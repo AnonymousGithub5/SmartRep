@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint16 Parameter_0 , ElementaryTypeName_0 Parameter_1 ) internal { uint16 VariableDeclaration_0 ; if ( Identifier_0 > 0 ) Identifier_1 = Identifier_2 - 1 ; Identifier_3 [ Identifier_4 [ Identifier_5 ] [ Identifier_6 ] ] = false ; Identifier_7 [ Identifier_8 [ Identifier_9 ] [ Identifier_10 ] ] = true ; }

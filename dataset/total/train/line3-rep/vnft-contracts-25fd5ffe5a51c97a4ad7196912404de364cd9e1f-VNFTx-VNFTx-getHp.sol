@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = ( Identifier_6 - now ) / 1 days ; uint256 VariableDeclaration_3 = Identifier_7 * Identifier_8 ; uint256 VariableDeclaration_4 = 0 ;

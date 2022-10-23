@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) external { require ( iPOOLS ( POOLS ) . MemberAccess_0 ( token ) || iPOOLS ( POOLS ) . MemberAccess_1 ( token ) ) ; if ( ! Identifier_0 ( token ) ) {

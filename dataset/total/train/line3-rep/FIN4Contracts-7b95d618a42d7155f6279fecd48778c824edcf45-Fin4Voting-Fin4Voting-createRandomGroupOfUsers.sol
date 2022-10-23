@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , string memory Parameter_1 ) public returns ( uint ) { require ( Identifier_0 >= Identifier_1 . length , stringLiteral_0 ) ; uint VariableDeclaration_0 = uint ( Identifier_2 ( block . number - 1 ) ) % Identifier_3 . length ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , string Parameter_1 ) public { if ( address ( Identifier_0 ) != address ( 0 ) ) require ( msg . sender == Identifier_1 . MemberAccess_0 ( Identifier_2 ) || owner == msg . sender ) ; else require ( owner == msg . sender ) ; Identifier_3 [ Identifier_4 ] . MemberAccess_1 = Identifier_5 ; }

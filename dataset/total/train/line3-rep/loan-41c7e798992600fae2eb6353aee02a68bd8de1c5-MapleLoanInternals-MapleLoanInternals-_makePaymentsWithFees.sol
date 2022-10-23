@@ -1,0 +1,1 @@
+if ( Identifier_15 > uint256 ( 0 ) ) { require ( Identifier_16 . transfer ( Identifier_17 , Identifier_18 ( Identifier_19 ) . MemberAccess_0 ( ) , Identifier_20 ) , stringLiteral_1 ) ; Identifier_21 -= Identifier_22 ;

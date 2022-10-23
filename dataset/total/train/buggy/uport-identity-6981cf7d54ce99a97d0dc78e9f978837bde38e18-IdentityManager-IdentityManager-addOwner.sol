@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , address Parameter_1 ) public ModifierInvocation_0 ( identity ) ModifierInvocation_1 ( identity ) { Identifier_0 [ identity ] [ Identifier_1 ] = now - Identifier_2 ; Identifier_3 ( identity , Identifier_4 , msg . sender ) ; }

@@ -1,0 +1,1 @@
+require ( ERC20 ( Identifier_1 ) . transferFrom ( from , to , amount ) ) ; emit Identifier_2 ( from , to , amount , Identifier_3 , 0 ) ; }

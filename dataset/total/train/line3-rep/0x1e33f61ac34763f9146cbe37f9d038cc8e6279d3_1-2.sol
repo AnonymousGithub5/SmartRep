@@ -1,0 +1,1 @@
+returns ( bool success ) { allowance [ msg . sender ] [ _spender ] = _value ; return true ;

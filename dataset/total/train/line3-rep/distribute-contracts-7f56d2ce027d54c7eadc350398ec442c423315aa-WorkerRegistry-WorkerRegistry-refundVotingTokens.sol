@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public { Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( msg . sender , _tokens ) ; balances [ msg . sender ] += _tokens ;

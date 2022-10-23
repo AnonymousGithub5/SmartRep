@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token , uint256 _tokenId ) public whenNotPaused returns ( uint256 ) { return Identifier_0 ( msg . sender , _token , _tokenId ) ; }

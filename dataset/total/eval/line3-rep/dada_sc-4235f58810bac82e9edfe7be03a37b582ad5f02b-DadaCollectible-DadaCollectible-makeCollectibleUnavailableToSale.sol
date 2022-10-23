@@ -1,0 +1,1 @@
+require ( Identifier_5 [ Identifier_6 ] == msg . sender ) ; require ( Identifier_7 < Identifier_8 . totalSupply + Identifier_9 . MemberAccess_1 && Identifier_10 >= Identifier_11 . MemberAccess_2 ) ; Identifier_12 [ Identifier_13 ] = Identifier_14 ( false , Identifier_15 . MemberAccess_3 , Identifier_16 , msg . sender , 0 , 0x0 , Identifier_17 ) ;

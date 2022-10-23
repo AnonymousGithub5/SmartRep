@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) internal { Identifier_0 . add ( account ) ; Identifier_1 += 1 ; Identifier_2 [ account ] = now ; if ( Identifier_3 ( account ) ) { Identifier_4 += 1 ; } emit Identifier_5 ( account ) ; }

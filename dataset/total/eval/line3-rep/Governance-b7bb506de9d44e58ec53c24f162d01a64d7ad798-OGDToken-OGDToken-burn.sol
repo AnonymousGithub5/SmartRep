@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , address Parameter_1 ) override external returns ( bool success ) { Identifier_0 ( msg . sender ) ; Identifier_1 [ msg . sender ] . balance = Identifier_2 [ msg . sender ] . balance . sub ( tokens ) ;

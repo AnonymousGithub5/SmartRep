@@ -1,0 +1,1 @@
+constructor ( ) public ModifierInvocation_0 ( address ( 0x0 ) ) { } 

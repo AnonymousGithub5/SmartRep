@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public returns ( bool ) { Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( msg . sender ) ; return true ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external onlyOwner { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; for ( uint8 i = 0 ; i < Identifier_1 . length ; i ++ ) { if ( Identifier_2 [ i ] == Identifier_3 ) { return ; } } Identifier_4 . push ( Identifier_5 ) ; Identifier_6 . push ( 0 ) ; }

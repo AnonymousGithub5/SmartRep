@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 ) returns ( uint ) { return self . MemberAccess_0 ; }

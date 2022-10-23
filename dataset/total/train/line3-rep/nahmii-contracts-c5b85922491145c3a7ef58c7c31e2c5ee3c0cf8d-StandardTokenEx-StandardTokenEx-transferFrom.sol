@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = allowed [ from ] [ msg . sender ] ; require ( value >= allowance , stringLiteral_0 ) ; balances [ from ] = balances [ from ] . sub ( value ) ;

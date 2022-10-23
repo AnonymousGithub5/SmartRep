@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) payable { Identifier_0 += msg . value ; require ( Identifier_1 >= msg . value ) ; }

@@ -1,0 +1,1 @@
+returns ( bool ) { require ( msg . sender == Identifier_0 || database . MemberAccess_0 ( keccak256 ( abi . encodePacked ( stringLiteral_0 , Identifier_1 , msg . sender , address ( this ) , msg . MemberAccess_1 ) ) ) ) ; require ( Identifier_2 ( Identifier_3 , Identifier_4 , _amount ) ) ;

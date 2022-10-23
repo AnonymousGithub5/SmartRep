@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user , address Parameter_0 ) internal { Identifier_0 [ user ] [ Identifier_1 ] = true ; emit Identifier_2 ( user , Identifier_3 , true ) ;

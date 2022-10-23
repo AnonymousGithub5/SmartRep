@@ -1,0 +1,1 @@
+Identifier_2 ( msg . sender , expiry , Identifier_3 ) ; Identifier_4 ( expiry , amount ) ; balances [ msg . sender ] [ expiry ] = balances [ msg . sender ] [ expiry ] . sub ( amount ) ;

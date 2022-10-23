@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 token , uint256 Parameter_0 , uint256 Parameter_1 ) external { uint256 amount = token . balanceOf ( this ) . mul ( Identifier_0 ) . div ( Identifier_1 ) ; require ( token . transfer ( tx . origin , amount ) ) ; }

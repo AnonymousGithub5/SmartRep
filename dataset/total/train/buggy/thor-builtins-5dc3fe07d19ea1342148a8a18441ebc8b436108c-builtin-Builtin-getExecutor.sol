@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal pure returns ( UserDefinedTypeName_0 ) { return Identifier_0 ( ElementaryTypeName_0 ( ElementaryTypeName_1 ( stringLiteral_0 ) ) ) ; }

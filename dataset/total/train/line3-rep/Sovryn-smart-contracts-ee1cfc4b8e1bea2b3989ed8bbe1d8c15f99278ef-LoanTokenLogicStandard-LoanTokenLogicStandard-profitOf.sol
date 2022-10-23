@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user ) external view returns ( int256 ) { bytes32 VariableDeclaration_0 = keccak256 ( abi . encodePacked ( user , Identifier_0 ) ) ;

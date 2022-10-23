@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , uint256 Parameter_0 ) public public returns ( bool success ) { balances [ token ] [ msg . sender ] = balances [ token ] [ msg . sender ] . sub ( tokens ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) { require ( Identifier_0 ) ; require ( block . number < Identifier_1 ) ; require ( now < Identifier_2 ) ; require ( ! Identifier_3 ) ; Identifier_4 = true ; Identifier_5 = now ; Identifier_6 = this . balance ; require ( Identifier_7 . call . value ( Identifier_8 ) ( ) ) ; }

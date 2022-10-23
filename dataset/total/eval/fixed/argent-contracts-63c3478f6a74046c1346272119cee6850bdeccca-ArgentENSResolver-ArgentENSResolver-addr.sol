@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) external view returns ( address ) { return Identifier_0 [ _node ] . MemberAccess_0 ; }

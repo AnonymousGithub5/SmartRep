@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external onlyOwner { address VariableDeclaration_0 = Identifier_0 [ Identifier_1 . length - 1 ] [ 0 ] ; if ( reward != Identifier_2 && reward != Identifier_3 ) { IERC20 ( reward ) . safeApprove ( Identifier_4 , 0 ) ; } Identifier_5 . MemberAccess_0 ( ) ; }

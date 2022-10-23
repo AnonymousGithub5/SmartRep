@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { return Identifier_0 ( ) . mul ( Identifier_1 ( Identifier_2 ) . MemberAccess_0 ( ) ) . div ( 1e18 ) ; }

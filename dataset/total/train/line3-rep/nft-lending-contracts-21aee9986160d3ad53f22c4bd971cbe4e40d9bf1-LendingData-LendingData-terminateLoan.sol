@@ -1,0 +1,1 @@
+require ( loans [ loanId ] . status == Status . MemberAccess_2 , stringLiteral_1 ) ; require ( Identifier_0 . MemberAccess_3 ( loanId ) , stringLiteral_2 ) ; Identifier_1 (

@@ -1,0 +1,1 @@
+require ( Identifier_0 != 0 , stringLiteral_0 ) ; require ( _contract != address ( 0 ) , stringLiteral_1 ) ; require ( Identifier_1 [ Identifier_2 ] == address ( 0 ) , stringLiteral_2 ) ;

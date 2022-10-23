@@ -1,0 +1,1 @@
+{ string memory VariableDeclaration_0 = stringLiteral_0 ; bytes32 VariableDeclaration_1 = keccak256 ( abi . encodePacked (

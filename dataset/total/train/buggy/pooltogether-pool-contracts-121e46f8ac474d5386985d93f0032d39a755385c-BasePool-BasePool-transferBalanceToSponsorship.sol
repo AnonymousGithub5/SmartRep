@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { Identifier_0 ( address ( this ) , token ( ) . balanceOf ( address ( this ) ) ) ; }

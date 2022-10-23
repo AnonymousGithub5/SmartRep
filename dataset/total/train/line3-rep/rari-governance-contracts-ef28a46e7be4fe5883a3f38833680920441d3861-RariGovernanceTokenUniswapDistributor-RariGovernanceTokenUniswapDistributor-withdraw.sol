@@ -1,0 +1,1 @@
+Identifier_0 [ msg . sender ] = Identifier_1 [ msg . sender ] . sub ( amount ) ; if ( block . number > Identifier_2 ) Identifier_3 ( msg . sender ) ; Identifier_4 . safeTransfer ( msg . sender , amount ) ;

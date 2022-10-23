@@ -1,0 +1,1 @@
+{ token . call ( bytes4 ( Identifier_0 ( stringLiteral_0 ) ) , to , amount ) ; }

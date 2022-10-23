@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 a , uint8 Parameter_0 ) internal pure ModifierInvocation_0 ( n ) returns ( ElementaryTypeName_1 ) { ElementaryTypeName_2 VariableDeclaration_0 = uint8 ( a ) % 2 ** n ; return ElementaryTypeName_3 ( Identifier_0 ) ; }

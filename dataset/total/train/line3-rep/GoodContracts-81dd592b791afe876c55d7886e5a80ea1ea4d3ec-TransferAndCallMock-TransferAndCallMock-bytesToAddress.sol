@@ -1,0 +1,1 @@
+assembly { addr := mload ( add ( AssemblyExpression_0 , DecimalNumber_0 ) ) }

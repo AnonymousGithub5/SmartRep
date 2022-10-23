@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view returns ( uint Parameter_1 ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 . MemberAccess_0 ( stringLiteral_0 ) ) ; Identifier_2 = SafeMath . add ( Identifier_3 . MemberAccess_1 ( Identifier_4 ) , Identifier_5 ) ; }

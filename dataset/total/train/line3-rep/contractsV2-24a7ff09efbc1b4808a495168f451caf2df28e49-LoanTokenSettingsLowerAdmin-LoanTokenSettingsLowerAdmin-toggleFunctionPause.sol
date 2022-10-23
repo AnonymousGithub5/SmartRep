@@ -1,0 +1,1 @@
+{ bytes32 VariableDeclaration_0 = keccak256 ( abi . encodePacked ( bytes4 ( keccak256 ( abi . encodePacked ( Identifier_0 ) ) ) , uint256 ( NumberLiteral_0 ) ) ) ; assembly {

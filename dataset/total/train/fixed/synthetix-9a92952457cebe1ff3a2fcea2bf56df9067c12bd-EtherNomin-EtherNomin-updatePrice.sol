@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 ) public ModifierInvocation_0 { require ( msg . sender == Identifier_0 ) ; require ( Identifier_1 < Identifier_2 && Identifier_3 < now + 10 minutes ) ; Identifier_4 = price ; Identifier_5 = Identifier_6 ; Identifier_7 ( price ) ; }

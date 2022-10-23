@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _address ) public override view returns ( uint256 , uint32 , bool , bool , bool ) { UserDefinedTypeName_1 memory VariableDeclaration_0 = Identifier_0 [ _address ] ;

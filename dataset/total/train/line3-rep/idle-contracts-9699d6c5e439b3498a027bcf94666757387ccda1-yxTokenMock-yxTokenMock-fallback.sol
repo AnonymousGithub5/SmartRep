@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 , uint256 Parameter_1 , string memory _name , string memory Parameter_2 , uint8 Parameter_3 , address Parameter_4 ) public ModifierInvocation_0 ( Identifier_1 , Identifier_2 , _name , _symbol , Identifier_3 ) { _mint ( address ( this ) , 10 ** NumberLiteral_0 ) ;

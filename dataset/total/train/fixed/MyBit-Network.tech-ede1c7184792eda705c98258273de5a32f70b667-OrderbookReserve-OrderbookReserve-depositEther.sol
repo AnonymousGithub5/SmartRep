@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public payable { require ( Identifier_0 != address ( 0 ) ) ; Identifier_1 [ Identifier_2 ] [ Identifier_3 ] += msg . value ; emit Identifier_4 ( Identifier_5 , msg . value ) ; }

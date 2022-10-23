@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 , bytes32 Parameter_2 ) public view returns ( bool ) ; 

@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = disputes [ _disputeID ] ; return ( dispute . MemberAccess_0 , dispute . MemberAccess_1 ) ; }

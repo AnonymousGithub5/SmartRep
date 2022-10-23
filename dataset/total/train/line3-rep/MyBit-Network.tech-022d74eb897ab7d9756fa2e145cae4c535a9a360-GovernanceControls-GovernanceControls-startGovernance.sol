@@ -1,0 +1,1 @@
+require ( Identifier_4 > NumberLiteral_0 ) ; bytes32 VariableDeclaration_0 = keccak256 ( abi . encodePacked ( stringLiteral_0 , Identifier_5 ) ) ; require ( Identifier_6 . MemberAccess_0 ( Identifier_7 ) == address ( 0 ) ) ;

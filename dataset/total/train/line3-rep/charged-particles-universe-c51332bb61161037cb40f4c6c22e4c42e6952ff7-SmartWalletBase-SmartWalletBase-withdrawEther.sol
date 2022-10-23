@@ -1,0 +1,1 @@
+require ( receiver != address ( 0x0 ) , stringLiteral_0 ) ; receiver . transfer ( amount ) ; }

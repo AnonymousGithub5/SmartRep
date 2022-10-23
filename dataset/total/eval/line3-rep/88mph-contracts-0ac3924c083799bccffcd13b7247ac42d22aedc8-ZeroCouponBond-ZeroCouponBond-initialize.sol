@@ -1,0 +1,1 @@
+Identifier_8 = Identifier_9 ( Identifier_10 ) ; Identifier_11 = Identifier_12 ( address ( pool . MemberAccess_2 ( ) ) ) . MemberAccess_3 ( ) ; stablecoin . safeTransferFrom (

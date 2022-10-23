@@ -1,0 +1,1 @@
+for ( uint256 i = 0 ; i < Identifier_4 . length ; ++ i ) { Identifier_5 [ i ] = Identifier_6 ( Identifier_7 [ i ] , _user ) > 0 ; Identifier_8 [ i ] = Identifier_9 ( Identifier_10 [ i ] , _user ) > 0 ;

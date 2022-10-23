@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( bool ) { return data . MemberAccess_0 == data . MemberAccess_1 ; }

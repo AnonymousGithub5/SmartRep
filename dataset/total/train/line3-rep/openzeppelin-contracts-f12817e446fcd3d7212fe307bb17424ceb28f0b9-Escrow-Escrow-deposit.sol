@@ -1,0 +1,1 @@
+function deposit ( address Parameter_0 ) public onlyOwner payable { uint256 amount = msg . value ;

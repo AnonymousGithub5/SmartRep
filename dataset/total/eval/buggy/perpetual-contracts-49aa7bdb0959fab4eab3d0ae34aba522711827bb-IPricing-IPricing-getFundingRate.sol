@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 ) external view returns ( uint256 , int256 , int256 , int256 ) ;

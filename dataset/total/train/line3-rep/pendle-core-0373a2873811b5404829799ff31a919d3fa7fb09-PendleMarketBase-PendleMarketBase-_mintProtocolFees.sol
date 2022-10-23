@@ -1,0 +1,1 @@
+if ( k > Identifier_4 ) { uint256 VariableDeclaration_3 = totalSupply . mul ( k . sub ( Identifier_5 ) ) ; uint256 VariableDeclaration_4 = Math . MemberAccess_1 . sub ( Identifier_6 ) . mul ( k ) . div ( Identifier_7 ) . add ( Identifier_8 ) ;

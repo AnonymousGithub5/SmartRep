@@ -1,0 +1,1 @@
+require ( Identifier_1 [ account ] >= amount , stringLiteral_1 ) ; require ( Identifier_2 [ account ] . length <= Identifier_3 , stringLiteral_2 ) ; Identifier_4 [ account ] = Identifier_5 [ account ] . sub ( amount ) ;

@@ -1,0 +1,1 @@
+returns ( bytes4 ) { return bytes4 ( keccak256 ( Identifier_0 ) ) ; }

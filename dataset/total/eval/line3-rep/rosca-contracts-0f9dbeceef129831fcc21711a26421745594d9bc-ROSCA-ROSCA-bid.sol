@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) ModifierInvocation_0 ModifierInvocation_1 ModifierInvocation_2 external { if ( Identifier_0 [ msg . sender ] . MemberAccess_0 ||

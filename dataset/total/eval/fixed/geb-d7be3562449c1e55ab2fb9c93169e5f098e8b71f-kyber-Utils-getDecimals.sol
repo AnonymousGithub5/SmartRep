@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ERC20 token ) internal view returns ( uint ) { if ( token == Identifier_0 ) return Identifier_1 ; uint VariableDeclaration_0 = Identifier_2 [ address ( token ) ] ; if ( Identifier_3 == 0 ) return token . MemberAccess_0 ( ) ; return Identifier_4 ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address token , uint256 Parameter_0 ) public returns ( bool success ) { Identifier_0 ( token ) . transferFrom ( from , this , tokens ) ; balances [ token ] [ from ] = balances [ token ] [ from ] . add ( tokens ) ; Identifier_1 ( token , from , tokens , balances [ token ] [ from ] ) ; return true ; }

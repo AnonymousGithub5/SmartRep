@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 ) public returns ( bool ) { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; require ( Identifier_2 . owner == msg . sender ) ; Identifier_3 . state = Identifier_4 ( Identifier_5 ) ; Identifier_6 ( Identifier_7 , Identifier_8 ) ; return true ; }

@@ -1,0 +1,1 @@
+Assert . equal ( Identifier_10 ( Identifier_11 ) , NumberLiteral_3 , stringLiteral_2 ) ; Identifier_12 ( 1e18 ) ; Assert . equal ( Identifier_13 ( Identifier_14 ) , 1e18 , stringLiteral_3 ) ;

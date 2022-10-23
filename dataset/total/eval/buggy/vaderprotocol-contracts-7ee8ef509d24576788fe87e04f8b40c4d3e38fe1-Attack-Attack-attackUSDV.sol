@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 amount ) public { Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( address ( this ) , amount ) ; Identifier_2 ( Identifier_3 ) . approve ( Identifier_4 , amount ) ; Identifier_5 ( Identifier_6 ) . MemberAccess_1 ( amount ) ; Identifier_7 ( Identifier_8 ) . MemberAccess_2 ( amount ) ; }

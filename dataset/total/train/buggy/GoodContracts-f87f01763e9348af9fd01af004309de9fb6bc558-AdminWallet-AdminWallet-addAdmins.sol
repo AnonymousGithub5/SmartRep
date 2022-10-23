@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable memory Parameter_0 ) public onlyOwner { for ( uint i = 0 ; i < Identifier_0 . length ; i ++ ) { Identifier_1 . add ( Identifier_2 [ i ] ) ; Identifier_3 . push ( Identifier_4 [ i ] ) ; } emit Identifier_5 ( Identifier_6 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 , string Parameter_2 , uint256 Parameter_3 , uint256 Parameter_4 ) public { require ( balances [ msg . sender ] >= Identifier_0 ) ; balances [ msg . sender ] -= Identifier_1 ; Identifier_2 . MemberAccess_0 ( Identifier_3 , _index , Identifier_4 , Identifier_5 , Identifier_6 , msg . sender ) ; }

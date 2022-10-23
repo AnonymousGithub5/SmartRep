@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address owner , address spender , uint256 amount ) internal virtual { require ( owner != address ( 0 ) , stringLiteral_0 ) ; require ( spender != address ( 0 ) , stringLiteral_1 ) ; if ( Identifier_0 [ owner ] [ spender ] < type ( uint256 ) . max ) { Identifier_1 [ owner ] [ spender ] = amount ; emit Identifier_2 ( owner , spender , amount ) ; } }

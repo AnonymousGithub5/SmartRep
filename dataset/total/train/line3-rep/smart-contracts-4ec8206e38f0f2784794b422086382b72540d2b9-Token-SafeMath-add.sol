@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = a + b ; require ( c >= a ) ; return c ;

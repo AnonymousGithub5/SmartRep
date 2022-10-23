@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint128 Parameter_0 , uint128 Parameter_1 , uint32 Parameter_2 ) internal view returns ( uint32 ) { uint256 VariableDeclaration_0 = uint256 ( Identifier_0 ) . mul ( Identifier_1 ) . div ( collateral ) ; return Identifier_2 . MemberAccess_0 ( Identifier_3 . sub ( Identifier_4 ) . mul ( Identifier_5 ) . div ( Identifier_6 ) ) ; }

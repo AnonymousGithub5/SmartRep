@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token ) { token = Identifier_0 ( _token ) ; Identifier_1 = Identifier_2 ( ) ; Identifier_3 . MemberAccess_0 ( msg . sender , Identifier_4 ( 0 , 0 ) , stringLiteral_0 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ERC20 _token , address _to , uint256 _value ) internal { require ( _token . transfer ( _to , _value ) ) ; }

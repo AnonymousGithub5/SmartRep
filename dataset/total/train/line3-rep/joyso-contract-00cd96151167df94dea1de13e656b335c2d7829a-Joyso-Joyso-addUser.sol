@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address ) internal { if ( Identifier_0 [ _address ] != 0 ) {

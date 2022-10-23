@@ -1,0 +1,1 @@
+require ( block . number > pool . MemberAccess_0 , stringLiteral_0 ) ; uint256 VariableDeclaration_0 = pool . MemberAccess_1 . balanceOf ( address ( this ) ) ; require ( Identifier_1 != 0 , stringLiteral_1 ) ;

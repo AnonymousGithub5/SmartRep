@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 id ) public view override returns ( UserDefinedTypeName_0 memory ) { return Identifier_0 . MemberAccess_0 ( id ) ; }

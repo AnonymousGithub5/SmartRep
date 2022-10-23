@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 , address Parameter_2 , uint256 Parameter_3 ) internal virtual { if ( Identifier_0 == 0 ) { return ; } IERC20 token = IERC20 ( Identifier_1 ) ; token . safeTransferFrom ( sender , address ( this ) , Identifier_2 ) ; token . safeTransfer ( Identifier_3 , Identifier_4 ) ; }

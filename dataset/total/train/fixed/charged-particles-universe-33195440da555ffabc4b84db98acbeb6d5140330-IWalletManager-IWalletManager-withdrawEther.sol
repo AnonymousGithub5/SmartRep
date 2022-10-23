@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 tokenId , address payable receiver , uint256 amount ) external ;

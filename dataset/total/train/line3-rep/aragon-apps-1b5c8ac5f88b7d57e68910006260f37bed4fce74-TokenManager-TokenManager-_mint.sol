@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _amount ) ModifierInvocation_0 internal { token . MemberAccess_0 ( Identifier_0 , _amount ) ;

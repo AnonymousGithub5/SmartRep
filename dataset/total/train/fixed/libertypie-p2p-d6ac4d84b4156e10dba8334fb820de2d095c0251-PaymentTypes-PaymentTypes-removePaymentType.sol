@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 id ) external onlyAdmin ( ) { delete Identifier_0 [ id ] ; }

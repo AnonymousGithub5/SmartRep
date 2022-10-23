@@ -1,0 +1,1 @@
+( UserDefinedTypeName_1 VariableDeclaration_0 , UserDefinedTypeName_2 VariableDeclaration_1 ) = Identifier_0 . MemberAccess_0 ( Identifier_1 ) ; if ( Identifier_2 == Identifier_3 ) { Identifier_4 ( address ( _wallet ) , address ( Identifier_5 ) , Identifier_6 , abi . MemberAccess_1 ( Identifier_7 ) ) ;

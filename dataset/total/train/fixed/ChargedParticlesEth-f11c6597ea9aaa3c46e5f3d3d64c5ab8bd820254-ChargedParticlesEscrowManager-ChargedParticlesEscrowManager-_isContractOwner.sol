@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address _contract ) internal view returns ( bool ) { address VariableDeclaration_0 = Identifier_0 ( _contract ) . MemberAccess_0 ( ) ; return Identifier_1 != address ( 0x0 ) && Identifier_2 == _account ; }

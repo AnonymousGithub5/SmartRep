@@ -1,0 +1,1 @@
+if ( totalSupply ( ) != 0 && _pool != 0 ) { Identifier_6 = ( Identifier_7 . mul ( totalSupply ( ) ) ) . div ( _pool ) ;

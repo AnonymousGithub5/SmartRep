@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 , uint256 [ 5 ] Parameter_1 ) public { Identifier_0 = Identifier_1 ( Identifier_2 ) ; Identifier_3 = msg . sender ; Identifier_4 = NumberLiteral_0 ; for ( uint i = 1 ; i <= 5 ; i ++ ) { Identifier_5 ( i , Identifier_6 [ i ] ) ; } }

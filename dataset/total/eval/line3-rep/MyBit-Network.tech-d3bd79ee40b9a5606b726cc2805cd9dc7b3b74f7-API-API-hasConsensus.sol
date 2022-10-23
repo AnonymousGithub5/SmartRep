@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_3 = database . uintStorage ( keccak256 ( abi . encodePacked ( stringLiteral_2 , Identifier_4 ) ) ) ; if ( Identifier_5 == 0 || Identifier_6 == 0 ) { return false ;

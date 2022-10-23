@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 , uint256 amount ) internal { require ( pool . MemberAccess_0 != address ( 0 ) , stringLiteral_0 ) ; Identifier_0 ( pool . MemberAccess_1 ) . safeTransferFrom ( msg . sender , address ( this ) , amount ) ; Identifier_1 ( pool ) . mint ( msg . sender , amount ) ; }

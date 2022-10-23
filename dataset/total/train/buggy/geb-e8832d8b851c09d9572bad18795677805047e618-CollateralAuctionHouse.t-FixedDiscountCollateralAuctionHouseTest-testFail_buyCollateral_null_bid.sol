@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { collateralAuctionHouse . MemberAccess_0 ( { amountToSell : 100 ether , amountToRaise : 50 ether , forgoneCollateralReceiver : Identifier_0 , auctionIncomeRecipient : auctionIncomeRecipient , initialBid : 0 } ) ; collateralAuctionHouse . MemberAccess_1 ( 1 , 0 , 0 ) ; }

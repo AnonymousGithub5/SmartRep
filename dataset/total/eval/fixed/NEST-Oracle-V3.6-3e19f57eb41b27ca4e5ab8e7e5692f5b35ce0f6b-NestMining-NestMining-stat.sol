@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) override external { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ tokenAddress ] ; Identifier_1 ( Identifier_2 , Identifier_3 , Identifier_4 . MemberAccess_0 ) ; }

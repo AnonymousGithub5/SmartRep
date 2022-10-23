@@ -1,0 +1,1 @@
+require ( _amount < Identifier_0 ( ) ) ; uint256 VariableDeclaration_0 = _amount . mul ( Identifier_1 ( ) ) . div ( 50 ) ; uint256 VariableDeclaration_1 = _amount . sub ( Identifier_2 ) ;

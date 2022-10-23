@@ -1,0 +1,1 @@
+state ( proposalId ) == ProposalState . MemberAccess_0 , stringLiteral_0 ) ;

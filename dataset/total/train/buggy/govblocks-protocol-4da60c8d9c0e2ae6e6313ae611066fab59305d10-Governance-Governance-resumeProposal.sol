@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _proposalId ) public { Identifier_0 [ _proposalId ] = false ; Identifier_1 [ _proposalId ] . MemberAccess_0 = now ; }

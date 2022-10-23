@@ -1,0 +1,1 @@
+UserDefinedTypeName_2 Parameter_3 ) public { require ( Identifier_0 == address ( 0 ) , stringLiteral_0 ) ;

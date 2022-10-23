@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 , address Parameter_1 ) internal view returns ( bool ) { return Identifier_0 == Identifier_1 . MemberAccess_0 [ 0 ] || Identifier_2 == Identifier_3 . MemberAccess_1 [ 1 ] ; }

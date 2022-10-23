@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view returns ( uint256 ) { if ( Identifier_0 == 0 ) { return Identifier_1 ; } else { return Identifier_2 + ( block . number - Identifier_3 ) * Identifier_4 ; } }

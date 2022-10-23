@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public onlyAdmin { Identifier_0 . MemberAccess_0 ( ) ; }

@@ -1,0 +1,1 @@
+function transferFrom ( uint Parameter_0 , uint from , uint to , uint amount ) external returns ( bool ) { require ( Identifier_0 ( Identifier_1 ) ) ; uint VariableDeclaration_0 = Identifier_2 ;

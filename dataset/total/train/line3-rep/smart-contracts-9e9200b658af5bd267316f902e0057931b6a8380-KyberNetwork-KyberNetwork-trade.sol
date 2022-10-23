@@ -1,0 +1,1 @@
+{ uint VariableDeclaration_0 ; uint VariableDeclaration_1 ;

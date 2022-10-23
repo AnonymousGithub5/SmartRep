@@ -1,0 +1,1 @@
+emit Transfer ( address ( 0 ) , Identifier_8 , tokens ) ; Identifier_9 ( Identifier_10 , Identifier_11 ) ; return true ;

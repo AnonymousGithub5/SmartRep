@@ -1,0 +1,1 @@
+bytes32 VariableDeclaration_0 = keccak256 ( abi . encode ( Identifier_0 , Identifier_1 , nonce , expiry ) ) ; bytes32 VariableDeclaration_1 = keccak256 ( abi . encodePacked ( stringLiteral_0 , Identifier_2 ( ) , Identifier_3 ) ) ; address VariableDeclaration_2 = Identifier_4 ( Identifier_5 , v , r , s ) ;

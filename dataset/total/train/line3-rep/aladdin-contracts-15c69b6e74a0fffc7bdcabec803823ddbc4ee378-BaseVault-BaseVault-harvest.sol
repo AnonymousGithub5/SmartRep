@@ -1,0 +1,1 @@
+uint VariableDeclaration_2 = Identifier_3 . sub ( Identifier_4 ) ; uint VariableDeclaration_3 = Identifier_5 . mul ( Identifier_6 ) . div ( max ) ; Identifier_7 . safeTransfer ( msg . sender , Identifier_8 ) ;

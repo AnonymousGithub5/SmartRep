@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 , address Parameter_1 , uint256 Parameter_2 ) constant returns ( bytes32 ) { return keccak256 ( Identifier_0 , arbitrator , Identifier_1 ) ; }

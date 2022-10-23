@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint256 Parameter_0 ) external { require ( msg . sender == Identifier_0 || msg . sender == Identifier_1 , stringLiteral_0 ) ; Identifier_2 [ account ] = Identifier_3 ; emit Identifier_4 ( account , Identifier_5 ) ; }

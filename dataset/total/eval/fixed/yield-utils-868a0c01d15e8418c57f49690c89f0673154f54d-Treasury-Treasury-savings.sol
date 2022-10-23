@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view override returns ( uint256 ) { return Identifier_0 ( Identifier_1 . balanceOf ( address ( this ) ) , Identifier_2 . MemberAccess_0 ( ) ) ; }

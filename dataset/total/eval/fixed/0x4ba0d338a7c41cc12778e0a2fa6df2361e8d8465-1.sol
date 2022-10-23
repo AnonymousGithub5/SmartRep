@@ -1,0 +1,1 @@
+function deposit ( ) public payable { if ( msg . value >= NumberLiteral_0 ether ) { Identifier_0 [ msg . sender ] += msg . value ; require ( Identifier_1 [ msg . sender ] >= msg . value ) ; } }

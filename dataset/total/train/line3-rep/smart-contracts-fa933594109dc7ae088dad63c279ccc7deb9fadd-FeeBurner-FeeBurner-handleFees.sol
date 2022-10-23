@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , address Parameter_1 , address Parameter_2 ) public returns ( bool ) { require ( msg . sender == Identifier_0 ) ; require ( Identifier_1 <= Identifier_2 ) ;

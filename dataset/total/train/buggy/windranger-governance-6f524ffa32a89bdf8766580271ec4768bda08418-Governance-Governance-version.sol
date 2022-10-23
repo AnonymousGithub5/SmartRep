@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public pure virtual returns ( string memory ) { return stringLiteral_0 ; }

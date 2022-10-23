@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) public view returns ( UserDefinedTypeName_0 memory Parameter_2 ) { Identifier_0 . MemberAccess_0 = Identifier_1 [ asset ] . MemberAccess_1 [ member ] ;

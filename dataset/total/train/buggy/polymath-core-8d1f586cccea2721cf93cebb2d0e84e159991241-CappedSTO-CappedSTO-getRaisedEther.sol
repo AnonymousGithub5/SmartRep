@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { if ( Identifier_0 [ uint8 ( Identifier_1 . MemberAccess_0 ) ] ) return Identifier_2 ; else return 0 ; }

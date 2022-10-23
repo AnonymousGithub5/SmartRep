@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = IERC20 ( Identifier_0 ) . balanceOf ( from ) ; Identifier_1 ( from , Identifier_2 , Identifier_3 , 0 ) ; uint256 VariableDeclaration_1 ;

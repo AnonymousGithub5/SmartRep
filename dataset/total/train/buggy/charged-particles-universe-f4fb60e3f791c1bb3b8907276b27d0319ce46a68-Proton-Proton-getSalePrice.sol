@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId ) public view returns ( uint256 ) { return Identifier_0 [ tokenId ] ; }

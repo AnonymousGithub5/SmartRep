@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address to , uint256 value ) external view returns ( bool ) { return ( super . balanceOf ( from ) >= value && super . MemberAccess_0 ( from , msg . sender ) >= value && Identifier_0 . MemberAccess_1 ( to , Identifier_1 ) ) ; }

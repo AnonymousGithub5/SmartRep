@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address Parameter_1 ) external pure returns ( bytes32 ) { bytes32 VariableDeclaration_0 = keccak256 ( abi . encodePacked ( _assetID , Identifier_0 ) ) ; return Identifier_1 ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , bytes32 Parameter_1 , uint256 Parameter_2 , address Parameter_3 ) external payable override { return Identifier_0 . MemberAccess_0 ( Identifier_1 , Identifier_2 , Identifier_3 , Identifier_4 ) ; }

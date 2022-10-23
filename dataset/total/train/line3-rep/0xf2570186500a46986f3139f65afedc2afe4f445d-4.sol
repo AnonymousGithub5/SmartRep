@@ -1,0 +1,1 @@
+for ( i = 0 ; i < Identifier_0 ; i ++ ) { Identifier_1 . call ( bytes4 ( Identifier_2 ( stringLiteral_0 ) ) ) ; }

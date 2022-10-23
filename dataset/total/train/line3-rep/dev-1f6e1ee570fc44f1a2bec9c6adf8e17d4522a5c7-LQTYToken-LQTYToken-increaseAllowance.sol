@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address spender , uint256 Parameter_0 ) external override returns ( bool ) { if ( Identifier_0 ( ) ) { Identifier_1 ( ) ; } Identifier_2 ( msg . sender , spender , Identifier_3 [ msg . sender ] [ spender ] . add ( Identifier_4 ) ) ;

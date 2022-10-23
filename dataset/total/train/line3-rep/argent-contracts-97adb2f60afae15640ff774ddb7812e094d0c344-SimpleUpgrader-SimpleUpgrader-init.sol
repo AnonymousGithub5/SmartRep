@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _wallet ) public ModifierInvocation_0 ( _wallet ) { uint256 i ; for ( ; i < Identifier_0 . length ; i ++ ) {

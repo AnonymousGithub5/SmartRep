@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address ) internal { ( bool VariableDeclaration_0 ) = Identifier_0 . MemberAccess_0 ( _address ) ; if ( Identifier_1 == false ) { Identifier_2 . MemberAccess_1 ( ) ; Identifier_3 ( Identifier_4 . MemberAccess_2 ( Identifier_5 ( _address ) ) * Identifier_6 ) ; } }

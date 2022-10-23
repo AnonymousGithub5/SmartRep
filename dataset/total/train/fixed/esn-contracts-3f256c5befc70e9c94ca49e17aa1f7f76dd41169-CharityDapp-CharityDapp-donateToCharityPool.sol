@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public payable { require ( msg . value > 0 , stringLiteral_0 ) ; Identifier_0 += ( msg . value ) ; }

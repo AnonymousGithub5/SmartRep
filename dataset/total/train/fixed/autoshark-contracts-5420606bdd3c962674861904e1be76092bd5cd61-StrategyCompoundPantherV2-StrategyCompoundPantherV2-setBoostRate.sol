@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) override public onlyOwner { require ( Identifier_0 >= NumberLiteral_0 , stringLiteral_0 ) ; Identifier_1 = Identifier_2 ; }

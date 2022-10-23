@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view returns ( address memory ) { require ( Identifier_0 != 0 ) ; address memory VariableDeclaration_0 = new address ( Identifier_1 ) ;

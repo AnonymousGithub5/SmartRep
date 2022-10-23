@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 Parameter_0 , uint256 Parameter_1 ) internal { if ( Identifier_0 != 0 ) { Identifier_1 [ address ( Identifier_2 ) ] = Identifier_3 [ address ( Identifier_4 ) ] . add ( Identifier_5 ) ; } }

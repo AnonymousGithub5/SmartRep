@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public payable { require ( Identifier_0 != 0x0 ) ; require ( msg . value != 0 ) ; Identifier_1 ( ) ; uint256 VariableDeclaration_0 = Identifier_2 ( Identifier_3 ) ; Identifier_4 ( tokens ) ; }

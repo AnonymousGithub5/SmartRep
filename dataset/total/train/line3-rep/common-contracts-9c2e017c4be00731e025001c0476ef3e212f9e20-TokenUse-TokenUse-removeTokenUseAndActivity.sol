@@ -1,0 +1,1 @@
+if ( Identifier_4 [ _tokenId ] . MemberAccess_2 != address ( 0 ) ) { Identifier_5 ( _tokenId , address ( 0 ) ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) internal { uint VariableDeclaration_0 = Identifier_0 . value ; Identifier_1 = Identifier_2 ( { timestamp : uint32 ( block . timestamp ) , value : ElementaryTypeName_0 ( Identifier_3 ) } ) ; emit Identifier_4 ( Identifier_5 , Identifier_6 . value ) ; }

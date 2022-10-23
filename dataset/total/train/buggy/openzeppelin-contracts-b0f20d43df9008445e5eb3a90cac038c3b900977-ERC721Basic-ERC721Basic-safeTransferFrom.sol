@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _from , address _to , uint256 _tokenId , bytes _data ) public { Identifier_0 ( _from , _to , _tokenId ) ; require ( Identifier_1 ( _from , _to , _tokenId , _data ) ) ; }

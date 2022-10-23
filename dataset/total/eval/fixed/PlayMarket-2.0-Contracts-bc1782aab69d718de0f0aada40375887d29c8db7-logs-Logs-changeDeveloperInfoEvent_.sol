@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bytes32 Parameter_1 , bytes32 Parameter_2 ) external ModifierInvocation_0 { emit Identifier_0 ( Identifier_1 , name , info ) ; }

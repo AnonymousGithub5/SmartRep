@@ -1,0 +1,1 @@
+) ; user . rewardDebt = DecimalMath . MemberAccess_1 ( user . amount , pool . MemberAccess_2 ) ; }

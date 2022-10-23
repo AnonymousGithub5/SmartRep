@@ -1,0 +1,1 @@
+{ return block . timestamp . div ( Identifier_0 ) ; }

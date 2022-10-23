@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 , bool Parameter_2 ) public override ( IPiggyDistribution ) { require ( msg . sender == address ( Identifier_0 ) || msg . sender == owner ( ) , stringLiteral_0 ) ; }

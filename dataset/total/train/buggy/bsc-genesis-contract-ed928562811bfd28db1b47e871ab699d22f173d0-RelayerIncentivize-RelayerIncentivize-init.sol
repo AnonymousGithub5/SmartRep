@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) ModifierInvocation_0 public { require ( ! Identifier_0 , stringLiteral_0 ) ; Identifier_1 = Identifier_2 ; Identifier_3 = Identifier_4 ; Identifier_5 = Identifier_6 ; Identifier_7 = Identifier_8 ; Identifier_9 = true ; }

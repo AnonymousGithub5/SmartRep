@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) public override { Identifier_0 ( Identifier_1 , _pid , userInfo [ _pid ] [ Identifier_2 ] . amount ) ; }

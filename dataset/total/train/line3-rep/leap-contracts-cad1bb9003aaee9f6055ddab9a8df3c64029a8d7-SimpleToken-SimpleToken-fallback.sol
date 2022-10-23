@@ -1,0 +1,1 @@
+constructor ( ) public { _mint ( msg . sender , Identifier_0 ) ;

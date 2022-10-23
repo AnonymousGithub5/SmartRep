@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 token = Identifier_6 ( address ( Identifier_7 . MemberAccess_4 ( ) ) ) ; token . transfer ( account , amount ) ; if ( Identifier_8 ) {

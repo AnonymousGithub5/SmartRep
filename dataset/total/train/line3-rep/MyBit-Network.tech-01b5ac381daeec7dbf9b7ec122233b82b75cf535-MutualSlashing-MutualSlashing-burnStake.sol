@@ -1,0 +1,1 @@
+database . MemberAccess_3 ( Identifier_10 , database . uintStorage ( Identifier_11 ) . sub ( Identifier_12 ) ) ; require ( ERC20 ( token ) . burn ( Identifier_13 . add ( Identifier_14 ) ) ) ; return true ;

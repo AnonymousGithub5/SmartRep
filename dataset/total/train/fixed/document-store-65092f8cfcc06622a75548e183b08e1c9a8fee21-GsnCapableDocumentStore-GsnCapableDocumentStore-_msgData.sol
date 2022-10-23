@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view override ( Context , BaseRelayRecipient ) returns ( bytes memory ) { return Identifier_0 . MemberAccess_0 ( ) ; }

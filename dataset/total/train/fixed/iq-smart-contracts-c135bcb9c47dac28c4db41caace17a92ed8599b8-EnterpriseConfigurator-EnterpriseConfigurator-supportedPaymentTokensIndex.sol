@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 token ) external view returns ( ElementaryTypeName_0 ) { return Identifier_0 [ address ( token ) ] - 1 ; }

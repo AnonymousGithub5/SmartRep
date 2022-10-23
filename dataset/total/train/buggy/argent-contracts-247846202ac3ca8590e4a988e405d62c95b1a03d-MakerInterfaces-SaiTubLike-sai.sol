@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( UserDefinedTypeName_0 ) ;

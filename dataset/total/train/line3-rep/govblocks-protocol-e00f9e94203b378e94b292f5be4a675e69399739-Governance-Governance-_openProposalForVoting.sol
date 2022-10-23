@@ -1,0 +1,1 @@
+require ( Identifier_0 [ _proposalId ] . MemberAccess_0 != 0 , stringLiteral_0 ) ; Identifier_1 ( _proposalId , uint8 ( Identifier_2 . MemberAccess_1 ) ) ; uint VariableDeclaration_0 ;

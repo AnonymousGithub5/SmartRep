@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 ModifierInvocation_1 ( ( uint256 ( 6 ether ) ) ) { Identifier_0 . mint ( NumberLiteral_0 ether ) ;

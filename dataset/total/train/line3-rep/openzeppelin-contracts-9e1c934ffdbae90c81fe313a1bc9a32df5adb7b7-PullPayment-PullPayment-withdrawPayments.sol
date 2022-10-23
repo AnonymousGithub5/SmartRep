@@ -1,0 +1,1 @@
+require ( payment != 0 ) ; require ( this . balance >= payment ) ; Identifier_2 = Identifier_3 . sub ( payment ) ;

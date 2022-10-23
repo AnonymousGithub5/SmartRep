@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) public { require ( Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( token ) ) ; if ( ! Identifier_2 ( token ) ) {

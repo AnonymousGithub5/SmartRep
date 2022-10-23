@@ -1,0 +1,1 @@
+getUintConfig ( _index == 0 ? Identifier_6 : Identifier_7 ) , Identifier_8 ( ) ) ;

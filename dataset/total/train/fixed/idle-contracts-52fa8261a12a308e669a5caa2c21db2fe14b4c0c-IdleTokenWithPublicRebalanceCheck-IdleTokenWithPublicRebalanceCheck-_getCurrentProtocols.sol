@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view returns ( UserDefinedTypeName_0 memory Parameter_0 ) { Identifier_0 = new UserDefinedTypeName_1 ( Identifier_1 . length ) ; for ( uint256 i = 0 ; i < Identifier_2 . length ; i ++ ) { Identifier_3 [ i ] = Identifier_4 ( Identifier_5 [ i ] , Identifier_6 [ Identifier_7 [ i ] ] ) ; } }

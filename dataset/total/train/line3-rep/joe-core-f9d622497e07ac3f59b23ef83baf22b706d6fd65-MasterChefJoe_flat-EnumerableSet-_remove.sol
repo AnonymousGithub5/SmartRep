@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 [ value ] ; if ( Identifier_1 != 0 ) { uint256 VariableDeclaration_1 = Identifier_2 - 1 ;

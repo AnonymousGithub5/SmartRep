@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address , address ) public view returns ( uint256 ) { require ( Identifier_0 == 0 ) ; return 0 ; }

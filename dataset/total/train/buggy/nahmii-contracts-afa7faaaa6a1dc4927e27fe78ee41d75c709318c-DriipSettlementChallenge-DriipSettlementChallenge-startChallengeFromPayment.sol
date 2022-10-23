@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , int256 Parameter_1 ) public { Identifier_0 ( msg . sender , payment , Identifier_1 , true ) ; emit Identifier_2 ( msg . sender , payment . MemberAccess_0 . MemberAccess_1 . MemberAccess_2 , Identifier_3 ) ; }

@@ -1,0 +1,1 @@
+Identifier_3 . MemberAccess_1 , Identifier_4 . MemberAccess_2 , Identifier_5 . MemberAccess_3

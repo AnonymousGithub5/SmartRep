@@ -1,0 +1,1 @@
+Identifier_2 = Identifier_3 [ _messageHash ] . amount ; bytes32 VariableDeclaration_0 = Identifier_4 . MemberAccess_0 ( Identifier_5 ) ; require ( Identifier_6 != bytes32 ( 0 ) ) ;

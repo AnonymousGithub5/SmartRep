@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _key , uint Parameter_0 , address _address ) internal { return Identifier_0 ( _key , Identifier_1 , _address ) ; }

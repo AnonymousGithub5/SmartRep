@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) ModifierInvocation_0 public payable { require ( state != Identifier_0 . MemberAccess_0 , stringLiteral_0 ) ;

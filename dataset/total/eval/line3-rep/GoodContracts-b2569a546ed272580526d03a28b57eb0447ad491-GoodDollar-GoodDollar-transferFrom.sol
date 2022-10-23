@@ -1,0 +1,1 @@
+value = Identifier_0 ( from , value ) ; return super . MemberAccess_0 ( msg . sender , from , to , value ) ; }

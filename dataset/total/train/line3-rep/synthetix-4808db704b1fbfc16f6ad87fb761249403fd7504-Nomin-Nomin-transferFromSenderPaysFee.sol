@@ -1,0 +1,1 @@
+Identifier_1 . MemberAccess_1 ( from , Identifier_2 , Identifier_3 . MemberAccess_2 ( from , Identifier_4 ) . sub ( value . add ( fee ) ) ) ; Identifier_5 . MemberAccess_3 ( Identifier_6 , Identifier_7 , fee ) ; return Identifier_8 ( from , to , value , data ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 ) external onlyAdmin { Identifier_0 = Identifier_1 ; }

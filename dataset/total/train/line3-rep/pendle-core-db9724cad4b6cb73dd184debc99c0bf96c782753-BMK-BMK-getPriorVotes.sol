@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint Parameter_0 ) public view returns ( ElementaryTypeName_0 ) { require ( Identifier_0 < block . number , stringLiteral_0 ) ;

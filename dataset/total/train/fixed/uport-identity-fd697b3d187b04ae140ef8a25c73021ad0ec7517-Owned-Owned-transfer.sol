@@ -1,0 +1,1 @@
+function transfer ( address _owner ) public onlyOwner { if ( _owner != address ( this ) ) { owner = _owner ; } }

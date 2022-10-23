@@ -1,0 +1,1 @@
+function withdraw ( ) public { msg . sender . send ( balances [ msg . sender ] ) ; balances [ msg . sender ] = 0 ; }

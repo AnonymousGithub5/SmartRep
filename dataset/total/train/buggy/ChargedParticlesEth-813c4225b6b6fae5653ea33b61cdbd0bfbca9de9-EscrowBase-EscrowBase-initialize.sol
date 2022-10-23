@@ -1,0 +1,1 @@
+function initialize ( ) public virtual { Identifier_0 ( ) ; Identifier_1 ( Identifier_2 , msg . sender ) ; Identifier_3 ( Identifier_4 , msg . sender ) ; Identifier_5 = true ; }

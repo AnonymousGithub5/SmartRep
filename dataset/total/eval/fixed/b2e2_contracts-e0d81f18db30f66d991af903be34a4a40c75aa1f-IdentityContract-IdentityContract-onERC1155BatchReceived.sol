@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address , address _from , uint256 calldata Parameter_0 , uint256 calldata Parameter_1 , bytes calldata ) external returns ( bytes4 ) { for ( uint32 i = 0 ; i < Identifier_0 . length ; i ++ ) { Identifier_1 . MemberAccess_0 ( Identifier_2 , Identifier_3 , Identifier_4 [ i ] , _from , Identifier_5 [ i ] ) ; } return NumberLiteral_0 ; }

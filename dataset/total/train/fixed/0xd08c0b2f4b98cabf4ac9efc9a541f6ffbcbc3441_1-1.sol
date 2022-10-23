@@ -1,0 +1,1 @@
+function mint ( address receiver , uint amount ) { if ( msg . sender != Identifier_0 ) return ; balances [ receiver ] += amount ; require ( balances [ receiver ] >= amount ) ; }

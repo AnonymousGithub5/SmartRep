@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _proposalId ) internal { uint VariableDeclaration_0 = governanceDat . MemberAccess_0 ( _proposalId ) ; if ( Identifier_0 == 10 ) { Identifier_1 ( ) ; } else if ( Identifier_2 == NumberLiteral_0 ) { Identifier_3 ( governanceDat . MemberAccess_1 ( ) ) ; } }

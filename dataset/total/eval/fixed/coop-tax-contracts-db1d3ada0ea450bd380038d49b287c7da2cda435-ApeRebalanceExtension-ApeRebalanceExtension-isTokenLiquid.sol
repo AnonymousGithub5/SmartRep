@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token ) external view returns ( bool ) { return Identifier_0 ( _token ) ; }

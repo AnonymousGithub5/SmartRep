@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external override ModifierInvocation_0 { require ( Identifier_0 >= Identifier_1 , stringLiteral_0 ) ; require ( Identifier_2 <= Identifier_3 , stringLiteral_1 ) ; Identifier_4 = Identifier_5 ; emit Identifier_6 ( Identifier_7 ) ; }

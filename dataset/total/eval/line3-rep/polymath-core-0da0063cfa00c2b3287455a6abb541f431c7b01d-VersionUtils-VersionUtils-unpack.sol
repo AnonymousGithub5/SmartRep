@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 Parameter_0 ) internal pure returns ( uint8 ) { uint8 memory VariableDeclaration_0 = new uint8 ( 3 ) ;

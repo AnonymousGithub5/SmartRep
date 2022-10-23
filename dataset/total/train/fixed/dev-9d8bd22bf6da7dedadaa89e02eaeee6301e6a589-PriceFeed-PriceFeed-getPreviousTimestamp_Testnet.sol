@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external view override returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( ) ; require ( Identifier_1 <= Identifier_2 , stringLiteral_0 ) ; return Identifier_3 . MemberAccess_1 ( Identifier_4 - Identifier_5 ) ; }

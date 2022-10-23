@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address spender , uint256 Parameter_0 ) public virtual nonReentrant returns ( bool ) { Identifier_0 ( _msgSender ( ) , spender , Identifier_1 [ _msgSender ( ) ] [ spender ] + Identifier_2 ) ; return true ; }

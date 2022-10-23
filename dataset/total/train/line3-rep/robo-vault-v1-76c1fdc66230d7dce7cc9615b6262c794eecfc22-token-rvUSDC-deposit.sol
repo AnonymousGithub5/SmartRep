@@ -1,0 +1,1 @@
+if ( pool == 0 ) { Identifier_1 = _amount . div ( 100 ) ; pool = _amount ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ERC20 token , uint Parameter_0 ) external payable returns ( uint ) ;

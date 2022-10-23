@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 { require ( ! Identifier_0 ( ) ) ; require ( block . timestamp >= Identifier_1 + Identifier_2 ) ; emit Identifier_3 ( owner , Identifier_4 ) ; emit Identifier_5 ( owner , Identifier_6 ) ; owner = Identifier_7 ; Identifier_8 = 0 ; }

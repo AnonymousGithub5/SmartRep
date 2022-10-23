@@ -1,0 +1,1 @@
+require ( Identifier_7 . status == Identifier_8 . MemberAccess_3 , stringLiteral_3 ) ; Identifier_9 ( Identifier_10 ) ; emit Identifier_11 ( Identifier_12 , Identifier_13 , msg . sender ) ;

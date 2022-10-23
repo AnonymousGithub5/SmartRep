@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_0 [ owner ] ; uint [ Identifier_1 ] VariableDeclaration_1 ; for ( uint i = 0 ; i < Identifier_2 ; i ++ ) {

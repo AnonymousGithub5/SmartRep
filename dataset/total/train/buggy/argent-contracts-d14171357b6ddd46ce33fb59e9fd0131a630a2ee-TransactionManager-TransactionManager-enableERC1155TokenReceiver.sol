@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _wallet ) external ModifierInvocation_0 ( ) { Identifier_0 ( _wallet ) . MemberAccess_0 ( address ( this ) , Identifier_1 ) ; Identifier_2 ( _wallet ) . MemberAccess_1 ( address ( this ) , Identifier_3 ) ; Identifier_4 ( _wallet ) . MemberAccess_2 ( address ( this ) , Identifier_5 ) ; emit Identifier_6 ( _wallet ) ; }

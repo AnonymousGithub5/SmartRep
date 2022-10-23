@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 ) { Identifier_0 = IERC20 ( Identifier_1 ) ; emit Identifier_2 . MemberAccess_0 ( Identifier_3 ) ; }

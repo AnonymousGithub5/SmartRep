@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _value ) public { require ( _value <= NumberLiteral_0 , stringLiteral_0 ) ; Identifier_0 [ msg . sender ] = _value ; }

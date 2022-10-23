@@ -1,0 +1,1 @@
+function transferFrom ( address _from , address _to , uint256 _value ) external returns ( bool ) { return Identifier_0 ( _from , _to , _value , allowed [ _from ] [ msg . sender ] ) ; }

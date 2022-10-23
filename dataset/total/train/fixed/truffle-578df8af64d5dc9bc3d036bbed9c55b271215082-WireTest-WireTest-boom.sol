@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public returns ( uint ) { Identifier_0 ( Identifier_1 ( address ( ( this ) ) ) ) ; }

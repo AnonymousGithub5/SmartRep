@@ -1,0 +1,1 @@
+function approve ( address , uint256 ) external ;

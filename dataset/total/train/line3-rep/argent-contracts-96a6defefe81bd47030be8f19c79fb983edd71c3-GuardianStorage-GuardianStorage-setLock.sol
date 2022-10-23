@@ -1,0 +1,1 @@
+Identifier_0 [ address ( _wallet ) ] . MemberAccess_0 = Identifier_1 ; if ( Identifier_2 != 0 && msg . sender != Identifier_3 [ address ( _wallet ) ] . MemberAccess_1 ) { Identifier_4 [ address ( _wallet ) ] . MemberAccess_2 = msg . sender ;

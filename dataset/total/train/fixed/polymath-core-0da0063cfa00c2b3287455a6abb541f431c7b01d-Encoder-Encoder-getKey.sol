@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 , bool Parameter_1 ) internal pure returns ( bytes32 ) { return bytes32 ( keccak256 ( abi . encodePacked ( Identifier_0 , Identifier_1 ) ) ) ; }

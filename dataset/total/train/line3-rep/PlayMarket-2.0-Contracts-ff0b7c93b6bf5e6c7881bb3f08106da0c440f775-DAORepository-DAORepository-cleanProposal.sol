@@ -1,0 +1,1 @@
+while ( k < Identifier_0 . length ) { if ( Identifier_1 [ k ] . MemberAccess_0 < now + Identifier_2 ) { Identifier_3 [ k ] = Identifier_4 [ Identifier_5 . length - 1 ] ;

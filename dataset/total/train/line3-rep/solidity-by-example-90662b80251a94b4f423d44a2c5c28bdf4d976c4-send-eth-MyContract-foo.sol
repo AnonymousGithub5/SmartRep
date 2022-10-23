@@ -1,0 +1,1 @@
+a . call . value ( 1 ether ) ( ) ; if ( a . call . value ( 1 ether ) ( ) ) throw ; }

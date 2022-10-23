@@ -1,0 +1,1 @@
+Identifier_2 = Identifier_3 ; UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_4 ( Identifier_5 , 0 , 0 , stringLiteral_0 ) ; Identifier_6 [ Identifier_7 ] [ Identifier_8 ] = Identifier_9 ;

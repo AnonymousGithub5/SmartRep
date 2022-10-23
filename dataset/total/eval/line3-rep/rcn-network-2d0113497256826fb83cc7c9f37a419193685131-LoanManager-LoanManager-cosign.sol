@@ -1,0 +1,1 @@
+request . MemberAccess_4 = msg . sender ; require ( request . MemberAccess_5 >= Identifier_2 || request . MemberAccess_6 == 0 , stringLiteral_4 ) ; require ( token . transferFrom ( Identifier_3 . MemberAccess_7 ( Identifier_4 ) , msg . sender , Identifier_5 ) , stringLiteral_5 ) ;

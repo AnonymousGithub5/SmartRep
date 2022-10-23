@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , int256 amount ) public onlyOwner { Identifier_0 = Identifier_1 ( { currency : currency , amount : amount } ) ; emit Identifier_2 ( currency , amount ) ; }

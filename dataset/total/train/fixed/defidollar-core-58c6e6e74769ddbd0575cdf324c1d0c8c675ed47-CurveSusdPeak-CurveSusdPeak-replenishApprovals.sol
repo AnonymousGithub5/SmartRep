@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint value ) public { Identifier_0 . MemberAccess_0 ( address ( Identifier_1 ) , value ) ; Identifier_2 . MemberAccess_1 ( address ( Identifier_3 ) , value ) ; for ( uint i = 0 ; i < Identifier_4 ; i ++ ) { IERC20 ( Identifier_5 [ i ] ) . MemberAccess_2 ( address ( Identifier_6 ) , value ) ; } }

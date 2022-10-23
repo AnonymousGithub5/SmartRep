@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public ModifierInvocation_0 { require ( Identifier_0 != address ( 0 ) ) ; Identifier_1 = Identifier_2 ; Identifier_3 = now + Identifier_4 ; Identifier_5 ( Identifier_6 ) ; }

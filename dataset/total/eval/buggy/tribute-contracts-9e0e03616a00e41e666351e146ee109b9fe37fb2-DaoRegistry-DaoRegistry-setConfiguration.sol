@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , uint256 value ) external ModifierInvocation_0 ( this , Identifier_2 . MemberAccess_0 . MemberAccess_1 ) { Identifier_0 [ Identifier_1 ] = value ; }

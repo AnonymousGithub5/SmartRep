@@ -1,0 +1,1 @@
+function approve ( address Parameter_0 , uint tokenId ) public ;

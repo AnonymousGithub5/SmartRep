@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public { Identifier_0 [ msg . sender ] . MemberAccess_0 = Identifier_1 ; Identifier_2 [ msg . sender ] . MemberAccess_1 = block . number ; Identifier_3 [ msg . sender ] . MemberAccess_2 = false ; emit Identifier_4 ( msg . sender , Identifier_5 , block . number ) ; }

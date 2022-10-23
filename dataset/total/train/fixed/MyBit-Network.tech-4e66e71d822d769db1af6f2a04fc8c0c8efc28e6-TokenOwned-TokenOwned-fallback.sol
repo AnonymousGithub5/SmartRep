@@ -1,0 +1,1 @@
+constructor ( bytes32 Parameter_0 , uint Parameter_1 ) public { require ( Identifier_0 . length == Identifier_1 . length && Identifier_2 . length < 100 ) ; for ( uint8 i = 0 ; i < Identifier_3 . length ; i ++ ) { database . MemberAccess_0 ( Identifier_4 [ i ] , Identifier_5 [ i ] ) ; } }

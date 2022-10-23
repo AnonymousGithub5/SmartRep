@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address token , uint Parameter_1 ) public returns ( uint Parameter_2 , uint Parameter_3 ) { ( Identifier_0 , Identifier_1 ) = Identifier_2 ( Identifier_3 ) . MemberAccess_0 ( base , token , Identifier_4 ) ; address VariableDeclaration_0 = msg . sender ;

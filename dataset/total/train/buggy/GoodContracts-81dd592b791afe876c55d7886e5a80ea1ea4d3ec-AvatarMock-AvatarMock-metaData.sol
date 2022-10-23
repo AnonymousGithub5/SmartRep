@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 ) public onlyOwner returns ( bool ) { emit Identifier_0 ( Identifier_1 ) ; return true ; }

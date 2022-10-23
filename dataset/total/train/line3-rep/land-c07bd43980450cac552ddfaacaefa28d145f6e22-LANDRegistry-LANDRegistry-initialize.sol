@@ -1,0 +1,1 @@
+function initialize ( bytes ) public { _name = stringLiteral_0 ; _symbol = stringLiteral_1 ;

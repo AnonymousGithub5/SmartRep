@@ -1,0 +1,1 @@
+transaction . status = Status . MemberAccess_3 ; require ( token . transfer ( transaction . sender , amount ) != false , stringLiteral_2 ) ; }

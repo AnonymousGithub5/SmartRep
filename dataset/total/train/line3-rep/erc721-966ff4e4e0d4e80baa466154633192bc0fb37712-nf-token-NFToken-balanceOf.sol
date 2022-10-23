@@ -1,0 +1,1 @@
+require ( _owner != address ( 0 ) ) ; return Identifier_0 ( _owner ) ; }

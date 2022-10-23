@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bytes32 Parameter_1 , uint256 Parameter_2 , bool Parameter_3 ) public { require ( ( rate >= RAY ) && ( rate < 2 * RAY ) , stringLiteral_0 ) ; if ( Identifier_0 ) { Identifier_1 ( Identifier_2 ) . MemberAccess_0 ( Identifier_3 ) ; } Identifier_4 ( Identifier_5 ) . file ( Identifier_6 , stringLiteral_1 , rate ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view ModifierInvocation_0 returns ( UserDefinedTypeName_0 ) { return Identifier_0 [ wallet ] ; }

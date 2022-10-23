@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , uint32 Parameter_0 ) external ModifierInvocation_0 { Identifier_0 [ token ] [ 2 ] = Identifier_1 ; emit Identifier_2 ( token , Identifier_3 ) ; }

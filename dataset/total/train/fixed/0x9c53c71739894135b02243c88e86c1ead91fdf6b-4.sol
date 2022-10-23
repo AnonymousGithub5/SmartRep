@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) onlyOwner { if ( ! owner . send ( this . balance - NumberLiteral_0 ) ) revert ( ) ; }

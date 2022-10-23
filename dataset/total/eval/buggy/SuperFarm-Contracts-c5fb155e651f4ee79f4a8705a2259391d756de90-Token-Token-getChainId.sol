@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal pure returns ( uint ) { uint256 VariableDeclaration_0 ; assembly { Identifier_0 := AssemblyExpression_0 ( ) } return Identifier_1 ; }

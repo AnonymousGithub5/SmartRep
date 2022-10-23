@@ -1,0 +1,1 @@
+constructor ( string memory Parameter_0 , string memory Parameter_1 ) public ModifierInvocation_0 ( name , symbol ) ModifierInvocation_1 ( name , stringLiteral_0 , Identifier_0 ) { uint256 amount = 10 ** 10 * ( 10 ** 18 ) ; _mint ( _msgSender ( ) , amount ) ; }

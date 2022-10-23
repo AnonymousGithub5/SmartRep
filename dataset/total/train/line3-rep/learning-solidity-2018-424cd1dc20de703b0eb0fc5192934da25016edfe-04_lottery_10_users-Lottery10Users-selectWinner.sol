@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) private returns ( address ) { require ( Identifier_0 == 3 , stringLiteral_0 ) ; address VariableDeclaration_0 = Identifier_1 [ Identifier_2 ( ) ] ;

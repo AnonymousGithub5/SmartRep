@@ -1,0 +1,1 @@
+Identifier_14 [ Identifier_15 ] [ _token ] ++ ; Identifier_16 [ Identifier_17 ] [ token ] += _amount ; uint256 VariableDeclaration_1 = Identifier_18 ( Identifier_19 ) . MemberAccess_1 ( _amount , Identifier_20 ) ;

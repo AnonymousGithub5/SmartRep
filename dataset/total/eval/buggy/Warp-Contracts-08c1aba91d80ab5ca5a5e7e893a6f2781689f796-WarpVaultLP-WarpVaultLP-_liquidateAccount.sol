@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) public ModifierInvocation_0 ModifierInvocation_1 { Identifier_0 . transfer ( Identifier_1 , Identifier_2 [ _account ] ) ; Identifier_3 [ _account ] = 0 ; }

@@ -1,0 +1,1 @@
+address VariableDeclaration_1 = Identifier_1 ( stringLiteral_1 ) ; address VariableDeclaration_2 = Identifier_2 ( stringLiteral_2 ) ; IERC20 VariableDeclaration_3 = IERC20 ( dai ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 ModifierInvocation_1 { require ( block . timestamp > Identifier_0 . add ( Identifier_1 ) , stringLiteral_0 ) ; Identifier_2 ( ) ; Identifier_3 = Identifier_4 . balanceOf ( address ( this ) ) ; Identifier_5 = Identifier_6 . balanceOf ( address ( this ) ) ; }

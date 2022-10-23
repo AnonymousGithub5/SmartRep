@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint256 amount ) internal { require ( account != address ( 0 ) , stringLiteral_0 ) ; balanceOf [ account ] = balanceOf [ account ] . sub ( amount , stringLiteral_1 ) ; totalSupply = totalSupply . sub ( amount ) ; emit Transfer ( account , address ( 0 ) , amount ) ; }

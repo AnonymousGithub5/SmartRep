@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 value ) internal { if ( ! Identifier_0 . transferFrom ( msg . sender , address ( this ) , value ) ) { Identifier_1 . mint ( value ) ; } }

@@ -1,0 +1,1 @@
+function initialize ( UserDefinedTypeName_0 memory Parameter_0 ) public ModifierInvocation_0 { Identifier_0 = 4 ;

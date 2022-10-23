@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { require ( msg . sender == Identifier_0 , stringLiteral_0 ) ; Identifier_1 ( Identifier_2 ) . MemberAccess_0 ( Identifier_3 ) ; uint256 VariableDeclaration_0 = IERC20 ( want ) . balanceOf ( address ( this ) ) ; IERC20 ( want ) . transfer ( Identifier_4 , Identifier_5 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) constant internal returns ( uint Parameter_1 ) { assembly { Identifier_0 := AssemblyExpression_1 ( AssemblyExpression_0 ) } }

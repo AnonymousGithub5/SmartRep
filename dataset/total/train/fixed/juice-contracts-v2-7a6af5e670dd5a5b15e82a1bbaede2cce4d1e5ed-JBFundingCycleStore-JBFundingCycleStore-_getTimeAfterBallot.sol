@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 , uint256 _from ) private view returns ( uint256 ) { uint256 VariableDeclaration_0 = _fundingCycle . MemberAccess_0 != Identifier_0 ( address ( 0 ) ) ? _from + _fundingCycle . MemberAccess_1 . MemberAccess_2 ( ) : 0 ; return block . timestamp > Identifier_1 ? block . timestamp : Identifier_2 ; }

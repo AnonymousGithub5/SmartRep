@@ -1,0 +1,1 @@
+{ require ( Identifier_0 [ address ( pool ) ] , stringLiteral_0 ) ; uint256 VariableDeclaration_0 = pool . MemberAccess_0 ( Identifier_1 . MemberAccess_1 ( ) ) ;

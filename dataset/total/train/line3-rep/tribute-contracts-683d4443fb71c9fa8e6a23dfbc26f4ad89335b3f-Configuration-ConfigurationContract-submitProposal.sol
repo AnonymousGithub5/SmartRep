@@ -1,0 +1,1 @@
+bytes calldata data ) external override ModifierInvocation_0 ( dao ) { require ( Identifier_0 . length > 0 , stringLiteral_0 ) ;

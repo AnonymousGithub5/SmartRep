@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public payable { if ( Identifier_0 [ msg . sender ] == Identifier_1 ) { Identifier_2 [ msg . sender ] = Identifier_3 . MemberAccess_0 ( ) ; emit Identifier_4 ( msg . sender , Identifier_5 [ msg . sender ] ) ; } if ( msg . value > 0 ) { Identifier_6 ( ) ; } if ( Identifier_7 > 0 ) { Identifier_8 ( Identifier_9 ) ; } }

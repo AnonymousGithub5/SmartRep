@@ -1,0 +1,1 @@
+function deposit ( ) payable external { require ( msg . value > 0 ) ; emit Identifier_0 ( address ( this ) , msg . sender , msg . value ) ; }

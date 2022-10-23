@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address a ) public returns ( bool ) { return Identifier_0 ( a . send ( 1 ) ) ; }

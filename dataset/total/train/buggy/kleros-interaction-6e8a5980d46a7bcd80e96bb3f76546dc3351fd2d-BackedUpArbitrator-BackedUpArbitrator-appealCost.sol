@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , bytes Parameter_1 ) public view returns ( uint Parameter_2 ) { if ( now - Identifier_0 [ _disputeID ] > Identifier_1 && disputes [ _disputeID ] . MemberAccess_0 == 0 ) Identifier_2 = Identifier_3 . MemberAccess_1 ( Identifier_4 ) ; else Identifier_5 = Identifier_6 ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public ModifierInvocation_0 ( msg . sender ) ModifierInvocation_1 ( Identifier_6 ) ModifierInvocation_2 ( Identifier_7 , msg . sender ) { Identifier_0 [ Identifier_1 ] [ msg . sender ] = true ; emit Identifier_2 ( msg . sender , Identifier_3 ) ; Identifier_4 ( Identifier_5 ) ; }

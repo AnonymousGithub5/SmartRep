@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public onlyOwner { require ( Identifier_0 >= 1 days , stringLiteral_0 ) ;

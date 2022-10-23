@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address to , uint256 Parameter_0 ) internal { Identifier_0 [ Identifier_1 ] = to ; uint256 VariableDeclaration_0 = balanceOf ( to ) ; Identifier_2 [ to ] . push ( Identifier_3 ) ; Identifier_4 [ Identifier_5 ] = length ; Identifier_6 = Identifier_7 . add ( 1 ) ; }

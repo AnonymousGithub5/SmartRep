@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 amount ) internal ModifierInvocation_0 returns ( uint256 Parameter_1 ) { if ( Identifier_0 ( ) ) { Identifier_1 [ tx . origin ] = block . number ; Identifier_2 ( Identifier_3 ) . burn ( amount ) ; Identifier_4 = Identifier_5 ( Identifier_6 ) . MemberAccess_0 ( amount ) ; _mint ( Identifier_7 , Identifier_8 ) ; } }

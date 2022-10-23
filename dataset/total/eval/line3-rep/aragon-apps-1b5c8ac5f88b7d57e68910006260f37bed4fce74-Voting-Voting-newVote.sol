@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes Parameter_0 , string Parameter_1 , bool Parameter_2 ) ModifierInvocation_0 ( Identifier_4 ) external returns ( uint256 Parameter_3 ) { return Identifier_0 ( Identifier_1 , Identifier_2 , Identifier_3 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , bytes Parameter_1 ) public ModifierInvocation_0 ( _disputeID , Identifier_2 ) payable { emit Identifier_0 ( _disputeID , Identifier_1 ( msg . sender ) ) ; }

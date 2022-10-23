@@ -1,0 +1,1 @@
+function withdraw ( ) public nonReentrant ModifierInvocation_0 returns ( bool ) { uint256 VariableDeclaration_0 = Identifier_0 [ msg . sender ] ; Identifier_1 [ msg . sender ] = 0 ; msg . sender . transfer ( Identifier_2 ) ; return true ; }

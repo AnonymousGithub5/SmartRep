@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( int256 a , uint256 b ) internal pure returns ( int256 ) { if ( b < Identifier_0 ) { return Identifier_1 . sub ( a , int256 ( b ) ) ; } assert ( a >= 0 ) ; assert ( b <= Identifier_2 + uint256 ( a ) ) ; return a - int256 ( b ) ; }

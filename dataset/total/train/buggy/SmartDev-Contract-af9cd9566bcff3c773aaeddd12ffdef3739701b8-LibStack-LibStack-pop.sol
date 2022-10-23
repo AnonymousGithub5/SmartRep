@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 ) internal returns ( bytes32 ) { require ( self . MemberAccess_0 . length > 0 ) ; bytes32 data = self . MemberAccess_1 [ self . MemberAccess_2 . length - 1 ] ; self . MemberAccess_3 . MemberAccess_4 ( ) ; return data ; }

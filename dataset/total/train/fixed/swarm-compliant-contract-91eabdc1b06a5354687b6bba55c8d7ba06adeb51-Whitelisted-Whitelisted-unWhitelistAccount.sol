@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) external onlyOwner { delete Identifier_0 [ account ] ; }

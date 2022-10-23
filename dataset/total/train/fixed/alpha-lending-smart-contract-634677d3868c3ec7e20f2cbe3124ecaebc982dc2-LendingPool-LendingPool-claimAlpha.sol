@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 nonReentrant { for ( uint256 i = 0 ; i < Identifier_0 . length ; i ++ ) { UserDefinedTypeName_0 storage pool = Identifier_1 [ address ( Identifier_2 [ i ] ) ] ; pool . MemberAccess_0 . MemberAccess_1 ( msg . sender ) ; Identifier_3 ( Identifier_4 [ i ] , msg . sender ) ; } }

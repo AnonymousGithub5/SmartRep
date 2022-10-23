@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 memory VariableDeclaration_1 = Identifier_2 [ id ] ; if ( Identifier_3 ( id ) == true ) { uint256 VariableDeclaration_2 = ( Identifier_4 . MemberAccess_1 ( id ) % Identifier_5 . MemberAccess_2 ) + 1 ;

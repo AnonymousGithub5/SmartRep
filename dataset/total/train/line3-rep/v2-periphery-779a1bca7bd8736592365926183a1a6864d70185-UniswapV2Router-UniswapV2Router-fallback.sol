@@ -1,0 +1,1 @@
+function transferFrom ( ) external payable { require ( msg . sender == Identifier_0 , stringLiteral_0 ) ; }

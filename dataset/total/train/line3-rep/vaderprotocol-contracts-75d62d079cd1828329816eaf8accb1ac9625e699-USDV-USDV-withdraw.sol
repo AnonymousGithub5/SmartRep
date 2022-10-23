@@ -1,0 +1,1 @@
+function withdraw ( address token , uint Parameter_0 ) external returns ( uint Parameter_1 ) { address VariableDeclaration_0 = msg . sender ;

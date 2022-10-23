@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint8 Parameter_1 , bool Parameter_2 ) external onlyOwner { require ( Identifier_0 >= 0 , stringLiteral_0 ) ;

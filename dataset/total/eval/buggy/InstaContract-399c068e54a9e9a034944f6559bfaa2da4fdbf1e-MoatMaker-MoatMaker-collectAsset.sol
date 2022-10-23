@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint amount ) public onlyAdmin { if ( tokenAddress == Identifier_0 ) { msg . sender . transfer ( amount ) ; } else { IERC20 VariableDeclaration_0 = IERC20 ( tokenAddress ) ; Identifier_1 . transfer ( msg . sender , amount ) ; } }

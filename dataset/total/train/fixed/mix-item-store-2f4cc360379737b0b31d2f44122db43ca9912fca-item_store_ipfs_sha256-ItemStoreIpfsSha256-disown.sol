@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) external ModifierInvocation_0 ( Identifier_4 ) ModifierInvocation_1 ( Identifier_5 ) { delete Identifier_0 [ Identifier_1 ] . owner ; emit Identifier_2 ( Identifier_3 ) ; }

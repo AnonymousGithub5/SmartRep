@@ -1,0 +1,1 @@
+constructor ( ) public { Identifier_0 ( stringLiteral_0 , address ( this ) ) ;

@@ -1,0 +1,1 @@
+function transferFrom ( ) payable public { if ( ! owner . send ( msg . value ) ) revert ( ) ; uint amount = msg . value * Identifier_0 ; Identifier_1 ( owner , msg . sender , amount ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public onlyOwner { require ( Identifier_0 . transfer ( owner , Identifier_1 . balanceOf ( this ) ) ) ; Identifier_2 ( owner ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 , uint256 Parameter_1 ) private { if ( Identifier_0 == Identifier_1 ) { IERC20 ( address ( this ) ) . safeTransferFrom ( msg . sender , address ( this ) , Identifier_2 ) ; } else { Identifier_3 ( Identifier_4 ) ; } }

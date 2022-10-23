@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { require ( totalSupply ( ) > 0 ) ; uint256 VariableDeclaration_0 ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) public { require ( Identifier_0 >= 1 , stringLiteral_0 ) ; Identifier_1 ( tokenAddress ) ; Identifier_2 [ tokenAddress ] . MemberAccess_0 = Identifier_3 ; Identifier_4 = Identifier_5 . add ( Identifier_6 ) ; emit Identifier_7 ( tokenAddress , Identifier_8 ) ; }

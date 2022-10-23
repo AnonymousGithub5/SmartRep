@@ -1,0 +1,1 @@
+function mint ( uint Parameter_0 , uint amount ) external { require ( msg . sender == Identifier_0 , stringLiteral_0 ) ; totalSupply += amount ; balanceOf [ Identifier_1 ] += amount ; emit Transfer ( Identifier_2 , Identifier_3 , amount ) ; }

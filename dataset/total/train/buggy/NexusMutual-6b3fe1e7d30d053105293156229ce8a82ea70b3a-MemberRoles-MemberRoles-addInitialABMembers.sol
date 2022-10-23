@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external onlyOwner { require ( Identifier_0 >= SafeMath . add ( Identifier_1 ( uint ( Identifier_2 . MemberAccess_0 ) ) , Identifier_3 . length ) ) ; for ( uint i = 0 ; i < Identifier_4 . length ; i ++ ) { Identifier_5 ( Identifier_6 [ i ] , uint ( Identifier_7 . MemberAccess_1 ) , true ) ; } }

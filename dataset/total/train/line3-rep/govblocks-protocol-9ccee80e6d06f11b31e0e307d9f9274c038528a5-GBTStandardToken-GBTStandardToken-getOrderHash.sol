@@ -1,0 +1,1 @@
+{ return keccak256 ( _memberAddress , _spender , _amount , Identifier_0 ) ; }

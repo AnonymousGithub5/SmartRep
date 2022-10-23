@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { require ( Identifier_0 [ msg . sender ] > 0 , stringLiteral_0 ) ; uint256 amount = Identifier_1 ( msg . sender ) ;

@@ -1,0 +1,1 @@
+address Parameter_4 ) external { require ( Identifier_0 [ msg . sender ] , stringLiteral_0 ) ;

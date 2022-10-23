@@ -1,0 +1,1 @@
+balances [ from ] -= tokens ; balances [ to ] += tokens ; allowed [ from ] [ msg . sender ] -= tokens ;

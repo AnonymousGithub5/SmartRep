@@ -1,0 +1,1 @@
+Identifier_6 [ 2 ] = Identifier_7 . MemberAccess_3 ; Identifier_8 . MemberAccess_4 ( _token , Identifier_9 , _amount ) ; Identifier_10 ( Identifier_11 ) . MemberAccess_5 ( _amount , 0 , Identifier_12 , address ( this ) , block . timestamp ) ;

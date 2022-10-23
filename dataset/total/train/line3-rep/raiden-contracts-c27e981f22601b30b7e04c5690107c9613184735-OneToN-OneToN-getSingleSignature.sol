@@ -1,0 +1,1 @@
+{ uint256 VariableDeclaration_0 = i * NumberLiteral_0 ; bytes memory VariableDeclaration_1 = new bytes ( NumberLiteral_1 ) ;

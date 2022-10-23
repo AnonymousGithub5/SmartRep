@@ -1,0 +1,1 @@
+require ( _price >= price ) ; require ( _price * _amount * 1 ether >= msg . value ) ; balances [ msg . sender ] += _amount ;

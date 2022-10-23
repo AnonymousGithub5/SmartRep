@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount , address Parameter_0 , address Parameter_1 , uint256 Parameter_2 , uint256 Parameter_3 , uint256 Parameter_4 ) private view returns ( bytes32 ) { return Identifier_0 . MemberAccess_0 ( _amount , _beneficiary , Identifier_1 , Identifier_2 , Identifier_3 , Identifier_4 , token ) ; }

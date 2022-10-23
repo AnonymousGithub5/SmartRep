@@ -1,0 +1,1 @@
+constructor ( ) public { Identifier_0 [ keccak256 ( stringLiteral_0 ) ] = msg . sender ; }

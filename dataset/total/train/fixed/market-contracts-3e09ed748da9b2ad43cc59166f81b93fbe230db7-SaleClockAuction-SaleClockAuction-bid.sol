@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _tokenId ) public payable { address VariableDeclaration_0 = Identifier_0 [ _tokenId ] . MemberAccess_0 ; uint256 VariableDeclaration_1 = Identifier_1 ( _tokenId , msg . value ) ; Identifier_2 ( msg . sender , _tokenId ) ; if ( Identifier_3 == address ( Identifier_4 ) ) { Identifier_5 [ Identifier_6 % 5 ] = price ; Identifier_7 ++ ; } }

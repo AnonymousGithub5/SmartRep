@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 , address Parameter_1 ) ModifierInvocation_0 ( stringLiteral_0 , stringLiteral_1 , 0 , Identifier_7 ) { _mint ( Identifier_0 , Identifier_1 ) ; Identifier_2 ( Identifier_3 , msg . sender ) ; Identifier_4 ( Identifier_5 , msg . sender ) ; Identifier_6 . MemberAccess_0 ( msg . sender ) ; }

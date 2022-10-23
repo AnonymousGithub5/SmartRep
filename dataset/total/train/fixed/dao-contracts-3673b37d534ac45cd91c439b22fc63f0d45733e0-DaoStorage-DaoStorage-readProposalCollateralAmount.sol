@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _proposalId ) public view returns ( uint256 _amount ) { _amount = proposalsById [ _proposalId ] . MemberAccess_0 ; }

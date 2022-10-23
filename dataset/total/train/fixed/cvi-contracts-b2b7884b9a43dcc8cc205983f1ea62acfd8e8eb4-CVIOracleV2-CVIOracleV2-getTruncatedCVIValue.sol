@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( int256 Parameter_0 ) private pure returns ( uint16 ) { require ( Identifier_0 > 0 , stringLiteral_0 ) ; uint256 VariableDeclaration_0 = uint256 ( Identifier_1 ) ; if ( Identifier_2 > Identifier_3 ) { return uint16 ( Identifier_4 / Identifier_5 ) ; } return uint16 ( Identifier_6 / Identifier_7 ) ; }

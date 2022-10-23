@@ -1,0 +1,1 @@
+Identifier_1 . balanceOf ( address ( this ) ) >= Identifier_2 , stringLiteral_0 ) ;

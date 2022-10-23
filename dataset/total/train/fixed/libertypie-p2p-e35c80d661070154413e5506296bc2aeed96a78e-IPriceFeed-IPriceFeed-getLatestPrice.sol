@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 ) external view returns ( uint256 ) ;

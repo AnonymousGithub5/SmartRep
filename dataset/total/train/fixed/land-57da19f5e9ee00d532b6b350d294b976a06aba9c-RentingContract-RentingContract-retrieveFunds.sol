@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public onlyOwner { owner . transfer ( this . balance ) ; }

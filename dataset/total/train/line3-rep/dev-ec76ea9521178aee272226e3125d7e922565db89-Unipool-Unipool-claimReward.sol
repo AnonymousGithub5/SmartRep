@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public override { require ( address ( Identifier_0 ) != address ( 0 ) , stringLiteral_0 ) ; Identifier_1 ( ) ;

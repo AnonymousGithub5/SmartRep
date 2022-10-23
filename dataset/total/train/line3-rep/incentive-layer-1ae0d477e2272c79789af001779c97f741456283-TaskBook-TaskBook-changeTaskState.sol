@@ -1,0 +1,1 @@
+require ( Identifier_2 . owner == msg . sender ) ; Identifier_3 . state = Identifier_4 ( Identifier_5 ) ; Identifier_6 ( Identifier_7 , Identifier_8 ) ;

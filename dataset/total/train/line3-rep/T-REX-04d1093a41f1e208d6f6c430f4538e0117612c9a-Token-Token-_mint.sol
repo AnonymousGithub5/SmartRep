@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _amount ) internal virtual { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; Identifier_1 ( address ( 0 ) , Identifier_2 , _amount ) ;

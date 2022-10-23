@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal constant { require ( Identifier_0 ( ) ) ; require ( Identifier_1 ( msg . sender ) ) ; require ( Identifier_2 ( ) . MemberAccess_0 ( msg . sender ) ) ; }

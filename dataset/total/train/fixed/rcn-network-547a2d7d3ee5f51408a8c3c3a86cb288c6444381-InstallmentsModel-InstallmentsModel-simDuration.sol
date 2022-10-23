@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes _data ) external view returns ( uint256 Parameter_0 ) { ( , , uint256 installments , uint256 installmentDuration , ) = Identifier_0 ( _data ) ; Identifier_1 = Identifier_2 * Identifier_3 ; }

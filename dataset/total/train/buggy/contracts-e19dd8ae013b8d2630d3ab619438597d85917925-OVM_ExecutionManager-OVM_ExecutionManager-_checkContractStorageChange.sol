@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _contract , bytes32 _key ) internal { ( bool VariableDeclaration_0 ) = Identifier_0 . MemberAccess_0 ( _contract , _key ) ; if ( Identifier_1 == false ) { Identifier_2 ( Identifier_3 ) ; } }

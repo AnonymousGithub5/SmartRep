@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , bytes calldata data ) external override ModifierInvocation_0 { UserDefinedTypeName_0 memory VariableDeclaration_0 = abi . MemberAccess_0 ( data , ( Identifier_0 ) ) ; IERC20 ( Identifier_1 ) . safeTransferFrom ( Identifier_2 . MemberAccess_1 , msg . sender , Identifier_3 ) ; }

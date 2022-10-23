@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 target ) public { address VariableDeclaration_0 = Identifier_0 [ target ] ; require ( Identifier_1 != 0 ) ; require ( ! target . MemberAccess_0 ( ) ) ; Identifier_2 ( Identifier_3 , address ( this ) . balance ) ; Identifier_4 = true ; }

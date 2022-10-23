@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _value ) public { Identifier_0 [ msg . sender ] = _value ; }

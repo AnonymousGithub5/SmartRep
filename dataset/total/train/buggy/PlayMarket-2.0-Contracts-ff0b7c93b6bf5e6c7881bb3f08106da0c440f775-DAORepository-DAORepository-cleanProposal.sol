@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 { uint VariableDeclaration_0 = 0 ; while ( k < Identifier_0 . length ) { if ( Identifier_1 [ k ] . MemberAccess_0 < now + Identifier_2 ) { Identifier_3 [ k ] = Identifier_4 [ Identifier_5 . length - 1 ] ; Identifier_6 . length = Identifier_7 . length - 1 ; } else { k ++ ; } } }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string _name , string Parameter_0 , address Parameter_1 , uint Parameter_2 , uint Parameter_3 , address Parameter_4 ) external ModifierInvocation_0 returns ( address ) { require ( Identifier_0 > 0 ) ;

@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; ElementaryTypeName_0 VariableDeclaration_1 = balances [ Identifier_2 ] ; Identifier_3 [ Identifier_4 ] = Identifier_5 ;

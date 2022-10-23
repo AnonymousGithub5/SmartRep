@@ -1,0 +1,1 @@
+uint balance = Identifier_0 . balanceOf ( account ) ; uint VariableDeclaration_0 = Identifier_1 ( account , stringLiteral_0 ) . MemberAccess_0 ( Identifier_2 . MemberAccess_1 ( ) ) ; if ( Identifier_3 >= balance ) {

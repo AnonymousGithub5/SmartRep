@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { address VariableDeclaration_0 = address ( 1 ) ; bytes memory data = new bytes ( 1 ) ;

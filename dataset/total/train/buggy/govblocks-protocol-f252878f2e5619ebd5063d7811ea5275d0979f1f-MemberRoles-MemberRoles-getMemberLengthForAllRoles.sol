@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint Parameter_0 ) { Identifier_0 = new uint ( Identifier_1 . length ) ; for ( uint i = 0 ; i < Identifier_2 . length ; i ++ ) { Identifier_3 [ i ] = Identifier_4 ( i ) ; } }

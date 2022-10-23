@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint8 Parameter_1 ) internal view returns ( bool ) { require ( Identifier_0 [ Identifier_1 ] . MemberAccess_0 == Identifier_2 , stringLiteral_0 ) ; require ( ! Identifier_3 [ Identifier_4 ] . MemberAccess_1 , stringLiteral_1 ) ;

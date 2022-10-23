@@ -1,0 +1,1 @@
+uint VariableDeclaration_2 = Identifier_9 . length * Identifier_10 * 2 * Identifier_11 / Identifier_12 ; Identifier_13 = ( Identifier_14 < Identifier_15 . balance - Identifier_16 . MemberAccess_3 ) ? Identifier_17 : Identifier_18 . balance - Identifier_19 . MemberAccess_4 ; Identifier_20 . balance -= Identifier_21 ;

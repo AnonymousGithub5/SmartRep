@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public returns ( uint ) { return Identifier_0 . length ; }

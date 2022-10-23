@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 ( ) ; uint256 VariableDeclaration_1 = Identifier_1 ( ) ; uint256 VariableDeclaration_2 = Identifier_2 . mul ( 100 ) . div ( collateral ) ; return ( Identifier_3 ) ; }

@@ -1,0 +1,1 @@
+function deposit ( uint ) external ;

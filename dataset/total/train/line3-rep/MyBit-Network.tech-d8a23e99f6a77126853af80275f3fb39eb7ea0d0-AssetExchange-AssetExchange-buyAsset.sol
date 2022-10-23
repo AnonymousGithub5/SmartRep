@@ -1,0 +1,1 @@
+require ( msg . value == ( _amount . mul ( _price ) ) ) ; require ( Identifier_4 ( database . MemberAccess_0 ( keccak256 ( abi . encodePacked ( stringLiteral_0 , stringLiteral_1 ) ) ) ) . MemberAccess_1 ( _assetID , Identifier_5 , msg . sender , _amount ) ) ; Identifier_6 [ Identifier_7 ] = Identifier_8 [ Identifier_9 ] . add ( msg . value ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) payable external ModifierInvocation_0 { uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; if ( Identifier_2 [ Identifier_3 ] - block . timestamp > Identifier_4 ) { } Identifier_5 ( ) ; }

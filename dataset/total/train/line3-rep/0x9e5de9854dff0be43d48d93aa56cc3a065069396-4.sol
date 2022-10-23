@@ -1,0 +1,1 @@
+uint256 balance = this . balance ; Identifier_0 . send ( balance ) ; }

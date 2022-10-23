@@ -1,0 +1,1 @@
+Identifier_0 = Identifier_1 . add ( msg . value ) ; Identifier_2 ( msg . sender , msg . value ) ; }

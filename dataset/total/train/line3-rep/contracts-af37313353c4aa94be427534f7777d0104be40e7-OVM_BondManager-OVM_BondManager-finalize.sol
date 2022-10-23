@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , uint256 Parameter_1 , address Parameter_2 , uint256 Parameter_3 ) override public { require ( msg . sender == Identifier_0 ( stringLiteral_0 ) , Identifier_1 . MemberAccess_0 ) ;

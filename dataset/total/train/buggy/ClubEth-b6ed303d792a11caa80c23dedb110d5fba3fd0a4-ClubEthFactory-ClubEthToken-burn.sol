@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 ) public onlyOwner returns ( bool success ) { if ( tokens > balances [ Identifier_0 ] ) { tokens = balances [ Identifier_1 ] ; } Identifier_2 = Identifier_3 . sub ( tokens ) ; balances [ Identifier_4 ] = 0 ; emit Transfer ( Identifier_5 , address ( 0 ) , tokens ) ; return true ; }

@@ -1,0 +1,1 @@
+constructor ( string _name , string Parameter_0 ) ModifierInvocation_0 ( _name , _symbol ) public { }

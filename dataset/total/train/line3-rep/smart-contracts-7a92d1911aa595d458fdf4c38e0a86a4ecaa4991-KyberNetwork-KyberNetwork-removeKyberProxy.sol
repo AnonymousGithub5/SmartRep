@@ -1,0 +1,1 @@
+require ( Identifier_3 . MemberAccess_0 ( Identifier_4 ) ) ; emit Identifier_5 ( Identifier_6 ) ; }

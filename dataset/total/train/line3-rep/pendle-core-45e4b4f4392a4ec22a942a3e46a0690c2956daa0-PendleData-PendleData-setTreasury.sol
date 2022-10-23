@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external override ModifierInvocation_0 ModifierInvocation_1 { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; Identifier_1 = Identifier_2 ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view returns ( uint256 ) { return address ( this ) . balance + Identifier_0 ; }

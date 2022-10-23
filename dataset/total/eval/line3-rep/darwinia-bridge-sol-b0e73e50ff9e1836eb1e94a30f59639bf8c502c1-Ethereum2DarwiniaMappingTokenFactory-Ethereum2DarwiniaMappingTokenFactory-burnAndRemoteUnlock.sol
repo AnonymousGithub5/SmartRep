@@ -1,0 +1,1 @@
+( bool VariableDeclaration_1 , bytes memory VariableDeclaration_2 ) = Identifier_4 . call ( abi . encodePacked ( bytes4 ( keccak256 ( stringLiteral_3 ) ) , abi . encode (

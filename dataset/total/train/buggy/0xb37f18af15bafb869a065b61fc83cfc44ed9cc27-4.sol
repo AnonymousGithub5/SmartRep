@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint _value ) public onlyOwner { Identifier_0 . call . value ( _value ) ( ) ; }

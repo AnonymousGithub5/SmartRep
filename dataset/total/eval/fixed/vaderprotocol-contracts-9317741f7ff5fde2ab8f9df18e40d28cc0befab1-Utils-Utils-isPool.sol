@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) public view returns ( bool Parameter_0 ) { if ( iPOOLS ( POOLS ( ) ) . MemberAccess_0 ( token ) || iPOOLS ( POOLS ( ) ) . MemberAccess_1 ( token ) ) { pool = true ; } }

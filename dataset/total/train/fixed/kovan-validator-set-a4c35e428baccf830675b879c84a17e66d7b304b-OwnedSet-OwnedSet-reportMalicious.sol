@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 , bytes ) public onlyOwner ModifierInvocation_0 ( Identifier_2 ) { emit Identifier_0 ( msg . sender , Identifier_1 , true ) ; }

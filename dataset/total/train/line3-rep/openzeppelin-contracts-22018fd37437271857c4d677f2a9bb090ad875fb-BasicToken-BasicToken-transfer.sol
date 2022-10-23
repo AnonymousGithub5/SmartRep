@@ -1,0 +1,1 @@
+function transfer ( address _to , uint _value ) { balances [ msg . sender ] = Identifier_0 ( balances [ msg . sender ] , _value ) ;

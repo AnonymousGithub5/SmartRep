@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint Parameter_0 ) { if ( Identifier_0 . length > 0 ) {

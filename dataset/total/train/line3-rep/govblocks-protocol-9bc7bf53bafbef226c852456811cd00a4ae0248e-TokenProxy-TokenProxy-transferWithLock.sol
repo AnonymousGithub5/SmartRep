@@ -1,0 +1,1 @@
+require ( _amount != 0 , Identifier_4 ) ; if ( Identifier_5 [ _to ] [ Identifier_6 ] . amount == 0 ) Identifier_7 [ _to ] . push ( Identifier_8 ) ;

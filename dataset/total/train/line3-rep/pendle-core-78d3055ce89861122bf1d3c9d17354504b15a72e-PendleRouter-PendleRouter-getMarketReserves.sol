@@ -1,0 +1,1 @@
+{ UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( data . MemberAccess_0 ( Identifier_1 , Identifier_2 , _token ) ) ; require ( address ( market ) != address ( 0 ) , stringLiteral_0 ) ;

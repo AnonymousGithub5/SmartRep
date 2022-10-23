@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) private view returns ( bool ) { bool VariableDeclaration_0 = false ; for ( uint i = 0 ; i < 3 ; i ++ ) { if ( Identifier_0 [ i ] == Identifier_1 ) { Identifier_2 = true ; } } return Identifier_3 ; }

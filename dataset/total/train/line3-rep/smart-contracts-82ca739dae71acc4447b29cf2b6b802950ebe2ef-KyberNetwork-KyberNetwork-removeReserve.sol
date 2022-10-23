@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 ) public ModifierInvocation_0 returns ( bool ) { ElementaryTypeName_0 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( reserve ) ; uint VariableDeclaration_1 = 2 ** NumberLiteral_0 ;

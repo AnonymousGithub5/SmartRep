@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _to , uint256 _tokenId ) internal { require ( _to != address ( 0 ) ) ; Identifier_0 ( _to , _tokenId ) ; Transfer ( address ( 0 ) , _to , _tokenId ) ; }

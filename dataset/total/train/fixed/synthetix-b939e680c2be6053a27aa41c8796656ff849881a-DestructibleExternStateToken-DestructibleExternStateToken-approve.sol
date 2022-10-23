@@ -1,0 +1,1 @@
+function approve ( address spender , uint value ) public ModifierInvocation_0 returns ( bool ) { address VariableDeclaration_0 = Identifier_0 ; Identifier_1 . MemberAccess_0 ( sender , spender , value ) ; Identifier_2 ( sender , spender , value ) ; return true ; }

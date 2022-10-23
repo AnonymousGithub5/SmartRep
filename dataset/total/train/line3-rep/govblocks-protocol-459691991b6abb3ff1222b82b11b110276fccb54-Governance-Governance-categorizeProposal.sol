@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( _categoryId ) ; require ( Identifier_1 . MemberAccess_1 ( msg . sender , 2 ) || msg . sender == governanceDat . MemberAccess_2 ( _proposalId ) ) ; require ( Identifier_2 <= Identifier_3 . balanceOf ( Identifier_4 ) ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint16 Parameter_0 ) internal pure returns ( bool ) { return Identifier_0 > NumberLiteral_0 ; }

@@ -1,0 +1,1 @@
+int256 memory Parameter_2 ) public returns ( address ) { require ( Identifier_0 [ Identifier_1 ] == address ( 0 ) , stringLiteral_0 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public pure returns ( int256 ) { return Identifier_0 ; }

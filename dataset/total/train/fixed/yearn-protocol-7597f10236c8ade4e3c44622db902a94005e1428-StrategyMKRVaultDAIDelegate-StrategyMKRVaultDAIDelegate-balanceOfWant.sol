@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { return IERC20 ( want ) . balanceOf ( address ( this ) ) ; }

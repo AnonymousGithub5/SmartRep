@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable Parameter_0 , address Parameter_1 , address Parameter_2 , uint Parameter_3 ) public { Identifier_0 ( Identifier_1 ) . deposit . value ( Identifier_2 ) ( ) ; Identifier_3 ( Identifier_4 ) . approve ( address ( Identifier_5 ) , uint ( - 1 ) ) ; Identifier_6 ( Identifier_7 ) . MemberAccess_0 ( Identifier_8 , Identifier_9 ) ; }

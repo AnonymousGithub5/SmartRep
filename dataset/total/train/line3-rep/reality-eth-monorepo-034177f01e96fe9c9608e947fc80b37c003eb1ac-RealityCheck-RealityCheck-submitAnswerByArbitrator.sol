@@ -1,0 +1,1 @@
+ModifierInvocation_2 external returns ( bytes32 ) { require ( Identifier_0 != 0x0 ) ;

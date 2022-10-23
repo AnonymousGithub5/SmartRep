@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 ( token , pool ) ; if ( token == Identifier_1 || token == Identifier_2 ) { Identifier_3 [ pool ] += Identifier_4 ;

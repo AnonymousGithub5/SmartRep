@@ -1,0 +1,1 @@
+{ require ( _amount != 0 , stringLiteral_0 ) ; IERC20 ( token ) . safeTransferFrom ( msg . sender , address ( this ) , _amount ) ;

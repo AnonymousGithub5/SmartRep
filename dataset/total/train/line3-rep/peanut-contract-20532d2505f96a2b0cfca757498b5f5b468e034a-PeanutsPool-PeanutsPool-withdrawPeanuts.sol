@@ -1,0 +1,1 @@
+Identifier_9 . transfer ( msg . sender , Identifier_10 [ msg . sender ] . MemberAccess_3 ) ; emit Identifier_11 ( Identifier_12 [ msg . sender ] . MemberAccess_4 , msg . sender , Identifier_13 [ msg . sender ] . MemberAccess_5 ) ; Identifier_14 [ msg . sender ] . MemberAccess_6 = 0 ;

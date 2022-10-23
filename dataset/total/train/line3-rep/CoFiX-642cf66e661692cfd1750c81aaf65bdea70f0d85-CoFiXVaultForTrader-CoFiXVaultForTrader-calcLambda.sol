@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 x , uint256 y ) public pure returns ( uint256 ) { uint256 VariableDeclaration_0 = x . mul ( 100 ) . div ( y ) ;

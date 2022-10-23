@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public { if ( Identifier_0 != address ( this ) ) { require ( Identifier_1 ( ) ) ;

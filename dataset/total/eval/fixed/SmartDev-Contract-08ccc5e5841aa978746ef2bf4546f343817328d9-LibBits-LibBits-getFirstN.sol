@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 a , uint8 Parameter_0 ) internal pure returns ( ElementaryTypeName_1 ) { ElementaryTypeName_2 VariableDeclaration_0 = ElementaryTypeName_3 ( 2 ** n - 1 ) ; ElementaryTypeName_4 VariableDeclaration_1 = Identifier_0 ( Identifier_1 , 8 - n ) ; return a & Identifier_2 ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) external { Identifier_0 . transferFrom ( msg . sender , address ( this ) , Identifier_1 ) ; dai . transfer ( msg . sender , Identifier_2 ) ; }

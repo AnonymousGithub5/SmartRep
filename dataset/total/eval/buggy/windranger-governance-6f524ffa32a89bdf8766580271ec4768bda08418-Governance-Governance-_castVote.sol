@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 proposalId , address account , uint8 Parameter_0 , string memory Parameter_1 ) internal virtual { require ( state ( proposalId ) == ProposalState . MemberAccess_0 , stringLiteral_0 ) ; Identifier_0 ( proposalId , account , Identifier_1 ) ; emit Identifier_2 ( account , proposalId , Identifier_3 , Identifier_4 ) ; }

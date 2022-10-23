@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 amount ) override public ModifierInvocation_0 ( msg . sender ) { require ( amount > 0 , stringLiteral_0 ) ; super . MemberAccess_0 ( amount ) ; Identifier_0 . safeApprove ( address ( Identifier_1 ) , amount ) ; Identifier_2 . deposit ( pid , amount ) ; emit Identifier_3 ( msg . sender , amount ) ; }

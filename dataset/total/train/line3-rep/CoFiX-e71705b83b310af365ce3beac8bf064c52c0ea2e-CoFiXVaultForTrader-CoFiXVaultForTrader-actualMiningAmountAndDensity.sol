@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_3 = Identifier_6 ( Identifier_7 ) ; if ( Identifier_8 <= Identifier_9 ) { return ( Identifier_10 . mul ( Identifier_11 ) . div ( Identifier_12 ) , Identifier_13 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner , address _spender ) external view returns ( uint256 ) ; 

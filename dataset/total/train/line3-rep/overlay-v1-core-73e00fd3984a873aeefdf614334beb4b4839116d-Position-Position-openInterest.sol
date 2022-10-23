@@ -1,0 +1,1 @@
+uint256 Parameter_2 ) internal view returns ( uint256 ) { UserDefinedTypeName_1 memory VariableDeclaration_0 = self ;

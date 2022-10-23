@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public view returns ( uint Parameter_1 ) { Identifier_0 = Identifier_1 . balanceOf ( address ( this ) ) ; uint VariableDeclaration_0 = Identifier_2 ( 1e18 ) ; if ( Identifier_3 > 0 ) { Identifier_4 = Identifier_5 . MemberAccess_0 ( Identifier_6 . mul ( 1e18 ) . div ( Identifier_7 ) ) ; } }

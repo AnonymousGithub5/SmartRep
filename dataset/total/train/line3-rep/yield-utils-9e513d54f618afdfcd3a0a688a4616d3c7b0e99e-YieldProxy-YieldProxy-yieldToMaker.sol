@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address user , uint256 Parameter_1 , uint256 Parameter_2 ) public { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( pool ) . MemberAccess_0 ( ) ;

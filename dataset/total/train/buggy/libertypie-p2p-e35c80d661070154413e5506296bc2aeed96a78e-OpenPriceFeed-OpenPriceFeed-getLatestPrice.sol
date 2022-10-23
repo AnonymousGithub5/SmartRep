@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 ) public view returns ( uint256 ) { return Identifier_0 . MemberAccess_0 ( _symbol ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 { Identifier_0 . safeTransferFrom ( Identifier_1 , msg . sender , address ( this ) , Identifier_2 ) ; Identifier_3 . safeApprove ( Identifier_4 , Identifier_5 , Identifier_6 ) ; Identifier_7 ( Identifier_8 ) . MemberAccess_0 ( ) ; Identifier_9 . safeApprove ( Identifier_10 , Identifier_11 , 0 ) ; }

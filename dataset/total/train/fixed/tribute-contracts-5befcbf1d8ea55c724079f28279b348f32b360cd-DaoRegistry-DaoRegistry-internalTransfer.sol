@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address to , address token , uint256 amount ) public ModifierInvocation_0 ( this , Identifier_2 . MemberAccess_0 . MemberAccess_1 ) { Identifier_0 ( from , token , amount ) ; Identifier_1 ( to , token , amount ) ; }

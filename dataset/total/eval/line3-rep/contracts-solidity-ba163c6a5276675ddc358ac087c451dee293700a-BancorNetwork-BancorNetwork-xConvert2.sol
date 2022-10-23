@@ -1,0 +1,1 @@
+{ require ( Identifier_0 . length > 2 && Identifier_1 . length % 2 == 1 , stringLiteral_0 ) ; require ( Identifier_2 [ Identifier_3 . length - 1 ] == Identifier_4 ( Identifier_5 ) , stringLiteral_1 ) ;

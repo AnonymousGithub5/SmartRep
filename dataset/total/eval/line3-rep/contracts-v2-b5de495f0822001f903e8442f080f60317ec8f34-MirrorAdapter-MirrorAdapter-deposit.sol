@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; Identifier_2 . MemberAccess_0 . approve ( address ( Identifier_3 [ Identifier_4 ] ) , uint256 ( - 1 ) ) ; Identifier_5 ( Identifier_6 . MemberAccess_1 ( Identifier_7 ) ) . MemberAccess_2 ( amount ) ;

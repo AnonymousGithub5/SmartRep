@@ -1,0 +1,1 @@
+Identifier_2 . transfer ( msg . sender , amount / price ) ; Identifier_3 . send ( amount ) ; }

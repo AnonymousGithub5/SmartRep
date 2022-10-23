@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address ) external view returns ( address ) { return Identifier_0 [ _address ] ; }

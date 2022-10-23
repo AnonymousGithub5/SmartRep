@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public onlyOwner whenNotPaused { Identifier_0 = true ; emit Identifier_1 ( ) ; }

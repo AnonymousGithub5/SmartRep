@@ -1,0 +1,1 @@
+function transfer ( UserDefinedTypeName_0 memory Parameter_0 , address from , address to ) external override { require ( asset . amount == 1 , stringLiteral_0 ) ; ( address token , uint VariableDeclaration_0 ) = abi . MemberAccess_0 ( asset . MemberAccess_1 . data , ( address , uint256 ) ) ; Identifier_0 ( token ) . transferFrom ( from , to , tokenId ) ; }

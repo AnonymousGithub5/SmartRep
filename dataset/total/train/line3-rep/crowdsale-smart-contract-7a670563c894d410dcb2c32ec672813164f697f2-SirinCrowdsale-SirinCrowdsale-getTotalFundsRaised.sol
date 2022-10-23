@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public constant returns ( uint256 ) { return Identifier_0 . add ( Identifier_1 ) ; }

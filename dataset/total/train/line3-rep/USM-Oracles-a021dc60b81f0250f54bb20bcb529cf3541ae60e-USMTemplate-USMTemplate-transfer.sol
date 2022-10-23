@@ -1,0 +1,1 @@
+if ( recipient == address ( this ) || recipient == address ( Identifier_0 ) ) { Identifier_1 ( msg . sender , msg . sender , amount , 0 ) ; } else {

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 , uint Parameter_1 ) private pure { bytes memory VariableDeclaration_0 = buf . MemberAccess_0 ;

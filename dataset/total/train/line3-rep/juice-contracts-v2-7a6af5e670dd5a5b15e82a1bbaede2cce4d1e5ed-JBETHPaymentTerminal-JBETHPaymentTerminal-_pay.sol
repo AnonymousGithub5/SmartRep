@@ -1,0 +1,1 @@
+require ( _beneficiary != address ( 0 ) , stringLiteral_1 ) ; UserDefinedTypeName_0 memory VariableDeclaration_0 ; uint256 VariableDeclaration_1 ;

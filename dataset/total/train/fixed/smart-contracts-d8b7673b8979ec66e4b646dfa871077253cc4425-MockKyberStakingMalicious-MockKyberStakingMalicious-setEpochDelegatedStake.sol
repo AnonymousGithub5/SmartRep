@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 , uint amount ) public { Identifier_0 [ Identifier_1 ] [ Identifier_2 ] . MemberAccess_0 = amount ; }

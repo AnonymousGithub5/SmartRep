@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 user ) private { require ( user . MemberAccess_0 != 0 , stringLiteral_0 ) ; require ( user . owner != 0 , stringLiteral_1 ) ; require ( Identifier_0 ( user . MemberAccess_1 ) , stringLiteral_2 ) ; Identifier_1 [ user . MemberAccess_2 ] = user ; emit Identifier_2 ( user . MemberAccess_3 ) ; }

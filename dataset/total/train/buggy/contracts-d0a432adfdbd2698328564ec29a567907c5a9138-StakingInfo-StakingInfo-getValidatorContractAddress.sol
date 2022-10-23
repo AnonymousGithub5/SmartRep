@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public view returns ( address Parameter_1 ) { ( , , , , , , Identifier_0 , , , , , , ) = Identifier_1 ( registry . MemberAccess_0 ( ) ) . MemberAccess_1 ( validatorId ) ; }

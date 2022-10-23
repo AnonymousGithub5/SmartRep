@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId ) nonReentrant external { require ( Identifier_0 [ tokenId ] == msg . sender , stringLiteral_0 ) ; Identifier_1 ( tokenId ) ; }

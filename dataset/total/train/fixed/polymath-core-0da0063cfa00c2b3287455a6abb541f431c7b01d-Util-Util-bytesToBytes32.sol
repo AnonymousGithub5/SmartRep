@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes memory Parameter_0 , uint Parameter_1 ) internal pure returns ( bytes32 ) { bytes32 VariableDeclaration_0 ; for ( uint i = 0 ; i < Identifier_0 . length ; i ++ ) { result |= bytes32 ( Identifier_1 [ Identifier_2 + i ] & NumberLiteral_0 ) >> ( i * 8 ) ; } return result ; }

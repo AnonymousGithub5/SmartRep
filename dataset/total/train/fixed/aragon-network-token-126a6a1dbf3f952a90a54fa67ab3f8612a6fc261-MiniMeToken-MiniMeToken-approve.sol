@@ -1,0 +1,1 @@
+function approve ( address _spender , uint256 _amount ) returns ( bool success ) { if ( ! Identifier_0 ) throw ; if ( ( _amount != 0 ) && ( allowed [ msg . sender ] [ _spender ] != 0 ) ) throw ; allowed [ msg . sender ] [ _spender ] = _amount ; Identifier_1 ( msg . sender , _spender , _amount ) ; return true ; }

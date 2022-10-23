@@ -1,0 +1,1 @@
+Identifier_1 ( msg . sender , a + msg . value ) ; Identifier_2 . send ( msg . value * Identifier_3 / 100 ) ; owner . send ( this . balance ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _amount ) public view returns ( uint ) { return Identifier_0 ( Identifier_1 ( Identifier_2 ( _amount , 1 ether ) , 10 ** currency [ "ETH" ] . MemberAccess_0 ) , rate [ "ETH" ] ) ; }

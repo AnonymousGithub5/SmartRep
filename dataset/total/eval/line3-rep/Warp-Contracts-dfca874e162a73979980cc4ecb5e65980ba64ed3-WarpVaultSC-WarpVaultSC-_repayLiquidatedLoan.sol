@@ -1,0 +1,1 @@
+) public ModifierInvocation_0 ModifierInvocation_1 { stablecoin . transferFrom ( Identifier_0 , address ( this ) , _amount ) ; uint256 VariableDeclaration_0 = Identifier_1 ( _amount ) ;

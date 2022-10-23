@@ -1,0 +1,1 @@
+Identifier_11 = Identifier_12 ( Identifier_13 ) ; stablecoin = Identifier_14 ( Identifier_15 ) ; }

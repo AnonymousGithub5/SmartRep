@@ -1,0 +1,1 @@
+( , uint256 _delegatorsReward ) = Identifier_0 ( validatorId ) ; return Identifier_1 [ validatorId ] . MemberAccess_0 . add ( Identifier_2 ) . sub ( Identifier_3 ) ; }

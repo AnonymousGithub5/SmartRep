@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external override pure returns ( address ) { return address ( 0 ) ; }

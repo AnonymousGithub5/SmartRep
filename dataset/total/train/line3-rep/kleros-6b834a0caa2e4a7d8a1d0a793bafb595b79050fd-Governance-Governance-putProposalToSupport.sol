@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _id ) public ModifierInvocation_0 ( _id ) ModifierInvocation_1 ( _id ) { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ _id ] ;

@@ -1,0 +1,1 @@
+function mint ( address _to , uint256 _amount ) public ModifierInvocation_0 returns ( bool ) { Identifier_0 = Identifier_1 . add ( _amount ) ; balances [ _to ] = balances [ _to ] . add ( _amount ) ; emit Identifier_2 ( _to , _amount ) ; return true ; }

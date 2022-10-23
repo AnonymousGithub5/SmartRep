@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) public { require ( owner == address ( 0 ) ) ; owner = msg . sender ; Identifier_0 = Identifier_1 ; Identifier_2 = Identifier_3 ; UserDefinedTypeName_0 VariableDeclaration_0 = new UserDefinedTypeName_1 ( ) ; Identifier_4 = Identifier_5 ( Identifier_6 . MemberAccess_0 ( ) ) ; }

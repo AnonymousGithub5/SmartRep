@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address , UserDefinedTypeName_0 memory Parameter_0 ) override public ModifierInvocation_0 { Identifier_0 [ _address ] = _account ; }

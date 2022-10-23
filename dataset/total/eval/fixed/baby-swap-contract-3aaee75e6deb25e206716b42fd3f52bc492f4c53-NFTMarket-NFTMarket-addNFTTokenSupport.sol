@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) external onlyOwner { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; Identifier_1 [ Identifier_2 ] = true ; Identifier_3 [ Identifier_4 ] = Identifier_5 ; emit Identifier_6 ( Identifier_7 , Identifier_8 ) ; }

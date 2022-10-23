@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) internal view returns ( uint256 Parameter_1 ) { require ( Identifier_0 ( ) ) ; Identifier_1 = Identifier_2 . sub ( Identifier_3 ( ) . MemberAccess_0 ( ) ) % getUintConfig ( Identifier_4 ) ; }

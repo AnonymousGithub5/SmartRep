@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public returns ( bytes4 ) { return bytes4 ( keccak256 ( stringLiteral_0 ) ) ; }

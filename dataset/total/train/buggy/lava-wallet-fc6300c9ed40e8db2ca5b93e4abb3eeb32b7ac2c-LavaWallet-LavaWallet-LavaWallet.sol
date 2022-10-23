@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public { Identifier_0 = Identifier_1 ; Identifier_2 = hash ( Identifier_3 ( { name : stringLiteral_0 , verifyingContract : NumberLiteral_0 } ) ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _from , uint256 _tokenId ) internal override ( NFToken , NFTokenEnumerable ) { Identifier_0 . MemberAccess_0 ( _from , _tokenId ) ; }

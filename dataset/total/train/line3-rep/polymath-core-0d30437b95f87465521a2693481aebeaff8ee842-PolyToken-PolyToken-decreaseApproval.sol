@@ -1,0 +1,1 @@
+} else { allowed [ msg . sender ] [ _spender ] = Identifier_2 . sub ( Identifier_3 ) ; }

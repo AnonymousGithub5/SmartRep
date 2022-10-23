@@ -1,0 +1,1 @@
+require ( tokens [ _token ] . MemberAccess_2 != Identifier_5 , stringLiteral_3 ) ; tokens [ _token ] . MemberAccess_3 = tokens [ _token ] . MemberAccess_4 + 1 ; tokens [ _token ] . MemberAccess_5 [ tokens [ _token ] . MemberAccess_6 ] = Identifier_6 ;

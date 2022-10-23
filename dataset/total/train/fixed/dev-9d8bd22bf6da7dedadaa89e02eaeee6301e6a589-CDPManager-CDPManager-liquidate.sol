@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user ) external override { Identifier_0 ( _user ) ; address memory VariableDeclaration_0 = new address ( 1 ) ; Identifier_1 [ 0 ] = _user ; Identifier_2 ( Identifier_3 ) ; }

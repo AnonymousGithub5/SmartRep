@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = Identifier_5 . totalSupply ( ) ; return Identifier_6 . MemberAccess_0 ( Identifier_7 , Identifier_8 , Identifier_9 ) ; }

@@ -1,0 +1,1 @@
+ModifierInvocation_1 { require ( Identifier_0 ( account ) , stringLiteral_0 ) ;

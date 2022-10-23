@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { state . MemberAccess_0 ( address ( this ) , 0 ) ; }

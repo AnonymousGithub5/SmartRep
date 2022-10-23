@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address Parameter_1 , address token , uint256 Parameter_2 ) public override returns ( address Parameter_3 ) { market = factory . MemberAccess_0 ( Identifier_0 , xyt , token , expiry ) ; }

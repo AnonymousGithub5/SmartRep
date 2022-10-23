@@ -1,0 +1,1 @@
+amounts [ i ] , amounts [ i ] ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public onlyOwner { require ( ! Identifier_0 ( ) ) ; Identifier_1 ( Identifier_2 ) ; Identifier_3 [ keccak256 ( stringLiteral_0 ) ] = true ; }

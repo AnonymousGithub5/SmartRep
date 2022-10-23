@@ -1,0 +1,1 @@
+state = Identifier_1 . MemberAccess_0 ; } else { bytes32 VariableDeclaration_0 = Identifier_2 ( Identifier_3 , stringLiteral_1 , Identifier_4 ) ;

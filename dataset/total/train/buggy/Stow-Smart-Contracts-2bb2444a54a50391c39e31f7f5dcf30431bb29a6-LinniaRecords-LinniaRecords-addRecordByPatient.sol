@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , uint Parameter_1 , bytes32 Parameter_2 ) ModifierInvocation_0 public returns ( bool ) { require ( Identifier_0 ( Identifier_1 , msg . sender , Identifier_2 , Identifier_3 ) ) ; return true ; }

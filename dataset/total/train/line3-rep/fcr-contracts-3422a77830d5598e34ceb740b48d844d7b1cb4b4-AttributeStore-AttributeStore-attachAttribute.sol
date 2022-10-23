@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 , bytes32 Parameter_1 , string Parameter_2 , uint Parameter_3 ) { bytes32 VariableDeclaration_0 = Identifier_0 ( Identifier_1 , Identifier_2 ) ; self . MemberAccess_0 [ Identifier_3 ] = Identifier_4 ;

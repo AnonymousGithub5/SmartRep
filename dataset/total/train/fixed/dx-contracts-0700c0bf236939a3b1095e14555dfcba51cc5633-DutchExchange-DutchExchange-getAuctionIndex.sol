@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) public view returns ( uint Parameter_2 ) { ( token1 , Identifier_0 ) = Identifier_1 ( token1 , Identifier_2 ) ; auctionIndex = Identifier_3 [ token1 ] [ Identifier_4 ] ; }

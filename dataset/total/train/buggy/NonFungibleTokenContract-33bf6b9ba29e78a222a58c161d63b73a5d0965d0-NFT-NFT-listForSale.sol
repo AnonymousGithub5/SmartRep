@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId , uint256 amount , address Parameter_0 ) public ModifierInvocation_0 ( tokenId ) ModifierInvocation_1 ( tokenId ) { Identifier_0 [ tokenId ] . amount = amount ; Identifier_1 [ tokenId ] . MemberAccess_0 = true ; Identifier_2 [ tokenId ] . MemberAccess_1 = Identifier_3 ; emit Identifier_4 ( tokenId , amount ) ; }

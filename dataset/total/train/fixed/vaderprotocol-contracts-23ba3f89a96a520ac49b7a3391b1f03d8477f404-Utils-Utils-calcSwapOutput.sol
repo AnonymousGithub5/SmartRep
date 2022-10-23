@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint x , uint Parameter_0 , uint Parameter_1 ) public pure returns ( uint ) { uint VariableDeclaration_0 = ( x * Identifier_0 * Identifier_1 ) ; uint VariableDeclaration_1 = ( x + Identifier_2 ) * ( x + Identifier_3 ) ; return ( Identifier_4 / Identifier_5 ) ; }

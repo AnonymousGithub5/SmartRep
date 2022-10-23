@@ -1,0 +1,1 @@
+bytes32 _name ) public { registry = Identifier_0 ;

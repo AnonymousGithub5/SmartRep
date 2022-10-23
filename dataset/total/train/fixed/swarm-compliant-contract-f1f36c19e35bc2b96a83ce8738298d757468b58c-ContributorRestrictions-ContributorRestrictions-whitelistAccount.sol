@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) external ModifierInvocation_0 { Identifier_0 [ account ] = true ; require ( Identifier_1 ( Identifier_2 ) . MemberAccess_0 ( account ) ) ; emit Identifier_3 ( account , msg . sender ) ; }

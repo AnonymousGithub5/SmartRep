@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) public onlyAdmin { if ( Identifier_0 [ Identifier_1 ] == address ( 0 ) && Identifier_2 != address ( 0 ) ) {

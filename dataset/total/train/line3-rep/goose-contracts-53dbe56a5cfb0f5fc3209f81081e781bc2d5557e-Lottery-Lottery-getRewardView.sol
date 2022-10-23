@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_5 = Identifier_12 ( Identifier_13 ) . mul ( Identifier_14 [ 4 - Identifier_15 ] ) . div ( 100 ) ; reward = amount . mul ( 1e12 ) . div ( Identifier_16 ( Identifier_17 , Identifier_18 ) ) . mul ( Identifier_19 ) ; }

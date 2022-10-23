@@ -1,0 +1,1 @@
+{ uint VariableDeclaration_0 = Identifier_0 + j ; price = p . MemberAccess_0 [ k ] . sub ( p . MemberAccess_1 [ k - 1 ] ) . mul (

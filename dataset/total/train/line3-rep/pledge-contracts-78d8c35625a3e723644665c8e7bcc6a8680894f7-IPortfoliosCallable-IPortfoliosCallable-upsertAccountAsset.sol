@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , UserDefinedTypeName_0 calldata Parameter_0 ) external ; 

@@ -1,0 +1,1 @@
+Identifier_20 . MemberAccess_6 = Identifier_21 ( Identifier_22 . MemberAccess_7 , Identifier_23 [ 3 ] , Identifier_24 , Identifier_25 ) ; Identifier_26 . MemberAccess_8 = Identifier_27 ( Identifier_28 . MemberAccess_9 , Identifier_29 [ 3 ] , Identifier_30 , Identifier_31 ) ; uint256 VariableDeclaration_1 = Identifier_32 ( Identifier_33 ) ;

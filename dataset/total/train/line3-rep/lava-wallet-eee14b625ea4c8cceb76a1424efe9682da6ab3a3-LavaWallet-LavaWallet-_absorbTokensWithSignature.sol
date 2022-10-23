@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = address ( this ) ; require ( Identifier_0 == 0x0 || ( ! Identifier_1 ( Identifier_2 ) && msg . sender == Identifier_3 )

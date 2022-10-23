@@ -1,0 +1,1 @@
+) public view returns ( address ) { address VariableDeclaration_0 = registry . MemberAccess_0 ( Identifier_0 ,

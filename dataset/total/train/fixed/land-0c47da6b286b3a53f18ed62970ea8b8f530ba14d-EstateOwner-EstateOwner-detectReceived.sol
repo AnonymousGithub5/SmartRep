@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId ) external { require ( index [ tokenId ] == 0 ) ; require ( Identifier_0 . MemberAccess_0 ( tokenId ) == address ( this ) ) ; Identifier_1 . push ( tokenId ) ; index [ tokenId ] = Identifier_2 . length ; }

@@ -1,0 +1,1 @@
+{ amounts = new uint256 ( Identifier_0 . MemberAccess_0 . length ) ; amounts [ 0 ] = _amount ;

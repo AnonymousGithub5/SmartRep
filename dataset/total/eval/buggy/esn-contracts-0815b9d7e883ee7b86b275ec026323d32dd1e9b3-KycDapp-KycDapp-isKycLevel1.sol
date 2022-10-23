@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _wallet ) public override view returns ( bool ) { bytes32 VariableDeclaration_0 = Identifier_0 [ _wallet ] ; if ( Identifier_1 == bytes32 ( 0 ) ) { return false ; } return Identifier_2 [ Identifier_3 ] . MemberAccess_0 == Identifier_4 . MemberAccess_1 ; }

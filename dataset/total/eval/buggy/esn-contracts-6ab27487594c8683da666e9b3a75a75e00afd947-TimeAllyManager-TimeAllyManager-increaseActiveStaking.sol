@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount , uint256 Parameter_0 , uint256 Parameter_1 ) external ModifierInvocation_0 { for ( uint256 i = Identifier_0 ; i <= Identifier_1 ; i ++ ) { Identifier_2 [ i ] = Identifier_3 [ i ] . add ( _amount ) ; } }

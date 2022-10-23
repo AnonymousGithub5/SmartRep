@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes4 Parameter_0 , bytes4 Parameter_1 ) internal virtual { if ( Identifier_0 ( Identifier_1 ) != Identifier_2 ) { Identifier_3 [ Identifier_4 ] . MemberAccess_0 = Identifier_5 ; emit Identifier_6 ( Identifier_7 , Identifier_8 ) ; } }

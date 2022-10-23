@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint32 Parameter_0 ) public view override returns ( bool ) { uint32 VariableDeclaration_0 = uint32 ( Identifier_0 ( ) . MemberAccess_0 ( ) ) ; return Identifier_1 [ Identifier_2 ] . MemberAccess_1 [ Identifier_3 ] . MemberAccess_2 >= Identifier_4 ; }

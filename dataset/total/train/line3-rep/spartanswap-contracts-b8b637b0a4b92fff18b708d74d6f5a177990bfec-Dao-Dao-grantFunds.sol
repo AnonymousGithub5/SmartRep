@@ -1,0 +1,1 @@
+address VariableDeclaration_1 = Identifier_2 [ Identifier_3 ] ; require ( Identifier_4 != 0 , stringLiteral_0 ) ; require ( Identifier_5 != address ( 0 ) , stringLiteral_1 ) ;

@@ -1,0 +1,1 @@
+Identifier_14 [ Identifier_15 ] = _symbol ; balances [ Identifier_16 ] [ msg . sender ] = totalSupply ; }

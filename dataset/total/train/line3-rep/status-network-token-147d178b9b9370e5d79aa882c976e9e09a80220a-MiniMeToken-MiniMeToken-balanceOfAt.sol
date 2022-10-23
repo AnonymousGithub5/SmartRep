@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner , uint Parameter_0 ) constant returns ( uint ) {

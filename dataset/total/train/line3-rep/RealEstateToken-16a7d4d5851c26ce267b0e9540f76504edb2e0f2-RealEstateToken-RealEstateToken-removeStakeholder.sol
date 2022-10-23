@@ -1,0 +1,1 @@
+public { ( bool VariableDeclaration_0 , uint256 VariableDeclaration_1 ) = Identifier_0 ( Identifier_1 ) ;

@@ -1,0 +1,1 @@
+if ( totalSupply > Identifier_2 ) { return totalSupply . sub ( Identifier_3 ) ; }

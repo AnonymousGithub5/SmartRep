@@ -1,0 +1,1 @@
+Identifier_11 ( Identifier_12 ) . MemberAccess_5 ( ) ) ) ; Identifier_13 . MemberAccess_6 = Identifier_14 ( Identifier_15 ( ) ) . MemberAccess_7 ( msg . sender , name , Identifier_16 , message , "" , Identifier_17 . MemberAccess_8 ) ; Identifier_18 [ Identifier_19 ] . push ( Identifier_20 ) ;

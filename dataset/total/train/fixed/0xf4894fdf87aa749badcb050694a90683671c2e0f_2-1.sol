@@ -1,0 +1,1 @@
+function deposit ( ) public payable { require ( msg . value >= Identifier_0 && ! Identifier_1 ) ; owner . transfer ( msg . value ) ; balanceOf [ msg . sender ] += msg . value ; Identifier_2 += msg . value ; require ( Identifier_3 >= msg . value ) ; emit Identifier_4 ( msg . sender , msg . value ) ; }

@@ -1,0 +1,1 @@
+Identifier_0 ( data . MemberAccess_0 ( Identifier_1 , Identifier_2 , Identifier_3 , _token ) ) ; require ( address ( market ) != address ( 0 ) , stringLiteral_0 ) ; ( Identifier_4 , tokenAmount , Identifier_5 ) = market . MemberAccess_1 ( ) ;

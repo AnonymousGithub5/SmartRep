@@ -1,0 +1,1 @@
+) ; emit Identifier_6 ( Identifier_7 , account , address ( 0 ) , id , amount ) ; }

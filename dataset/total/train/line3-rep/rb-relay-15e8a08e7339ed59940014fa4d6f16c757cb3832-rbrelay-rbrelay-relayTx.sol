@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes Parameter_0 , bytes Parameter_1 , bytes Parameter_2 , bytes Parameter_3 , address Parameter_4 ) { require ( Identifier_0 ( Identifier_1 , path , Identifier_2 , Identifier_3 , 4 ) ) ; UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_4 ( Identifier_5 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address receiver , string memory Parameter_1 ) external virtual whenNotPaused returns ( uint256 Parameter_2 ) { Identifier_0 = Identifier_1 ( Identifier_2 , receiver , Identifier_3 , 0 , 0 , 0 ) ; }

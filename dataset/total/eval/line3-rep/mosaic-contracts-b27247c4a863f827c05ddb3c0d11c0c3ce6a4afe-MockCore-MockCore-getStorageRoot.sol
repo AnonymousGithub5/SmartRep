@@ -1,0 +1,1 @@
+public view returns ( bytes32 )

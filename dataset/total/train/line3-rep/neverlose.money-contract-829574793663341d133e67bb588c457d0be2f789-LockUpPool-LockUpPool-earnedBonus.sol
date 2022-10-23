@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ tokenAddress ] ; UserDefinedTypeName_1 storage VariableDeclaration_1 = Identifier_1 [ tokenAddress ] [ msg . sender ] ; return Identifier_2 . MemberAccess_0

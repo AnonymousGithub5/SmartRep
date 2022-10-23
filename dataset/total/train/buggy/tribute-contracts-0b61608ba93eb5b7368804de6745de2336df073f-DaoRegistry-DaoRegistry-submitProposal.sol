@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 proposalId ) external ModifierInvocation_0 ( this , Identifier_3 . MemberAccess_0 . MemberAccess_1 ) { Identifier_0 [ proposalId ] = Identifier_1 ( msg . sender , 1 ) ; emit Identifier_2 ( proposalId , 1 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _wallet , bytes32 _id ) public ModifierInvocation_0 ( _wallet ) ModifierInvocation_1 ( _wallet ) { require ( Identifier_0 [ address ( _wallet ) ] . MemberAccess_0 [ _id ] > 0 , stringLiteral_0 ) ; delete Identifier_1 [ address ( _wallet ) ] . MemberAccess_1 [ _id ] ; emit Identifier_2 ( address ( _wallet ) , _id ) ; }

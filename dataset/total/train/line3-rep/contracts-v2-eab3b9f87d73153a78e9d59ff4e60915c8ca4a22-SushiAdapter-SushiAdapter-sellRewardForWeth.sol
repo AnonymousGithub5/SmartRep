@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 . mul ( Identifier_1 ) . div ( 1000 ) ; Identifier_2 . MemberAccess_0 ( Identifier_3 ) ; Identifier_4 . transfer ( Identifier_5 , Identifier_6 . balanceOf ( address ( this ) ) ) ;

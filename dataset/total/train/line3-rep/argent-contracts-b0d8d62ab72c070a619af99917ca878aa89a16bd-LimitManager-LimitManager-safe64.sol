@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) internal pure returns ( uint128 ) { require ( Identifier_0 < 2 ** NumberLiteral_0 , stringLiteral_0 ) ;

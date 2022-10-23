@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = Identifier_3 ( msg . value ) ; Identifier_4 . MemberAccess_0 ( Identifier_5 ) ; Identifier_6 . MemberAccess_1 ( Identifier_7 [ msg . sender ] , Identifier_8 ) ;

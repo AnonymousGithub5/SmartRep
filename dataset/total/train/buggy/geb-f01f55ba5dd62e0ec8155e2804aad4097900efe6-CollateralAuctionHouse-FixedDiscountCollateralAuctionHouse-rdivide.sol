@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint x , uint y ) internal pure returns ( uint Parameter_0 ) { Identifier_0 = Identifier_1 ( x , RAY ) / y ; }

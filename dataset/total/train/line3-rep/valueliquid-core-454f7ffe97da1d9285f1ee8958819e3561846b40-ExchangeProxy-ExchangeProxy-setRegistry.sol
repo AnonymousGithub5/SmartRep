@@ -1,0 +1,1 @@
+require ( msg . sender == Identifier_0 , stringLiteral_0 ) ; registry = Identifier_1 ( Identifier_2 ) ; }

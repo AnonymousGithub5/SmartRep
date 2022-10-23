@@ -1,0 +1,1 @@
+super . MemberAccess_0 ( amount ) ; Identifier_0 . safeApprove ( address ( Identifier_1 ) , amount ) ; Identifier_2 . deposit ( pid , amount ) ;

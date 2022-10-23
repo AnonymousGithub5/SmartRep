@@ -1,0 +1,1 @@
+uint256 i = Identifier_1 . MemberAccess_1 ( ) ; require ( k > 0 && k <= 1e18 , stringLiteral_0 ) ; require ( i > 0 && i <= NumberLiteral_0 , stringLiteral_1 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 amount , address to ) external ModifierInvocation_0 returns ( uint256 Parameter_0 ) { ( uint256 rawPay , ) = Identifier_0 ( amount ) ; Identifier_1 = Identifier_2 ( Identifier_3 ) . MemberAccess_0 ( msg . sender , Identifier_4 ) ; for ( uint256 i = 0 ; i < amount ; i ++ ) { Identifier_5 ( to , Identifier_6 ( ) , 1 ) ; } }

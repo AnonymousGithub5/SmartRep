@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public returns ( address Parameter_0 ) { return address ( ElementaryTypeName_0 ( uint256 ( Identifier_0 . MemberAccess_0 ( bytes32 ( uint256 ( 0 ) ) ) ) ) ) ; }

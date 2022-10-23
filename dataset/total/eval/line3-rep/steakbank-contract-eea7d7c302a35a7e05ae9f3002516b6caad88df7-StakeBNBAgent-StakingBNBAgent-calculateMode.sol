@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = block . timestamp % NumberLiteral_0 ; if ( Identifier_0 <= NumberLiteral_1 || Identifier_1 < NumberLiteral_2 ) { return Identifier_2 ;

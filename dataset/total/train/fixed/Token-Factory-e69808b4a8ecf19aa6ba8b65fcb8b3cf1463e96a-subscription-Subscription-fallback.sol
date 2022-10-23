@@ -1,0 +1,1 @@
+constructor ( address _token , address _owner , address Parameter_0 ) public { token = Identifier_0 ( _token ) ; owner = _owner ; Identifier_1 = Identifier_2 ; Identifier_3 = token . MemberAccess_0 ( ) ; }

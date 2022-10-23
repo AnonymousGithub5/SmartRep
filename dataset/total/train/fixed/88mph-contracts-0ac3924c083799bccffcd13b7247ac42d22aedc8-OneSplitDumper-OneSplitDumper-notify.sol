@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external onlyAdmin { uint256 balance = Identifier_0 . balanceOf ( address ( this ) ) ; Identifier_1 . safeApprove ( address ( Identifier_2 ) , balance ) ; Identifier_3 . MemberAccess_0 ( balance ) ; }

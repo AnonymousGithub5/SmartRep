@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address token , uint256 Parameter_1 ) external returns ( uint256 Parameter_2 , uint256 Parameter_3 , uint256 Parameter_4 ) ;

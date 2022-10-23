@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public view returns ( uint Parameter_1 ) { return Identifier_0 . MemberAccess_0 ( Identifier_1 ( Identifier_2 ) ) ; }

@@ -1,0 +1,1 @@
+{ ERC20 ( Identifier_0 ) . transfer ( to , amount ) ; }

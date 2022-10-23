@@ -1,0 +1,1 @@
+require ( Identifier_2 ( tokenId ) , stringLiteral_0 ) ; require ( Identifier_3 [ tokenId ] == 0 && Identifier_4 ( Identifier_5 ) . MemberAccess_0 ( tokenId ) == address ( this ) , stringLiteral_1 ) ; Identifier_6 . push ( tokenId ) ;

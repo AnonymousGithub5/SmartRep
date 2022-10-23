@@ -1,0 +1,1 @@
+function transfer ( address to , uint value ) returns ( bool Parameter_0 ) ;

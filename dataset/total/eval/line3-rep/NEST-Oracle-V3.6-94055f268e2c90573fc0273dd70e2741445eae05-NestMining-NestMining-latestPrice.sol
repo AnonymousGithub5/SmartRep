@@ -1,0 +1,1 @@
+Identifier_14 = 0 ; } uint VariableDeclaration_7 = uint ( Identifier_15 . MemberAccess_3 ) ;

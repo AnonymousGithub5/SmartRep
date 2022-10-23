@@ -1,0 +1,1 @@
+poolInfo . amount = poolInfo . amount . add ( Identifier_5 ) ; user . rewardDebt = user . amount . add ( Identifier_6 ) . mul ( poolInfo . MemberAccess_4 ) . div ( Identifier_7 ) ; emit Identifier_8 ( _msgSender ( ) , Identifier_9 ) ;

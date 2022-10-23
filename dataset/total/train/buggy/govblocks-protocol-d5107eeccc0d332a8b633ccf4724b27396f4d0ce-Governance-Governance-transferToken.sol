@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token , address Parameter_0 , uint256 _amount ) internal { UserDefinedTypeName_0 token = Identifier_0 ( _token ) ; token . transfer ( Identifier_1 , _amount ) ; }

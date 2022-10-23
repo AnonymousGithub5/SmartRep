@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external onlyOwner { require ( Identifier_0 == 0 , stringLiteral_0 ) ; require ( ! Identifier_1 , stringLiteral_1 ) ; Identifier_2 = uint256 ( keccak256 ( abi . encodePacked ( Identifier_3 ( block . number - 1 ) ) ) ) ; emit Identifier_4 ( ) ; }

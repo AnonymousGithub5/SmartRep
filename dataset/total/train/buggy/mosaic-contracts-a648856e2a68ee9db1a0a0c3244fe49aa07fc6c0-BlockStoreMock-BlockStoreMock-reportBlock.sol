@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes ) external returns ( bool Parameter_0 ) { Identifier_0 = Identifier_1 ; }

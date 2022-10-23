@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _wallet , uint256 Parameter_0 ) external ModifierInvocation_0 ( _wallet ) { Identifier_0 [ address ( _wallet ) ] . MemberAccess_0 = Identifier_1 ; if ( Identifier_2 != 0 && msg . sender != Identifier_3 [ address ( _wallet ) ] . MemberAccess_1 ) { Identifier_4 [ address ( _wallet ) ] . MemberAccess_2 = msg . sender ; } }

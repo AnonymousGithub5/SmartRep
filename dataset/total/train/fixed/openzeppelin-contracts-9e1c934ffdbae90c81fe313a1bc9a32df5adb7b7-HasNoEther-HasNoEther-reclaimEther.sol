@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external onlyOwner { assert ( owner . send ( address ( this ) . balance ) ) ; }

@@ -1,0 +1,1 @@
+return data . MemberAccess_1 == Identifier_1 . MemberAccess_2 && keccak256 ( data . MemberAccess_3 ) == keccak256 ( Identifier_2 . MemberAccess_4 ) ; }

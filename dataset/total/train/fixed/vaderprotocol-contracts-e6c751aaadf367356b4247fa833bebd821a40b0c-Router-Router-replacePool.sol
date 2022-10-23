@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) external ModifierInvocation_0 { require ( iPOOLS ( POOLS ( ) ) . MemberAccess_0 ( Identifier_0 ) || iPOOLS ( POOLS ( ) ) . MemberAccess_1 ( Identifier_1 ) ) ; Identifier_2 [ Identifier_3 ] = false ; Identifier_4 [ Identifier_5 ] = true ; emit Identifier_6 ( msg . sender , Identifier_7 ) ; }

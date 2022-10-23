@@ -1,0 +1,1 @@
+returns ( uint256 Parameter_1 ) { Identifier_0 ( _amount . mul ( price ( ) ) . div ( 10 ** 18 ) ) ; IERC20 VariableDeclaration_0 = IERC20 ( Identifier_1 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) private returns ( address , uint256 ) { require ( Identifier_0 . status == Status . MemberAccess_0 , stringLiteral_0 ) ;

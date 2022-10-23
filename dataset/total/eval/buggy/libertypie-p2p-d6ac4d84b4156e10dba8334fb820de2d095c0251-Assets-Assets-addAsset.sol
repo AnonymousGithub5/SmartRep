@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bool Parameter_1 , string calldata Parameter_2 , string calldata Parameter_3 , address Parameter_4 ) external ModifierInvocation_0 ( ) { return Identifier_0 ( Identifier_1 , Identifier_2 , Identifier_3 , Identifier_4 , Identifier_5 ) ; }

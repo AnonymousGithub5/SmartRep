@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint32 Parameter_1 ) external onlyOwner { Identifier_0 [ _dev ] . MemberAccess_0 = Identifier_1 ; }

@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = token . balanceOf ( address ( this ) ) ; token . MemberAccess_0 ( address ( Identifier_0 ) , Identifier_1 ) ; uint256 VariableDeclaration_1 = Identifier_2 . balanceOf ( address ( this ) ) ;

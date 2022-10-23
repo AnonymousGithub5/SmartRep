@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = arbitrator . MemberAccess_0 . value ( msg . value ) ( uint ( Identifier_3 . MemberAccess_1 ) , "" ) ; emit Identifier_4 ( arbitrator , Identifier_5 , Identifier_6 , Identifier_7 ) ; }

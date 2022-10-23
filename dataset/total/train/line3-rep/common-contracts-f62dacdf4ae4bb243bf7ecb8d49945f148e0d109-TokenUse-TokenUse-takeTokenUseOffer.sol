@@ -1,0 +1,1 @@
+user : msg . sender , startTime : ElementaryTypeName_0 ( now ) , endTime : ElementaryTypeName_1 ( now ) + Identifier_9 [ _tokenId ] . MemberAccess_4 ,

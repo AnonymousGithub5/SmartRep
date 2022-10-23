@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) constant returns ( bool Parameter_1 ) { for ( uint i = 0 ; i < Identifier_0 ; i ++ ) { if ( Identifier_1 [ i ] . MemberAccess_0 == Identifier_2 ) { return Identifier_3 [ i ] . MemberAccess_1 ; } } assert ( false ) ; }

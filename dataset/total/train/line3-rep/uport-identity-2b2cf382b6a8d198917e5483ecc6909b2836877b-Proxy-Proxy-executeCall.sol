@@ -1,0 +1,1 @@
+assembly { success := AssemblyExpression_5 ( AssemblyExpression_0 ( 0 ) , AssemblyExpression_1 , AssemblyExpression_2 , add ( AssemblyExpression_3 , HexNumber_0 ) , mload ( AssemblyExpression_4 ) , 0 , 0 ) }

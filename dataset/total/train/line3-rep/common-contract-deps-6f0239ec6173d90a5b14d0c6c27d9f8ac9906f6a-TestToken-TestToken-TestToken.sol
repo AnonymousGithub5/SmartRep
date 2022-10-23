@@ -1,0 +1,1 @@
+balances [ Identifier_0 ] = _amount ; } 

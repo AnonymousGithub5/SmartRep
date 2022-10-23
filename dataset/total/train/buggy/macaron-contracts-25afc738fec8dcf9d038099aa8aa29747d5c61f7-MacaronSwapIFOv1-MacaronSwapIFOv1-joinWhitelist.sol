@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { require ( block . number > Identifier_0 , stringLiteral_0 ) ; Identifier_1 . safeTransferFrom ( msg . sender , Identifier_2 , Identifier_3 ) ; Identifier_4 [ msg . sender ] = true ; }

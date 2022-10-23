@@ -1,0 +1,1 @@
+constructor ( UserDefinedTypeName_0 Parameter_0 , uint256 _amount , address Parameter_1 ) public ModifierInvocation_0 ( now , now * 2 ) ModifierInvocation_1 ( Identifier_2 ) { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; require ( _amount > 0 , stringLiteral_1 ) ; amount = _amount ; receiver = Identifier_1 ; }

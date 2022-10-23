@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 ) private { require ( Identifier_0 <= uint112 ( - 1 ) && Identifier_1 <= uint112 ( - 1 ) , stringLiteral_0 ) ; Identifier_2 = uint112 ( Identifier_3 ) ; Identifier_4 = uint112 ( Identifier_5 ) ; emit Identifier_6 ( Identifier_7 , Identifier_8 ) ; }

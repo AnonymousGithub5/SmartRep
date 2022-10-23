@@ -1,0 +1,1 @@
+require ( Identifier_0 ( msg . sender ) ) ; require ( keccak256 ( msg . sender , Identifier_1 , Identifier_2 ) == Identifier_3 ( ) . MemberAccess_0 ( _proposalId , msg . sender ) ) ; Identifier_4 ( ) . MemberAccess_1 ( _proposalId , msg . sender , Identifier_5 , Identifier_6 ( ) . MemberAccess_2 ( msg . sender ) ) ;

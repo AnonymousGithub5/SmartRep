@@ -1,0 +1,1 @@
+) ; address VariableDeclaration_2 = Identifier_7 . MemberAccess_4 ( _tokenId ) ; Identifier_8 = Identifier_9 . mul ( 1e18 ) . div ( _amount ) ;

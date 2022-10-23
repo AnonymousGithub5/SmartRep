@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = Identifier_1 ( block . timestamp , Identifier_2 . MemberAccess_1 ( ) ) ; for ( uint i = 0 ; i < proposal . MemberAccess_2 . length ; i ++ ) { Identifier_3 ( proposal . MemberAccess_3 [ i ] , proposal . MemberAccess_4 [ i ] , proposal . MemberAccess_5 [ i ] , proposal . MemberAccess_6 [ i ] , Identifier_4 ) ;

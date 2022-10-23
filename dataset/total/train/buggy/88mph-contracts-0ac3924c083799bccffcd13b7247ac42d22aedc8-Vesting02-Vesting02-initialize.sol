@@ -1,0 +1,1 @@
+function initialize ( address _token , string calldata Parameter_0 , string calldata Parameter_1 ) external ModifierInvocation_0 { Identifier_0 ( ) ; Identifier_1 ( Identifier_2 , Identifier_3 ) ; token = Identifier_4 ( _token ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public { if ( Identifier_0 != block . number ) { uint VariableDeclaration_0 = reward [ Identifier_1 ] ;

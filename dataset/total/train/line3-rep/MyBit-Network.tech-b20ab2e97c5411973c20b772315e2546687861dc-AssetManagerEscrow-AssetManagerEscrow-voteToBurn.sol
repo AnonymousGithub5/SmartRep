@@ -1,0 +1,1 @@
+require ( reserve . MemberAccess_2 ( Identifier_6 , database . MemberAccess_3 ( keccak256 ( abi . encodePacked ( stringLiteral_5 ) ) ) ) ) ; database . MemberAccess_4 ( keccak256 ( abi . encodePacked ( stringLiteral_6 , Identifier_7 ) ) , Identifier_8 . add ( Identifier_9 ) ) ; return true ;

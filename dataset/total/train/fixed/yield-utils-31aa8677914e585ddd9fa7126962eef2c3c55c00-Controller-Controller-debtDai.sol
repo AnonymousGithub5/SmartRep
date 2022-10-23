@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , uint256 Parameter_1 , address user ) public view override returns ( uint256 ) { return Identifier_0 ( collateral , maturity , Identifier_1 [ collateral ] [ maturity ] [ user ] ) ; }

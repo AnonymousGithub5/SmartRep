@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) private returns ( address ) { require ( Identifier_0 == 10 , stringLiteral_0 ) ; address VariableDeclaration_0 = Identifier_1 [ Identifier_2 ( ) ] ; Identifier_3 . transfer ( address ( this ) . balance ) ; delete Identifier_4 ; Identifier_5 = 0 ; return Identifier_6 ; }

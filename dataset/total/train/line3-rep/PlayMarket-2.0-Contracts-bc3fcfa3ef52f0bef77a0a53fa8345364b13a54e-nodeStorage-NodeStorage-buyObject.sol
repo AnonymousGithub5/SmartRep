@@ -1,0 +1,1 @@
+assert ( msg . value > 0 ) ; if ( Identifier_1 [ _node ] . MemberAccess_0 > Identifier_2 [ _node ] . MemberAccess_1 && Identifier_3 [ _node ] . MemberAccess_2 > Identifier_4 [ _node ] . MemberAccess_3 ) { Identifier_5 [ _node ] = safeAdd ( Identifier_6 [ _node ] , msg . value ) ;

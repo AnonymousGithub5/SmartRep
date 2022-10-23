@@ -1,0 +1,1 @@
+function withdraw ( uint256 Parameter_0 ) external onlyOwner { require ( Identifier_0 > 0 , stringLiteral_0 ) ; require ( Identifier_1 . MemberAccess_0 ( Identifier_2 ) == Identifier_3 , stringLiteral_1 ) ; stablecoin . safeTransfer ( msg . sender , Identifier_4 ) ; }

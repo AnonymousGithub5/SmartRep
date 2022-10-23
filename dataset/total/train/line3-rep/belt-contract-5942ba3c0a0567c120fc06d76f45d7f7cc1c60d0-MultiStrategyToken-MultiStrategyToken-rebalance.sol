@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { require ( msg . sender == Identifier_0 ) ; address VariableDeclaration_0 ;

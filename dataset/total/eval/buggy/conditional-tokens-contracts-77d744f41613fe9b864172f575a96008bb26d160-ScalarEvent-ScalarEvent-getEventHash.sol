@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public constant returns ( bytes32 ) { return keccak256 ( Identifier_0 , Identifier_1 , Identifier_2 , Identifier_3 ) ; }

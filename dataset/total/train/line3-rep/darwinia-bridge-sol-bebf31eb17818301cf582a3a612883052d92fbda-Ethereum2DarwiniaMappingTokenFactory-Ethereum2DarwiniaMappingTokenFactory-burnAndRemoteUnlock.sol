@@ -1,0 +1,1 @@
+require ( amount > 0 , stringLiteral_0 ) ; UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; require ( info . MemberAccess_0 != address ( 0 ) , stringLiteral_1 ) ;

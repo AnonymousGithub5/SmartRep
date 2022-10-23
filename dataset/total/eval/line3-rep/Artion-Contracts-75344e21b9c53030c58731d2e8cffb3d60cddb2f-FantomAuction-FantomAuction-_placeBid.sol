@@ -1,0 +1,1 @@
+uint256 Parameter_1 ) internal nonReentrant whenNotPaused { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] [ _tokenId ] ;

@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_0 [ _user ] ; uint VariableDeclaration_1 = Identifier_1 [ _user ] . MemberAccess_0 ; uint VariableDeclaration_2 = Identifier_2 [ _user ] . MemberAccess_1 ;

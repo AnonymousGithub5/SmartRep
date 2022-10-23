@@ -1,0 +1,1 @@
+require ( Identifier_2 > 0 ) ; require ( Identifier_3 . MemberAccess_1 ( msg . sender , address ( this ) , Identifier_4 ) ) ; msg . sender . transfer ( Identifier_5 ) ;

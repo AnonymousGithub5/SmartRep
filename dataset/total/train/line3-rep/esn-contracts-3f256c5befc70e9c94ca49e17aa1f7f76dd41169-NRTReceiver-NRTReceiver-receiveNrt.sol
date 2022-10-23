@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint32 Parameter_0 ) public payable virtual override { address payable VariableDeclaration_0 = Identifier_0 ( Identifier_1 ( stringLiteral_0 ) ) ;

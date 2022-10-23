@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 ) ModifierInvocation_0 ( Identifier_1 ) { Identifier_0 = msg . sender ; }

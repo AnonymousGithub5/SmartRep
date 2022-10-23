@@ -1,0 +1,1 @@
+Identifier_6 . MemberAccess_0 ( validatorId , - int256 ( amount ) ) ; Identifier_7 . MemberAccess_1 ( validatorId , user , amount , Identifier_8 ) ; Identifier_9 . MemberAccess_2 ( validatorId ) ;

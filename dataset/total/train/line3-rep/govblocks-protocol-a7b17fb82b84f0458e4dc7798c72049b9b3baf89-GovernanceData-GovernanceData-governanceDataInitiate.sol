@@ -1,0 +1,1 @@
+Identifier_3 ( stringLiteral_0 , NumberLiteral_0 ) ; Identifier_4 . push ( Identifier_5 ( NumberLiteral_1 , new uint ( 0 ) , 0 ) ) ; Identifier_6 = true ;

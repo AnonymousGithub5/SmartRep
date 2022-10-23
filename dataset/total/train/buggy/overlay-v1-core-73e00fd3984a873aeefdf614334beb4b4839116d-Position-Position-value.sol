@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 , uint256 Parameter_1 , uint256 Parameter_2 , uint256 Parameter_3 , uint256 Parameter_4 ) internal view returns ( uint256 ) { UserDefinedTypeName_1 memory VariableDeclaration_0 = self ; return _value ( Identifier_0 , Identifier_1 , Identifier_2 , Identifier_3 , Identifier_4 ) ; }

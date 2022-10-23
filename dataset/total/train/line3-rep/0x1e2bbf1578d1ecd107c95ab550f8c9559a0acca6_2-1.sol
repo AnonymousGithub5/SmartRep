@@ -1,0 +1,1 @@
+balanceOf [ _from ] -= _value ; balanceOf [ _to ] += _value ; allowance [ _from ] [ msg . sender ] -= _value ;

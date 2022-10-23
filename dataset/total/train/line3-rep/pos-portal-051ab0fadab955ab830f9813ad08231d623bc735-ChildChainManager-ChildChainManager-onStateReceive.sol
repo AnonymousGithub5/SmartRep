@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 id , bytes calldata data ) override external ModifierInvocation_0 { ( address user , address VariableDeclaration_0 , uint256 amount ) = abi . MemberAccess_0 ( data , ( address , address , uint256 ) ) ;

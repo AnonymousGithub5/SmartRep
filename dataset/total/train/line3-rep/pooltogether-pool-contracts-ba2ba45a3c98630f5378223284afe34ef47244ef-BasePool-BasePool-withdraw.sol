@@ -1,0 +1,1 @@
+function withdraw ( ) public nonReentrant ModifierInvocation_0 { uint balance = balances [ msg . sender ] ; Identifier_0 . withdraw ( msg . sender ) ;

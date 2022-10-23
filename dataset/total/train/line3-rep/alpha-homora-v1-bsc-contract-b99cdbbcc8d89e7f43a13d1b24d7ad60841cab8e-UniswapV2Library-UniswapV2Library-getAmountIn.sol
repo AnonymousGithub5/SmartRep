@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_2 . mul ( amountOut ) . mul ( 1000 ) ; uint VariableDeclaration_1 = Identifier_3 . sub ( amountOut ) . mul ( NumberLiteral_0 ) ; amountIn = ( Identifier_4 / Identifier_5 ) . add ( 1 ) ;

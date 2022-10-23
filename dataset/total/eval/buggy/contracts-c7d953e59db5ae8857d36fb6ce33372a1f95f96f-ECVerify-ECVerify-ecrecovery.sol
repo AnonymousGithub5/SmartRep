@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , uint8 Parameter_1 , bytes32 Parameter_2 , bytes32 Parameter_3 ) public pure returns ( address ) { address VariableDeclaration_0 = Identifier_0 ( hash , v , r , s ) ; require ( result != address ( 0x0 ) , stringLiteral_0 ) ; return result ; }

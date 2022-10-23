@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { Identifier_0 . MemberAccess_0 ( now + 1 seconds ) ; Identifier_1 . MemberAccess_1 ( ) ; Identifier_2 . MemberAccess_2 ( ) ; Identifier_3 . MemberAccess_3 ( ) ; Identifier_4 . MemberAccess_4 ( ) ; }

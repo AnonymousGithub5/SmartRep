@@ -1,0 +1,1 @@
+Identifier_7 . safeTransferFrom ( token , address ( receiver ) , address ( this ) , amount + Identifier_8 ) ; uint VariableDeclaration_1 = IERC20 ( token ) . MemberAccess_3 ( address ( this ) , Identifier_9 ) ; if ( allowance < amount + Identifier_10 ) {

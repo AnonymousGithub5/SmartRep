@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address calldata Parameter_0 , uint256 calldata Parameter_1 ) external onlyOwner { for ( uint256 i = 0 ; i < tokens . length ; i ++ ) { Identifier_0 [ tokens [ i ] ] = Identifier_1 [ i ] ;

@@ -1,0 +1,1 @@
+) external pure override returns ( uint256 ) { require ( address ( Identifier_0 ) == address ( target ) , stringLiteral_0 ) ; return amount ;

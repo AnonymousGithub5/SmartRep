@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 , uint Parameter_2 ) public ModifierInvocation_0 returns ( bool ) { if ( ! Identifier_0 [ asset ] . MemberAccess_0 [ member ] ) {

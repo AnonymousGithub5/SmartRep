@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( int128 ) { uint256 VariableDeclaration_0 = Identifier_0 ( ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _id ) public onlyOwner { emit Identifier_0 ( Identifier_1 , _id ) ; Identifier_2 = _id ; }

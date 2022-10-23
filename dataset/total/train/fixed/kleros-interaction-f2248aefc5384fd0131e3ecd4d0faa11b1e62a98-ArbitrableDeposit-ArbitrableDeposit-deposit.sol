@@ -1,0 +1,1 @@
+function deposit ( uint _amount ) public onlyOwner { amount += _amount ; address ( this ) . transfer ( _amount ) ; }

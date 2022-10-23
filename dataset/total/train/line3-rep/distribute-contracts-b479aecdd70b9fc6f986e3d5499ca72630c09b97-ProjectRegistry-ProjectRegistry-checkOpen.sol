@@ -1,0 +1,1 @@
+if ( Identifier_8 ( Identifier_9 ) . MemberAccess_2 ( ) ) { Identifier_10 ( Identifier_11 ) . MemberAccess_3 ( NumberLiteral_0 , 0 ) ; Identifier_12 [ Identifier_13 ] . MemberAccess_4 = 0 ;

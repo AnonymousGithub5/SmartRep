@@ -1,0 +1,1 @@
+address pool = Identifier_0 ( token ) ; uint256 VariableDeclaration_0 = Identifier_1 ( Identifier_2 , Identifier_3 , pool ) ; Identifier_4 ( token , Identifier_5 , pool ) ;

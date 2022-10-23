@@ -1,0 +1,1 @@
+require ( Identifier_0 != 0 ) ; require ( keccak256 ( Identifier_1 ) != keccak256 ( "" ) ) ; bytes32 VariableDeclaration_0 = keccak256 ( abi . encodePacked ( metadata ) ) ;

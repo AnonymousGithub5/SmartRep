@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 ) public ModifierInvocation_0 { require ( Identifier_0 ( Identifier_1 ) . owner ( ) == address ( this ) , stringLiteral_0 ) ; Identifier_2 [ validatorId ] . MemberAccess_0 = Identifier_3 ; }

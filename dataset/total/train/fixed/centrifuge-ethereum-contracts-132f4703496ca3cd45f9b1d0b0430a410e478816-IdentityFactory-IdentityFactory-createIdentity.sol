@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { UserDefinedTypeName_0 VariableDeclaration_0 = new UserDefinedTypeName_1 ( msg . sender ) ; emit Identifier_0 ( address ( identity ) ) ; }

@@ -1,0 +1,1 @@
+bytes32 VariableDeclaration_0 = Identifier_0 ; ( bool VariableDeclaration_1 , bool VariableDeclaration_2 ) = Identifier_1 . MemberAccess_0 ( Identifier_2 ,

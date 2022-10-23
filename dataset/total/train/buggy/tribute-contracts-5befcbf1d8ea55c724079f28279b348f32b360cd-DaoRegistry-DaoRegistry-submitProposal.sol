@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external ModifierInvocation_0 ( this , Identifier_7 . MemberAccess_0 . MemberAccess_1 ) returns ( uint64 ) { Identifier_0 [ Identifier_1 ++ ] = Identifier_2 ( Identifier_3 , msg . sender , 1 ) ; uint64 VariableDeclaration_0 = Identifier_4 - 1 ; emit Identifier_5 ( proposalId , 1 , Identifier_6 ) ; return proposalId ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint , uint , uint ) external pure returns ( uint ) ;

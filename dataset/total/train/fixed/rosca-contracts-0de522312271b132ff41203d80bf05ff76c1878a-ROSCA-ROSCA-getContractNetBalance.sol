@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external constant returns ( uint256 ) { return Identifier_0 ( ) - Identifier_1 ; }

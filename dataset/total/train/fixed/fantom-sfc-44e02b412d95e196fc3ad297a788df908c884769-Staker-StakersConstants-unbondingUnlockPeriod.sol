@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public pure returns ( uint256 ) { return NumberLiteral_0 * NumberLiteral_1 * NumberLiteral_2 * NumberLiteral_3 * 6 ; }

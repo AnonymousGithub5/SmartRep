@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint ) { return token . balanceOf ( address ( this ) ) . mul ( Identifier_0 ) . div ( max ) ;

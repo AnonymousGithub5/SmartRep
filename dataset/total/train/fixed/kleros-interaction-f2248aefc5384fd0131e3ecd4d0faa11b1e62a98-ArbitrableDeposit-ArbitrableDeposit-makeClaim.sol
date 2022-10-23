@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public ModifierInvocation_0 { require ( Identifier_0 >= 0 && Identifier_1 <= amount ) ; Identifier_2 = msg . sender ; Identifier_3 = Identifier_4 ; Identifier_5 = ( Identifier_6 * Identifier_7 ) / 100 ; address ( this ) . transfer ( Identifier_8 ) ; status = Status . MemberAccess_0 ; }

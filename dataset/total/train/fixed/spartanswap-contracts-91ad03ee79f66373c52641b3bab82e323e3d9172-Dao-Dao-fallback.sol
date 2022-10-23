@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 ) public payable { Identifier_0 = Identifier_1 ; Identifier_2 = msg . sender ; Identifier_3 = 1 ; Identifier_4 = NumberLiteral_0 ; Identifier_5 = NumberLiteral_1 ; }

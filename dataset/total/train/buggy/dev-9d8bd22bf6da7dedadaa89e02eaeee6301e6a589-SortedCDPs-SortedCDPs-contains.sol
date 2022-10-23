@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _id ) external view returns ( bool ) { return Identifier_0 ( _id ) ; }

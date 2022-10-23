@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public constant returns ( uint8 Parameter_0 ) { Identifier_0 = Identifier_1 ; }

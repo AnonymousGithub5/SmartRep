@@ -1,0 +1,1 @@
+uint256 Parameter_3 ) external override returns ( uint256 Parameter_4 ) { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 ( _underlyingAsset , _expiry ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external onlyOwner { Identifier_0 = block . timestamp + Identifier_1 ; Identifier_2 = Identifier_3 ; }

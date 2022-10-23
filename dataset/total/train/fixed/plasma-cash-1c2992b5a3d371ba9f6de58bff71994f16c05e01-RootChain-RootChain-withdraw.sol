@@ -1,0 +1,1 @@
+function withdraw ( uint64 Parameter_0 ) external ModifierInvocation_0 ( slot , Identifier_4 . MemberAccess_2 ) { require ( Identifier_0 [ slot ] . owner == msg . sender , stringLiteral_0 ) ; Identifier_1 ( Identifier_2 [ slot ] . MemberAccess_0 ) . safeTransferFrom ( address ( this ) , msg . sender , uint256 ( Identifier_3 [ slot ] . MemberAccess_1 ) ) ; }

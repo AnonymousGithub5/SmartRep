@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint amount ) public onlyOwner { require ( IERC20 ( Identifier_0 ) . transfer ( msg . sender , amount ) , stringLiteral_0 ) ; }

@@ -1,0 +1,1 @@
+require ( addr != address ( 0 ) , stringLiteral_0 ) ; emit Identifier_0 ( addr , Identifier_1 ) ; }

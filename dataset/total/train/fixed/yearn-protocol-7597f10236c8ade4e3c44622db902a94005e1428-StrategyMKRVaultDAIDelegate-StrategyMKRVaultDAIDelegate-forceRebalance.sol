@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) external { require ( msg . sender == Identifier_0 || msg . sender == Identifier_1 || msg . sender == Identifier_2 , stringLiteral_0 ) ; Identifier_3 ( Identifier_4 ( _amount ) ) ; }

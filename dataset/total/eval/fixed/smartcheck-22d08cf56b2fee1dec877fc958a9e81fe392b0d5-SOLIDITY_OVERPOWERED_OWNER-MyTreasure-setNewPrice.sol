@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public { require ( Identifier_0 == msg . sender ) ; price = _price ; }

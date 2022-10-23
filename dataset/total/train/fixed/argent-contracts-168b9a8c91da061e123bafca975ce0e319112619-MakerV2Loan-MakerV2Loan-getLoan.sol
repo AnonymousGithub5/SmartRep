@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 , bytes32 Parameter_0 ) external view returns ( uint8 Parameter_1 , uint256 Parameter_2 ) { if ( Identifier_0 . MemberAccess_0 ( uint256 ( Identifier_1 ) ) != address ( 0 ) ) { return ( 3 , 0 ) ; } return ( 0 , 0 ) ; }

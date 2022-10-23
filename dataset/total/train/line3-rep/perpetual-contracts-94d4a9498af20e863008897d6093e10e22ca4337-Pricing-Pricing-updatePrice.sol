@@ -1,0 +1,1 @@
+) public override ModifierInvocation_0 ( market ) { uint256 VariableDeclaration_0 = Identifier_0 ( market ) . MemberAccess_0 ( ) ; UserDefinedTypeName_0 storage VariableDeclaration_1 = Identifier_1 [ market ] ;

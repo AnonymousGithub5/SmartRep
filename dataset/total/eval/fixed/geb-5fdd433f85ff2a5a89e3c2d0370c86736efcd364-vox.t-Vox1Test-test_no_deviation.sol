@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { Identifier_0 . MemberAccess_0 ( now + 1 seconds ) ; Identifier_1 . MemberAccess_1 ( ) ; Identifier_2 . MemberAccess_2 ( ) ; assertEq ( Identifier_3 . MemberAccess_3 ( ) , Identifier_4 ( 1 ether ) ) ; assertEq ( Identifier_5 . MemberAccess_4 ( ) , Identifier_6 ( 1 ether ) ) ; }

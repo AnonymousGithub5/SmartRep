@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address owner , address Parameter_1 , string Parameter_2 , string Parameter_3 ) onlyOwner whenNotPaused external returns ( bool ) { require ( Identifier_0 ( Identifier_1 , owner , metadata , Identifier_2 ) == true ) ; if ( Identifier_3 != 0 ) { require ( Identifier_4 ( Identifier_5 , Identifier_6 ) ) ; } return true ; }

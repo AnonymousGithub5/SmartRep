@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _tokenId ) public { _burn ( Identifier_0 ( _tokenId ) , _tokenId ) ; }

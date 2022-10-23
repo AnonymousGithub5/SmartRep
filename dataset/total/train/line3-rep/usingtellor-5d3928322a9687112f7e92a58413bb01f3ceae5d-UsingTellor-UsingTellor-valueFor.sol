@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) view external returns ( int value , uint256 Parameter_1 , uint Parameter_2 ) { uint VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( Identifier_1 ) ;

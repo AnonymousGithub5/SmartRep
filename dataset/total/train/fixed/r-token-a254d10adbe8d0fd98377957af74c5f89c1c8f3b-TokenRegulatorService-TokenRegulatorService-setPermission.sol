@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token , address Parameter_0 , uint8 Parameter_1 ) ModifierInvocation_0 public { Identifier_0 [ _token ] [ Identifier_1 ] = Identifier_2 ; Identifier_3 ( _token , Identifier_4 , Identifier_5 ) ; }

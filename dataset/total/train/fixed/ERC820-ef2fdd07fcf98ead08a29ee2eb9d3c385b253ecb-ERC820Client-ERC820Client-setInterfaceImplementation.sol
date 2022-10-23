@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 , address Parameter_1 ) internal { bytes32 VariableDeclaration_0 = keccak256 ( abi . encodePacked ( Identifier_0 ) ) ; Identifier_1 . MemberAccess_0 ( this , Identifier_2 , Identifier_3 ) ; }

@@ -1,0 +1,1 @@
+uint8 VariableDeclaration_4 = uint8 ( Identifier_4 ) ; bool VariableDeclaration_5 = uint8 ( Identifier_5 >> 8 ) == 0 ; return ( Identifier_6 , Identifier_7 , success , Identifier_8 ) ;

@@ -1,0 +1,1 @@
+if ( _amount > 0 ) { Identifier_2 ( token ) . safeTransferFrom ( address ( msg . sender ) , address ( this ) , _amount ) ; user . amount = user . amount + _amount ;

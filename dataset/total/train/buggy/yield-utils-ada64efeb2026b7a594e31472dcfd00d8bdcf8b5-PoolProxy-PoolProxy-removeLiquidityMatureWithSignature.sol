@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , uint256 Parameter_1 , bytes memory Parameter_2 , bytes memory Parameter_3 ) external { if ( Identifier_0 . length > 0 ) controller . MemberAccess_0 ( Identifier_1 ) ; if ( Identifier_2 . length > 0 ) pool . MemberAccess_1 ( Identifier_3 ) ; Identifier_4 ( pool , Identifier_5 ) ; }

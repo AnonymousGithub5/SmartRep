@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 calldata Parameter_0 ) external pure returns ( bytes32 ) { bytes32 memory VariableDeclaration_0 = Identifier_0 ;

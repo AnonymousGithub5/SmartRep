@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 { Identifier_0 = 0 ; Identifier_1 = RAY ; emit Identifier_2 ( ) ; }

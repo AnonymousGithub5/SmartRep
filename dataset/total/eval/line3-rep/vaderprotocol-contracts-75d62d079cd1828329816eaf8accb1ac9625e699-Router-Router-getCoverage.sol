@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address token ) public view returns ( uint ) { uint VariableDeclaration_0 = Identifier_0 [ member ] [ token ] ; uint VariableDeclaration_1 = Identifier_1 [ member ] [ token ] ;

@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = IERC20 ( Identifier_14 ) . balanceOf ( address ( this ) ) ; Identifier_15 ( Identifier_16 ) . deposit ( Identifier_17 ) ; emit Identifier_18 ( Identifier_19 ) ;

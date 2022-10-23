@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 ) internal { Identifier_0 = Identifier_1 ;

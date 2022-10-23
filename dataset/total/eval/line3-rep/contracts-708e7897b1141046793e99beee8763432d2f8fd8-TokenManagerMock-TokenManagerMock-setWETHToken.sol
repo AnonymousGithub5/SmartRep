@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token ) public onlyOwner { require ( _token != address ( 0 ) ) ;

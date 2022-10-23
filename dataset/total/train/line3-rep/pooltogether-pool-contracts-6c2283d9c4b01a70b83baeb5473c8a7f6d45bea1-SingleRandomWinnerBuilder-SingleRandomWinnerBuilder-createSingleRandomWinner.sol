@@ -1,0 +1,1 @@
+) ; Identifier_12 . MemberAccess_10 ( owner ) ; emit Identifier_13 ( address ( Identifier_14 ) , Identifier_15 , Identifier_16 ) ;

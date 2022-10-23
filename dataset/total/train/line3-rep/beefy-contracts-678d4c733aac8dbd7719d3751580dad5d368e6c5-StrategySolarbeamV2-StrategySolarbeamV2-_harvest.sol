@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) internal { Identifier_0 ( Identifier_1 ) . deposit ( Identifier_2 , 0 ) ; uint256 VariableDeclaration_0 = IERC20 ( Identifier_3 ) . balanceOf ( address ( this ) ) ;

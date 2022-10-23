@@ -1,0 +1,1 @@
+if ( Identifier_0 [ account ] - amount < Identifier_1 [ account ] ) { Identifier_2 [ account ] -= amount ; } else {

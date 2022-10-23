@@ -1,0 +1,1 @@
+msg . sender . transfer ( value ) ; Identifier_2 ( msg . sender , value ) ; }

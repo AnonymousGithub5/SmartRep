@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 ; Identifier_0 += 1 ; Identifier_1 = Identifier_2 ;

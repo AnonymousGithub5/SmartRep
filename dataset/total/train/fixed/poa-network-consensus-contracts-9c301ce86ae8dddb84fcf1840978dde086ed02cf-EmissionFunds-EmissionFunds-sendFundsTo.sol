@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _amount ) external ModifierInvocation_0 returns ( bool ) { if ( msg . data . length < 32 * 2 + 4 ) return false ; bool VariableDeclaration_0 = Identifier_0 . send ( _amount ) ; emit Identifier_1 ( Identifier_2 , msg . sender , tx . origin , _amount , success ) ; return success ; }

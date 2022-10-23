@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user ) private returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 ( user ) ; uint256 VariableDeclaration_1 = Identifier_1 ( Identifier_2 . MemberAccess_0 ( validatorId ) ) ; Identifier_3 = Identifier_4 ; Identifier_5 [ user ] = Identifier_6 ; return Identifier_7 ; }

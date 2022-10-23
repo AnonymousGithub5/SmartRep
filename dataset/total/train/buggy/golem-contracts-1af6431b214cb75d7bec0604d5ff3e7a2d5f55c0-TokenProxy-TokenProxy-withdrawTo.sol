@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _value , address Parameter_0 ) public { address user = msg . sender ; uint256 balance = balances [ user ] ; require ( _value <= balance ) ; balances [ user ] = ( balance - _value ) ; Identifier_0 -= _value ; Identifier_1 . transfer ( Identifier_2 , _value ) ; Identifier_3 ( user , _value ) ; }

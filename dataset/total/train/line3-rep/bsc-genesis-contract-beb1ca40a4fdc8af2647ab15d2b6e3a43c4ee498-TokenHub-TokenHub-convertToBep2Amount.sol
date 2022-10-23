@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 amount , uint256 Parameter_0 ) public pure returns ( uint256 ) { if ( Identifier_0 > Identifier_1 ) {

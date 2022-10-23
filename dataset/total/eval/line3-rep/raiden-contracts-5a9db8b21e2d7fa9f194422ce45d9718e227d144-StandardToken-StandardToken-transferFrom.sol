@@ -1,0 +1,1 @@
+allowed [ _from ] [ msg . sender ] -= _value ; Transfer ( _from , _to , _value ) ; return true ;

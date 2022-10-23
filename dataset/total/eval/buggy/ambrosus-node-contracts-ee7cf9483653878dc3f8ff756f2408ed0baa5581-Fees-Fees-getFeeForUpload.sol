@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint64 Parameter_0 ) public view returns ( uint ) { require ( Identifier_0 > 0 ) ; return Identifier_1 * Identifier_2 ; }

@@ -1,0 +1,1 @@
+IERC20 VariableDeclaration_2 = IERC20 ( Identifier_4 ( _underlyingAsset ) ) ; Identifier_5 . safeTransfer ( _account , Identifier_6 ) ; emit Identifier_7 ( Identifier_8 , _underlyingAsset , _expiry , Identifier_9 , _account ) ;

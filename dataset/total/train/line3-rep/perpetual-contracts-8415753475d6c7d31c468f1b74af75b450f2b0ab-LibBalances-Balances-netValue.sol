@@ -1,0 +1,1 @@
+{ return Identifier_0 . mul ( uint256 ( Identifier_1 . MemberAccess_0 ( Identifier_2 . MemberAccess_1 ) ) , price ) ; }

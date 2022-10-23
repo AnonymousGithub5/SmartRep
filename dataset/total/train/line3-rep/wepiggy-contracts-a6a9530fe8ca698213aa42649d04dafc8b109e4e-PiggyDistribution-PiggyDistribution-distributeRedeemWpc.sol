@@ -1,0 +1,1 @@
+require ( msg . sender == address ( Identifier_0 ) || msg . sender == owner ( ) , stringLiteral_0 ) ; } 

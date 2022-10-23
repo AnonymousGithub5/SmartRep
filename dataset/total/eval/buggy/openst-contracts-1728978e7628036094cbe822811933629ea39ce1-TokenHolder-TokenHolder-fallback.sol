@@ -1,0 +1,1 @@
+constructor ( UserDefinedTypeName_0 _token , address Parameter_0 , address Parameter_1 , uint256 Parameter_2 ) public ModifierInvocation_0 ( Identifier_3 , Identifier_4 ) { require ( _token != address ( 0 ) , stringLiteral_0 ) ; require ( Identifier_0 != address ( 0 ) , stringLiteral_1 ) ; token = _token ; Identifier_1 = Identifier_2 ; }

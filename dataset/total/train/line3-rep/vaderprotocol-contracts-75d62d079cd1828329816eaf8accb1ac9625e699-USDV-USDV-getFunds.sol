@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , uint amount ) internal { if ( token == address ( this ) ) {

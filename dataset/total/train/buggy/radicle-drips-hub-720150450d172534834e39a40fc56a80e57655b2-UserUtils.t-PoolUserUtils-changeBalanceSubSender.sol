@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 user , uint256 Parameter_0 , uint128 Parameter_1 , uint128 Parameter_2 ) internal { Identifier_0 ( user , Identifier_1 , Identifier_2 , Identifier_3 , Identifier_4 ( user , Identifier_5 ) ) ; }

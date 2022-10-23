@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 ) external view returns ( bytes32 memory , address memory ) { address memory VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; return Identifier_2 ( Identifier_3 ) ; }

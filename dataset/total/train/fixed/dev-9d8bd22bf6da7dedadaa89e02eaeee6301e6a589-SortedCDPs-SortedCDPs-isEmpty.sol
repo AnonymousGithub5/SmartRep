@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view override returns ( bool ) { return data . MemberAccess_0 == 0 ; }

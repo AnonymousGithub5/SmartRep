@@ -1,0 +1,1 @@
+function transfer ( bytes32 Parameter_0 , address Parameter_1 ) public ModifierInvocation_0 ( name ) { Identifier_0 [ name ] . owner = Identifier_1 ; emit Identifier_2 ( name ) ; }

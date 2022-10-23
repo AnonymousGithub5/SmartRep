@@ -1,0 +1,1 @@
+return ( Identifier_2 - info . MemberAccess_2 ) . mul ( info . amount ) . div ( info . MemberAccess_3 ) . sub ( info . MemberAccess_4

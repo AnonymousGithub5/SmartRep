@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId , bytes memory Parameter_0 ) external { require ( _msgSender ( ) == Identifier_0 ( tokenId ) , stringLiteral_0 ) ;

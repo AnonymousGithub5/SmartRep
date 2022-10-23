@@ -1,0 +1,1 @@
+{ return Identifier_0 * Identifier_1 . token / Identifier_2 . MemberAccess_0 ; }

@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ id ] ; require ( Identifier_1 . MemberAccess_0 != 0 ) ; require ( ! Identifier_2 . MemberAccess_1 ( Identifier_3 . MemberAccess_2 ) ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _data ) view public returns ( uint ) { return Identifier_0 . MemberAccess_0 ( _data ) ; }

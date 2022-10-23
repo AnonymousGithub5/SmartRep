@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 memory Parameter_1 ) external ModifierInvocation_0 ( dao ) { require ( Identifier_0 . MemberAccess_0 == 0 , stringLiteral_0 ) ;

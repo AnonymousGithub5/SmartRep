@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = Math . MemberAccess_2 ( Identifier_4 , Identifier_5 ) ; uint256 VariableDeclaration_3 = Math . MemberAccess_3 ( Math . MemberAccess_4 , Math . MemberAccess_5 . sub ( Identifier_6 ) ) ; return ( Identifier_7 = Math . MemberAccess_6 ( Identifier_8 , Identifier_9 ) ) ;

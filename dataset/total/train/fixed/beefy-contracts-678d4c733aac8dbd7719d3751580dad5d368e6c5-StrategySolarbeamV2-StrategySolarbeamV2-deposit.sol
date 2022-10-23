@@ -1,0 +1,1 @@
+function deposit ( ) public whenNotPaused { uint256 VariableDeclaration_0 = IERC20 ( want ) . balanceOf ( address ( this ) ) ; if ( Identifier_0 > 0 ) { Identifier_1 ( Identifier_2 ) . deposit ( Identifier_3 , Identifier_4 ) ; emit Identifier_5 ( balanceOf ( ) ) ; } }

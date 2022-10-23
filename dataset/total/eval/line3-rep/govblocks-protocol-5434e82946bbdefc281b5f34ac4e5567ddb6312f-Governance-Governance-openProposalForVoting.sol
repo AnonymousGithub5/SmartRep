@@ -1,0 +1,1 @@
+{ uint VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( governanceDat . MemberAccess_1 ( _proposalId ) ) ; require ( Identifier_1 != 0 ) ;

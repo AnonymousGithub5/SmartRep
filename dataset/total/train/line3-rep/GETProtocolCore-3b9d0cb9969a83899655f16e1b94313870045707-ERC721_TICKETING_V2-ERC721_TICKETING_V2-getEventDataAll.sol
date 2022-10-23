@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view returns ( string memory Parameter_1 , string memory Parameter_2 , string memory Parameter_3 , uint Parameter_4 , string memory Parameter_5 , address , string memory Parameter_6 ) { return Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( Identifier_2 ) ; }

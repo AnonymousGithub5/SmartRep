@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint32 ) external override returns ( uint256 ) { return Identifier_0 ; }

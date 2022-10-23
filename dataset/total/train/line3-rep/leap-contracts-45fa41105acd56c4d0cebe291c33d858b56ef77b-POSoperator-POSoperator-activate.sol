@@ -1,0 +1,1 @@
+if ( slot . MemberAccess_1 > 0 ) { ERC20 ( Identifier_5 . MemberAccess_2 ( ) ) . transfer ( slot . owner , slot . MemberAccess_3 ) ; emit Identifier_6 (

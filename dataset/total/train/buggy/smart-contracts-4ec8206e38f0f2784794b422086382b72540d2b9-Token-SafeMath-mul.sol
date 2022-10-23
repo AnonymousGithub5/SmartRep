@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint a , uint b ) internal pure returns ( uint ) { uint VariableDeclaration_0 = a * b ; require ( a == 0 || c / a == b ) ; return c ; }

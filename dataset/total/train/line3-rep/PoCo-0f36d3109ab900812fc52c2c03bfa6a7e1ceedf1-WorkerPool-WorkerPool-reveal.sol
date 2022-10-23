@@ -1,0 +1,1 @@
+require ( Identifier_0 [ Identifier_1 ] . status == Identifier_2 . MemberAccess_0 ) ; require ( Identifier_3 [ Identifier_4 ] != 0x0 && now < Identifier_5 [ Identifier_6 ] ) ; require ( Identifier_7 [ Identifier_8 ] [ msg . sender ] . status == Identifier_9 . MemberAccess_1 ) ;

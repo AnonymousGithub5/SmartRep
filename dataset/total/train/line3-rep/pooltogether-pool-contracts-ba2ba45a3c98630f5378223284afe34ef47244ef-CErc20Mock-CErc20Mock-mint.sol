@@ -1,0 +1,1 @@
+function mint ( uint amount ) external returns ( uint ) { Identifier_0 [ msg . sender ] = Identifier_1 [ msg . sender ] + amount ;

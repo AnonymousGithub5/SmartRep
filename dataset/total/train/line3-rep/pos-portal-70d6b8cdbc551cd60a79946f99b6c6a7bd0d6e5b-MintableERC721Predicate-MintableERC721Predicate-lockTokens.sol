@@ -1,0 +1,1 @@
+emit Identifier_1 ( Identifier_2 , Identifier_3 , Identifier_4 , tokenId ) ; Identifier_5 ( Identifier_6 ) . safeTransferFrom ( Identifier_7 , address ( this ) , tokenId ) ; }

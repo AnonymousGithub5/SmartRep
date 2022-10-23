@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ERC20 Parameter_0 , uint Parameter_1 , ERC20 Parameter_2 , uint Parameter_3 ) public returns ( uint ) { bytes memory VariableDeclaration_0 ; return Identifier_0 ( Identifier_1 , Identifier_2 , Identifier_3 , msg . sender , Identifier_4 , Identifier_5 , address ( 0 ) , Identifier_6 ) ; }

@@ -1,0 +1,1 @@
+Identifier_4 [ id ] [ account ] = Identifier_5 [ id ] [ account ] . add ( amount ) ; emit Identifier_6 ( Identifier_7 , address ( 0 ) , account , id , amount ) ; Identifier_8 ( Identifier_9 , address ( 0 ) , account , id , amount , data ) ;

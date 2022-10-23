@@ -1,0 +1,1 @@
+require ( Identifier_3 . transfer ( msg . sender , Identifier_4 ) ) ; require ( Identifier_5 ( _assetID , Identifier_6 . MemberAccess_1 ( ) ) ) ; msg . sender . transfer ( msg . value . sub ( Identifier_7 ) ) ;

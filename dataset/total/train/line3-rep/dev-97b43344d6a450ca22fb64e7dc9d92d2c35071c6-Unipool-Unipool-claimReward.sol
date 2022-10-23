@@ -1,0 +1,1 @@
+Identifier_1 ( ) ; Identifier_2 ( msg . sender ) ; uint256 VariableDeclaration_0 = Identifier_3 ( msg . sender ) ;

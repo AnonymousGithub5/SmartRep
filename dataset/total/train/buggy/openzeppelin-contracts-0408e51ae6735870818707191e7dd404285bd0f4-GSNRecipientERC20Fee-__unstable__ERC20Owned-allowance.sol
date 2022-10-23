@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address spender ) public view override ( ERC20 , IERC20 ) returns ( uint256 ) { if ( spender == owner ( ) ) { return Identifier_0 ; } else { return super . MemberAccess_0 ( Identifier_1 , spender ) ; } }

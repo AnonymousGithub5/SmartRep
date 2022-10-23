@@ -1,0 +1,1 @@
+public ModifierInvocation_0 whenNotPaused

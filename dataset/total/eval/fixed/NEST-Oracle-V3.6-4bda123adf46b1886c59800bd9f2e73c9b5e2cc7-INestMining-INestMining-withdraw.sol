@@ -1,0 +1,1 @@
+function withdraw ( address Parameter_0 , uint value ) external ;

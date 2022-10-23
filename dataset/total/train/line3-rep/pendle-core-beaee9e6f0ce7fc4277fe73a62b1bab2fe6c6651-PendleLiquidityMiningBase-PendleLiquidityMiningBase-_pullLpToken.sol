@@ -1,0 +1,1 @@
+Identifier_0 ( expiry , msg . sender ) ; IERC20 ( Identifier_1 ) . safeTransferFrom ( msg . sender , Identifier_2 [ expiry ] , amount ) ; }

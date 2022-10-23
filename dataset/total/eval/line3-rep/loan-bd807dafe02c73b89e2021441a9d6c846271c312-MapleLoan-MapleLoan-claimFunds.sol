@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 ) external override { require ( msg . sender == Identifier_0 , stringLiteral_0 ) ;

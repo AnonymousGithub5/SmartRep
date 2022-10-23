@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _wallet , address Parameter_0 ) internal view returns ( bool ) { return Identifier_0 . MemberAccess_0 ( _wallet , Identifier_1 ) ;

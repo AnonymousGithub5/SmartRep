@@ -1,0 +1,1 @@
+Identifier_2 = IERC20 ( Identifier_3 ) . MemberAccess_0 ( ) ; Identifier_4 = 10 ** 18 ; }

@@ -1,0 +1,1 @@
+function mint ( address to , uint value ) public { totalSupply = totalSupply . add ( value ) ;

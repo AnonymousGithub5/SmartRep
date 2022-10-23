@@ -1,0 +1,1 @@
+require ( to != address ( Identifier_0 ) && to != address ( Identifier_1 ) , stringLiteral_0 ) ; if ( token == NumberLiteral_0 ) { to . transfer ( amount ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 token ) public { uint256 VariableDeclaration_0 = Identifier_0 ( token ) ; require ( Identifier_1 > 0 ) ; Identifier_2 [ token ] = Identifier_3 [ token ] . add ( Identifier_4 ) ; token . safeTransfer ( _beneficiary , Identifier_5 ) ; emit Identifier_6 ( token , Identifier_7 ) ; }

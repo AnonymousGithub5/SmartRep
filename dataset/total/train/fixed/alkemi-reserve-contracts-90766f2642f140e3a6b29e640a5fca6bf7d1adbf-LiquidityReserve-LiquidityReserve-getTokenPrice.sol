@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token ) internal view returns ( uint256 ) { return Identifier_0 ( Identifier_1 ( ) ) . MemberAccess_0 ( _token ) ; }

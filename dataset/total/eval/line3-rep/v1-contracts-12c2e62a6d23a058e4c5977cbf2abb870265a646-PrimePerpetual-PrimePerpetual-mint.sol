@@ -1,0 +1,1 @@
+Identifier_8 ( Identifier_9 , Identifier_10 ) ; ( uint inTokenP , ) = Identifier_11 ( msg . sender , Identifier_12 ) ; IERC20 ( Identifier_13 ) . transferFrom ( msg . sender , address ( this ) , payment ) ;

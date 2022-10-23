@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view returns ( bytes32 ) { bytes32 VariableDeclaration_0 = database . MemberAccess_0 ( keccak256 ( abi . encodePacked ( stringLiteral_0 , Identifier_0 ) ) ) ; return Identifier_1 ; }

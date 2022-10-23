@@ -1,0 +1,1 @@
+constructor ( ) { Identifier_0 = msg . sender ; }

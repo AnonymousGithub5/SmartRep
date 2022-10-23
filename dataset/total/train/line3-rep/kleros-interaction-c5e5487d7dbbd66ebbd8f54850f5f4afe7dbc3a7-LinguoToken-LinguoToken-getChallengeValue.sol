@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = arbitrator . MemberAccess_2 ( Identifier_5 ) ; Identifier_6 = arbitrationCost . MemberAccess_3 ( Identifier_7 ) ; }

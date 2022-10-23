@@ -1,0 +1,1 @@
+bytes memory VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; return Identifier_2 ( abi . encodePacked ( _address ) ,

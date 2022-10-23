@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , uint256 Parameter_1 , bool Parameter_2 ) public constant returns ( bytes32 Parameter_3 ) { Identifier_0 = Identifier_1 ( Identifier_2 , Identifier_3 , daoStorage ( ) . MemberAccess_0 , daoStorage ( ) . MemberAccess_1 , daoStorage ( ) . MemberAccess_2 , daoStorage ( ) . MemberAccess_3 , Identifier_4 ) ; }

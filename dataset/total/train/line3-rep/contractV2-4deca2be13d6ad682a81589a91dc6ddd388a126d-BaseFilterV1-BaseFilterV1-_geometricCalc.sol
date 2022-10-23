@@ -1,0 +1,1 @@
+if ( Identifier_0 == DecimalMath . MemberAccess_0 ) { return end . sub ( Identifier_1 ) . MemberAccess_1 ( Identifier_2 ) ; }

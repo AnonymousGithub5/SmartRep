@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes ) external returns ( address ) { return address ( new UserDefinedTypeName_0 ( msg . sender ) ) ; }

@@ -1,0 +1,1 @@
+balanceOf [ msg . sender ] += msg . value ; Identifier_2 += msg . value ; emit Identifier_3 ( msg . sender , msg . value ) ;

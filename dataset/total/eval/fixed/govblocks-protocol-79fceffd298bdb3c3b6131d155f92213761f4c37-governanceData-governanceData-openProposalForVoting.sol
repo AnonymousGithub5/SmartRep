@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _proposalId ) onlyOwner public { require ( Identifier_0 [ _proposalId ] . MemberAccess_0 == 0 && ( Identifier_1 [ _proposalId ] . MemberAccess_1 != 0 ) ) ; Identifier_2 ( _proposalId , 1 ) ; Identifier_3 ( _proposalId , 1 ) ; }

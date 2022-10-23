@@ -1,0 +1,1 @@
+Identifier_10 . MemberAccess_1 ( validatorId , int256 ( _amount ) ) ; UserDefinedTypeName_0 VariableDeclaration_3 = Identifier_11 ; Identifier_12 . MemberAccess_2 ( validatorId , user , _amount , Identifier_13 ) ;

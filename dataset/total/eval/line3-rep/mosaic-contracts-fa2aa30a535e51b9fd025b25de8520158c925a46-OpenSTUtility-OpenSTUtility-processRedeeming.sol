@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_1 [ Identifier_2 ] ; require ( Identifier_3 . MemberAccess_0 == keccak256 ( Identifier_4 ) ) ; UserDefinedTypeName_1 token = Identifier_5 [ Identifier_6 . MemberAccess_1 ] . token ;

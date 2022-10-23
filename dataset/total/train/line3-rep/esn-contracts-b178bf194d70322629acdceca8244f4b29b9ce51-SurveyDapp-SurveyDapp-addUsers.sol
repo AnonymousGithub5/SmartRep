@@ -1,0 +1,1 @@
+msg . sender . transfer ( Identifier_17 * Identifier_18 ) ; Identifier_19 ( ) . MemberAccess_0 ( msg . sender , msg . value . sub ( Identifier_20 * Identifier_21 ) ) ; }

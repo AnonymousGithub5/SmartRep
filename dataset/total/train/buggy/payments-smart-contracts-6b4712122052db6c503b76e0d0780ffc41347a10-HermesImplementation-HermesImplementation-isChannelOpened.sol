@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public view returns ( bool ) { return Identifier_0 [ Identifier_1 ] . MemberAccess_0 != address ( 0 ) ; }

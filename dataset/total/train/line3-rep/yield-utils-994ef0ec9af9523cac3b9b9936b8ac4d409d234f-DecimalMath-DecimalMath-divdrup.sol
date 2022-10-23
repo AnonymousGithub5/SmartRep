@@ -1,0 +1,1 @@
+{ uint256 VariableDeclaration_0 = x . mul ( NumberLiteral_0 ) . div ( y ) ; if ( Identifier_0 % 10 > 0 ) return Identifier_1 / 10 + 1 ;

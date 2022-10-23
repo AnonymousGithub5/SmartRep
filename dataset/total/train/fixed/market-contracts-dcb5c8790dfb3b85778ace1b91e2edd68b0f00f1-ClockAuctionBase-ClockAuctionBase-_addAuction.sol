@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _tokenId , UserDefinedTypeName_0 Parameter_0 ) internal { require ( Identifier_0 . MemberAccess_0 >= 1 minutes ) ; Identifier_1 [ _tokenId ] = Identifier_2 ; emit Identifier_3 ( uint256 ( _tokenId ) , uint256 ( Identifier_4 . MemberAccess_1 ) , uint256 ( Identifier_5 . MemberAccess_2 ) , uint256 ( Identifier_6 . MemberAccess_3 ) ) ; }

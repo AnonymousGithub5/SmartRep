@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , address Parameter_0 ) public view returns ( uint Parameter_1 , uint Parameter_2 ) { address pool = Identifier_0 ( token ) ; uint VariableDeclaration_0 = Identifier_1 ( pool ) . balanceOf ( member ) ; return Identifier_2 ( token , Identifier_3 ) ; }

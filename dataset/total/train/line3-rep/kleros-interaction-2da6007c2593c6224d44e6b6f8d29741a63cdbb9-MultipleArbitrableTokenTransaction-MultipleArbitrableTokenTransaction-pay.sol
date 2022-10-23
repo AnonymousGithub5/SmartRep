@@ -1,0 +1,1 @@
+require ( transaction . sender == msg . sender , stringLiteral_0 ) ; require ( transaction . status == Status . MemberAccess_0 , stringLiteral_1 ) ; require ( _amount <= transaction . amount , stringLiteral_2 ) ;

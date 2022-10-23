@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) public view returns ( uint256 Parameter_0 ) { if ( Identifier_0 == address ( 0 ) ) { balance = balanceOf ( account ) ; } else { uint256 VariableDeclaration_0 = Identifier_1 ( Identifier_2 ) . MemberAccess_0 ( account ) ; balance = balanceOf ( account ) . sub ( Identifier_3 ) ; } }

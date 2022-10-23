@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public onlyOwner { Identifier_0 = ERC20 ( registry . MemberAccess_0 ( Identifier_1 . MemberAccess_1 ) ) ; }

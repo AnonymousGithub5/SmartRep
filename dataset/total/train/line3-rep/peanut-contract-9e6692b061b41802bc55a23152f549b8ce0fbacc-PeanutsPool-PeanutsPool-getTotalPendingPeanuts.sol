@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = Identifier_4 ( Identifier_5 + 1 , Identifier_6 ) ; return totalSupply . add ( Identifier_7 ) ; } else {

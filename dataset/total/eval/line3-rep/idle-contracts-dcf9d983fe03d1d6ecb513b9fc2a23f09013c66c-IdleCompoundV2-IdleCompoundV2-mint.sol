@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_2 ( token ) ; require ( Identifier_3 . mint ( balance ) == 0 , stringLiteral_0 ) ; Identifier_4 = IERC20 ( token ) . balanceOf ( address ( this ) ) ;

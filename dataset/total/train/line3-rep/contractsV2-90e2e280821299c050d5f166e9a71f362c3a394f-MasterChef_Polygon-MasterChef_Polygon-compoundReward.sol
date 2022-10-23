@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public { uint256 balance = Identifier_0 . balanceOf ( msg . sender ) ;

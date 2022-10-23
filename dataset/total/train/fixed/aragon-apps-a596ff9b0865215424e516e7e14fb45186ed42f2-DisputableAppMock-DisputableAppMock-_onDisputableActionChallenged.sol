@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _id , uint256 , address ) internal { require ( ! Identifier_0 , Identifier_1 ) ; Identifier_2 [ _id ] . MemberAccess_0 = true ; emit Identifier_3 ( _id ) ; }

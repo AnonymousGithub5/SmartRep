@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable Parameter_0 ) public onlyOwner { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; emit Identifier_1 ( owner , Identifier_2 ) ; owner = Identifier_3 ; }

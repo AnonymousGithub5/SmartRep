@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( Identifier_1 , Identifier_2 ) ; require ( keccak256 ( Identifier_3 ) != keccak256 ( 0 ) , stringLiteral_0 ) ; return Identifier_4 ;

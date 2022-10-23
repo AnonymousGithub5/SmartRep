@@ -1,0 +1,1 @@
+require ( Identifier_2 == Identifier_3 ( Identifier_4 , Identifier_5 , Identifier_6 , Identifier_7 ) ) ; require ( keccak256 ( abi . encodePacked ( _user , Identifier_8 , _value ) ) == Identifier_9 ) ; ERC20 token = ERC20 ( Identifier_10 ) ;

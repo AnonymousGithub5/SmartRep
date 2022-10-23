@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 ) public ModifierInvocation_0 ( Identifier_2 , stringLiteral_0 , stringLiteral_1 ) { Identifier_0 = new UserDefinedTypeName_0 ( ) ; Identifier_1 ( ) ; }

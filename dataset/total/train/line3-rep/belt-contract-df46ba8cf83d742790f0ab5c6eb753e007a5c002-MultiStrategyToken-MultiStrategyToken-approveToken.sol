@@ -1,0 +1,1 @@
+for ( ; i < Identifier_0 . length ; i += 1 ) { IERC20 ( token ) . safeApprove ( Identifier_1 [ i ] , uint ( - 1 ) ) ; }

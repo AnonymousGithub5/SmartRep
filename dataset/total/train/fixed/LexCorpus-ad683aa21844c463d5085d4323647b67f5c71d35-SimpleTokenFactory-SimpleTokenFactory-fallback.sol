@@ -1,0 +1,1 @@
+FunctionDefinition_0 ( ) external { new UserDefinedTypeName_0 ( msg . sender ) ; }

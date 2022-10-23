@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public onlyOwner { require ( ! Identifier_0 ) ; Identifier_1 = true ; emit Identifier_2 ( Identifier_3 , now ) ; }

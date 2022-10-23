@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { Identifier_0 ( ) ; uint256 VariableDeclaration_0 = base . balanceOf ( address ( this ) ) ; uint256 VariableDeclaration_1 = Identifier_1 ( ) ; uint256 VariableDeclaration_2 = Identifier_2 . mul ( Identifier_3 ) . div ( 100 ) ; if ( Identifier_4 > Identifier_5 ) { Identifier_6 ( Identifier_7 . sub ( Identifier_8 ) ) ; } }

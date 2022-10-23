@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _to , bytes memory _data ) internal pure returns ( address spender ) { if ( _data . length >= NumberLiteral_0 ) {

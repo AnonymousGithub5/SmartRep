@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) internal { Identifier_0 [ Identifier_1 ] . MemberAccess_0 = Identifier_2 ; emit Identifier_3 ( Identifier_4 , Identifier_5 ) ; }

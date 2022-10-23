@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public onlyOwner { Identifier_0 = block . timestamp + Identifier_1 ;

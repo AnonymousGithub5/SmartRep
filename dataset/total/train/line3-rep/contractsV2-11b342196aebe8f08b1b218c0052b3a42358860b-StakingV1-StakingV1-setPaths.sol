@@ -1,0 +1,1 @@
+) ; uint256 memory VariableDeclaration_1 = Identifier_3 . MemberAccess_0 ( 10 ** 10 , path ) ; require ( Identifier_4 [ Identifier_5 . length - 1 ] != 0 , stringLiteral_1 ) ;

@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_1 ( Identifier_2 . MemberAccess_0 ( Identifier_3 , msg . sender ) ) ; Identifier_4 . MemberAccess_1 ( Identifier_5 , Identifier_6 ) ; address [ Identifier_7 ] memory VariableDeclaration_1 = Identifier_8 ;

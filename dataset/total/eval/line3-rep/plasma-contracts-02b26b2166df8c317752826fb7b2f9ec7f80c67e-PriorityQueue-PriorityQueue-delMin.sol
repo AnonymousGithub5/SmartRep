@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 ( Identifier_13 ) returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 [ 1 ] ; Identifier_1 . MemberAccess_1 [ 1 ] = Identifier_2 . MemberAccess_2 [ Identifier_3 . MemberAccess_3 ] ;

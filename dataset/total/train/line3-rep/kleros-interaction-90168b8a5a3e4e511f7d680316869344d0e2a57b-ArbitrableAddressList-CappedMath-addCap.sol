@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) internal pure returns ( uint256 ) { uint VariableDeclaration_0 = Identifier_0 + Identifier_1 ;

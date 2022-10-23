@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 calldata a , uint256 Parameter_0 , UserDefinedTypeName_1 calldata b , uint256 Parameter_1 ) external view returns ( UserDefinedTypeName_2 ) { return Identifier_0 . MemberAccess_0 ( a , Identifier_1 , b , Identifier_2 ) ; }

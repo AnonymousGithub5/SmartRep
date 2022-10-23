@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 ( stringLiteral_1 ) onlyOwner { require ( ! Identifier_0 , stringLiteral_0 ) ; Identifier_1 = true ; delete controller ; emit Identifier_2 ( now ) ; }

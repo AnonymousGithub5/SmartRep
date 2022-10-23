@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , address Parameter_0 ) external { uint VariableDeclaration_0 = Identifier_0 ( token , pool ) ;

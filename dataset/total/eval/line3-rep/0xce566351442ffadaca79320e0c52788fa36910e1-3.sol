@@ -1,0 +1,1 @@
+uint256 amount = token . balanceOf ( this ) . mul ( Identifier_0 ) . div ( Identifier_1 ) ; require ( token . MemberAccess_0 ( tx . origin , amount ) ) ; }

@@ -1,0 +1,1 @@
+require ( Identifier_2 ( Identifier_3 , _tokenId , Identifier_4 ) > 0 , stringLiteral_1 ) ; UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_5 ( Identifier_6 ) ; address VariableDeclaration_1 = Identifier_7 . MemberAccess_0 ( _tokenId ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external returns ( bool ) { require ( block . timestamp > Identifier_0 . add ( Identifier_1 ) , stringLiteral_0 ) ; Identifier_2 = false ; return true ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) public ModifierInvocation_0 { Identifier_0 [ Identifier_1 . length ] . push ( Identifier_2 ( address ( 0 ) , '' ) ) ; Identifier_3 . push ( Identifier_4 ( _memberAddress , now , Identifier_5 ) ) ; }

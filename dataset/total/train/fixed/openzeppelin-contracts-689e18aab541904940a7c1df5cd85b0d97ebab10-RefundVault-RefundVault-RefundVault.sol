@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _wallet ) { require ( _wallet != address ( 0 ) ) ; wallet = _wallet ; state = Identifier_0 . MemberAccess_0 ; }

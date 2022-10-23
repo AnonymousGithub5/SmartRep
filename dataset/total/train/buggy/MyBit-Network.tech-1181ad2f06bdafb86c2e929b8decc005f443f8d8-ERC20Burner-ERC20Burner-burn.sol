@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint _amount ) external ModifierInvocation_0 ( msg . sender ) returns ( bool ) { require ( token . MemberAccess_0 ( Identifier_0 , address ( this ) ) >= _amount ) ; require ( token . MemberAccess_1 ( Identifier_1 , _amount ) ) ; emit Identifier_2 ( Identifier_3 , msg . sender , _amount ) ; return true ; }

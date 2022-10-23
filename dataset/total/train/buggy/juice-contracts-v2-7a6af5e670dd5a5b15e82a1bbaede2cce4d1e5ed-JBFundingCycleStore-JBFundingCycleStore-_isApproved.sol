@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) private view returns ( bool ) { return Identifier_0 ( _fundingCycle . id , _fundingCycle . MemberAccess_0 , _fundingCycle . MemberAccess_1 ) == Identifier_1 . MemberAccess_2 ; }

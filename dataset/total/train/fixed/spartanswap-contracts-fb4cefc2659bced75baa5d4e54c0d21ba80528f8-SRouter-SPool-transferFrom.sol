@@ -1,0 +1,1 @@
+function transferFrom ( address from , address to , uint value ) public override returns ( bool success ) { require ( value <= Identifier_0 [ from ] [ msg . sender ] , stringLiteral_0 ) ; Identifier_1 [ from ] [ msg . sender ] = Identifier_2 [ from ] [ msg . sender ] . sub ( value ) ; Identifier_3 ( from , to , value ) ; return true ; }

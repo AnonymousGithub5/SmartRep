@@ -1,0 +1,1 @@
+require ( Identifier_3 > 0 && Identifier_4 ( ) > Identifier_5 . add ( Identifier_6 ( 6 ) ) ) ; uint256 VariableDeclaration_2 = total . mul ( Identifier_7 ( ) . sub ( Identifier_8 ) . div ( Identifier_9 ( NumberLiteral_0 ) ) ) ; Identifier_10 = Identifier_11 . sub ( Identifier_12 ) ;

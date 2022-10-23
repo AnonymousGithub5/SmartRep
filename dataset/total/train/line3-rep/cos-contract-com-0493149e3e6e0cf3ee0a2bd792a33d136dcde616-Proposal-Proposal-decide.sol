@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string calldata id , string calldata Parameter_0 , UserDefinedTypeName_0 target ) external { UserDefinedTypeName_1 memory VariableDeclaration_0 = Identifier_0 ( id , Identifier_1 ) ;

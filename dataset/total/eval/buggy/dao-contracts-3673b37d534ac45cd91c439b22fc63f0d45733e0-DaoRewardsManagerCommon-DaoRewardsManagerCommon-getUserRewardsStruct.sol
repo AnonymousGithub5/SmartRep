@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user ) internal constant returns ( UserDefinedTypeName_0 memory _data ) { _data . MemberAccess_0 = Identifier_0 ( ) . MemberAccess_1 ( _user ) ; _data . MemberAccess_2 = Identifier_1 ( ) . MemberAccess_3 ( _user ) ; _data . MemberAccess_4 = Identifier_2 ( _data . MemberAccess_5 ) ; }

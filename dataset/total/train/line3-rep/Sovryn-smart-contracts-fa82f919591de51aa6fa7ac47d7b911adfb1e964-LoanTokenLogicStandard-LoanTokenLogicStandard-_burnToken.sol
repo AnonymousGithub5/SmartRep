@@ -1,0 +1,1 @@
+if ( Identifier_1 > balanceOf ( msg . sender ) ) { Identifier_2 = balanceOf ( msg . sender ) ; }

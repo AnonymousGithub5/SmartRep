@@ -1,0 +1,1 @@
+Identifier_11 [ Identifier_12 ] [ Identifier_13 ] [ auctionIndex + 1 ] = Identifier_14 ( Identifier_15 , fee ) ; Identifier_16 ( Identifier_17 , Identifier_18 , msg . sender , auctionIndex , fee ) ; }

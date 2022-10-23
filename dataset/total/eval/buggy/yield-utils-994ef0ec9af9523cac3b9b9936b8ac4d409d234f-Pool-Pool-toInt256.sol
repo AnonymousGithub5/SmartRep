@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 x ) internal pure returns ( int256 ) { require ( x <= NumberLiteral_0 , stringLiteral_0 ) ; return int256 ( x ) ; }

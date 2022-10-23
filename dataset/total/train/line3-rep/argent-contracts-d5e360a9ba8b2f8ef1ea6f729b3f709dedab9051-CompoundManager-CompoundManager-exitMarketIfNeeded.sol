@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = Identifier_2 ( Identifier_3 ) . MemberAccess_0 ( address ( _wallet ) ) ; if ( collateral == 0 && Identifier_4 == 0 ) { Identifier_5 ( address ( _wallet ) , Identifier_6 , 0 , abi . MemberAccess_1 ( stringLiteral_0 , Identifier_7 ) ) ;

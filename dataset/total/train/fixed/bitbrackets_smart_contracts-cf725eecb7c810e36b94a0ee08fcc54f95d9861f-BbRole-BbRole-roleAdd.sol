@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 , address _address ) internal { require ( _address != 0x0 ) ; require ( keccak256 ( Identifier_0 ) != keccak256 ( stringLiteral_0 ) ) ; Identifier_1 . MemberAccess_0 ( keccak256 ( stringLiteral_1 , Identifier_2 , _address ) , true ) ; emit Identifier_3 ( Identifier_4 , _address ) ; }

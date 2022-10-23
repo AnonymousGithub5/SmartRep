@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes calldata Parameter_0 , uint256 amount , address Parameter_1 ) external view ;

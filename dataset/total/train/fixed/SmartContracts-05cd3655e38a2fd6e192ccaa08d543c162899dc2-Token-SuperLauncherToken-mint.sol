@@ -1,0 +1,1 @@
+function mint ( address _to , uint256 _amount ) public onlyOwner { require ( ERC20 . totalSupply ( ) . add ( _amount ) <= Identifier_0 , stringLiteral_0 ) ; _mint ( _to , _amount ) ; }

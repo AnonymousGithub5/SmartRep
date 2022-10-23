@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address _user ) external view returns ( uint256 ) { PoolInfo storage pool = poolInfo [ _pid ] ; UserInfo storage user = userInfo [ _pid ] [ _user ] ; uint256 VariableDeclaration_0 = pool . MemberAccess_0 ; return user . amount . mul ( Identifier_0 ) . div ( 1e12 ) . sub ( user . rewardDebt ) ; }

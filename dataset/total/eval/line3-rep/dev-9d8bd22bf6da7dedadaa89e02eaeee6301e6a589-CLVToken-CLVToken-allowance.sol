@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address owner , address spender ) external view returns ( uint256 ) { return Identifier_0 ( owner , spender ) ;

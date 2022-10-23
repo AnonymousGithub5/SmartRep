@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint256 amount ) public virtual { uint256 VariableDeclaration_0 = allowance ( account , msg . sender ) . sub ( amount , stringLiteral_0 ) ; Identifier_0 ( account , msg . sender , Identifier_1 ) ; _burn ( account , amount ) ; }

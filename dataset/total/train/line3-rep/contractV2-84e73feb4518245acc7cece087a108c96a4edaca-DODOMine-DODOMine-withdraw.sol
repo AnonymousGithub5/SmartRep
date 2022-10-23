@@ -1,0 +1,1 @@
+user . amount = user . amount . sub ( _amount ) ; user . rewardDebt = DecimalMath . MemberAccess_1 ( user . amount , pool . MemberAccess_2 ) ; IERC20 ( pool . MemberAccess_3 ) . safeTransfer ( address ( msg . sender ) , _amount ) ;

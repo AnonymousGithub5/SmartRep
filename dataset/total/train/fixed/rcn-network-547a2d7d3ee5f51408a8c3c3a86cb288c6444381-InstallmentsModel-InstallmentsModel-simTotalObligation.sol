@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes _data ) external view returns ( uint256 amount ) { ( uint256 cuota , , uint256 installments , , ) = Identifier_0 ( _data ) ; amount = Identifier_1 * Identifier_2 ; }

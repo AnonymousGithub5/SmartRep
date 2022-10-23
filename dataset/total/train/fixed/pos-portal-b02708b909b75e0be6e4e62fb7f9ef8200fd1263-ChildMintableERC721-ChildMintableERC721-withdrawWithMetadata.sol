@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId , bytes calldata Parameter_0 ) external { require ( _msgSender ( ) == Identifier_0 ( tokenId ) , stringLiteral_0 ) ; Identifier_1 [ tokenId ] = true ; emit Identifier_2 ( Identifier_3 ( tokenId ) , address ( 0 ) , tokenId , Identifier_4 ) ; _burn ( tokenId ) ; }

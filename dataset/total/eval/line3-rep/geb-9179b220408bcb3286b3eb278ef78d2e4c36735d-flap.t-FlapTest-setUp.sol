@@ -1,0 +1,1 @@
+Identifier_3 = new UserDefinedTypeName_1 ( '' ) ; Identifier_4 = new UserDefinedTypeName_2 ( address ( vat ) , address ( Identifier_5 ) ) ; vat . MemberAccess_1 ( address ( Identifier_6 ) ) ;

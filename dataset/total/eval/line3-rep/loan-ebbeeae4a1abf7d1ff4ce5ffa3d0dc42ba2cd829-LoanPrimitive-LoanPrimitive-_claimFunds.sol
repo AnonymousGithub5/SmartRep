@@ -1,0 +1,1 @@
+Identifier_0 -= amount ; return Identifier_1 . transfer ( Identifier_2 , Identifier_3 , amount ) && Identifier_4 ( ) ; }

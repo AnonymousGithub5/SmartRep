@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public onlyOwner { UserDefinedTypeName_0 VariableDeclaration_0 = new UserDefinedTypeName_1 ( ) ; Identifier_0 . MemberAccess_0 (

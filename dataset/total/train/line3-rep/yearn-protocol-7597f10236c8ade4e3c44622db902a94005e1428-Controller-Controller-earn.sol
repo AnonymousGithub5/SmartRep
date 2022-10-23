@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token , uint _amount ) public { address VariableDeclaration_0 = Identifier_0 [ _token ] ;

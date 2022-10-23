@@ -1,0 +1,1 @@
+user . MemberAccess_3 -= Identifier_5 ; Identifier_6 ( token ) . safeTransferFrom ( recipient , address ( this ) , Identifier_7 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public { require ( Identifier_0 ( msg . sender ) ) ; require ( ! Identifier_1 ) ;

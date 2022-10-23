@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] [ Identifier_2 ] ; Identifier_3 = block . timestamp . sub ( Identifier_4 . MemberAccess_0 ) . mul ( Identifier_5 . MemberAccess_1 ) . div ( NumberLiteral_0 ) ; if ( Identifier_6 > Identifier_7 . MemberAccess_2 )

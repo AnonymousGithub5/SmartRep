@@ -1,0 +1,1 @@
+} UserDefinedTypeName_1 VariableDeclaration_0 = Identifier_2 ( pool ) ; if ( ! Identifier_3 ( address ( Identifier_4 ) ) || Identifier_5 . totalSupply ( ) == 0 ) {

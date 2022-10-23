@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 amount ) public virtual override returns ( bool ) { Identifier_0 ( tx . origin , recipient , amount ) ; return true ; }

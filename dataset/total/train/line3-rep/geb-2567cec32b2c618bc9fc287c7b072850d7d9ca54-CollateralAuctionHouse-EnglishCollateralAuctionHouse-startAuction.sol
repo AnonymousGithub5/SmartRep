@@ -1,0 +1,1 @@
+require ( Identifier_0 < uint ( - 1 ) , stringLiteral_0 ) ; id = ++ Identifier_1 ; bids [ id ] . MemberAccess_0 = Identifier_2 ;

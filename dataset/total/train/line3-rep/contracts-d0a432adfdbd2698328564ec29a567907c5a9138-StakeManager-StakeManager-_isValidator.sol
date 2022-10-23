@@ -1,0 +1,1 @@
+uint256 Parameter_2 ) private view returns ( bool ) { return ( amount > 0 && ( Identifier_0 == 0 || Identifier_1 > Identifier_2 ) && status == Status . MemberAccess_0 ) ;

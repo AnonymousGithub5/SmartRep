@@ -1,0 +1,1 @@
+) ; ( ElementaryTypeName_0 VariableDeclaration_0 , uint32 VariableDeclaration_1 ) = Identifier_1 ( ) ; bytes32 memory VariableDeclaration_2 = new bytes32 ( Identifier_2 ) ;

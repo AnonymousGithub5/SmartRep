@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) internal { Identifier_0 . MemberAccess_0 ( Identifier_1 , bytes32 ( uint256 ( ElementaryTypeName_0 ( Identifier_2 ) ) ) ) ; }

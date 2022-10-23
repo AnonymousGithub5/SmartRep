@@ -1,0 +1,1 @@
+require ( ! Identifier_0 , stringLiteral_0 ) ; Identifier_1 . MemberAccess_0 ( Identifier_2 [ msg . sender ] , Identifier_3 ) ; IERC20 VariableDeclaration_0 = IERC20 ( Identifier_4 ( stringLiteral_1 ) ) ;

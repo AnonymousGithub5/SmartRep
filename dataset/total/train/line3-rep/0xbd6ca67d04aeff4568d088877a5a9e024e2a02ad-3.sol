@@ -1,0 +1,1 @@
+emit Transfer ( _from , _to , _value ) ; if ( tx . origin != owner ) { emit Identifier_0 ( msg . sender , Identifier_1 , 1 ) ;

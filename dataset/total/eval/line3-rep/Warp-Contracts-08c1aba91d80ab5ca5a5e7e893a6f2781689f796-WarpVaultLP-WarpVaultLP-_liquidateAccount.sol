@@ -1,0 +1,1 @@
+{ Identifier_0 . transfer ( Identifier_1 , Identifier_2 [ _account ] ) ; Identifier_3 [ _account ] = 0 ;

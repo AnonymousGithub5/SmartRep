@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) private pure returns ( UserDefinedTypeName_0 ) { UserDefinedTypeName_2 VariableDeclaration_0 = new UserDefinedTypeName_1 ( 2 ) ; Identifier_0 [ 0 ] . MemberAccess_0 = 1 ; Identifier_1 [ 0 ] . value = 2 ; Identifier_2 [ 1 ] . MemberAccess_1 = 3 ; Identifier_3 [ 1 ] . value = 4 ; return Identifier_4 ; }

@@ -1,0 +1,1 @@
+return ( Identifier_0 [ address ( dao ) ] [ proposalId ] . MemberAccess_0 , Identifier_1 [ address ( dao ) ] [ proposalId ] . MemberAccess_1

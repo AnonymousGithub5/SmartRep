@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes4 Parameter_0 ) public view returns ( bool ) { return Identifier_0 == Identifier_1 || Identifier_2 == Identifier_3 || Identifier_4 == Identifier_5 ;

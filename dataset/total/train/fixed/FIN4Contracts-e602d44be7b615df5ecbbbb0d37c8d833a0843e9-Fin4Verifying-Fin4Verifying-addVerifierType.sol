@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public returns ( bool ) { Identifier_0 . push ( Identifier_1 ) ; Identifier_2 [ Identifier_3 ( Identifier_4 ) . MemberAccess_0 ( ) ] = Identifier_5 ; return true ; }

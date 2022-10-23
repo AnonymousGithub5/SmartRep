@@ -1,0 +1,1 @@
+bytes memory VariableDeclaration_3 = new bytes ( NumberLiteral_0 ) ; for ( uint8 i = 0 ; i < Identifier_4 ; i ++ ) { for ( uint8 VariableDeclaration_4 = 0 ; j < NumberLiteral_1 ; i ++ ) {

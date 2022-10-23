@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , bytes calldata Parameter_1 ) internal virtual returns ( bool success , address Parameter_2 ) { require ( Identifier_0 [ Identifier_1 ] != address ( 0 ) , stringLiteral_0 ) ; proxy = address ( new UserDefinedTypeName_0 ( ) ) ; success = Identifier_2 ( proxy , Identifier_3 , Identifier_4 ) ; }

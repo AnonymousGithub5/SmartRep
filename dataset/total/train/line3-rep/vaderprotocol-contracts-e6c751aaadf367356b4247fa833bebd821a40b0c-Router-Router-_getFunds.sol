@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 ( _token ) . balanceOf ( address ( this ) ) ; require ( Identifier_1 ( _token ) . transferFrom ( msg . sender , address ( this ) , _amount ) ) ; return Identifier_2 ( _token ) . balanceOf ( address ( this ) ) - Identifier_3 ;

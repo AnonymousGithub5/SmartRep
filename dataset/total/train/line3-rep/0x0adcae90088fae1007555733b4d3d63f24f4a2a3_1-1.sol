@@ -1,0 +1,1 @@
+balances [ msg . sender ] -= _value ; balances [ Identifier_0 ] += _value ; Transfer ( msg . sender , Identifier_1 , _value ) ;

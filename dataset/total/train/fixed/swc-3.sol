@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address receiver , uint amount ) public { require ( msg . sender == owner ) ; receiver . transfer ( amount ) ; }

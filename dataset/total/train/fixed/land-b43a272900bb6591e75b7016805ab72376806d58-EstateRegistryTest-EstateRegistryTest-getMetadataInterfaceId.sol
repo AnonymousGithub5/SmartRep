@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public pure returns ( bytes4 ) { return Identifier_0 ; }

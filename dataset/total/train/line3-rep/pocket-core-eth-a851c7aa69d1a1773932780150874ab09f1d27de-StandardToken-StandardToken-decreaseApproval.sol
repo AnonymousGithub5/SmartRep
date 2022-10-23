@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _spender , uint Parameter_0 ) returns ( bool success ) { uint VariableDeclaration_0 = allowed [ msg . sender ] [ _spender ] ;

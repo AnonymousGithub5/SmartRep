@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_2 ( Identifier_3 ( address ( this ) , Identifier_4 , _data ) , Identifier_5 ) ; return Identifier_6 == address ( this ) && Identifier_7 == address ( this ) ; }

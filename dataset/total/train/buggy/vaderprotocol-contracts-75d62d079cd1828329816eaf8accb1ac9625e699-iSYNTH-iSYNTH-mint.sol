@@ -1,0 +1,1 @@
+function mint ( address account , uint amount ) external ;

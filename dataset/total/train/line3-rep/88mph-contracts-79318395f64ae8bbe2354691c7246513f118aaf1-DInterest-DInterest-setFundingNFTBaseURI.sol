@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string calldata Parameter_0 ) external onlyOwner { Identifier_0 . MemberAccess_0 ( Identifier_1 ) ; }

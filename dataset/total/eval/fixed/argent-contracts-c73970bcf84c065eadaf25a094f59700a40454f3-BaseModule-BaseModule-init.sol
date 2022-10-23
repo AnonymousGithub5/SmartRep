@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _wallet ) public virtual override ModifierInvocation_0 ( _wallet ) { emit Identifier_0 ( address ( _wallet ) ) ; }

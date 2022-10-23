@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint64 amount , uint32 Parameter_0 ) external override returns ( uint Parameter_1 , uint Parameter_2 ) { uint [ 5 ] memory VariableDeclaration_0 ;

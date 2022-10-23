@@ -1,0 +1,1 @@
+IERC20 ( tokenAddress ) . transfer ( receiver , amount ) ; } }

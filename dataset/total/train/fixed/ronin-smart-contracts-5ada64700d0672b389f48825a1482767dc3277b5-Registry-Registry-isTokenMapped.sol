@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token , uint32 Parameter_0 , bool Parameter_1 ) external view returns ( bool ) { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 ( _token , Identifier_1 ) ; return Identifier_2 . MemberAccess_0 != address ( 0 ) && Identifier_3 . MemberAccess_1 != address ( 0 ) && Identifier_4 . MemberAccess_2 == Identifier_5 ; }

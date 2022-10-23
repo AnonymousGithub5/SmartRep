@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public override view returns ( UserDefinedTypeName_0 Parameter_1 , uint256 Parameter_2 ) { state = poolInfo [ pool ] . state ; Identifier_0 = poolInfo [ pool ] . MemberAccess_0 ; return ( state , Identifier_1 ) ; }

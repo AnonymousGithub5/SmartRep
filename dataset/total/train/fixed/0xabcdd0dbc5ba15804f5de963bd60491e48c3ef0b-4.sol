@@ -1,0 +1,1 @@
+function withdraw ( ) { if ( msg . sender == owner ) { if ( ! msg . sender . send ( this . balance ) ) revert ( ) ; } }

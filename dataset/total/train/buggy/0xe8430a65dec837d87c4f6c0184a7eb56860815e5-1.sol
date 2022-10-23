@@ -1,0 +1,1 @@
+function transfer ( address _to , uint _value ) public { address VariableDeclaration_0 = msg . sender ; require ( _to != address ( 0 ) ) ; require ( balanceOf [ _from ] >= _value ) ; balanceOf [ _from ] -= _value ; balanceOf [ _to ] += _value ; emit Transfer ( _from , _to , _value ) ; }

@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 . MemberAccess_0 ( Identifier_2 ) ) ; require ( Identifier_3 . MemberAccess_1 ( Identifier_4 , msg . sender , Identifier_5 , Identifier_6 ) , stringLiteral_0 ) ; return true ;

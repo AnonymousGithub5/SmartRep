@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = Identifier_2 [ Identifier_3 ] ; if ( Identifier_4 == Identifier_5 ) { string memory VariableDeclaration_2 = string ( abi . encodePacked (

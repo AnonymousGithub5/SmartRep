@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) public onlyOwner returns ( bool ) { Identifier_0 ( account ) ; return true ; }

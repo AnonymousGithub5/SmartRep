@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public { require ( Identifier_0 ( Identifier_1 ) ) ; require ( Identifier_2 ( Identifier_3 ) ) ;

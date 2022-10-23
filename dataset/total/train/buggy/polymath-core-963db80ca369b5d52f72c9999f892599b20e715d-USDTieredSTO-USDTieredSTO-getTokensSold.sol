@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { if ( Identifier_0 ) return Identifier_1 ; else return Identifier_2 ( ) ; }

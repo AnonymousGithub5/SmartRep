@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_0 ( account ) ; uint VariableDeclaration_1 = state . balanceOf ( account ) ; if ( Identifier_1 != address ( 0 ) ) {

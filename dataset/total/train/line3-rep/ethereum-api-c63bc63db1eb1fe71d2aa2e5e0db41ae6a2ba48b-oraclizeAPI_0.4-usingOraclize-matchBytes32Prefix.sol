@@ -1,0 +1,1 @@
+bool VariableDeclaration_0 = true ; for ( uint256 i = 0 ; i < Identifier_0 ; i ++ ) { if ( Identifier_1 [ i ] != Identifier_2 [ i ] ) Identifier_3 = false ;

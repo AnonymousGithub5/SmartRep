@@ -1,0 +1,1 @@
+{ require ( super . transfer ( _to , _value ) ) ; emit Transfer ( msg . sender , _to , _value , _data ) ;

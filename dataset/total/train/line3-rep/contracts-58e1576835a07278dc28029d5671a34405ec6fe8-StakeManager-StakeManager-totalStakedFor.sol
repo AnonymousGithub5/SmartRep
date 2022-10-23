@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view returns ( uint256 ) { require ( Identifier_0 [ addr ] != address ( 0 ) ) ; return Identifier_1 [ addr ] . amount ;

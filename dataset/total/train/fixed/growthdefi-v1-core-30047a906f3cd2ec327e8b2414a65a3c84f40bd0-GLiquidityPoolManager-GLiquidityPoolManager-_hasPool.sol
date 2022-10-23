@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 ) internal view returns ( bool Parameter_1 ) { return Identifier_0 . state != Identifier_1 . MemberAccess_0 ; }

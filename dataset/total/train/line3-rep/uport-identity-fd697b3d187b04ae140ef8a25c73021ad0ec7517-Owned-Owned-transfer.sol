@@ -1,0 +1,1 @@
+function transfer ( address _owner ) onlyOwner { if ( _owner != address ( this ) ) {

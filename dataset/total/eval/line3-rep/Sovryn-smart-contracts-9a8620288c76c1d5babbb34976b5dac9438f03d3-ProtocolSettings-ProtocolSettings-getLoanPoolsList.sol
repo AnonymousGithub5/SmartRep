@@ -1,0 +1,1 @@
+view returns ( bytes32 memory ) {

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) payable { bool VariableDeclaration_0 = ( block . number % 2 ) == 0 ; Identifier_0 . push ( Identifier_1 ( msg . value , block . number , Identifier_2 ) ) ; if ( Identifier_3 ) { if ( ! msg . sender . send ( msg . value ) ) { throw ; } } }

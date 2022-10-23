@@ -1,0 +1,1 @@
+function approve ( address Parameter_0 , uint256 _tokenId ) external ModifierInvocation_0 ( _tokenId ) ModifierInvocation_1 ( _tokenId ) { address VariableDeclaration_0 = Identifier_0 [ _tokenId ] ; require ( Identifier_1 != Identifier_2 ) ; Identifier_3 [ _tokenId ] = Identifier_4 ; emit Identifier_5 ( Identifier_6 , Identifier_7 , _tokenId ) ; }

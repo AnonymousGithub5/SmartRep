@@ -1,0 +1,1 @@
+function initialize ( UserDefinedTypeName_0 _token , uint64 Parameter_0 , uint64 Parameter_1 ) external ModifierInvocation_0 ModifierInvocation_1 ( Identifier_5 ) { Identifier_0 ( ) ; token = _token ; Identifier_1 = Identifier_2 ; Identifier_3 = Identifier_4 ; }

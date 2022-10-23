@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user , UserDefinedTypeName_0 Parameter_0 , uint16 Parameter_1 ) public ; 

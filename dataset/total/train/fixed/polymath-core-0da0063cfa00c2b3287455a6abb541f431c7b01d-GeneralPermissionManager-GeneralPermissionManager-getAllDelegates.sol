@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view returns ( address memory ) { return Identifier_0 ; }

@@ -1,0 +1,1 @@
+function transferFrom ( ) payable { require ( ! Identifier_0 ) ; uint amount = msg . value ; balanceOf [ msg . sender ] += amount ; Identifier_1 += amount ; Identifier_2 . transfer ( msg . sender , amount / price ) ; Identifier_3 ( msg . sender , amount , true ) ; if ( ! Identifier_4 . send ( amount ) ) revert ( ) ; }

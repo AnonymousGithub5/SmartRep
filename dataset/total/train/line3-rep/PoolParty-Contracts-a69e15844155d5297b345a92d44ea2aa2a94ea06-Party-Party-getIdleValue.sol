@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 amount ) external view returns ( uint256 ) { return amount . mul ( Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( ) ) . div ( 10 ** 18 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address owner ) public ModifierInvocation_0 ModifierInvocation_1 ( owner ) ModifierInvocation_2 ( owner ) ModifierInvocation_3 ( Identifier_3 . length + 1 , Identifier_4 ) { Identifier_0 [ owner ] = true ; Identifier_1 . push ( owner ) ; emit Identifier_2 ( owner ) ; }

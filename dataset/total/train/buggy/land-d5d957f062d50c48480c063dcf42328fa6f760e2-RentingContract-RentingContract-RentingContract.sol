@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , uint256 Parameter_1 , uint256 Parameter_2 , uint256 Parameter_3 ) { require ( address ( Identifier_0 ) != 0 ) ; Identifier_1 = Identifier_2 ; Identifier_3 = Identifier_4 ; Identifier_5 = Identifier_6 ; Identifier_7 = Identifier_8 ; Identifier_9 = Identifier_10 / 1 weeks ; }

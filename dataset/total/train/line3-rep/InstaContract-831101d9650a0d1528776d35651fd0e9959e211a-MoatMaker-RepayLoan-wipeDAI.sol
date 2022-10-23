@@ -1,0 +1,1 @@
+Identifier_0 . transferFrom ( msg . sender , address ( this ) , Identifier_1 ) ; Identifier_2 . MemberAccess_0 ( Identifier_3 [ Identifier_4 ] , Identifier_5 ) ; emit Identifier_6 ( Identifier_7 , Identifier_8 ) ;

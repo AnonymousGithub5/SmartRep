@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 ) public pure returns ( bytes4 ) { return bytes4 ( keccak256 ( Identifier_0 ) ) ; }

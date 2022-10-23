@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint128 ) { return Identifier_0 ( Identifier_1 . balanceOf ( address ( this ) ) + totalSupply ( ) ) ; }

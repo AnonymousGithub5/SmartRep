@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 onlyOwner { Identifier_0 ( Identifier_1 , false ) ; emit Identifier_2 ( msg . sender ) ; }

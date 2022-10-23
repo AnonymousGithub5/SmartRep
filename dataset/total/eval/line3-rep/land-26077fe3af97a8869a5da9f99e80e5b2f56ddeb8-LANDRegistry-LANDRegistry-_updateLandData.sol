@@ -1,0 +1,1 @@
+if ( owner == address ( Identifier_3 ) ) { uint256 VariableDeclaration_2 = Identifier_4 . MemberAccess_0 ( tokenId ) ; Identifier_5 . MemberAccess_1 ( Identifier_6 , data ) ;

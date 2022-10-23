@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public returns ( uint Parameter_0 ) { return price ;

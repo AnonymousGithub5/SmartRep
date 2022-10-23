@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external view ModifierInvocation_0 ( tokenAddress ) returns ( uint256 ) { return Identifier_0 [ tokenAddress ] . MemberAccess_0 . sub ( Identifier_1 [ tokenAddress ] . MemberAccess_1 ) ;

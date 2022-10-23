@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 [ NumberLiteral_0 ] memory ) { return Identifier_0 . MemberAccess_0 ( ) ; }

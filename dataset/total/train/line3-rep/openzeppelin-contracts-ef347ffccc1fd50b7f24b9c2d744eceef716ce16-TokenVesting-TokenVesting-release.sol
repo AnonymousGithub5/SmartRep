@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _token ) public { uint256 VariableDeclaration_0 = Identifier_0 ( _token ) ;

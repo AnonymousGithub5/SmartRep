@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external payable ModifierInvocation_0 ModifierInvocation_1 returns ( bool ) { Identifier_0 [ Identifier_1 ] = Identifier_2 [ Identifier_3 ] . add ( msg . value ) ; Identifier_4 ( msg . sender , Identifier_5 , msg . value ) ; return true ; }

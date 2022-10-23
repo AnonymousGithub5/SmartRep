@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external returns ( uint ) { require ( Identifier_0 <= Identifier_1 [ msg . sender ] , stringLiteral_0 ) ; Identifier_2 [ msg . sender ] = Identifier_3 [ msg . sender ] - Identifier_4 ; require ( IERC20 ( Identifier_5 ) . transfer ( msg . sender , Identifier_6 ) , stringLiteral_1 ) ; }

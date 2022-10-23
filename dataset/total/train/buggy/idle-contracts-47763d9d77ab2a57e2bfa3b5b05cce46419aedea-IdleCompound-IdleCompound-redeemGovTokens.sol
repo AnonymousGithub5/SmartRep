@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 { address memory VariableDeclaration_0 = new address ( 1 ) ; address memory VariableDeclaration_1 = new address ( 1 ) ; Identifier_0 [ 0 ] = msg . sender ; Identifier_1 [ 0 ] = token ; Identifier_2 ( Identifier_3 ( token ) . MemberAccess_0 ( ) ) . MemberAccess_1 ( Identifier_4 , Identifier_5 , false , true ) ; }

@@ -1,0 +1,1 @@
+function mint ( address Parameter_0 , uint256 _amount ) public ModifierInvocation_0 ( Identifier_14 , true ) ModifierInvocation_1 ( _amount ) ModifierInvocation_2 ( ) returns ( bool success ) { Identifier_0 ( address ( 0 ) , Identifier_1 , _amount ) ; require ( Identifier_2 ( address ( 0 ) , Identifier_3 , _amount ) , stringLiteral_0 ) ;

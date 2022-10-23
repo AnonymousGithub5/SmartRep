@@ -1,0 +1,1 @@
+require ( Identifier_2 . MemberAccess_2 == false , stringLiteral_1 ) ; ElementaryTypeName_0 VariableDeclaration_2 = Identifier_3 . MemberAccess_3 ( Identifier_4 , proposal . MemberAccess_4 ) ; if ( Identifier_5 ) {

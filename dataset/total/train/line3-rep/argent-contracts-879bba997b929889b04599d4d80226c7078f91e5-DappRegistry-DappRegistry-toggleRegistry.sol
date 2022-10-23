@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _wallet , uint8 Parameter_0 , bool Parameter_1 ) external override ModifierInvocation_0 ( _wallet ) returns ( bool ) { require ( Identifier_0 == 0 || Identifier_1 [ Identifier_2 ] != address ( 0 ) , stringLiteral_0 ) ; uint VariableDeclaration_0 = uint ( Identifier_3 [ _wallet ] ) ;

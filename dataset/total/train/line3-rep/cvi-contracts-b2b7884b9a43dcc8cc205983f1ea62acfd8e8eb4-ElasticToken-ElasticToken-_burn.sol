@@ -1,0 +1,1 @@
+Identifier_5 [ to ] = Identifier_6 [ to ] . sub ( Identifier_7 , stringLiteral_0 ) ; emit Transfer ( address ( 0 ) , to , amount ) ; }

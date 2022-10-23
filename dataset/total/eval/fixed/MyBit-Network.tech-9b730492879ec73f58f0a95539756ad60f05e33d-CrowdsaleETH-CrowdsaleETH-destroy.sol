@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) onlyOwner external { emit Identifier_0 ( address ( this ) . balance , msg . sender ) ; Identifier_1 ( msg . sender ) ; }

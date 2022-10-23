@@ -1,0 +1,1 @@
+{ assert ( now < Identifier_0 ) ; return bytes32 ( val ) ;

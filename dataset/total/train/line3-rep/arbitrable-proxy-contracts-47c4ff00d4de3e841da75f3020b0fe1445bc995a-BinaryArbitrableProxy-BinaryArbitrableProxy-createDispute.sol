@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( Identifier_1 ) ; uint VariableDeclaration_1 = Identifier_2 . MemberAccess_1 . value ( arbitrationCost ) ( Identifier_3 , Identifier_4 ) ; uint VariableDeclaration_2 = disputes . length ++ ;

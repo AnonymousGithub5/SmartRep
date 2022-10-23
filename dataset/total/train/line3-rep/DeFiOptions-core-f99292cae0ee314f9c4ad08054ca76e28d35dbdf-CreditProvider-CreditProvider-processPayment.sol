@@ -1,0 +1,1 @@
+value = value . sub ( fee ) ; emit Identifier_3 ( from , value ) ; }

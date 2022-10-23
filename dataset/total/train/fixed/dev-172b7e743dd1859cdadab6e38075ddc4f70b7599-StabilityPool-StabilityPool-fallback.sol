@@ -1,0 +1,1 @@
+FunctionDefinition_0 ( ) external payable { Identifier_0 ( ) ; Identifier_1 = Identifier_2 . add ( msg . value ) ; Identifier_3 ( Identifier_4 ) ; }

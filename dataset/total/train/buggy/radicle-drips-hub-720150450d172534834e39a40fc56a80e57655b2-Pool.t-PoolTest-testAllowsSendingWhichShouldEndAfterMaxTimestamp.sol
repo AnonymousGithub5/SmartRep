@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { uint128 balance = type ( uint64 ) . max + uint128 ( 6 ) ; Identifier_0 ( sender , 0 , balance , 0 , Identifier_1 ( receiver , 1 ) ) ; Identifier_2 ( 10 ) ; Identifier_3 ( sender , balance - 10 , 0 ) ; Identifier_4 ( ) ; Identifier_5 ( receiver , 10 ) ; }

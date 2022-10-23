@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ _wallet ] ; require ( uint64 ( block . timestamp ) > config . MemberAccess_0 , stringLiteral_0 ) ; address VariableDeclaration_1 = config . MemberAccess_1 ;

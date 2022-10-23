@@ -1,0 +1,1 @@
+uint256 balance = Identifier_0 . balanceOf ( address ( this ) ) ; Identifier_1 . MemberAccess_0 ( address ( Identifier_2 ) , balance ) ; Identifier_3 . MemberAccess_1 ( balance ) ;

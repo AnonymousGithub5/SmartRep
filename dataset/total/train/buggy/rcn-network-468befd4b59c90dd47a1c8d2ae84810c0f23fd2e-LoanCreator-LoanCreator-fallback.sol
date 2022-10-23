@@ -1,0 +1,1 @@
+constructor ( UserDefinedTypeName_0 Parameter_0 ) public { Identifier_0 = Identifier_1 ; token = Identifier_2 . token ( ) ; require ( token != address ( 0 ) , stringLiteral_0 ) ; }

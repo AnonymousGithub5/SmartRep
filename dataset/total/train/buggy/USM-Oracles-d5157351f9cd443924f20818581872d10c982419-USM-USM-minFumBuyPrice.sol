@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public override view returns ( uint ) { if ( Identifier_0 . value == 0 ) { return 0 ; } uint VariableDeclaration_0 = WAD * ( block . timestamp - Identifier_1 . timestamp ) / Identifier_2 ; uint VariableDeclaration_1 = Identifier_3 . MemberAccess_0 ( ) ; return uint256 ( Identifier_4 . value ) . MemberAccess_1 ( Identifier_5 ) ; }

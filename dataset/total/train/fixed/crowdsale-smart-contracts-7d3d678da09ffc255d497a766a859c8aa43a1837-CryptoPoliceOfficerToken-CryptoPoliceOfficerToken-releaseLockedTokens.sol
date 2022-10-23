@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 ) public ModifierInvocation_0 { require ( Identifier_0 > 0 ) ; require ( ! Identifier_1 [ Identifier_2 ] . MemberAccess_0 ) ; require ( ( Identifier_3 + Identifier_4 [ Identifier_5 ] . MemberAccess_1 ) < now ) ; Identifier_6 [ Identifier_7 ] . MemberAccess_2 = true ; Identifier_8 -= Identifier_9 [ Identifier_10 ] . amount ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , UserDefinedTypeName_0 Parameter_1 ) public view returns ( bool ) { return Identifier_0 ( hash , Identifier_1 . MemberAccess_0 , Identifier_2 . MemberAccess_1 , Identifier_3 . MemberAccess_2 ) ; }

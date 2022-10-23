@@ -1,0 +1,1 @@
+loans [ loanID ] . MemberAccess_2 = Identifier_4 ; loans [ loanID ] . MemberAccess_3 = Identifier_5 . mul ( Identifier_6 . add ( 100 ) ) . div ( 100 ) ; }

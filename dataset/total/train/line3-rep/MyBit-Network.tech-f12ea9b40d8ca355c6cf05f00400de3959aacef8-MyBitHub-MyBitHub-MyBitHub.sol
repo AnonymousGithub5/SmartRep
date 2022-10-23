@@ -1,0 +1,1 @@
+public { Identifier_0 = NumberLiteral_0 ; Identifier_1 = Identifier_2 ;

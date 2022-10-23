@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _wallet ) external ModifierInvocation_0 ( _wallet ) { emit Identifier_0 ( address ( _wallet ) ) ; }

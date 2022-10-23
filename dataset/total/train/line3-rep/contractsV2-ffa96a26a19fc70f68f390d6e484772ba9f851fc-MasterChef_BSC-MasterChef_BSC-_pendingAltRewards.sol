@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = Identifier_3 [ pid ] [ _user ] ; if ( Identifier_4 == 0 && pid == 0 ) { uint256 VariableDeclaration_3 = Identifier_5 [ _user ] ;

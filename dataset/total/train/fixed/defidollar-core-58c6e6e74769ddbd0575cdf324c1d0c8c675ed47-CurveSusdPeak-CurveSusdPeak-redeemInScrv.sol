@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 ) external { uint VariableDeclaration_0 = Identifier_0 ( Identifier_1 . MemberAccess_0 ( Identifier_2 , msg . sender ) ) ; Identifier_3 ( Identifier_4 ) ; require ( Identifier_5 >= Identifier_6 , Identifier_7 ) ; Identifier_8 . safeTransfer ( msg . sender , Identifier_9 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint value ) internal pure returns ( int ) { if ( value & ( 1 << NumberLiteral_0 ) != 0 ) { return int ( value | Identifier_0 ) ; } return int ( value ) ; }

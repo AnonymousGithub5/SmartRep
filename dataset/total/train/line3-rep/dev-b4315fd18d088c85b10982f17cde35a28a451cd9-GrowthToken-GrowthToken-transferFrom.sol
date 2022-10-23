@@ -1,0 +1,1 @@
+function transferFrom ( address Parameter_0 , address Parameter_1 , uint256 amount ) public override returns ( bool ) { if ( Identifier_0 ( ) ) { Identifier_1 ( sender ) ; } Identifier_2 ( recipient ) ;

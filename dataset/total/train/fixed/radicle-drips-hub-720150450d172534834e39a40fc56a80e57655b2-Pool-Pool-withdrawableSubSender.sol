@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 , UserDefinedTypeName_0 calldata Parameter_2 ) public view returns ( uint128 ) { return Identifier_0 ( Identifier_1 [ Identifier_2 ] [ Identifier_3 ] , Identifier_4 ) ; }

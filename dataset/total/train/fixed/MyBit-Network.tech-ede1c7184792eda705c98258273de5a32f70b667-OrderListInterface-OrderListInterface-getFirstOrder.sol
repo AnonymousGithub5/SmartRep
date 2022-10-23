@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view returns ( uint32 Parameter_0 , bool Parameter_1 ) ;

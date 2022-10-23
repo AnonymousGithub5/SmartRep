@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _proposalId , bytes32 Parameter_0 ) public view returns ( bytes32 Parameter_1 , uint256 Parameter_2 , uint256 Parameter_3 , uint256 Parameter_4 ) { return proposalsById [ _proposalId ] . MemberAccess_0 [ Identifier_0 ] . MemberAccess_1 ( ) ; }

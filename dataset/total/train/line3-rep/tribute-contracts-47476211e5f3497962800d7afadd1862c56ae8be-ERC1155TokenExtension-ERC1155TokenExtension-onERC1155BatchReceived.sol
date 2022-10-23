@@ -1,0 +1,1 @@
+for ( uint256 i = 0 ; i < Identifier_2 . length ; i ++ ) { Identifier_3 ( msg . sender , Identifier_4 [ i ] , Identifier_5 , Identifier_6 [ i ] ) ; }

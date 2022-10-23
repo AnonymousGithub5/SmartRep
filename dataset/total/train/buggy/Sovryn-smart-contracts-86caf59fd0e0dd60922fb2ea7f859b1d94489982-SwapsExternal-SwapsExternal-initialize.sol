@@ -1,0 +1,1 @@
+function initialize ( address target ) external onlyOwner { address VariableDeclaration_0 = Identifier_0 [ this . MemberAccess_0 . selector ] ; _setTarget ( this . MemberAccess_1 . selector , target ) ; _setTarget ( this . MemberAccess_2 . selector , target ) ; emit Identifier_1 ( Identifier_2 , target , stringLiteral_0 ) ; }

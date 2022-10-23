@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address _spender , address _to , bytes calldata _data ) external view returns ( bool ) ;

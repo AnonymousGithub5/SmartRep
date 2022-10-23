@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _contract ) external onlyOwner { Identifier_0 = Identifier_1 ( _contract ) ; }

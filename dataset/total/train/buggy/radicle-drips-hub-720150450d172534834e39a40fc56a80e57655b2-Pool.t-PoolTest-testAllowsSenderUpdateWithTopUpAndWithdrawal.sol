@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { sender . MemberAccess_0 ( 10 , 3 , 0 , Identifier_0 ( ) , Identifier_1 ( ) ) ; Identifier_2 ( sender , NumberLiteral_0 ) ; }

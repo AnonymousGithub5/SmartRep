@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint amount ) public { require ( Identifier_0 != address ( 0 ) ) ; require ( amount < Identifier_1 ) ; require ( Identifier_2 . token . transferFrom ( msg . sender , this , amount ) ) ; Identifier_3 [ Identifier_4 ] [ Identifier_5 . token ] += amount ; Identifier_6 ( Identifier_7 , amount ) ; }

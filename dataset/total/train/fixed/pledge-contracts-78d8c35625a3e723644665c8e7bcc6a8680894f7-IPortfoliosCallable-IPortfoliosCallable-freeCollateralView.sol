@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) external view returns ( int256 , int256 memory , int256 memory ) ;

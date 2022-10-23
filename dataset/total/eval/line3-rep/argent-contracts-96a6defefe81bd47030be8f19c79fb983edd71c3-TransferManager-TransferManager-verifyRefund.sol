@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _wallet , uint Parameter_0 , uint Parameter_1 , uint Parameter_2 ) internal view returns ( bool ) { if ( Identifier_0 > 0 && Identifier_1 > 0 && ( address ( _wallet ) . balance < Identifier_2 * Identifier_3 ||

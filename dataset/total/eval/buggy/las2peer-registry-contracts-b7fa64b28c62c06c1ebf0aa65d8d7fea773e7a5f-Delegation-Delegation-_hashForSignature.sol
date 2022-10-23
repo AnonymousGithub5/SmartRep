@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) internal pure returns ( bytes32 ) { bytes memory VariableDeclaration_0 = stringLiteral_0 ; return keccak256 ( Identifier_0 , Identifier_1 ) ; }

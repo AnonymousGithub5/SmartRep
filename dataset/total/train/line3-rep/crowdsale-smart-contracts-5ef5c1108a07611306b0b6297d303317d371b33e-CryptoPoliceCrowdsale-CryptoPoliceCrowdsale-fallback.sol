@@ -1,0 +1,1 @@
+require ( state == Identifier_2 . MemberAccess_1 ) ; Identifier_3 ( msg . sender , msg . value ) ; }

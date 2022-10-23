@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external onlyOwner { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_1 ( Identifier_2 ) ; Identifier_3 . MemberAccess_0 ( msg . sender ) ; Identifier_4 . MemberAccess_1 ( msg . sender ) ; Identifier_5 . MemberAccess_2 ( ) ; }

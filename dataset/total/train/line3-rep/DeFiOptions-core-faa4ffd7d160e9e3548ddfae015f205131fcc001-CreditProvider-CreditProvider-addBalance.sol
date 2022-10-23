@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address owner , uint value ) public { if ( value > 0 ) {

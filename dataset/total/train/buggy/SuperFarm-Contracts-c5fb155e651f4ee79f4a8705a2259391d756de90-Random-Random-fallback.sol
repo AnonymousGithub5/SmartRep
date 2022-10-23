@@ -1,0 +1,1 @@
+constructor ( address _owner , string memory _name , UserDefinedTypeName_0 memory Parameter_0 ) public ModifierInvocation_0 ( _name ) ModifierInvocation_1 ( Identifier_3 . MemberAccess_0 , Identifier_4 . MemberAccess_1 ) { if ( _owner != owner ( ) ) { Identifier_0 ( _owner ) ; } Identifier_1 = Identifier_2 ; }

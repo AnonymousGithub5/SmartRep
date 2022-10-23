@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint x ) internal pure returns ( uint ) { return ( x . mul ( x ) ) . add ( Identifier_0 ) / WAD ; }

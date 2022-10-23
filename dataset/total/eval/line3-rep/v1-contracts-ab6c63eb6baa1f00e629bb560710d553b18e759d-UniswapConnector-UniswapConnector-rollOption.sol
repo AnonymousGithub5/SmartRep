@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_4 ; IERC20 ( Identifier_5 ( Identifier_6 ) . MemberAccess_1 ( ) ) . approve ( address ( Identifier_7 ) ,

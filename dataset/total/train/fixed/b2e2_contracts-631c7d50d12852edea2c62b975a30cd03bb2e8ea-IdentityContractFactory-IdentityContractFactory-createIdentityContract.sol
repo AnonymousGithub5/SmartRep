@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { UserDefinedTypeName_0 VariableDeclaration_0 = new UserDefinedTypeName_1 ( Identifier_0 ) ; Identifier_1 . MemberAccess_0 ( msg . sender ) ; Identifier_2 [ address ( Identifier_3 ) ] = true ; emit Identifier_4 ( address ( Identifier_5 ) , msg . sender ) ; }

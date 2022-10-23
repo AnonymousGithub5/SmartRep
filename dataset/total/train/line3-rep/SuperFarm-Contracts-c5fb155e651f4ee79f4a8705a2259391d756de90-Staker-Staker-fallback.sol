@@ -1,0 +1,1 @@
+constructor ( string memory _name , IERC20 _token ) public { name = _name ;

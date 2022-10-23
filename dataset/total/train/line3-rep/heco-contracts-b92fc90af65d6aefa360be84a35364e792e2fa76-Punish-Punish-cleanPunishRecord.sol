@@ -1,0 +1,1 @@
+{ require ( address ( Identifier_0 . MemberAccess_0 ( Identifier_1 ) ) == msg . sender , stringLiteral_0 ) ; if ( Identifier_2 [ Identifier_3 ] . MemberAccess_1 != 0 ) {

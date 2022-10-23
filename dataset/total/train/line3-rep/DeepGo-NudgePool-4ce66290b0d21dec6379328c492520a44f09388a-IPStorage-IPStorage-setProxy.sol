@@ -1,0 +1,1 @@
+require ( Identifier_0 == msg . sender , stringLiteral_0 ) ; proxy = Identifier_1 ; }

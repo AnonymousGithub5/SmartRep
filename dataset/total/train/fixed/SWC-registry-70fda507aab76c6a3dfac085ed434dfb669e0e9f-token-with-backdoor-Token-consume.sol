@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { require ( balances [ msg . sender ] > 0 ) ; balances [ msg . sender ] -= 1 ; }

@@ -1,0 +1,1 @@
+address VariableDeclaration_2 = Identifier_4 . MemberAccess_0 ( _index ) ; uint256 VariableDeclaration_3 = Identifier_5 ( Identifier_6 ) . votes ( Identifier_7 ) ; if ( Identifier_8 < Identifier_9 ) {

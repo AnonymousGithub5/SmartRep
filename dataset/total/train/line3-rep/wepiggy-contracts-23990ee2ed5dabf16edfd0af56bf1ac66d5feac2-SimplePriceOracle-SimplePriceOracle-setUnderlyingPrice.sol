@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , uint Parameter_1 ) { require ( Identifier_0 ( Identifier_1 , msg . sender ) , stringLiteral_0 ) ;

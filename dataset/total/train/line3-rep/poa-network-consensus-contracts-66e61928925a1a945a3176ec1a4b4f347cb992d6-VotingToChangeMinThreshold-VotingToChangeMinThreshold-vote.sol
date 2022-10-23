@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _id , uint8 Parameter_0 ) public ModifierInvocation_0 ( msg . sender ) { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ _id ] ; address VariableDeclaration_1 = Identifier_1 ( msg . sender ) ;

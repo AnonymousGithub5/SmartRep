@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint256 Parameter_0 ) external view returns ( uint256 ) { require ( Identifier_0 < block . number , stringLiteral_0 ) ; uint32 VariableDeclaration_0 = Identifier_1 [ account ] ;

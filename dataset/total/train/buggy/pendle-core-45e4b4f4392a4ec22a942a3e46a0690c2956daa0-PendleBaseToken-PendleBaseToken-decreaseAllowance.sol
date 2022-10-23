@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address spender , uint256 Parameter_0 ) public override returns ( bool ) { Identifier_0 ( msg . sender , spender , allowance [ msg . sender ] [ spender ] . sub ( Identifier_1 , stringLiteral_0 ) ) ; return true ; }

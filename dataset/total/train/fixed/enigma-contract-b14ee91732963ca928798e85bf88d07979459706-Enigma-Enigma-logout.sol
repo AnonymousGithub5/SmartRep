@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 ( msg . sender ) { Identifier_0 . MemberAccess_0 ( state ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint ) { uint VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( ) ; return Identifier_1 . MemberAccess_1 ( Identifier_2 . MemberAccess_2 ( ) . add ( Identifier_3 ) ) ; }

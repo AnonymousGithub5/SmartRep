@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) { Identifier_0 = Identifier_1 ( Identifier_2 ) ; GD = Identifier_3 ( Identifier_4 ) ; require ( Identifier_5 >= GD . MemberAccess_0 ( ) ) ; Identifier_6 . MemberAccess_1 ( msg . sender , Identifier_7 ) ; }

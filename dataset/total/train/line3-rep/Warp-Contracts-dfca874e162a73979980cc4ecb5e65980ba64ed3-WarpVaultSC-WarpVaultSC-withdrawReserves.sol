@@ -1,0 +1,1 @@
+Identifier_1 = Identifier_2 . sub ( _amount ) ; stablecoin . transfer ( Identifier_3 , _amount ) ; emit Identifier_4 ( _amount ) ;

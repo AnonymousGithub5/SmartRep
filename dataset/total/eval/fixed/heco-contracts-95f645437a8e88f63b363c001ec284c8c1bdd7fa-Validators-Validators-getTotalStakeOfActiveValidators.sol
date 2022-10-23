@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 Parameter_0 , uint256 Parameter_1 ) { return Identifier_0 ( address ( 0 ) ) ; }

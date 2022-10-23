@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address target , uint256 Parameter_0 ) onlyOwner { balanceOf [ target ] += Identifier_0 ; totalSupply += Identifier_1 ;

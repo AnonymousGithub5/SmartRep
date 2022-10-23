@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( int ) { if ( Identifier_0 != 0 ) { return int ( ( Identifier_1 + Identifier_2 ) - now ) ; } return int ( Identifier_3 ) ; }

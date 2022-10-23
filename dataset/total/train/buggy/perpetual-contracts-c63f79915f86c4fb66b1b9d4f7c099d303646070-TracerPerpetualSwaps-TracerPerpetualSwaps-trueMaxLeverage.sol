@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view override returns ( uint256 ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; return Identifier_2 . MemberAccess_0 ( Identifier_3 . MemberAccess_1 ( ) , Identifier_4 . MemberAccess_2 ( ) , Identifier_5 , Identifier_6 , Identifier_7 , Identifier_8 ) ; }

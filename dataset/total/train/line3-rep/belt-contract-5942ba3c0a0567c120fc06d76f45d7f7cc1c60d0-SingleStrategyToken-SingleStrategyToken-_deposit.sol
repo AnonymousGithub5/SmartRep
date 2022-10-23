@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 ( _amount ) ; require ( Identifier_1 >= Identifier_2 ) ; _mint ( msg . sender , Identifier_3 ) ;

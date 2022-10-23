@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; require ( owner != address ( 0 ) , stringLiteral_0 ) ; require ( msg . sender == owner , stringLiteral_1 ) ;

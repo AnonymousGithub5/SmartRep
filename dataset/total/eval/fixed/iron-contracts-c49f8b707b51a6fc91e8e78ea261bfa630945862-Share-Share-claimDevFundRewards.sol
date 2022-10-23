@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { require ( msg . sender == Identifier_0 , stringLiteral_0 ) ; uint256 VariableDeclaration_0 = Identifier_1 ( ) ; if ( Identifier_2 > 0 && Identifier_3 != address ( 0 ) ) { _mint ( Identifier_4 , Identifier_5 ) ; Identifier_6 = block . timestamp ; } }

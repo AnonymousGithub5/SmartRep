@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , int256 Parameter_1 , int256 Parameter_2 ) public { Identifier_0 ( msg . sender , trade , Identifier_1 , Identifier_2 , true ) ; emit Identifier_3 ( msg . sender , trade . MemberAccess_0 . MemberAccess_1 , Identifier_4 , Identifier_5 ) ; }

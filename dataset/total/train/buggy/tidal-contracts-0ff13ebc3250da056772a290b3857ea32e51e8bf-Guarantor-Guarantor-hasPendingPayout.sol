@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint16 Parameter_0 ) public view returns ( bool ) { uint256 VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; return Identifier_2 > 0 && ! Identifier_3 [ Identifier_4 ] . MemberAccess_0 ; }

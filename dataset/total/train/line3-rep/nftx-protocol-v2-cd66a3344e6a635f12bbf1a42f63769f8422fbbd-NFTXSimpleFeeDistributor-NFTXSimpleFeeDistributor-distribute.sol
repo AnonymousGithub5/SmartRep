@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 memory VariableDeclaration_3 = Identifier_16 [ i ] ; uint256 VariableDeclaration_4 = Identifier_17 * Identifier_18 . MemberAccess_1 / Identifier_19 ; Identifier_20 = Identifier_21 > Identifier_22 ? Identifier_23 : Identifier_24 ;

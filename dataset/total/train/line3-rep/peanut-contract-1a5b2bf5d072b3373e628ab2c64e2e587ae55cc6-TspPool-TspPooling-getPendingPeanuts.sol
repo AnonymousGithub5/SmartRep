@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = Identifier_4 ( ) ; Identifier_5 = Identifier_6 . add ( Identifier_7 . mul ( 1e12 ) . div ( Identifier_8 ) ) ; uint256 VariableDeclaration_3 = Identifier_9 [ msg . sender ] . MemberAccess_0 . mul ( Identifier_10 ) . div ( 1e12 ) . sub ( Identifier_11 [ msg . sender ] . MemberAccess_1 ) ;

@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 , Identifier_2 ) ; return ( Identifier_3 * NumberLiteral_0 ) >> NumberLiteral_1 ; }

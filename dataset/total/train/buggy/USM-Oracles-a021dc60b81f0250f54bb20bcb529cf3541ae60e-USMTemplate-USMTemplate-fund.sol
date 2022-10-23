@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external payable override returns ( uint Parameter_0 ) { Identifier_0 = Identifier_1 ( msg . sender , 0 ) ; }

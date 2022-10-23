@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _to , uint256 _value ) ModifierInvocation_0 ( owner ) ModifierInvocation_1 ( ) public { totalSupply += _value ; balances [ _to ] += _value ; Transfer ( owner , _to , _value ) ; }

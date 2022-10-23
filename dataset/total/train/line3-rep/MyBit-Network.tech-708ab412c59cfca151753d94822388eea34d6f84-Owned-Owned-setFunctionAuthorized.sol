@@ -1,0 +1,1 @@
+returns ( bool ) { require ( bytes ( Identifier_0 ) . length != 0 ) ; database . MemberAccess_0 ( keccak256 ( abi . encodePacked ( Identifier_1 , msg . sender , Identifier_2 , _beneficiary ) ) , true ) ;

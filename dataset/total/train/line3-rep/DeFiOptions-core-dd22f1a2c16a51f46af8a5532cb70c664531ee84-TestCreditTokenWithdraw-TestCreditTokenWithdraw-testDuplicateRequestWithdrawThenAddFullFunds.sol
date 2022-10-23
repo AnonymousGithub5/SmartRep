@@ -1,0 +1,1 @@
+Identifier_7 ( 1 ether ) ; Identifier_8 . MemberAccess_4 ( ) ; Assert . equal ( Identifier_9 . balanceOf ( address ( Identifier_10 ) ) , NumberLiteral_1 finney , stringLiteral_0 ) ;

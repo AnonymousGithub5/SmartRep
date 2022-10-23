@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_2 [ tokenId ] . MemberAccess_0 ; Identifier_3 ( - Identifier_4 ) ; Identifier_5 . safeTransferFrom ( address ( this ) , msg . sender , tokenId ) ;

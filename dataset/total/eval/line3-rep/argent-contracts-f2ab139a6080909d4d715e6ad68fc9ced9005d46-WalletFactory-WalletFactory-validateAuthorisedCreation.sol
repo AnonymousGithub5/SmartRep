@@ -1,0 +1,1 @@
+} else { bytes32 VariableDeclaration_1 = keccak256 ( abi . encodePacked ( stringLiteral_0 , bytes32 ( uint256 ( _wallet ) ) ) ) ; Identifier_2 = Identifier_3 . MemberAccess_0 ( Identifier_4 , Identifier_5 , 0 ) ;

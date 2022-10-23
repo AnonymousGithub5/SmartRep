@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = Identifier_1 . MemberAccess_0 ( Identifier_2 ) ; return tokenAmount . MemberAccess_1 ( price ) ; }

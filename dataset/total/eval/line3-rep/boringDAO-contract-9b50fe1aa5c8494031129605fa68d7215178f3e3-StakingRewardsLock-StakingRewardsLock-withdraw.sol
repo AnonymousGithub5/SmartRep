@@ -1,0 +1,1 @@
+function withdraw ( uint256 amount ) public override nonReentrant ModifierInvocation_0 ( msg . sender ) { require ( amount > 0 , stringLiteral_0 ) ;

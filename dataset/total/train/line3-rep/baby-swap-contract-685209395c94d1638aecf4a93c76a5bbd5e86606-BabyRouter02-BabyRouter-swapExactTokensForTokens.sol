@@ -1,0 +1,1 @@
+Identifier_8 . safeTransferFrom ( path [ 0 ] , msg . sender , Identifier_9 . MemberAccess_1 ( Identifier_10 [ 1 ] , path [ 0 ] , path [ 1 ] ) , amounts [ 0 ] ) ;

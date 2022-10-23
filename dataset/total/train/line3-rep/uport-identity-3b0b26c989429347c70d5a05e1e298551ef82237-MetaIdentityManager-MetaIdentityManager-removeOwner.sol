@@ -1,0 +1,1 @@
+{ delete Identifier_0 [ identity ] [ owner ] ; Identifier_1 ( identity , owner , sender ) ;

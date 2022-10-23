@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _amount ) public onlyOwner returns ( uint256 Parameter_1 ) { balances [ _account ] = balances [ _account ] . sub ( _amount ) ; Identifier_0 ( _account , _amount ) ; emit Transfer ( _account , address ( 0 ) , _amount ) ; return balances [ _account ] ; }

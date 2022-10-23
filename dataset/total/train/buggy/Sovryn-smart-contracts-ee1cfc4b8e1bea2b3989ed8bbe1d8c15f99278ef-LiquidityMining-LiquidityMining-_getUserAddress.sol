@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user ) internal view returns ( address ) { address VariableDeclaration_0 = msg . sender ; if ( _user != address ( 0 ) ) { require ( msg . sender == Identifier_0 || Identifier_1 [ msg . sender ] != 0 , stringLiteral_0 ) ; Identifier_2 = _user ; } return Identifier_3 ; }

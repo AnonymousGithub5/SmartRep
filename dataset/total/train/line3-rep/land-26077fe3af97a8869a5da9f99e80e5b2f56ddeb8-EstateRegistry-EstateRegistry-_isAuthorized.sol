@@ -1,0 +1,1 @@
+require ( Identifier_0 != address ( 0 ) ) ; return owner == Identifier_1 || Identifier_2 == Identifier_3 ( Identifier_4 ) || Identifier_5 ( owner , Identifier_6 ) ; }

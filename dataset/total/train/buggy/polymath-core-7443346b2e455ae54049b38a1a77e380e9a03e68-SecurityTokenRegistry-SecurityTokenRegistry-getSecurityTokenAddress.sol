@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 ) public view returns ( address ) { string memory VariableDeclaration_0 = Identifier_0 ( _symbol ) ; return Identifier_1 [ Identifier_2 ] ; }

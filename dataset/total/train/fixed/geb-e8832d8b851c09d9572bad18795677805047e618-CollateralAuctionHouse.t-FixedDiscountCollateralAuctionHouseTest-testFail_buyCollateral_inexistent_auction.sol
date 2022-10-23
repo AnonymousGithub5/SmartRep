@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { collateralAuctionHouse . MemberAccess_0 ( NumberLiteral_0 , 5 * WAD ) ; }

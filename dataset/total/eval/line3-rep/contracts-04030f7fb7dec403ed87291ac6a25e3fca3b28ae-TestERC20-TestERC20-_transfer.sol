@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address to , uint value ) private { balanceOf [ from ] = balanceOf [ from ] . sub ( value ) ;

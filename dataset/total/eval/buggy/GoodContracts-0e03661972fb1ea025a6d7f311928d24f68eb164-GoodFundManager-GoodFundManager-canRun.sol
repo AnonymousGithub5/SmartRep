@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( bool ) { return block . number . sub ( Identifier_0 ) > Identifier_1 ; }

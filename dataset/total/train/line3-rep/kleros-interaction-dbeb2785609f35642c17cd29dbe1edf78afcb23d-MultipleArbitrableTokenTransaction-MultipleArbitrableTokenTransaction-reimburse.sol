@@ -1,0 +1,1 @@
+transaction . amount -= Identifier_3 ; token . transfer ( transaction . MemberAccess_1 , Identifier_4 ) ; }

@@ -1,0 +1,1 @@
+if ( Identifier_4 [ Identifier_5 ] [ i ] . status != Identifier_6 . MemberAccess_1 ) continue ; msg . sender . transfer ( Identifier_7 [ Identifier_8 ] [ i ] . amount ) ;

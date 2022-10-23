@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { Identifier_0 = new UserDefinedTypeName_0 ( ) ; Identifier_1 = new UserDefinedTypeName_1 ( ) ;

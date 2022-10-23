@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , uint amount ) public view returns ( uint ) { ( uint VariableDeclaration_0 , uint VariableDeclaration_1 ) = Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( token ) ; return Identifier_2 ( amount , Identifier_3 , Identifier_4 ) ;

@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = Identifier_1 ( tokens , _underlyingAsset , _expiry , _to , true ) ; Identifier_2 ( IERC20 ( Identifier_3 ( _underlyingAsset ) ) , _expiry , _to , Identifier_4 ) ; Identifier_5 = Identifier_6 ( _underlyingAsset , Identifier_7 ) ;

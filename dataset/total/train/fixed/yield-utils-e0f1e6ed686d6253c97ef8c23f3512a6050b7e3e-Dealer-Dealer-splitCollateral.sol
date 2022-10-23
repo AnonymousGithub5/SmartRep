@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address to ) public { require ( collateral == Identifier_0 , stringLiteral_0 ) ; require ( Identifier_1 ( from ) == 0 , stringLiteral_1 ) ; uint256 VariableDeclaration_0 = Identifier_2 [ from ] ; delete Identifier_3 [ from ] ; Identifier_4 . MemberAccess_0 ( to , Identifier_5 , 0 ) ; }

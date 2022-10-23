@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _id , uint256 Parameter_0 , uint Parameter_1 , address Parameter_2 , address Parameter_3 ) external ModifierInvocation_0 { Identifier_0 ( _id , Identifier_1 , _price , Identifier_2 , Identifier_3 ) ; }

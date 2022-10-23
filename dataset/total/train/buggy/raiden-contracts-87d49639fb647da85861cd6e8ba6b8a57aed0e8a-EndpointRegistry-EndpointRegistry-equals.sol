@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string a , string b ) internal pure returns ( bool Parameter_0 ) { if ( keccak256 ( a ) == keccak256 ( b ) ) { return true ; } return false ; }

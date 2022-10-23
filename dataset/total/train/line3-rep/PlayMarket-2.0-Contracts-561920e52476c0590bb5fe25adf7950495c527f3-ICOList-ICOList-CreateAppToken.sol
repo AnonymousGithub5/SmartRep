@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_6 ( Identifier_7 [ Identifier_8 ] ) . MemberAccess_2 ( _name , _symbol , Identifier_9 , Identifier_10 , _dev ) ; return Identifier_11 ; }

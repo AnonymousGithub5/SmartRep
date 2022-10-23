@@ -1,0 +1,1 @@
+constructor ( address payable Parameter_0 , uint256 Parameter_1 ) { Identifier_0 = _beneficiary ; Identifier_1 = Identifier_2 ; }

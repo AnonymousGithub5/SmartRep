@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint16 memory Parameter_0 ) public view returns ( bool ) { for ( uint256 i = 0 ; i < Identifier_0 . length ; ++ i ) { uint16 VariableDeclaration_0 = Identifier_1 [ i ] ; uint256 VariableDeclaration_1 = Identifier_2 [ Identifier_3 ] ; if ( Identifier_4 > 0 && ! Identifier_5 [ Identifier_6 ] . MemberAccess_0 ) return true ; } return false ; }

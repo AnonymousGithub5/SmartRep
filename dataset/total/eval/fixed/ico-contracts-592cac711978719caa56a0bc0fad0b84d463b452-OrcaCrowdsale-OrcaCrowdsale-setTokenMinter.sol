@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public onlyOwner ModifierInvocation_0 { require ( Identifier_0 != address ( 0 ) ) ; Identifier_1 = Identifier_2 ; }

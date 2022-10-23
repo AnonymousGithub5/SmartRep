@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public view returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 . mul ( Identifier_1 ) ; require ( result > 0 , stringLiteral_0 ) ; return result ; }

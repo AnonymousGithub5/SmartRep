@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 , uint Parameter_2 ) public pure returns ( uint Parameter_3 ) { require ( Identifier_0 > 0 && Identifier_1 > 0 , stringLiteral_0 ) ;

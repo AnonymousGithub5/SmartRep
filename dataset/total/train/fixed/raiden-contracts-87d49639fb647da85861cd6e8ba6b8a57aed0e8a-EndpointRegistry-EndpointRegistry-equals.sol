@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string a , string b ) internal pure returns ( bool Parameter_0 ) { if ( keccak256 ( abi . encodePacked ( a ) ) == keccak256 ( abi . encodePacked ( b ) ) ) { return true ; } return false ; }

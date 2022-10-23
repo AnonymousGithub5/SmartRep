@@ -1,0 +1,1 @@
+uint8 VariableDeclaration_2 ; ( , , , Identifier_14 ) = GD . MemberAccess_1 ( _proposalId ) ; uint8 VariableDeclaration_3 ;

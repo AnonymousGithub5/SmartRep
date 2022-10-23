@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) external onlyAdmin { require ( index > 1 ) ; require ( Identifier_0 [ tokenAddress ] == 0 ) ; require ( Identifier_1 [ index ] == 0 ) ; Identifier_2 [ tokenAddress ] = index ; Identifier_3 [ index ] = tokenAddress ; }

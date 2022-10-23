@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 Parameter_0 , uint256 amount , IERC20 target ) external pure override returns ( uint256 ) { require ( address ( Identifier_0 ) == address ( target ) , stringLiteral_0 ) ; return amount ; }

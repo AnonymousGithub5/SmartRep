@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , bytes32 memory Parameter_1 ) internal returns ( uint256 ) { for ( uint256 i = 1 ; i < Identifier_0 . length - 1 ; i ++ ) { uint256 VariableDeclaration_0 = Identifier_1 [ Identifier_2 ] . MemberAccess_0 [ Identifier_3 [ i ] ] ; if ( Identifier_4 != 0 ) { return Identifier_5 ; } } return ++ id ; }

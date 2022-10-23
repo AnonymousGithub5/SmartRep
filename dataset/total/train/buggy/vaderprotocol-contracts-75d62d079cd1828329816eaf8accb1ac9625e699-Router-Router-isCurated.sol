@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) public view returns ( bool Parameter_0 ) { if ( Identifier_0 [ token ] ) { Identifier_1 = true ; } else if ( iPOOLS ( POOLS ) . MemberAccess_0 ( token ) ) { Identifier_2 = true ; } return Identifier_3 ; }

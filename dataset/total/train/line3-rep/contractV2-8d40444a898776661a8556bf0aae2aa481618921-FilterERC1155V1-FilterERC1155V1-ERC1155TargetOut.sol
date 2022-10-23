@@ -1,0 +1,1 @@
+for ( uint256 i = 0 ; i < Identifier_0 . length ; i ++ ) { Identifier_1 ( to , Identifier_2 [ i ] , amounts [ i ] ) ; }

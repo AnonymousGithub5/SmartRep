@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , UserDefinedTypeName_1 Parameter_1 , uint256 Parameter_2 ) ModifierInvocation_0 ( Identifier_2 , Identifier_3 ) public { Identifier_0 = Identifier_1 ; }

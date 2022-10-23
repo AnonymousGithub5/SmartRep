@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 calldata Parameter_0 , address owner , address spender ) public view returns ( uint256 memory Parameter_1 ) { Identifier_0 = new uint256 ( tokens . length ) ; for ( uint256 i = 0 ; i < tokens . length ; i ++ ) { Identifier_1 [ i ] = tokens [ i ] . MemberAccess_0 ( owner , spender ) ; } }

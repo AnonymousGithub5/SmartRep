@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) payable { if ( msg . sender != Identifier_0 ) throw ; if ( Identifier_1 ) throw ; if ( Identifier_2 ) throw ; Identifier_3 += msg . value ; }

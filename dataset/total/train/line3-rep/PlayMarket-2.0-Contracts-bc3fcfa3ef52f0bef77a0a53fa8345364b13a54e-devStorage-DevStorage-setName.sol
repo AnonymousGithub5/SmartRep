@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bytes32 _name ) external ModifierInvocation_0 ( ) { Identifier_0 [ _dev ] . MemberAccess_0 = _name ;

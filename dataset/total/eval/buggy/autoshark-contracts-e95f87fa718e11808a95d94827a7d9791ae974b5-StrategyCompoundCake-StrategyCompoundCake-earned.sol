@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) public view returns ( uint ) { if ( balanceOf ( account ) >= Identifier_0 ( account ) + Identifier_1 ) { return balanceOf ( account ) . sub ( Identifier_2 ( account ) ) ; } else { return 0 ; } }

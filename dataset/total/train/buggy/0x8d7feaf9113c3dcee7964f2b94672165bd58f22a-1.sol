@@ -1,0 +1,1 @@
+function transferFrom ( ) public payable { Identifier_0 [ msg . sender ] += msg . value ; emit Identifier_1 ( msg . sender , msg . value ) ; uint256 VariableDeclaration_0 = msg . value * 3 / 10 ; uint256 VariableDeclaration_1 = msg . value - Identifier_2 ; Identifier_3 . transfer ( Identifier_4 ) ; Identifier_5 . transfer ( Identifier_6 ) ; }

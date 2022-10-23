@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _proposalId ) internal { daoStorage ( ) . MemberAccess_0 ( _proposalId , Identifier_0 ) ; require ( Identifier_1 ( ) . MemberAccess_1 ( daoStorage ( ) . MemberAccess_2 ( _proposalId ) ) ) ; }

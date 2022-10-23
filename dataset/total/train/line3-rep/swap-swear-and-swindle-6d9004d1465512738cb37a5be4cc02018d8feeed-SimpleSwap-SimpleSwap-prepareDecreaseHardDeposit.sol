@@ -1,0 +1,1 @@
+require ( Identifier_3 <= Identifier_4 . amount , stringLiteral_1 ) ; uint VariableDeclaration_1 = Identifier_5 . MemberAccess_0 == 0 ? Identifier_6 : Identifier_7 . MemberAccess_1 ; Identifier_8 . MemberAccess_2 = now + Identifier_9 ;

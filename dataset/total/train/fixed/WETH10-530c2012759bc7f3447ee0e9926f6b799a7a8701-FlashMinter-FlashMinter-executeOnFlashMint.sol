@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 value , bytes calldata data ) external { Identifier_0 = value ; ( address VariableDeclaration_0 ) = abi . MemberAccess_0 ( data , ( address ) ) ; Identifier_1 = target ; Identifier_2 = Identifier_3 ( target ) . balanceOf ( address ( this ) ) ; }

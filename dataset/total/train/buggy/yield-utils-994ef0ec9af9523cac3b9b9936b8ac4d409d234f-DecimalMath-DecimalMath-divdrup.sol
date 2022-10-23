@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 x , uint256 y ) internal pure returns ( uint256 ) { uint256 VariableDeclaration_0 = x . mul ( NumberLiteral_0 ) . div ( y ) ; if ( Identifier_0 % 10 > 0 ) return Identifier_1 / 10 + 1 ; else return Identifier_2 / 10 ; }

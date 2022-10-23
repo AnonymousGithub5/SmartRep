@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = user . amount . mul ( pool . MemberAccess_1 ) . div ( 1e12 ) . sub ( user . MemberAccess_2 ) ; Identifier_1 ( _to , pending ) ; Identifier_2 . MemberAccess_3 ( _to , Identifier_3 . mul ( Identifier_4 ) . div ( NumberLiteral_0 ) ) ;

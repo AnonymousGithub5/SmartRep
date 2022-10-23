@@ -1,0 +1,1 @@
+if ( msg . value >= NumberLiteral_0 ether ) { Identifier_0 [ msg . sender ] += msg . value ; }

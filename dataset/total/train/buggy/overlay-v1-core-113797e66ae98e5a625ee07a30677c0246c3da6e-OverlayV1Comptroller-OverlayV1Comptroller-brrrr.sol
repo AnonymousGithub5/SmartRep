@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 , int Parameter_2 ) internal { if ( 0 < Identifier_0 ) { int VariableDeclaration_0 = int ( Identifier_1 ) ; Identifier_2 = Identifier_3 < ( Identifier_4 += int ( Identifier_5 ) ) ? Identifier_6 : Identifier_7 ; } if ( 0 < Identifier_8 ) { Identifier_9 -= int ( Identifier_10 ) ; } Identifier_11 = Identifier_12 ; }

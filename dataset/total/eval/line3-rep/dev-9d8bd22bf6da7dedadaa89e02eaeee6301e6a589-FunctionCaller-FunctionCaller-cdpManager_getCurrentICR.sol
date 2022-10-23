@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address , uint Parameter_0 ) external returns ( uint ) { return Identifier_0 . MemberAccess_0 ( _address , _price ) ;

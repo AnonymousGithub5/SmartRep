@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint value ) external view returns ( uint ) { return value . MemberAccess_0 ( Identifier_0 . add ( Identifier_1 . MemberAccess_1 ( ) ) ) ; }

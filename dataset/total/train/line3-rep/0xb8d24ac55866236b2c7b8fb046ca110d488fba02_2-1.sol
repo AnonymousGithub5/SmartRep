@@ -1,0 +1,1 @@
+if ( Identifier_4 ) throw ; balances [ msg . sender ] += msg . value ; }

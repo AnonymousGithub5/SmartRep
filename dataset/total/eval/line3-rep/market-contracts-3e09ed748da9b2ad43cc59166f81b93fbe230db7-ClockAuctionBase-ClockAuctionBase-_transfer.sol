@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _tokenId ) internal { Identifier_0 . transfer ( Identifier_1 , _tokenId ) ; }

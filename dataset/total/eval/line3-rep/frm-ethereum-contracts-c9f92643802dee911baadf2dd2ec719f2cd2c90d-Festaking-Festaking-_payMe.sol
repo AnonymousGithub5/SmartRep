@@ -1,0 +1,1 @@
+returns ( bool ) { return Identifier_0 ( Identifier_1 , address ( this ) , address ( this ) , amount ) ; }

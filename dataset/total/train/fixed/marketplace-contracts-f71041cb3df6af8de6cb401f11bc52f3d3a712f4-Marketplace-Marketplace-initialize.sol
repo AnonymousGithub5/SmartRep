@@ -1,0 +1,1 @@
+function initialize ( address Parameter_0 ) public ModifierInvocation_0 ( stringLiteral_1 , stringLiteral_2 ) { Identifier_0 . MemberAccess_0 ( msg . sender ) ; require ( Identifier_1 . MemberAccess_1 ( ) , stringLiteral_0 ) ; Identifier_2 = Identifier_3 ( Identifier_4 ) ; }

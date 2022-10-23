@@ -1,0 +1,1 @@
+Identifier_15 . MemberAccess_3 ( address ( fundsAsset ) , address ( loan ) , Identifier_16 ) ; Identifier_17 . MemberAccess_4 ( address ( loan ) ) ; assertEq ( loan . MemberAccess_5 ( ) , 0 ) ;

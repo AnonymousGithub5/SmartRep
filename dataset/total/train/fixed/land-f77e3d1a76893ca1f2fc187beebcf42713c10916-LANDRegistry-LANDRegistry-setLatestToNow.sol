@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user ) ModifierInvocation_0 public { Identifier_0 [ user ] = now ; }

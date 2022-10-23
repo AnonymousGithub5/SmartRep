@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 ) public ModifierInvocation_0 { require ( int ( Identifier_0 ) >= 0 , "" ) ; vat . MemberAccess_0 ( Identifier_1 , Identifier_2 , int ( Identifier_3 ) ) ;

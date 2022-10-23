@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) public onlyOwner { require ( ERC20 ( Identifier_0 ) . transfer ( owner , _amount ) , stringLiteral_0 ) ;

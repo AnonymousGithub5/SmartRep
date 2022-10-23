@@ -1,0 +1,1 @@
+Identifier_3 . MemberAccess_1 = Identifier_4 ; Identifier_5 . MemberAccess_2 = Identifier_6 ; Identifier_7 . MemberAccess_3 = Identifier_8 ;

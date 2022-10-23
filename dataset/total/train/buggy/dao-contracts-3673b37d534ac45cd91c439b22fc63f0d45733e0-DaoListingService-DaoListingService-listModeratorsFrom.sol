@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 , bool Parameter_2 ) public constant returns ( address Parameter_3 ) { Identifier_0 = Identifier_1 ( Identifier_2 , Identifier_3 , Identifier_4 ( ) . MemberAccess_0 , Identifier_5 ( ) . MemberAccess_1 , Identifier_6 ( ) . MemberAccess_2 , Identifier_7 ( ) . MemberAccess_3 , Identifier_8 ) ; }

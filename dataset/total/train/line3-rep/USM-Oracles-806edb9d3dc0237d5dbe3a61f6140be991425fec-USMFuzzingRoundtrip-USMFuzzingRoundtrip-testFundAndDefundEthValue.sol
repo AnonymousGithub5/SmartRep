@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = Identifier_4 . MemberAccess_1 ( address ( this ) , address ( this ) , Identifier_5 ) ; require ( Identifier_6 . totalSupply ( ) >= 10 ** 18 ) ; assert ( Identifier_7 >= Identifier_8 ) ;

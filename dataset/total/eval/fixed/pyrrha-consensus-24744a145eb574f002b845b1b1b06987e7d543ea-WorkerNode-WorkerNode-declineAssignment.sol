@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external onlyOwner ModifierInvocation_0 ( Identifier_5 ) { require ( Identifier_0 != bytes32 ( 0 ) ) ; Identifier_1 . MemberAccess_0 ( Identifier_2 , 0 , false ) ; Identifier_3 ( Identifier_4 ) ; }

@@ -1,0 +1,1 @@
+function transferFrom ( address Parameter_0 , address Parameter_1 , uint amount ) public virtual override returns ( bool ) { Identifier_0 ( sender , recipient , amount ) ; Identifier_1 ( sender , msg . sender , Identifier_2 [ sender ] [ msg . sender ] - amount ) ; return true ; }

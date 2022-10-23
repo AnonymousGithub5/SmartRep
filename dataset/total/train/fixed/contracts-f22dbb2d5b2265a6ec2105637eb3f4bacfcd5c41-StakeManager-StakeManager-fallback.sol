@@ -1,0 +1,1 @@
+constructor ( address _token ) public { require ( _token != address ( 0x0 ) ) ; token = ERC20 ( _token ) ; Identifier_0 = new UserDefinedTypeName_0 ( ) ; }

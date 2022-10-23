@@ -1,0 +1,1 @@
+require ( Identifier_1 != 0 ) ; governanceDat . MemberAccess_2 ( _proposalId , uint8 ( Identifier_2 . MemberAccess_3 ) ) ; uint VariableDeclaration_1 = SafeMath . add ( Identifier_3 . MemberAccess_4 ( Identifier_4 , 0 ) , now ) ;

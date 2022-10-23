@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _from , address _to , uint256 _value ) internal { if ( _value == 0 ) { return ; } if ( _value == balanceOf ( _from ) ) { Identifier_0 = Identifier_1 . sub ( 1 ) ; } if ( balanceOf ( _to ) == 0 ) { Identifier_2 = Identifier_3 . add ( 1 ) ; } }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint8 Parameter_1 ) ModifierInvocation_0 ModifierInvocation_1 ModifierInvocation_2 ( Identifier_5 ) external returns ( bool ) { require ( Identifier_0 < 5 && Identifier_1 != 0 ) ; Identifier_2 [ Identifier_3 ] = Identifier_4 ; return true ; }

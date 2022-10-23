@@ -1,0 +1,1 @@
+Identifier_4 . MemberAccess_4 = Identifier_5 . MemberAccess_5 ; uint256 VariableDeclaration_0 = Identifier_6 ( ) ; if ( Identifier_7 ( ) . MemberAccess_6 ( _user ) < Identifier_8 ) {

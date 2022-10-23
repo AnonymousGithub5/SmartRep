@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_4 = ElementaryTypeName_0 ( Identifier_6 >> 8 ) ; uint128 VariableDeclaration_5 = uint128 ( Identifier_7 ) ; uint128 VariableDeclaration_6 = uint128 ( Identifier_8 >> NumberLiteral_1 ) * NumberLiteral_2 ;

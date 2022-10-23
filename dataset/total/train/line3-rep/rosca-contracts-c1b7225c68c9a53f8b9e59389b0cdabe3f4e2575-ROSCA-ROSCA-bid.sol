@@ -1,0 +1,1 @@
+Identifier_1 != 0 && Identifier_2 [ msg . sender ] . MemberAccess_1 + Identifier_3 >= Identifier_4 ( ) && Identifier_5 >= SafeMath . mul ( Identifier_6 ( ) , Identifier_7 ) / 100 ) ;

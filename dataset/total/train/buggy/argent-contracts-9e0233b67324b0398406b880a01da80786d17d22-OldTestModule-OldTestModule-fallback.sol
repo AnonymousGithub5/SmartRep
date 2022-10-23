@@ -1,0 +1,1 @@
+constructor ( UserDefinedTypeName_0 Parameter_0 ) ModifierInvocation_0 ( Identifier_1 , Identifier_2 ( 0 ) , Identifier_3 ) public { Identifier_0 = new UserDefinedTypeName_1 ( ) ; }

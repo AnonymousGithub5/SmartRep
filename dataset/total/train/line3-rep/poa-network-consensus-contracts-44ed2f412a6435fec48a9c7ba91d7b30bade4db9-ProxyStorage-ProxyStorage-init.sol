@@ -1,0 +1,1 @@
+require ( ! Identifier_0 ( ) ) ; Identifier_1 [ keccak256 ( stringLiteral_0 ) ] = Identifier_2 ; Identifier_3 [ keccak256 ( stringLiteral_1 ) ] = true ;

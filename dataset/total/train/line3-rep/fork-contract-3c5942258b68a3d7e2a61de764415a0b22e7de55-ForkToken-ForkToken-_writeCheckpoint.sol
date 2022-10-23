@@ -1,0 +1,1 @@
+) internal { uint32 VariableDeclaration_0 = Identifier_0 ( block . number , stringLiteral_0 ) ; if ( Identifier_1 > 0 && Identifier_2 [ Identifier_3 ] [ Identifier_4 - 1 ] . MemberAccess_0 == Identifier_5 ) {

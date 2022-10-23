@@ -1,0 +1,1 @@
+Identifier_2 [ Identifier_3 ] = true ; Identifier_4 [ Identifier_5 ] = block . timestamp ; emit Identifier_6 ( msg . sender , Identifier_7 , block . timestamp + Identifier_8 , string ( Identifier_9 ) ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes Parameter_0 ) internal constant returns ( bytes ) { UserDefinedTypeName_0 memory VariableDeclaration_0 ; Identifier_0 . MemberAccess_0 ( buf , NumberLiteral_0 ) ;

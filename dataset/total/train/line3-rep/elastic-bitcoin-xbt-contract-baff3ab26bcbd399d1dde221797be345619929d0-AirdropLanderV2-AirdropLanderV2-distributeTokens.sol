@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 . balanceOf ( address ( this ) ) ; Identifier_1 ( msg . value ) ; uint256 VariableDeclaration_1 = Identifier_2 . balanceOf ( address ( this ) ) ;

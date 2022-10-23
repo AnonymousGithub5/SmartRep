@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner , string Parameter_0 , string Parameter_1 , bytes32 Parameter_2 ) public whenNotPaused { require ( _owner != address ( 0 ) , stringLiteral_0 ) ;

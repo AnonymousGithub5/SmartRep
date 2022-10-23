@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , string calldata Parameter_1 , string calldata Parameter_2 ) external payable returns ( bytes32 _id ) ;

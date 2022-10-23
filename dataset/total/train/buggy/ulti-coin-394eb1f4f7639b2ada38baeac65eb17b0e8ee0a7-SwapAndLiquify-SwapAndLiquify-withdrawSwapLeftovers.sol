@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { require ( _msgSender ( ) == Identifier_0 , stringLiteral_0 ) ; Identifier_1 . transfer ( address ( this ) . balance ) ; }

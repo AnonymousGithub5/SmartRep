@@ -1,0 +1,1 @@
+require ( Identifier_0 [ slot ] . owner == msg . sender , stringLiteral_0 ) ; Identifier_1 . safeTransferFrom ( address ( this ) , msg . sender , uint256 ( Identifier_2 [ slot ] . MemberAccess_0 ) ) ; }

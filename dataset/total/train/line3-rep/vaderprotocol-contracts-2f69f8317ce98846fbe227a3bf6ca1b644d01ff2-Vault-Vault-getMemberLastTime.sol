@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) external view returns ( uint256 ) { return Identifier_0 [ member ] [ Identifier_1 ] ;

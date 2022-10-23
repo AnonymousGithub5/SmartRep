@@ -1,0 +1,1 @@
+if ( Identifier_2 || Identifier_3 == msg . sender ) { Identifier_4 += msg . value ; Identifier_5 += msg . value ;

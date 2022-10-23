@@ -1,0 +1,1 @@
+returns ( uint256 Parameter_4 ) { if ( totalSupply == 0 ) { return 10 ** 18 ;

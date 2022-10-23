@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _amount ) external override { Identifier_0 ( ) ; if ( Identifier_1 ( ) ) { Identifier_2 ( Identifier_3 ) ; } Identifier_4 ( Identifier_5 , Identifier_6 , _amount ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , uint value ) private returns ( uint Parameter_0 ) { uint VariableDeclaration_0 = Identifier_0 ( from ) ; if ( Identifier_1 > 0 ) { Identifier_2 = Identifier_3 . MemberAccess_0 ( value , Identifier_4 ) ; Identifier_5 ( from , Identifier_6 . sub ( Identifier_7 ) ) ; emit Identifier_8 ( from , value ) ; } }

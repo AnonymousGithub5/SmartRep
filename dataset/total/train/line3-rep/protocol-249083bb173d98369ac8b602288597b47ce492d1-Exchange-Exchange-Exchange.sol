@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , address Parameter_1 , UserDefinedTypeName_0 Parameter_2 ) public { require ( Identifier_0 != 0x0 ) ; Identifier_1 ( Identifier_2 ) ;

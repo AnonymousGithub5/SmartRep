@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external pure override returns ( uint256 ) { return NumberLiteral_0 ; }

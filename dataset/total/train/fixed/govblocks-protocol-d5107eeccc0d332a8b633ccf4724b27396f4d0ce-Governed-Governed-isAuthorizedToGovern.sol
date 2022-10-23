@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view returns ( bool ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; return ( Identifier_2 . MemberAccess_0 ( stringLiteral_0 ) == Identifier_3 ) ; }

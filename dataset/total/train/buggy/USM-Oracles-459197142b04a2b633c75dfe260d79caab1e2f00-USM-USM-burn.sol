@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) external returns ( uint ) { require ( Identifier_0 >= Identifier_1 , stringLiteral_0 ) ; uint VariableDeclaration_0 = _burn ( Identifier_2 ) ; require ( Identifier_3 ( ) <= WAD , stringLiteral_1 ) ; Identifier_4 . MemberAccess_0 ( msg . sender , Identifier_5 ) ; Identifier_6 ( Identifier_7 ( ) ) ; return ( Identifier_8 ) ; }

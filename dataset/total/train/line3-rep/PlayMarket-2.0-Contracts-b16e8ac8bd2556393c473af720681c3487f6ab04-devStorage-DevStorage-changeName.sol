@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bytes32 _name , bytes32 Parameter_1 ) external ModifierInvocation_0 ( ) ModifierInvocation_1 ( _dev ) { require ( Identifier_0 [ _dev ] . state ) ; Identifier_1 [ _dev ] . MemberAccess_0 = _name ;

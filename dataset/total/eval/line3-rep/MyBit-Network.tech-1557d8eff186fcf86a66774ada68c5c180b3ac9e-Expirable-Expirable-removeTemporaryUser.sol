@@ -1,0 +1,1 @@
+returns ( bool ) { require ( Identifier_0 ( _user ) ) ; database . MemberAccess_0 ( keccak256 ( abi . encodePacked ( stringLiteral_0 , _user ) ) ) ;

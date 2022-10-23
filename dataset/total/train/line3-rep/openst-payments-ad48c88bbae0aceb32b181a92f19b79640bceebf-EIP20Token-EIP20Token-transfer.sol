@@ -1,0 +1,1 @@
+balances [ _to ] = balances [ _to ] . add ( _value ) ; Transfer ( msg . sender , _to , _value ) ; return true ;

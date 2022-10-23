@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address ) internal constant returns ( bool Parameter_0 ) { uint VariableDeclaration_0 ; assembly { Identifier_0 := AssemblyExpression_1 ( AssemblyExpression_0 ) } Identifier_1 = Identifier_2 == 0 || Identifier_3 ( ) . MemberAccess_0 ( _address ) ; }

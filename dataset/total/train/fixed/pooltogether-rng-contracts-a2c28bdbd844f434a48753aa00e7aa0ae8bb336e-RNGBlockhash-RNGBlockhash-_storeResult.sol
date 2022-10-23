@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) internal { Identifier_0 [ Identifier_1 ] = result ; Identifier_2 [ Identifier_3 ] . MemberAccess_0 = true ; emit Identifier_4 ( Identifier_5 , result ) ; }

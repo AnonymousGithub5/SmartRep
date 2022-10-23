@@ -1,0 +1,1 @@
+address VariableDeclaration_1 = Identifier_6 ( Identifier_7 [ Identifier_8 ] ) ; Identifier_9 ( Identifier_10 ) . transfer ( Identifier_11 * ( ( Identifier_12 [ Identifier_13 ] ) / 100 ) ) ; Identifier_14 ++ ;

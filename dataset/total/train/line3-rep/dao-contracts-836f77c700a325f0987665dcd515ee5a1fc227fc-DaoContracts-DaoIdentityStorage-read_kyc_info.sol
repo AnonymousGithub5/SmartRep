@@ -1,0 +1,1 @@
+public constant returns ( bytes32 Parameter_0 , uint256 Parameter_1 )

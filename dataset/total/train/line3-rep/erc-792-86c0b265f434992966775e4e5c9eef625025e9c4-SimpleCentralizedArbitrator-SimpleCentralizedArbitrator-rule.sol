@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = disputes [ _disputeID ] ; require ( _ruling < dispute . MemberAccess_0 , stringLiteral_1 ) ; require ( dispute . status == Identifier_0 . MemberAccess_1 , stringLiteral_2 ) ;

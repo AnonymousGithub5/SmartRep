@@ -1,0 +1,1 @@
+{ return ( ( _fundingCycle . MemberAccess_0 >> NumberLiteral_0 ) & 1 ) == 0 ; }

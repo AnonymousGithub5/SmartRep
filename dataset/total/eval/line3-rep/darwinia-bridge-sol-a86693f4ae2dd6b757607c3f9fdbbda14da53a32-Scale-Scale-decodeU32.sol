@@ -1,0 +1,1 @@
+( uint32 ( Identifier_9 ) << 8 ) | ( uint32 ( Identifier_10 ) << 18 ) | ( uint32 ( Identifier_11 ) << NumberLiteral_0 ) ;

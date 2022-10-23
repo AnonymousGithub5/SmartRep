@@ -1,0 +1,1 @@
+require ( Identifier_2 > Identifier_3 && Identifier_4 > Identifier_5 ( ) ) ; address VariableDeclaration_0 = Identifier_6 ( msg . sender ) ; require ( Identifier_7 ( Identifier_8 ) ) ;

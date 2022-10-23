@@ -1,0 +1,1 @@
+Identifier_1 ( msg . sender ) ; require ( Identifier_2 ( token ) . transferFrom ( msg . sender , this , amount ) ) ; balances [ token ] [ msg . sender ] = balances [ token ] [ msg . sender ] . add ( amount ) ;

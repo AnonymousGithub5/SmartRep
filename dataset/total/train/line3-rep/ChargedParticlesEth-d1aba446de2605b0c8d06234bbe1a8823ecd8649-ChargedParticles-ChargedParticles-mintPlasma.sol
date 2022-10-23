@@ -1,0 +1,1 @@
+if ( msg . sender != Identifier_8 ) { Identifier_9 = Identifier_10 [ Identifier_11 ] ; Identifier_12 = _amount . mul ( Identifier_13 ) ;

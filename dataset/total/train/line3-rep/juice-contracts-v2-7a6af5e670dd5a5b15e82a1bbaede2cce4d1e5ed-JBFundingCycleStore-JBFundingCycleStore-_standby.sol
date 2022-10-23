@@ -1,0 +1,1 @@
+if ( Identifier_3 == 0 ) return 0 ; UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_4 ( Identifier_5 ) ; if ( block . timestamp >= _fundingCycle . MemberAccess_0 ) return 0 ;

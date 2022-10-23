@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 ) external ModifierInvocation_0 ModifierInvocation_1 { UserDefinedTypeName_0 memory VariableDeclaration_0 ;

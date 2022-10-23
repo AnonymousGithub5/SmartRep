@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _value , uint64 Parameter_1 , string memory Parameter_2 , bool Parameter_3 ) ModifierInvocation_0 public returns ( bool Parameter_4 ) { if ( ! Identifier_0 [ Identifier_1 ] [ Identifier_2 ] . MemberAccess_0 || Identifier_3 ) { return false ;

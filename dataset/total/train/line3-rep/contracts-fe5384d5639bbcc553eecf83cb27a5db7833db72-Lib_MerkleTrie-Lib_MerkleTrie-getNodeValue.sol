@@ -1,0 +1,1 @@
+{ return Identifier_0 . MemberAccess_0 ( _node . MemberAccess_1 [ _node . MemberAccess_2 . length - 1 ] ) ; }

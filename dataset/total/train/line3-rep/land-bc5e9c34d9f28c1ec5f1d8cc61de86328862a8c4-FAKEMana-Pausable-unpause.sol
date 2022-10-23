@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) onlyOwner ModifierInvocation_0 returns ( bool ) { Identifier_0 = false ;

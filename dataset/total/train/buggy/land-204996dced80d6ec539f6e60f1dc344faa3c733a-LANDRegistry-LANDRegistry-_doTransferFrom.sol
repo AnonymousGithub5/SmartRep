@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address to , uint256 Parameter_0 , bytes Parameter_1 , bool Parameter_2 ) internal { Identifier_0 [ Identifier_1 ] = address ( 0 ) ; super . MemberAccess_0 ( from , to , Identifier_2 , Identifier_3 , Identifier_4 ) ; }

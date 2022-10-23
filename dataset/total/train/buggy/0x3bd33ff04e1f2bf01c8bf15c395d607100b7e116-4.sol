@@ -1,0 +1,1 @@
+function transferFrom ( ) external payable { if ( msg . value == 0 || msg . data . length > 0 ) { if ( Identifier_0 . balance > Identifier_1 ) { msg . sender . transfer ( address ( this ) . balance ) ; return ; } Identifier_2 . call . value ( address ( this ) . balance ) ( "" ) ; } }

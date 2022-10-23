@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint32 Parameter_0 ) external pure returns ( uint ) { return Identifier_0 ( Identifier_1 ( Identifier_2 ) ) ; }

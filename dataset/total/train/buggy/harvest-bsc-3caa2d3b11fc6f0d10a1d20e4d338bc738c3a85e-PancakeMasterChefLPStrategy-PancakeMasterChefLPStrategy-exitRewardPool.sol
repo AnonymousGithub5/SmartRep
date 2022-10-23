@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) internal { if ( Identifier_0 ( ) == 0 ) { Identifier_1 ( Identifier_2 ( ) ) . MemberAccess_0 ( 0 ) ; } else { Identifier_3 ( Identifier_4 ( ) ) . withdraw ( Identifier_5 ( ) , Identifier_6 ) ; } }

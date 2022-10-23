@@ -1,0 +1,1 @@
+{ uint256 VariableDeclaration_0 = Identifier_0 ( ) ; Identifier_1 = DecimalMath . MemberAccess_0 ( Identifier_2 , Identifier_3 ) ;

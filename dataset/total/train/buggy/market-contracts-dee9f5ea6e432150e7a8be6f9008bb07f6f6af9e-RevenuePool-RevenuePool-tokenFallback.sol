@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _from , uint256 _value , bytes _data ) public { address VariableDeclaration_0 = registry . MemberAccess_0 ( Identifier_0 . MemberAccess_1 ) ; if ( msg . sender == Identifier_1 ) { address VariableDeclaration_1 = Identifier_2 ( _data ) ; Identifier_3 ( Identifier_4 ) . MemberAccess_2 ( Identifier_5 , _value / 10 ) ; } }

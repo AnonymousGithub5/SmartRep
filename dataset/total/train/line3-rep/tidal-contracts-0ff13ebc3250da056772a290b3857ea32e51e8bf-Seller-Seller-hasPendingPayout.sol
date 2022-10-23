@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = Identifier_2 [ Identifier_3 ] ; if ( Identifier_4 > 0 && ! Identifier_5 [ Identifier_6 ] . MemberAccess_0 ) return true ; }

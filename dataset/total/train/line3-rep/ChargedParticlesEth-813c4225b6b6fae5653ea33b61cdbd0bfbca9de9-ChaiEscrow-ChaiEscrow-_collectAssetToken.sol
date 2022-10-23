@@ -1,0 +1,1 @@
+require ( Identifier_1 <= Identifier_2 , stringLiteral_0 ) ; require ( Identifier_3 . transferFrom ( _from , address ( this ) , Identifier_4 ) , stringLiteral_1 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address calldata Parameter_0 ) external virtual returns ( uint memory ) ;

@@ -1,0 +1,1 @@
+{ UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ slot ] ; c . MemberAccess_0 = Identifier_1 ( {

@@ -1,0 +1,1 @@
+) internal returns ( uint256 Parameter_3 , uint256 Parameter_4 , uint256 Parameter_5 ) { require ( base == Identifier_0 || base == Identifier_1 ) ; ( Identifier_2 , Identifier_3 , Identifier_4 ) = iUTILS ( Identifier_5 ( ) ) . MemberAccess_0 ( Identifier_6 , token , member ) ;

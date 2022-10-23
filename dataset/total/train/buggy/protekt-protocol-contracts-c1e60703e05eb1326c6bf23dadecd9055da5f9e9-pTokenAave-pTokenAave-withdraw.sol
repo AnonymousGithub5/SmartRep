@@ -1,0 +1,1 @@
+function withdraw ( uint256 Parameter_0 ) public { uint256 VariableDeclaration_0 = ( balance ( ) . mul ( Identifier_0 ) ) . div ( totalSupply ( ) ) ; _burn ( msg . sender , Identifier_1 ) ; Identifier_2 . safeTransfer ( msg . sender , r ) ; Identifier_3 = balance ( ) ; }

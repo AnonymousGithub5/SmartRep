@@ -1,0 +1,1 @@
+bool VariableDeclaration_0 = Identifier_0 . add ( value ) ; emit Identifier_1 ( result ) ; }

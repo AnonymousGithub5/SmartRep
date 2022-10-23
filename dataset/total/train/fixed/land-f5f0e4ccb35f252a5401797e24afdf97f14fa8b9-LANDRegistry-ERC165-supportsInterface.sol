@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes4 Parameter_0 ) external view returns ( bool ) ;

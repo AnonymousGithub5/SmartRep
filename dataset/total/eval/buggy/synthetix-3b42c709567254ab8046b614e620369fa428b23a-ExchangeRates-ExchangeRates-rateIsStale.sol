@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes4 Parameter_0 ) external view returns ( bool ) { if ( Identifier_0 == stringLiteral_0 ) return false ; return Identifier_1 [ Identifier_2 ] . add ( Identifier_3 ) < now ; }

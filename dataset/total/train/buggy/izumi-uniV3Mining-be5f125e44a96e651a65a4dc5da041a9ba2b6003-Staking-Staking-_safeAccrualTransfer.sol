@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _to , uint256 _amount ) private { Identifier_0 ( token ) . safeTransferFrom ( Identifier_1 , _to , _amount ) ; }

@@ -1,0 +1,1 @@
+user . amount = user . amount . sub ( amount ) ; user . rewardDebt = amount . mul ( pool . MemberAccess_1 ) . div ( Identifier_4 ) ; UserDefinedTypeName_0 VariableDeclaration_1 = pool . MemberAccess_2 ;

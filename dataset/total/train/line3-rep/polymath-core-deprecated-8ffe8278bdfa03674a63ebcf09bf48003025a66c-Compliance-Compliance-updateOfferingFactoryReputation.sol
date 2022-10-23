@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) external returns ( bool success ) { var ( , , VariableDeclaration_0 , , , ) = Identifier_0 . MemberAccess_0 ( msg . sender ) ; require ( Identifier_1 != address ( 0 ) ) ;

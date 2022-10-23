@@ -1,0 +1,1 @@
+if ( amount > 0 ) require ( Identifier_1 . transfer ( Identifier_2 , amount ) ) ; }

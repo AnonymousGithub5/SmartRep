@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 , uint _amount ) public pure returns ( uint ) { if ( Identifier_0 == 0 ) { return Math . MemberAccess_0 ( _amount . mul ( _amount ) ) . sub ( 1000 ) ; } else { return ( _amount ) . mul ( Identifier_1 ) . div ( Identifier_2 ) ; } }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 * ( block . number - Identifier_1 ) ; if ( totalSupply > 0 ) { return uint256 ( Identifier_2 ) . add ( DecimalMath . MemberAccess_0 ( Identifier_3 , totalSupply ) ) ; } else { return Identifier_4 ; } }

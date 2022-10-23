@@ -1,0 +1,1 @@
+function withdraw ( address Parameter_0 , uint256 amount , address to ) public override { amount = IERC20 ( address ( this ) ) . balanceOf ( msg . sender ) ; _burn ( to , amount ) ; IERC20 ( asset ) . transfer ( to , amount ) ; }

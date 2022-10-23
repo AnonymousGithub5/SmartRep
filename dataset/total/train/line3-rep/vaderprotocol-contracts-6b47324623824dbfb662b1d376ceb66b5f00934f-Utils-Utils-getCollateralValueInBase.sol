@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 , address Parameter_2 , address Parameter_3 ) external returns ( uint Parameter_4 , uint Parameter_5 ) { uint VariableDeclaration_0 = ( collateral * NumberLiteral_0 ) / NumberLiteral_1 ;

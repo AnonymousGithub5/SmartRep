@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) external override { Identifier_0 . MemberAccess_0 ( ) . MemberAccess_1 ( ) . transferFrom ( msg . sender , address ( this ) , _amount ) ; if ( totalSupply ( ) == 0 ) { return ; } Identifier_1 = Identifier_2 . add ( _amount . mul ( 1e12 ) . div ( totalSupply ( ) ) ) ; }

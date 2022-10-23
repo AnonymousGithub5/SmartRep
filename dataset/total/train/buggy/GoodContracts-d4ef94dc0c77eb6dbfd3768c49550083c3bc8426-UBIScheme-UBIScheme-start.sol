@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 { super . MemberAccess_0 ( ) ; Identifier_0 = now . div ( 1 days ) * 1 days + NumberLiteral_0 hours ; Identifier_1 = Identifier_2 ; controller . MemberAccess_1 ( address ( Identifier_3 ) , abi . MemberAccess_2 ( stringLiteral_0 , address ( this ) ) , Identifier_4 , 0 ) ; }

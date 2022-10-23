@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 ) external pure returns ( uint ) { return Identifier_0 ( totalSupply , Identifier_1 , 100 ) ; }

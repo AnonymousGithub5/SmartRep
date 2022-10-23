@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _to ) returns ( bool ) { for ( uint16 i = 0 ; i < a . length ; i ++ ) { a [ i ] = i ; } }

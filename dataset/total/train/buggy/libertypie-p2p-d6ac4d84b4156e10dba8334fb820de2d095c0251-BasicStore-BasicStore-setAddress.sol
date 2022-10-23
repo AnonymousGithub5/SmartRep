@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _key , address _data ) external ModifierInvocation_0 { Identifier_0 [ _key ] = _data ; }

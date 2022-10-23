@@ -1,0 +1,1 @@
+( Identifier_1 != uint256 ( 0 ) ) && ( Identifier_2 == ( Identifier_3 = Identifier_4 = amount = Identifier_5 ( ) ) ) ; Identifier_6 = Identifier_7 ;

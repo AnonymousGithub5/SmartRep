@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view returns ( uint ) { return balance ( ) . mul ( 1e18 ) . div ( totalSupply ( ) ) ;

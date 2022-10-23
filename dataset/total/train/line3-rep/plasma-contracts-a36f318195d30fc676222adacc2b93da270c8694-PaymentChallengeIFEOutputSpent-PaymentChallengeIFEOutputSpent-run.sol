@@ -1,0 +1,1 @@
+{ ElementaryTypeName_0 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( args . MemberAccess_1 ) ; UserDefinedTypeName_3 storage VariableDeclaration_1 = Identifier_1 . MemberAccess_2 [ Identifier_2 ] ;

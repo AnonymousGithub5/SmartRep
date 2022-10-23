@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 , bool Parameter_1 ) external ModifierInvocation_0 ( stringLiteral_0 ) {

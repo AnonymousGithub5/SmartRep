@@ -1,0 +1,1 @@
+require ( total == NumberLiteral_0 , stringLiteral_2 ) ; bool VariableDeclaration_2 = Identifier_6 ( 0 , Identifier_7 ) ; uint256 VariableDeclaration_3 = Identifier_8 ( ) ;

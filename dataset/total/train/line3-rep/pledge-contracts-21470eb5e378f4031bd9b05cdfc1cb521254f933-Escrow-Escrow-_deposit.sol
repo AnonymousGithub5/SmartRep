@@ -1,0 +1,1 @@
+amount = Identifier_7 ( token , from , amount , Identifier_8 ) ; Identifier_9 [ Identifier_10 ] [ from ] = Identifier_11 [ Identifier_12 ] [ from ] . add ( amount ) ; emit Identifier_13 ( Identifier_14 , from , amount ) ;

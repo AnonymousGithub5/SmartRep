@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public view returns ( address ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 . MemberAccess_0 ( stringLiteral_0 ) ) ; return Identifier_2 ( registry . MemberAccess_1 ( address ( this ) , Identifier_3 ) ) ; }

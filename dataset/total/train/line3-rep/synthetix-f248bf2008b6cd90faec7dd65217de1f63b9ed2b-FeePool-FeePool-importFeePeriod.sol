@@ -1,0 +1,1 @@
+) public ModifierInvocation_0 ModifierInvocation_1 { require ( Identifier_0 <= Identifier_1 . MemberAccess_0 ( ) , stringLiteral_0 ) ; Identifier_2 [ Identifier_3 . add ( Identifier_4 ) . MemberAccess_1 ( Identifier_5 ) ] = Identifier_6 ( {

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 , bool Parameter_2 , address Parameter_3 ) external ModifierInvocation_0 returns ( bool ) { require ( Identifier_0 . MemberAccess_0 ( reserve , Identifier_1 , Identifier_2 ) ) ;

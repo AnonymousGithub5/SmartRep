@@ -1,0 +1,1 @@
+Identifier_3 = Identifier_4 ; Identifier_5 . MemberAccess_0 ( Identifier_6 ) ; emit Identifier_7 ( Identifier_8 ) ;

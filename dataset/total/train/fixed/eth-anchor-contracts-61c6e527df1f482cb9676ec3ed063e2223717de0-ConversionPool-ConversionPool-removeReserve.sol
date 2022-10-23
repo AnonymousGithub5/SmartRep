@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) public ModifierInvocation_0 { Identifier_0 = Identifier_1 . sub ( _amount ) ; Identifier_2 . safeTransfer ( super . MemberAccess_0 ( ) , _amount ) ; }

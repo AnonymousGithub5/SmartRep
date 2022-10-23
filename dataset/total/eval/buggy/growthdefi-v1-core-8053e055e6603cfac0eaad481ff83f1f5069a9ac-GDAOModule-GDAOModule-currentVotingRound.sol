@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 Parameter_0 ) { return block . timestamp . div ( Identifier_0 ) ; }

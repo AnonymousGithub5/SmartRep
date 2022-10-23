@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) constant returns ( uint ) { return n == 1 ? 1 : n + Identifier_0 ( n - 1 ) ;

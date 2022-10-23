@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , uint256 amount ) public ModifierInvocation_0 ( Identifier_2 ) returns ( bool ) { return Identifier_0 ( Identifier_1 , msg . sender , amount ) ; }

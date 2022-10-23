@@ -1,0 +1,1 @@
+constructor ( address owner ) ModifierInvocation_0 ( owner ) public { Identifier_0 = NumberLiteral_0 ; Identifier_1 = 3 hours ; Identifier_2 = 5 hours ; }

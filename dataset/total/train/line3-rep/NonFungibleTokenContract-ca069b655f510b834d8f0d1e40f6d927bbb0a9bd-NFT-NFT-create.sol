@@ -1,0 +1,1 @@
+require ( Identifier_5 . token != address ( 0 ) , stringLiteral_0 ) ; Identifier_6 [ tokenId ] . token = Identifier_7 . token ; Identifier_8 [ tokenId ] . amount = Identifier_9 . amount ;

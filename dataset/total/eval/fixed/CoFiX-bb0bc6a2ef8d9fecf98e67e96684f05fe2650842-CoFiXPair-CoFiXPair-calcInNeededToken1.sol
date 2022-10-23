@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , UserDefinedTypeName_0 memory Parameter_1 ) public pure returns ( uint256 Parameter_2 ) { return amountOut . mul ( _op . MemberAccess_0 ) . mul ( Identifier_0 . add ( _op . MemberAccess_1 ) ) . mul ( Identifier_1 ) . div ( _op . MemberAccess_2 ) . div ( Identifier_2 ) . div ( Identifier_3 . sub ( _op . MemberAccess_3 ) ) ; }

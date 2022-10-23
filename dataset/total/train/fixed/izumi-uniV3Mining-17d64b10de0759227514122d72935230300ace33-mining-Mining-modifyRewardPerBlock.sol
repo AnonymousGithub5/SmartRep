@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) external onlyOwner { Identifier_0 ( ) ; Identifier_1 = Identifier_2 ; emit Identifier_3 ( Identifier_4 ) ; }

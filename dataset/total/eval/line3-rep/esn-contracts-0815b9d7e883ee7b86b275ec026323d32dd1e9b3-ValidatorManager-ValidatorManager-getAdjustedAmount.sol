@@ -1,0 +1,1 @@
+uint256 Parameter_1 ) public override pure returns ( uint256 ) { if ( _amount < Identifier_0 ) {

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint256 amount ) internal { require ( account != address ( 0 ) , stringLiteral_0 ) ; totalSupply = totalSupply . add ( amount ) ;

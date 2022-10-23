@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public { require ( Identifier_0 [ Identifier_1 ] . MemberAccess_0 != true , Identifier_2 ) ; Identifier_3 [ Identifier_4 ] . MemberAccess_1 = true ; Identifier_5 [ Identifier_6 ] . owner = msg . sender ; emit Identifier_7 ( Identifier_8 , msg . sender ) ; }

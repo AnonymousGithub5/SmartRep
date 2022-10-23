@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public onlyOwner { require ( Identifier_0 != address ( 0 ) ) ; target = Identifier_1 ( Identifier_2 ) ; Identifier_3 ( Identifier_4 ) ; }

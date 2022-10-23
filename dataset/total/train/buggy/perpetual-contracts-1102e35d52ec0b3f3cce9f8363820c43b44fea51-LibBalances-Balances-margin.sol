@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 calldata Parameter_0 , uint256 Parameter_1 ) public pure returns ( int256 ) { int256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( price ) ; return Identifier_1 . MemberAccess_1 + Identifier_2 . mul ( Identifier_3 . MemberAccess_2 , Identifier_4 ) ; }

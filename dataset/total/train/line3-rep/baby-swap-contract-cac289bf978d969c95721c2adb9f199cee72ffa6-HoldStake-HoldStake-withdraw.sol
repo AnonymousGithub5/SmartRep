@@ -1,0 +1,1 @@
+function withdraw ( uint256 Parameter_0 ) external { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ msg . sender ] [ _pid ] ; require (

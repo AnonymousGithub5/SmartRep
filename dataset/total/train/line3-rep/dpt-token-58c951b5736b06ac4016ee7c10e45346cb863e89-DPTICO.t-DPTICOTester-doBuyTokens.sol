@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint amount ) public { Identifier_0 . MemberAccess_0 . value ( amount ) ( ) ; }

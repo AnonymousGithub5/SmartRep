@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external { Identifier_0 = Identifier_1 ; Identifier_2 = Identifier_3 ( Identifier_4 ) ; IERC20 ( Identifier_5 ) . approve ( Identifier_6 , uint256 ( - 1 ) ) ; }

@@ -1,0 +1,1 @@
+constructor ( address _token , uint Parameter_0 ) public { token = Identifier_0 ( _token ) ;

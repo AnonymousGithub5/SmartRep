@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 Parameter_0 ) { uint256 VariableDeclaration_0 = block . timestamp . sub ( Identifier_0 ) ; if ( Identifier_1 < Identifier_2 ) {

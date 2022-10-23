@@ -1,0 +1,1 @@
+Identifier_1 [ msg . sender ] -= _value ; balanceOf [ msg . sender ] += _value ; Identifier_2 ( msg . sender , _value ) ;

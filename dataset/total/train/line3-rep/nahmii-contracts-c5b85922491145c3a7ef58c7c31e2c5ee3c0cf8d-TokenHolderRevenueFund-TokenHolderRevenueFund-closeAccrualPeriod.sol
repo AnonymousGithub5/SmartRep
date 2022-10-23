@@ -1,0 +1,1 @@
+for ( i = 0 ; i < Identifier_3 ; i ++ ) { UserDefinedTypeName_0 storage VariableDeclaration_1 = Identifier_4 [ i ] ; Identifier_5 . MemberAccess_0 ( 0 , currency . MemberAccess_1 , currency . id ) ;

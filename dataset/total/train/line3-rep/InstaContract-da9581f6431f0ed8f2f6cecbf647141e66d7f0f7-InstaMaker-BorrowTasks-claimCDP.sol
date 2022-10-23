@@ -1,0 +1,1 @@
+address VariableDeclaration_2 = Identifier_3 . MemberAccess_0 ( Identifier_4 ) ; Identifier_5 [ Identifier_6 ] = Identifier_7 ; emit Identifier_8 ( Identifier_9 , msg . sender ) ;

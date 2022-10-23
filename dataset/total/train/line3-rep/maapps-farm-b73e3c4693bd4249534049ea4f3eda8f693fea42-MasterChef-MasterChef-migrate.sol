@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public { require ( address ( Identifier_0 ) != address ( 0 ) , stringLiteral_0 ) ;

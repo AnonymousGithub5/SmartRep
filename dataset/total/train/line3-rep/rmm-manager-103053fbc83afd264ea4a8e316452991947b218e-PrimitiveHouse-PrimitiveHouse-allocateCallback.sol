@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 memory VariableDeclaration_0 = abi . MemberAccess_0 ( data , ( Identifier_0 ) ) ; if ( msg . sender != factory . MemberAccess_1 ( Identifier_1 . MemberAccess_2 , Identifier_2 . MemberAccess_3 ) ) revert Identifier_3 ( ) ; if ( Identifier_4 . MemberAccess_4 == false ) {

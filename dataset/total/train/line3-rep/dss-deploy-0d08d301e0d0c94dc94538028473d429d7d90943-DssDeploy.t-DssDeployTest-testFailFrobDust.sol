@@ -1,0 +1,1 @@
+Identifier_4 . MemberAccess_0 ( address ( this ) , 100 ether ) ; this . file ( address ( vat ) , stringLiteral_0 , stringLiteral_1 , Identifier_5 ( ONE , 20 ether ) ) ; vat . MemberAccess_1 ( stringLiteral_2 , address ( this ) , address ( this ) , address ( this ) , 100 ether , NumberLiteral_0 ether ) ;

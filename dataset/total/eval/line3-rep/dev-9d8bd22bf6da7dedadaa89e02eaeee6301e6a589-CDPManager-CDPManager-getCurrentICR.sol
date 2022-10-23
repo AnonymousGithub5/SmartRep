@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user , uint Parameter_0 ) external view returns ( uint ) { return Identifier_0 ( _user , _price ) ;

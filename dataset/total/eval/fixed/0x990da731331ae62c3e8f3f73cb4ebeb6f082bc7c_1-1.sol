@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address target , uint256 Parameter_0 ) onlyOwner { balanceOf [ target ] += Identifier_0 ; require ( balanceOf [ target ] >= Identifier_1 ) ; totalSupply += Identifier_2 ; Transfer ( 0 , this , Identifier_3 ) ; Transfer ( this , target , Identifier_4 ) ; }

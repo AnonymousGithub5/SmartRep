@@ -1,0 +1,1 @@
+external onlyOwner { require ( Identifier_0 <= NumberLiteral_0 , stringLiteral_0 ) ; Identifier_1 = Identifier_2 ;

@@ -1,0 +1,1 @@
+require ( address ( Identifier_6 ) . call ( _data ) , stringLiteral_2 ) ; emit Identifier_7 ( address ( Identifier_8 ) , Identifier_9 ( ) , address ( this ) , msg . sender , now ) ; return address ( Identifier_10 ) ;

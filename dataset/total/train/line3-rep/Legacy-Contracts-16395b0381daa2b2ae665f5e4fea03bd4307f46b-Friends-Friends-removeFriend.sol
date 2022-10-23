@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public { uint VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] [ msg . sender ] ; require ( index != 0 , stringLiteral_0 ) ;

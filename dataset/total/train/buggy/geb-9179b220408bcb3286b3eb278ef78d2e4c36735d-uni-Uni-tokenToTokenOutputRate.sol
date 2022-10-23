@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 , uint256 Parameter_2 ) external returns ( uint256 , uint256 ) { uint VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( Identifier_2 ) ; uint VariableDeclaration_1 = Identifier_3 ( Identifier_4 ) . MemberAccess_1 ( Identifier_5 ) ; return ( Identifier_6 , Identifier_7 ) ; }

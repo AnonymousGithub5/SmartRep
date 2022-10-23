@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public ModifierInvocation_0 ModifierInvocation_1 { val = Identifier_0 ; Identifier_1 = true ; }

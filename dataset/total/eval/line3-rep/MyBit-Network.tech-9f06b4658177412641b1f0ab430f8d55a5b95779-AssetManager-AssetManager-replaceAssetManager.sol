@@ -1,0 +1,1 @@
+require ( database . uintStorage ( keccak256 ( abi . encodePacked ( stringLiteral_0 , Identifier_0 ) ) ) >= uint ( 1 ) ) ; require ( database . uintStorage ( keccak256 ( abi . encodePacked ( stringLiteral_1 , Identifier_1 ) ) ) > now ) ; address VariableDeclaration_0 = database . MemberAccess_0 ( keccak256 ( abi . encodePacked ( stringLiteral_2 , _assetID ) ) ) ;

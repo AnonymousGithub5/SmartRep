@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = uint ( val ) ; return Identifier_2 ( Identifier_3 ( Identifier_4 ( Identifier_5 ( Identifier_6 ( loan ) , Identifier_7 ( loan ) ) ) , price ) , Identifier_8 ( WAD , Identifier_9 ) ) ; }

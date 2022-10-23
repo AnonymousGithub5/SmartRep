@@ -1,0 +1,1 @@
+require ( _value > 0 , stringLiteral_0 ) ; x = Identifier_0 ( ( ( _value - 1 ) & Identifier_1 ) >> NumberLiteral_0 ) ; y = Identifier_2 ( ( _value - 1 ) & Identifier_3 ) ;

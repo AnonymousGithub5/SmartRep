@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_2 . value ; uint VariableDeclaration_1 = Identifier_3 . mul ( Identifier_4 ) . div ( Identifier_5 ) ; Identifier_6 . timestamp = uint32 ( block . timestamp ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address to , bytes memory Parameter_0 ) public { uint VariableDeclaration_0 = Identifier_0 [ to ] [ msg . sender ] ; require ( index == 0 || index == Identifier_1 , stringLiteral_0 ) ; Identifier_2 ( to , Identifier_3 ( msg . sender , Identifier_4 ) ) ; emit Identifier_5 ( to ) ; }

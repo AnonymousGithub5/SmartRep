@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , bytes memory Parameter_1 , uint Parameter_2 ) internal pure returns ( bool ) { bool VariableDeclaration_0 = true ;

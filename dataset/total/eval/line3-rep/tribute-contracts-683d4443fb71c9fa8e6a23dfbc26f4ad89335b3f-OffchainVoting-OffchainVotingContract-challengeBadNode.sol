@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 memory Parameter_1 ) external ModifierInvocation_0 ( dao ) { UserDefinedTypeName_2 storage VariableDeclaration_0 = Identifier_0 [ address ( dao ) ] [ proposalId ] ;

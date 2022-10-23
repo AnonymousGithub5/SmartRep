@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 memory Parameter_0 , address memory Parameter_1 ) ModifierInvocation_0 ( Identifier_14 ) whenNotPaused external returns ( bool ) { require ( msg . sender == Identifier_0 , stringLiteral_0 ) ; require ( Identifier_1 . length == Identifier_2 . length , stringLiteral_1 ) ;

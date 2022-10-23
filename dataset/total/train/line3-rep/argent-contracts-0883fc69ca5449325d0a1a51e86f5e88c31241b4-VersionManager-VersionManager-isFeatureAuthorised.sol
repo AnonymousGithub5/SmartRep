@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _wallet , address Parameter_0 ) public view override returns ( bool ) { return Identifier_0 [ Identifier_1 ] [ Identifier_2 [ _wallet ] ] ; }

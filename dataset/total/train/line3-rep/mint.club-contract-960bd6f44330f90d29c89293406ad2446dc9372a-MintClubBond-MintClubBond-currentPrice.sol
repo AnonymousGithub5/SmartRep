@@ -1,0 +1,1 @@
+require ( Identifier_0 ( tokenAddress ) , stringLiteral_0 ) ; return Identifier_1 [ tokenAddress ] / ( Identifier_2 ( tokenAddress ) . totalSupply ( ) * Identifier_3 / Identifier_4 ) ; }

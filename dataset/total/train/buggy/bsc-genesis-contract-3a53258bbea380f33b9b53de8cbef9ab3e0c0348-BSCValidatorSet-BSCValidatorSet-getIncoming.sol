@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external view returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 [ validator ] ; if ( index <= 0 ) { return 0 ; } return Identifier_1 [ index - 1 ] . MemberAccess_0 ; }

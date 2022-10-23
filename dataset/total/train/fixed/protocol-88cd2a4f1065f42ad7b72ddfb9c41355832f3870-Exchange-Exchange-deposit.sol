@@ -1,0 +1,1 @@
+function deposit ( ) external payable { balances [ 0x0 ] [ msg . sender ] = balances [ 0x0 ] [ msg . sender ] . add ( msg . value ) ; Identifier_0 ( msg . sender , 0x0 , msg . value ) ; }

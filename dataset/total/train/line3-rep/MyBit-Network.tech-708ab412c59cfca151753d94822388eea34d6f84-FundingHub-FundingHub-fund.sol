@@ -1,0 +1,1 @@
+if ( Identifier_0 == 0 ) { Identifier_1 ( msg . sender , _assetID , block . timestamp ) ; }

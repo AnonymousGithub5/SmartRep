@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 ( ) { Identifier_0 ( ) ; uint256 VariableDeclaration_0 = Identifier_1 [ msg . sender ] ; Identifier_2 ( Identifier_3 ) ; }

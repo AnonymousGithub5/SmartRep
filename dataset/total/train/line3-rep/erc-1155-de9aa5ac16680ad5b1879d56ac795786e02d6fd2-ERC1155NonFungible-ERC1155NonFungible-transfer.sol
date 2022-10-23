@@ -1,0 +1,1 @@
+Identifier_16 [ Identifier_17 ] . MemberAccess_2 [ _to ] = _value . add ( Identifier_18 [ Identifier_19 ] . MemberAccess_3 [ _to ] ) ; emit Transfer ( msg . sender , _to , Identifier_20 , _value ) ; }

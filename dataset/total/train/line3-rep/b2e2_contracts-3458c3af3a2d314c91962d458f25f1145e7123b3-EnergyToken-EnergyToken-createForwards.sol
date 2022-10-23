@@ -1,0 +1,1 @@
+balances [ Identifier_5 ] [ Identifier_6 ] = value ; emit Identifier_7 ( msg . sender , address ( 0x0 ) , Identifier_8 , Identifier_9 , value ) ; }

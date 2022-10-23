@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint ) { return Identifier_0 ( ) . mul ( 1e18 ) . div ( Identifier_1 ( ) ) ;

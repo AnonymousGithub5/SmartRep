@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint _proposalId ) public ModifierInvocation_0 { Identifier_0 [ _memberAddress ] . MemberAccess_0 = _proposalId ; }

@@ -1,0 +1,1 @@
+Identifier_5 . MemberAccess_3 ( keccak256 ( stringLiteral_6 , _name , stringLiteral_7 , msg . sender ) , true ) ; Identifier_6 ( address ( this ) , msg . sender , _name , Identifier_7 ) ; }

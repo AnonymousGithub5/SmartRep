@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 returns ( bool ) { require ( ! Identifier_0 [ msg . sender ] , stringLiteral_0 ) ; UserDefinedTypeName_0 token = Identifier_1 . MemberAccess_0 ( ) ; Identifier_2 [ msg . sender ] = true ; token . transfer ( msg . sender , Identifier_3 ) ; return true ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _proposalId , uint8 Parameter_0 ) internal { Identifier_0 [ _proposalId ] . MemberAccess_0 = now ;

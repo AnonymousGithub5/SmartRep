@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address calldata Parameter_0 , bool calldata Parameter_1 ) external onlyOwner { require ( Identifier_0 . length == Identifier_1 . length , stringLiteral_0 ) ;

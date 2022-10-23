@@ -1,0 +1,1 @@
+function approve ( address spender , uint256 value ) public ModifierInvocation_0 ModifierInvocation_1 ( spender ) returns ( bool ) { return super . approve ( spender , value ) ; }

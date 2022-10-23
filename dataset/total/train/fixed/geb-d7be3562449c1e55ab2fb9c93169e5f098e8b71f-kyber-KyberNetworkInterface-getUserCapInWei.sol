@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user ) external view returns ( uint ) ;

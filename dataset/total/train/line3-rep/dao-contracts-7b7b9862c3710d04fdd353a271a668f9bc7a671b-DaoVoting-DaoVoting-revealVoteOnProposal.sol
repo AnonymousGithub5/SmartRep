@@ -1,0 +1,1 @@
+require ( Identifier_0 ( msg . sender ) ) ; require ( keccak256 ( msg . sender , Identifier_1 , Identifier_2 ) == daoStorage ( ) . MemberAccess_0 ( _proposalId , _index , msg . sender ) ) ; daoStorage ( ) . MemberAccess_1 ( _proposalId , msg . sender , Identifier_3 , Identifier_4 ( ) . MemberAccess_2 ( msg . sender ) , _index ) ;

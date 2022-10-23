@@ -1,0 +1,1 @@
+require ( result < 0x100000000000000000000000000000000 ) ; return uint128 ( result ) ; }

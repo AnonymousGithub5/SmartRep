@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public payable { int256 amount = Identifier_0 . MemberAccess_0 ( msg . value ) ; Identifier_1 . add ( amount , address ( 0 ) , 0 ) ; Identifier_2 [ wallet ] . MemberAccess_1 . MemberAccess_2 ( amount , address ( 0 ) , 0 ) ; emit Identifier_3 ( wallet , amount , address ( 0 ) , 0 ) ; }

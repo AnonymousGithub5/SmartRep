@@ -1,0 +1,1 @@
+) internal returns ( uint32 Parameter_2 ) { Identifier_0 = self . data [ receiver ] . MemberAccess_0 ; self . data [ receiver ] . MemberAccess_1 = Identifier_1 ;

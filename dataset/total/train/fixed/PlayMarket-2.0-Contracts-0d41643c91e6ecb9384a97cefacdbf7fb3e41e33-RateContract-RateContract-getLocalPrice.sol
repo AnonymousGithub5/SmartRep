@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , uint _amount ) public view returns ( uint ) { return Identifier_0 ( rate [ Identifier_1 ] , _amount ) ; }

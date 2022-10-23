@@ -1,0 +1,1 @@
+require ( Identifier_2 == Identifier_3 . MemberAccess_1 , stringLiteral_0 ) ; Identifier_4 . MemberAccess_2 ( Identifier_5 , _from , Identifier_6 ) ; Identifier_7 ( Identifier_8 ) . withdraw ( Identifier_9 ) ;

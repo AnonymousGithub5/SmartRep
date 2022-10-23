@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _value ) public view returns ( uint256 ) { ( uint256 r_fuse , uint256 r_gd , ) = Identifier_0 . MemberAccess_0 ( ) ; return Identifier_1 ( Identifier_2 , Identifier_3 , _value ) ; }

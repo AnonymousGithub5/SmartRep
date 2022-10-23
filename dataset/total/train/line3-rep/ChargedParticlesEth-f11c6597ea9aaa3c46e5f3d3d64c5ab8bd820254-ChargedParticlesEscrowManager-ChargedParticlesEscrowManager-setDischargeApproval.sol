@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _tokenId , address Parameter_1 ) external override { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; address VariableDeclaration_1 = Identifier_2 . MemberAccess_0 ( _tokenId ) ;

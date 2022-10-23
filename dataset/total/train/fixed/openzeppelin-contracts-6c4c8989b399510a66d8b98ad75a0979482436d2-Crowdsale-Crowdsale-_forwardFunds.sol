@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal { _wallet . transfer ( msg . value ) ; }

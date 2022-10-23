@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal returns ( UserDefinedTypeName_0 ) { return new UserDefinedTypeName_1 ( stringLiteral_0 , stringLiteral_1 , NumberLiteral_0 ) ; }

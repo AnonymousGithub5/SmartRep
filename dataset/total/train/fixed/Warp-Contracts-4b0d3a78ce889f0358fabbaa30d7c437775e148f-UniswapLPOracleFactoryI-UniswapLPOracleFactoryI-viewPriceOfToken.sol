@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , uint256 _amount ) public view virtual returns ( uint256 ) ;

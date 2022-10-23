@@ -1,0 +1,1 @@
+) internal { require ( IERC20 ( Identifier_0 ) . transfer ( Identifier_1 , Identifier_2 ) , stringLiteral_0 ) ; }

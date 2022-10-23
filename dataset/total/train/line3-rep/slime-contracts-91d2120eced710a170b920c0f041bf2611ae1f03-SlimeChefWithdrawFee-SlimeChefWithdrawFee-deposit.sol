@@ -1,0 +1,1 @@
+function deposit ( uint256 _amount ) external { PoolInfo storage pool = poolInfo [ 0 ] ;

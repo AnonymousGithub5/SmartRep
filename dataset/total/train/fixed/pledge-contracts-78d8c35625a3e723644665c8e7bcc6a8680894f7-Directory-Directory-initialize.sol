@@ -1,0 +1,1 @@
+function initialize ( ) external ModifierInvocation_0 { _owner = msg . sender ; }

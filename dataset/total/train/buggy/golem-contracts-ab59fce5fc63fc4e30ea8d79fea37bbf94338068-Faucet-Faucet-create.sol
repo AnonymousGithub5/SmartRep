@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { ElementaryTypeName_0 VariableDeclaration_0 = 1000 * 10 ** token . MemberAccess_0 ( ) ; if ( token . balanceOf ( msg . sender ) >= tokens ) revert ( ) ; token . transfer ( msg . sender , tokens ) ; }

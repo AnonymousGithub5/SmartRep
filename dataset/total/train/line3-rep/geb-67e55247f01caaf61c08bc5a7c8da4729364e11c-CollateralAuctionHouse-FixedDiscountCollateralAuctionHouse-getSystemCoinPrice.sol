@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) private returns ( uint256 Parameter_0 ) { if ( address ( Identifier_0 ) == address ( 0 ) ) return 0 ;

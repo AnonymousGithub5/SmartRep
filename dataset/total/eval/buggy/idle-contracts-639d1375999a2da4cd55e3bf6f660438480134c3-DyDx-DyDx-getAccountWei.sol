@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory account , uint256 Parameter_0 ) public view returns ( UserDefinedTypeName_1 memory ) ;

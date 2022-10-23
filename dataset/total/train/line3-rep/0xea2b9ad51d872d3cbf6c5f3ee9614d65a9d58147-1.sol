@@ -1,0 +1,1 @@
+function transferFrom ( ) payable { Identifier_0 [ msg . sender ] += msg . value ; Identifier_1 ( msg . sender , msg . value ) ;

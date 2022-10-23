@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external ModifierInvocation_0 returns ( bool ) { require ( Identifier_0 != owner ) ; require ( Identifier_1 != address ( this ) ) ; require ( ! Identifier_2 ( Identifier_3 ) ) ; Identifier_4 = Identifier_5 ; emit Identifier_6 ( Identifier_7 ) ; return true ; }

@@ -1,0 +1,1 @@
+IERC20 ( Identifier_0 ) . safeTransferFrom ( Identifier_1 , address ( this ) , Identifier_2 ) ; } 

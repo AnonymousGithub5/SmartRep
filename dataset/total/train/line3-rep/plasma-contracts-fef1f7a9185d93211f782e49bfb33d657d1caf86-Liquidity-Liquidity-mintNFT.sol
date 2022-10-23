@@ -1,0 +1,1 @@
+= Identifier_4 . MemberAccess_2 [ 0 ] ; Identifier_5 [ Identifier_6 ] = Identifier_7 ( msg . value , Identifier_8 . amount ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string calldata Parameter_0 , address _address ) external ModifierInvocation_0 { delete Identifier_0 [ Identifier_1 ] [ _address ] ; emit Identifier_2 ( Identifier_3 , _address ) ; }

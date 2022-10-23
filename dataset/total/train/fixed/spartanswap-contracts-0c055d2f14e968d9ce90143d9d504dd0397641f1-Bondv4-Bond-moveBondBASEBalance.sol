@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external ModifierInvocation_0 returns ( bool ) { uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) . balanceOf ( address ( this ) ) ; Identifier_2 ( Identifier_3 ) . transfer ( Identifier_4 , Identifier_5 ) ; return true ; }

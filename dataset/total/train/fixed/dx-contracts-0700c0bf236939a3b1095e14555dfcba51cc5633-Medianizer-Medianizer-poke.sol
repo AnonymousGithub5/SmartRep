@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 ) public ModifierInvocation_0 { ( val , Identifier_0 ) = Identifier_1 ( ) ; }

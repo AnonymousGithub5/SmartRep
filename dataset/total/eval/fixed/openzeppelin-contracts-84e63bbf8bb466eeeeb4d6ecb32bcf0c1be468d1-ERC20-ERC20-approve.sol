@@ -1,0 +1,1 @@
+function approve ( address _spender , uint256 _value ) public returns ( bool ) { require ( _spender != address ( 0 ) ) ; Identifier_0 [ msg . sender ] [ _spender ] = _value ; emit Identifier_1 ( msg . sender , _spender , _value ) ; return true ; }

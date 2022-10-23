@@ -1,0 +1,1 @@
+address VariableDeclaration_1 = Identifier_4 . MemberAccess_2 ( { _cloneTokenName : stringLiteral_1 , _cloneDecimalUnits : Identifier_5 . MemberAccess_3 ( ) , _cloneTokenSymbol : stringLiteral_2 , _snapshotBlock : block . number , _transfersEnabled : true } ) ; proposal . MemberAccess_4 = Identifier_6 ( Identifier_7 ) ; proposal . state = ProposalState . MemberAccess_5 ;

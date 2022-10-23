@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { require ( block . timestamp > ( Identifier_0 [ Identifier_1 ] + NumberLiteral_0 ) , stringLiteral_0 ) ; Identifier_2 [ Identifier_3 ] = 0 ;

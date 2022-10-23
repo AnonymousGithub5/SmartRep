@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public whenNotPaused { Identifier_0 ( msg . sender ) ; }

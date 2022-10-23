@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint256 proposalId ) external view returns ( uint256 Parameter_0 ) { ( , , , uint256 startBlock , , , , , , ) = Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( proposalId ) ; if ( Identifier_2 == 0 ) return 0 ; return Identifier_3 ( account , Identifier_4 [ proposalId ] , Identifier_5 - 1 ) ; }

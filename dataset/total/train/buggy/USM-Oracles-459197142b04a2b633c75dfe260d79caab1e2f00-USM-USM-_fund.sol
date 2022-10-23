@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address to , uint Parameter_0 ) internal { uint VariableDeclaration_0 = Identifier_0 ( ) ; uint VariableDeclaration_1 = Identifier_1 . MemberAccess_0 ( Identifier_2 ) ; Identifier_3 = Identifier_4 . add ( Identifier_5 ) ; Identifier_6 . mint ( to , Identifier_7 ) ; Identifier_8 ( Identifier_9 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address target , address to ) public ModifierInvocation_0 { if ( Identifier_0 == true && Identifier_1 [ msg . sender ] [ target ] [ to ] == false ) { Identifier_2 [ msg . sender ] [ target ] [ to ] = true ; Identifier_3 [ target ] [ to ] . add ( 1 ) ; } }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 , uint256 amount ) public { require ( msg . sender == address ( Identifier_0 ) , stringLiteral_0 ) ; Identifier_1 ( Identifier_2 , Identifier_3 , amount ) ;

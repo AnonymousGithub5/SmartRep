@@ -1,0 +1,1 @@
+ModifierInvocation_1 ( Identifier_7 ) external returns ( bool ) { Identifier_0 [ Identifier_1 ] . MemberAccess_0 = Identifier_2 ;

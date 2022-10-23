@@ -1,0 +1,1 @@
+require ( Identifier_0 ( Identifier_1 ) ) ; UserDefinedTypeName_0 memory VariableDeclaration_0 ; Identifier_2 . MemberAccess_0 = Identifier_3 ;

@@ -1,0 +1,1 @@
+{ ( , , , , , , Identifier_0 , , , , , , ) = Identifier_1 ( registry . MemberAccess_0 ( )

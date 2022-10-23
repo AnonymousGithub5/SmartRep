@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , bytes memory Parameter_1 ) internal pure returns ( uint Parameter_2 ) { assembly {

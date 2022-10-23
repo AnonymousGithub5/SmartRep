@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string calldata Parameter_0 , bool Parameter_1 ) external onlyOwner { bytes32 VariableDeclaration_0 = keccak256 ( bytes ( Identifier_0 ) ) ; require ( Identifier_1 [ Identifier_2 ] != Identifier_3 , stringLiteral_0 ) ; emit Identifier_4 ( Identifier_5 , Identifier_6 ) ; Identifier_7 [ Identifier_8 ] = Identifier_9 ; }

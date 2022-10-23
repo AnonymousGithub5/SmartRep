@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 ) external pure returns ( uint ) { require ( ( Identifier_0 <= NumberLiteral_0 ) && ( Identifier_1 >= 0 ) , stringLiteral_0 ) ;

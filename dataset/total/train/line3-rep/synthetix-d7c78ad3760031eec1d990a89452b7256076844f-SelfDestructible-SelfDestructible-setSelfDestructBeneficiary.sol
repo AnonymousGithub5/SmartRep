@@ -1,0 +1,1 @@
+{ require ( _beneficiary != address ( 0 ) , stringLiteral_0 ) ; Identifier_0 = _beneficiary ;

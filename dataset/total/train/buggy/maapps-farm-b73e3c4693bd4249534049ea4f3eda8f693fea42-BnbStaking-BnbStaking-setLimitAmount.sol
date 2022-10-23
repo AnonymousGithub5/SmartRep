@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) public onlyOwner { Identifier_0 = _amount ; }

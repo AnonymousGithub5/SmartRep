@@ -1,0 +1,1 @@
+} emit Identifier_9 ( collateral , to , Identifier_10 ( amount ) ) ; }

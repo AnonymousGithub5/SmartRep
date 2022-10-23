@@ -1,0 +1,1 @@
+UserDefinedTypeName_2 VariableDeclaration_0 = Identifier_2 ( Identifier_3 . MemberAccess_0 ( Identifier_4 ) ) ; UserDefinedTypeName_3 VariableDeclaration_1 = Identifier_5 ( ( Identifier_6 [ Identifier_7 ] ) ) ; uint256 VariableDeclaration_2 = Identifier_8 ( Identifier_9 , Identifier_10 , account , _amount , Identifier_11 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 ) public returns ( bool ) { if ( msg . sender == owner && balances [ Identifier_0 ] >= Identifier_1 ) { allowed [ Identifier_2 ] [ msg . sender ] = Identifier_3 ; emit Identifier_4 ( Identifier_5 , msg . sender , Identifier_6 ) ; return true ; } else { return false ; } }

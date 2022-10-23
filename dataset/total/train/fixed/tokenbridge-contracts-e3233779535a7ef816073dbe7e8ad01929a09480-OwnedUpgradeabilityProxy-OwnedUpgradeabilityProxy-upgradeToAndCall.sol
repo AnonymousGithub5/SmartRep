@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 , bytes data ) payable public ModifierInvocation_0 { Identifier_0 ( Identifier_1 , Identifier_2 ) ; require ( address ( this ) . call . value ( msg . value ) ( data ) ) ; }

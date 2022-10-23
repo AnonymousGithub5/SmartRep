@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { Identifier_0 . MemberAccess_0 ( stringLiteral_0 , stringLiteral_1 ) ; Assert . MemberAccess_1 ( false , stringLiteral_2 ) ; }

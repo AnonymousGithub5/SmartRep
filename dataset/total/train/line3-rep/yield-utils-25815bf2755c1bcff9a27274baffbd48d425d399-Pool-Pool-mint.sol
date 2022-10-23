@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = totalSupply ( ) ; uint256 VariableDeclaration_1 = dai . balanceOf ( address ( this ) ) ; uint256 VariableDeclaration_2 = Identifier_0 . balanceOf ( address ( this ) ) ;

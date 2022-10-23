@@ -1,0 +1,1 @@
+bool VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( value ) ; emit Identifier_1 ( result ) ; }

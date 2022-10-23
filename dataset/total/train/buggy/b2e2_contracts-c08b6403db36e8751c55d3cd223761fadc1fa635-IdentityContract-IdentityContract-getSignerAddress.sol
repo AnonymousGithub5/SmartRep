@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , bytes memory Parameter_1 ) public pure returns ( address Parameter_2 ) { return Identifier_0 . MemberAccess_0 ( keccak256 ( abi . encodePacked ( Identifier_1 , Identifier_2 ) ) , Identifier_3 ) ; }

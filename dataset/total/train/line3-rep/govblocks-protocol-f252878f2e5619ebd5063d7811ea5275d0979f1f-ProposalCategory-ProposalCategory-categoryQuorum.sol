@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public view returns ( uint , uint ) { return ( _categoryId , Identifier_0 [ _categoryId ] . MemberAccess_0 ) ;

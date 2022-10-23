@@ -1,0 +1,1 @@
+uint128 balance = type ( uint64 ) . max + uint128 ( 6 ) ; Identifier_0 ( sender , 0 , balance , 0 , Identifier_1 ( receiver , 1 ) ) ; Identifier_2 ( 10 ) ;

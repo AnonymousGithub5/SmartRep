@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) internal virtual { stablecoin . safeTransferFrom ( sender , address ( this ) , Identifier_0 ) ; stablecoin . safeApprove ( address ( Identifier_1 ) , Identifier_2 ) ; Identifier_3 . deposit ( Identifier_4 ) ; }

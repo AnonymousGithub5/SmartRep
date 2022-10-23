@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint amount ) public virtual override { _burn ( msg . sender , amount ) ; }

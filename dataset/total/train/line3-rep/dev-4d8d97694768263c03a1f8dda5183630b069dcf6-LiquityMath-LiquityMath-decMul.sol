@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = x . mul ( y ) ; Identifier_0 = Identifier_1 . add ( Identifier_2 / 2 ) . div ( Identifier_3 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user ) public view returns ( uint256 Parameter_0 , uint256 Parameter_1 ) { Identifier_0 = Identifier_1 [ _user ] ; Identifier_2 = Identifier_3 [ _user ] ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint Parameter_0 ) { if ( Identifier_0 . length > 0 ) { uint memory VariableDeclaration_0 = Identifier_1 ( Identifier_2 ) ; Identifier_3 = Identifier_4 [ 2 ] ; } else { Identifier_5 = Identifier_6 ; } return Identifier_7 ; }

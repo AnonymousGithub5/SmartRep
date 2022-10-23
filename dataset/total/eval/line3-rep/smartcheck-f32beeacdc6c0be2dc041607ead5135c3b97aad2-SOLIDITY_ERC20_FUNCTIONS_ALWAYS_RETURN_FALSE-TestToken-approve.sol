@@ -1,0 +1,1 @@
+if ( _value < 20 wei ) throw ; } 

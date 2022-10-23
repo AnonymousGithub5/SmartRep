@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 { for ( uint256 i = 0 ; i < Identifier_0 . length ; i ++ ) {

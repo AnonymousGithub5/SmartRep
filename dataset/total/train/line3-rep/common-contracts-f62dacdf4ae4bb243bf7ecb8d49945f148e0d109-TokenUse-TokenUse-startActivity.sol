@@ -1,0 +1,1 @@
+require ( Identifier_5 [ _tokenId ] . MemberAccess_4 == address ( 0 ) , stringLiteral_4 ) ; Identifier_6 [ _tokenId ] = msg . sender ;

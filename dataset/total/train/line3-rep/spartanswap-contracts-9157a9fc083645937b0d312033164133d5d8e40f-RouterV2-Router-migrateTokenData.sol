@@ -1,0 +1,1 @@
+address pool = Identifier_5 ( Identifier_6 ) . MemberAccess_2 ( token ) ; if ( ! ( pool == NumberLiteral_0 ) ) { Identifier_7 [ pool ] = true ;

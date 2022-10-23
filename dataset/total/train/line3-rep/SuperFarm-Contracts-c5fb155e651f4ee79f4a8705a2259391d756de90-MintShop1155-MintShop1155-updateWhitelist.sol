@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 [ _id ] . MemberAccess_0 . add ( 1 ) ; UserDefinedTypeName_1 storage VariableDeclaration_1 = Identifier_1 [ _id ] ;

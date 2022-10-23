@@ -1,0 +1,1 @@
+function transferFrom ( ) payable public { }

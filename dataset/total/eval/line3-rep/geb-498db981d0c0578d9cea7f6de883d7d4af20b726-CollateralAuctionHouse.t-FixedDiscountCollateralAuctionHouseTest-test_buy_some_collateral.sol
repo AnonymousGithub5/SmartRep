@@ -1,0 +1,1 @@
+Identifier_0 . modifyParameters ( stringLiteral_0 , RAY ) ; Identifier_1 . MemberAccess_0 ( bytes32 ( uint256 ( 200 ether ) ) ) ; cdpEngine . mint ( ali , 200 * RAD - 200 ether ) ;

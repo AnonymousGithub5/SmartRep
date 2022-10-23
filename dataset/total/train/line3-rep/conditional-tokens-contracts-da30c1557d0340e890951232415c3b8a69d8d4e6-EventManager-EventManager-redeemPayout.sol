@@ -1,0 +1,1 @@
+if ( Identifier_24 > 0 ) { require ( Identifier_25 . transfer ( msg . sender , Identifier_26 ) , stringLiteral_1 ) ; }

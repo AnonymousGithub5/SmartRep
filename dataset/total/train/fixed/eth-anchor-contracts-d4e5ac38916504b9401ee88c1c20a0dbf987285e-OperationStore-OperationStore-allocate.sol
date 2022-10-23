@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) public override ModifierInvocation_0 { Identifier_0 . add ( info . MemberAccess_0 ) ; Identifier_1 [ info . MemberAccess_1 ] = Status . MemberAccess_2 ; emit Identifier_2 ( msg . sender , info . MemberAccess_3 , info . MemberAccess_4 ) ; }

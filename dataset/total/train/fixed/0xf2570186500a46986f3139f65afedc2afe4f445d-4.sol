@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint32 Parameter_0 ) { uint32 i ; for ( i = 0 ; i < Identifier_0 ; i ++ ) { if ( ! Identifier_1 . call ( bytes4 ( Identifier_2 ( stringLiteral_0 ) ) ) ) revert ( ) ; } }

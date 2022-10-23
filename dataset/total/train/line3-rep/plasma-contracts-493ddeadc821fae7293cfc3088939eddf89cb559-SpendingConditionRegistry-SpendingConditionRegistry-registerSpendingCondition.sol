@@ -1,0 +1,1 @@
+require ( Identifier_1 != 0 , stringLiteral_1 ) ; require ( address ( Identifier_2 ) != address ( 0 ) , stringLiteral_2 ) ; bytes32 VariableDeclaration_0 = keccak256 ( abi . encode ( Identifier_3 , Identifier_4 ) ) ;

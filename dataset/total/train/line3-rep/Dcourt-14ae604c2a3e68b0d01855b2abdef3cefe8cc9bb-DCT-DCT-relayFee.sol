@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _from , address Parameter_0 , uint256 Parameter_1 ) public onlyOwner returns ( bool ) { require ( balances [ _from ] >= Identifier_0 ) ;

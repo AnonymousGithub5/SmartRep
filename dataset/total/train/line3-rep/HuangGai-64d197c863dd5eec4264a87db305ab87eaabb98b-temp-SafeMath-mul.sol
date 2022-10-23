@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = a * b ; require ( c / a == b ) ; return c ;

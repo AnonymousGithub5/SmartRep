@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , address Parameter_1 , string memory Parameter_2 ) public view returns ( bool Parameter_3 ) { require ( Identifier_0 ( Identifier_1 , msg . sender ) , stringLiteral_0 ) ; bytes32 VariableDeclaration_0 = keccak256 ( abi . encodePacked ( Identifier_2 ) ) ;

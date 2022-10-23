@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 , UserDefinedTypeName_1 Parameter_1 , uint Parameter_2 , bool Parameter_3 ) internal pure { Identifier_0 . MemberAccess_0 = new UserDefinedTypeName_2 ( 1 ) ; Identifier_1 . MemberAccess_1 [ 0 ] = reserve ;

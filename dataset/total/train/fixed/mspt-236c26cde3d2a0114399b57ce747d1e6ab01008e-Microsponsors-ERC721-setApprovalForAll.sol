@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address to , bool Parameter_0 ) public ModifierInvocation_0 whenNotPaused { require ( to != _msgSender ( ) , stringLiteral_0 ) ; Identifier_0 [ _msgSender ( ) ] [ to ] = Identifier_1 ; emit Identifier_2 ( _msgSender ( ) , to , Identifier_3 ) ; }

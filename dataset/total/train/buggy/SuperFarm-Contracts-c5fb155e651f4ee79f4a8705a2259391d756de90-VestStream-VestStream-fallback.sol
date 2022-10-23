@@ -1,0 +1,1 @@
+constructor ( IERC20 _token ) public { token = _token ; uint256 VariableDeclaration_0 = 2 ** NumberLiteral_0 - 1 ; token . approve ( address ( this ) , Identifier_0 ) ; }

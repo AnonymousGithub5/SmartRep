@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { Identifier_0 ( sender , 0 , 6 , 0 , Identifier_1 ( Identifier_2 , 1 , Identifier_3 , 2 ) ) ; Identifier_4 ( ) ; Identifier_5 ( Identifier_6 , 2 ) ; Identifier_7 ( Identifier_8 , 4 ) ; }

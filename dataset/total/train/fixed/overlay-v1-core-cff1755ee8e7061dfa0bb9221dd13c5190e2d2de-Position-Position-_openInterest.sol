@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 , uint256 Parameter_1 , uint256 Parameter_2 ) private pure returns ( uint256 Parameter_3 ) { return Identifier_0 . MemberAccess_0 . MemberAccess_1 ( Identifier_1 ) . MemberAccess_2 ( Identifier_2 ) ; }

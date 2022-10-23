@@ -1,0 +1,1 @@
+function withdraw ( address Parameter_0 ) public ModifierInvocation_0 { uint256 VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; assert ( address ( this ) . balance >= payment ) ; Identifier_2 [ Identifier_3 ] = 0 ; Identifier_4 . transfer ( payment ) ; emit Identifier_5 ( Identifier_6 , payment ) ; }

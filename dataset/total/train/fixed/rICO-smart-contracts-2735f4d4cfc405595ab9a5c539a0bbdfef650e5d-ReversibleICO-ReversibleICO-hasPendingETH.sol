@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view returns ( bool ) { uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; if ( Identifier_2 > 0 ) { return true ; } return false ; }

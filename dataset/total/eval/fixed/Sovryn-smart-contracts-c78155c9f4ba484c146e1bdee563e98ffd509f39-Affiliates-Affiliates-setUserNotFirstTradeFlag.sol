@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user ) external ModifierInvocation_0 whenNotPaused { if ( ! Identifier_0 [ user ] ) { Identifier_1 [ user ] = true ; emit Identifier_2 ( user ) ; } }

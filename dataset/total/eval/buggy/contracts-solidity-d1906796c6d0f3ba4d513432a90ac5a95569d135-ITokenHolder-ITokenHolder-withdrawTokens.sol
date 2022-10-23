@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 token , address to , uint256 amount ) external ;

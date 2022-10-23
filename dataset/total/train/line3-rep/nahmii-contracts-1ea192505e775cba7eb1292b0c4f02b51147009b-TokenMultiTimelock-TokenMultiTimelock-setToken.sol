@@ -1,0 +1,1 @@
+{ require ( address ( token ) == address ( 0 ) , stringLiteral_0 ) ; token = _token ;

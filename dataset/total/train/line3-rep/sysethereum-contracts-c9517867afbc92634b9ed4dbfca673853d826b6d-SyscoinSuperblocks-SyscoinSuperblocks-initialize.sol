@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_1 = Identifier_9 [ Identifier_10 ] ; require ( Identifier_11 . status == Status . MemberAccess_0 ) ; Identifier_12 [ Identifier_13 ] = Identifier_14 ;

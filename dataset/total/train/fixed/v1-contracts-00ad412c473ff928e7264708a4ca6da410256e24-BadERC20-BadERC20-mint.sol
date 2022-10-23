@@ -1,0 +1,1 @@
+function mint ( address account , uint amount ) public { _mint ( account , amount ) ; }

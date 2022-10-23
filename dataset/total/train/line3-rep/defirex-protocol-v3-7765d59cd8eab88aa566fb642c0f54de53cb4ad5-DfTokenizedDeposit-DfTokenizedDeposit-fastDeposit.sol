@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_0 ; if ( Identifier_1 . balanceOf ( Identifier_2 ) >= amount && Identifier_3 . MemberAccess_0 ( address ( this ) , Identifier_4 ) >= amount ) { if ( Identifier_5 == Identifier_6 ) {

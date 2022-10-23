@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public nonReentrant { bytes4 VariableDeclaration_0 = bytes4 ( keccak256 ( stringLiteral_0 ) ) ; if ( n > 0 ) { Identifier_0 ( ) ; bool VariableDeclaration_1 = address ( this ) . call ( Identifier_1 , n - 1 ) ; require ( result == true ) ; } }

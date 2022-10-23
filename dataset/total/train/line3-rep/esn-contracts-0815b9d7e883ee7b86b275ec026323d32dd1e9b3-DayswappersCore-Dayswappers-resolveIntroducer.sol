@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public override view returns ( address ) { uint32 VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ;

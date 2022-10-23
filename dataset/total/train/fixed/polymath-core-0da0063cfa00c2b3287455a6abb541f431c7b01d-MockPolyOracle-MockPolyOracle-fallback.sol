@@ -1,0 +1,1 @@
+constructor ( ) public payable { Identifier_0 = Identifier_1 ( NumberLiteral_0 ) ; }

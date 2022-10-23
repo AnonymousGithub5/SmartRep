@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view override returns ( int256 ) { return Identifier_0 ; }

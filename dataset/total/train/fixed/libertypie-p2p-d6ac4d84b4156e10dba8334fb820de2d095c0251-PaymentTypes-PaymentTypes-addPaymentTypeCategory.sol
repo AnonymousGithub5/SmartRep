@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string calldata Parameter_0 ) external onlyAdmin ( ) returns ( uint256 ) { return Identifier_0 ( name ) ; }

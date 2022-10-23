@@ -1,0 +1,1 @@
+Identifier_6 . MemberAccess_5 ( Identifier_7 . MemberAccess_6 ) ; Identifier_8 . transfer ( Identifier_9 . MemberAccess_7 , Identifier_10 . MemberAccess_8 . add ( Identifier_11 . MemberAccess_9 ) ) ; UserDefinedTypeName_2 memory VariableDeclaration_1 =

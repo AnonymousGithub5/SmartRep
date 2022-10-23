@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { ( , uint256 supplyIndex ) = Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( Identifier_2 ) ; return Identifier_3 ;

@@ -1,0 +1,1 @@
+ModifierInvocation_0 ( msg . sender ) public returns ( bool )

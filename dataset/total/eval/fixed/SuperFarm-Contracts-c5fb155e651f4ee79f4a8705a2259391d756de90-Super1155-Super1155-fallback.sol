@@ -1,0 +1,1 @@
+constructor ( address _owner , string memory _name , string memory Parameter_0 , address Parameter_1 ) { Identifier_0 ( Identifier_1 ) ; Identifier_2 ( Identifier_3 ) ; if ( _owner != owner ( ) ) { Identifier_4 ( _owner ) ; } name = _name ; Identifier_5 = Identifier_6 ; Identifier_7 = Identifier_8 ; }

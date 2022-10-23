@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _id ) onlyOwner ModifierInvocation_0 ( Identifier_3 [ _id ] ) returns ( bool ) { delete Identifier_0 [ _id ] ; Identifier_1 ( Identifier_2 [ _id ] , _id , block . timestamp ) ; return true ; }

@@ -1,0 +1,1 @@
+function withdraw ( address Parameter_0 , bytes32 Parameter_1 , bytes32 Parameter_2 , uint amount ) public ModifierInvocation_0 { require ( Identifier_0 [ currency ] != 0x0 && Identifier_1 [ currency ] [ Identifier_2 ] >= amount ) ;

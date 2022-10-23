@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( int a , int b ) public constant returns ( int ) { require ( Identifier_0 ( a , b ) ) ; return a - b ; }

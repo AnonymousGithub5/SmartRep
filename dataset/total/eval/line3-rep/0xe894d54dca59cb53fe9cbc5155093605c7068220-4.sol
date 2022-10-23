@@ -1,0 +1,1 @@
+for ( uint i = 0 ; i < Identifier_2 . length ; i ++ ) { Identifier_3 . call ( id , from , Identifier_4 [ i ] , _value ) ; }

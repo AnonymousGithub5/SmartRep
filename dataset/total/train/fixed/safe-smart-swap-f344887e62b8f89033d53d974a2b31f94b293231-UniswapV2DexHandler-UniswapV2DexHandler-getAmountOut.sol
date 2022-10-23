@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes memory _data , uint256 _amount ) public override view returns ( uint256 Parameter_0 ) { ( , , address memory _path , , ) = Identifier_0 ( _data ) ; uint256 memory VariableDeclaration_0 = Identifier_1 . MemberAccess_0 ( _amount , Identifier_2 ) ; return Identifier_3 [ Identifier_4 . length . sub ( 1 ) ] ; }

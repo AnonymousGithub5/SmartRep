@@ -1,0 +1,1 @@
+require ( Identifier_5 ( Identifier_6 , Identifier_7 , Identifier_8 , Identifier_9 , Identifier_10 ) , stringLiteral_0 ) ; ( bool VariableDeclaration_1 , bytes memory VariableDeclaration_2 ) = address ( this ) . call ( abi . encodePacked ( Identifier_11 , Identifier_12 , msg . sender ) ) ; require ( success , stringLiteral_1 ) ;

@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 , address Parameter_1 ) { Identifier_0 = Identifier_1 ( Identifier_2 ) ; Identifier_3 = new UserDefinedTypeName_0 ( ) ; owner = Identifier_4 ( Identifier_5 ( ) ) ; Identifier_6 = Identifier_7 ( Identifier_8 ) ; }

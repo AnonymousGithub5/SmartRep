@@ -1,0 +1,1 @@
+} uint VariableDeclaration_3 = Identifier_19 * Identifier_20 ; emit Identifier_21 ( Identifier_22 , Identifier_23 , Identifier_24 , Identifier_25 ) ;

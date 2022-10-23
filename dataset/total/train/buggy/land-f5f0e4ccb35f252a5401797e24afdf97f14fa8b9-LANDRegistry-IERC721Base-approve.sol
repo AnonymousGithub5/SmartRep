@@ -1,0 +1,1 @@
+function approve ( address Parameter_0 , uint256 Parameter_1 ) public ;

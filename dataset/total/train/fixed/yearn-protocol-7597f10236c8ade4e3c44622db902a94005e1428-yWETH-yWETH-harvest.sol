@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 amount ) external { require ( msg . sender == controller , stringLiteral_0 ) ; require ( reserve != address ( token ) , stringLiteral_1 ) ; IERC20 ( reserve ) . safeTransfer ( controller , amount ) ; }

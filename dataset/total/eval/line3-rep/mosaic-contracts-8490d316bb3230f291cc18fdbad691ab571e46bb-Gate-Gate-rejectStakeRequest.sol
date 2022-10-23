@@ -1,0 +1,1 @@
+Identifier_9 = Identifier_10 . amount ; delete Identifier_11 [ msg . sender ] ; emit Identifier_12 ( Identifier_13 , Identifier_14 , Identifier_15 ) ;

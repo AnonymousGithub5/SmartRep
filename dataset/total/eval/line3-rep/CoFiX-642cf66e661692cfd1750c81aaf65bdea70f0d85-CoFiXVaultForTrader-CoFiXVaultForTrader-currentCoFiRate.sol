@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { int128 VariableDeclaration_0 = Identifier_0 . mul (

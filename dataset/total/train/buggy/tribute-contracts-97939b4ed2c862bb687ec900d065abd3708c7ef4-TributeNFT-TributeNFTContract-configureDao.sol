@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) external ModifierInvocation_0 ( dao ) { UserDefinedTypeName_1 VariableDeclaration_0 = Identifier_0 ( dao . MemberAccess_0 ( Identifier_1 ) ) ; Identifier_2 . MemberAccess_1 ( Identifier_3 ) ; }

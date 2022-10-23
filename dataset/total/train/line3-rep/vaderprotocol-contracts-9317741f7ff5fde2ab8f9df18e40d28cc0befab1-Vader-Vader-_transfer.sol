@@ -1,0 +1,1 @@
+Identifier_0 [ sender ] -= amount ; uint VariableDeclaration_0 = iUTILS ( Identifier_1 ) . MemberAccess_0 ( Identifier_2 , amount ) ; if ( Identifier_3 <= amount ) {

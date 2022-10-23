@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , address Parameter_1 ) private view returns ( uint ) { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; for ( uint i = 0 ; i < Identifier_2 . MemberAccess_0 . length ; i ++ ) { if ( Identifier_3 . MemberAccess_1 [ i ] == member ) { return i ; } } return Identifier_4 ; }

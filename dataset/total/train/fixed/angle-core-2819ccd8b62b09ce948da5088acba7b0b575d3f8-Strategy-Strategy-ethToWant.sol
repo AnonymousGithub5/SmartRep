@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) public view override returns ( uint256 ) { return ( Identifier_0 . MemberAccess_0 ( _amount ) * Identifier_1 ) / Identifier_2 ; }

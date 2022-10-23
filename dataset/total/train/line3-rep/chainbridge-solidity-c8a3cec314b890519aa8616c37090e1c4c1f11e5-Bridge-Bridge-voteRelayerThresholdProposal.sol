@@ -1,0 +1,1 @@
+require ( ! Identifier_2 . MemberAccess_2 [ msg . sender ] , stringLiteral_1 ) ; require ( uint ( vote ) <= 1 , stringLiteral_2 ) ; if ( vote == Identifier_3 . MemberAccess_3 ) {

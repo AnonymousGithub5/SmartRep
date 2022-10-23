@@ -1,0 +1,1 @@
+Identifier_0 = ( Identifier_1 ( ) . MemberAccess_0 ( _user ) == Identifier_2 ( ) ) && ( Identifier_3 ( ) . MemberAccess_1 ( _user ) >= getUintConfig ( Identifier_4 ) ) ;

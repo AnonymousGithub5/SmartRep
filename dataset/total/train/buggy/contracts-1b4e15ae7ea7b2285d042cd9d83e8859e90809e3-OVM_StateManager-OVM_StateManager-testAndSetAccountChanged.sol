@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address ) override public ModifierInvocation_0 returns ( bool Parameter_0 ) { return Identifier_0 ( keccak256 ( abi . encodePacked ( _address ) ) , Identifier_1 . MemberAccess_0 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 , address token , uint Parameter_2 ) external returns ( uint ) { uint VariableDeclaration_0 = Identifier_0 ( base , Identifier_1 ) ;

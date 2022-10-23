@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 , uint256 Parameter_2 ) public { require ( msg . sender == Identifier_0 ( Identifier_1 ) , stringLiteral_0 ) ; Identifier_2 [ Identifier_3 ] . MemberAccess_0 = _price ; Identifier_4 [ Identifier_5 ] . MemberAccess_1 = Identifier_6 ; emit Identifier_7 ( Identifier_8 , Identifier_9 , _price ) ; }

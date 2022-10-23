@@ -1,0 +1,1 @@
+function transfer ( address to , uint256 value ) public returns ( bool ) { require ( Identifier_0 . MemberAccess_0 ( to , Identifier_1 ) , stringLiteral_0 ) ; return ( super . transfer ( to , value ) ) ; }

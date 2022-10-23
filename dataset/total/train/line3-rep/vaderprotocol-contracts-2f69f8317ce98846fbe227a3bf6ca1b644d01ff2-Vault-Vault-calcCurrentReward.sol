@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = block . timestamp - Identifier_0 [ member ] [ Identifier_1 ] ; uint256 VariableDeclaration_1 = Identifier_2 ( Identifier_3 , member ) ; reward = ( Identifier_4 * Identifier_5 ) / Identifier_6 ( Identifier_7 ) . MemberAccess_0 ( ) ;

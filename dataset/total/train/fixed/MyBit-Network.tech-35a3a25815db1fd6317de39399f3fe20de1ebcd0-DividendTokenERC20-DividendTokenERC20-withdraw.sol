@@ -1,0 +1,1 @@
+function withdraw ( ) public ModifierInvocation_0 ( msg . sender ) returns ( uint _amount ) { _amount = Identifier_0 [ msg . sender ] . div ( Identifier_1 ) ; delete Identifier_2 [ msg . sender ] ; Identifier_3 = Identifier_4 . add ( _amount ) ; Identifier_5 . transfer ( msg . sender , _amount ) ; emit Identifier_6 ( msg . sender , _amount ) ; }

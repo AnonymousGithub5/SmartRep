@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint _value ) constant returns ( bool ) { ElementaryTypeName_0 VariableDeclaration_0 = Identifier_0 ( address ( Identifier_1 ) ) ; return Identifier_2 . MemberAccess_0 ( _account , _value ) ;

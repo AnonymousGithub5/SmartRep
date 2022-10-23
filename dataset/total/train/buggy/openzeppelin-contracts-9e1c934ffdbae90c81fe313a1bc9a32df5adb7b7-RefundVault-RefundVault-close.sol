@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) onlyOwner public { require ( state == Identifier_0 . MemberAccess_0 ) ; state = Identifier_1 . MemberAccess_1 ; emit Identifier_2 ( ) ; wallet . transfer ( this . balance ) ; }

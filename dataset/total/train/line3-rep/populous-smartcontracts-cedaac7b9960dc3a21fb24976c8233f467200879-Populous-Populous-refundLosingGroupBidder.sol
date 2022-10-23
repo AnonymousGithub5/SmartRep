@@ -1,0 +1,1 @@
+bytes32 VariableDeclaration_4 = Identifier_16 . MemberAccess_5 ( ) ; Identifier_17 ( currency , Identifier_18 , Identifier_19 , Identifier_20 ) ; Identifier_21 . MemberAccess_6 ( Identifier_22 , Identifier_23 ) ;

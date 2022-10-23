@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) external view returns ( bool ) { if ( Identifier_0 == Identifier_1 ) { Identifier_2 ( Identifier_3 ) ; } else { return false ; } }

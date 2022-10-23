@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view override ( Context , AccessControl , NetworkAgnostic ) returns ( address Parameter_0 ) { return Identifier_0 . MemberAccess_0 ( ) ; }

@@ -1,0 +1,1 @@
+} if ( Identifier_12 * 10 > ( Identifier_13 + Identifier_14 ) * 6 && ( Identifier_15 + Identifier_16 ) * 10 > registry . MemberAccess_4 ( ) * 5 ) { return true ;

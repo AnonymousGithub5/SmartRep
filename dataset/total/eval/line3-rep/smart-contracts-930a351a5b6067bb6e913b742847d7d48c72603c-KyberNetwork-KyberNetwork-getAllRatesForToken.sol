@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 token , uint Parameter_0 ) public view returns ( address memory Parameter_1 , uint memory Parameter_2 , address memory Parameter_3 , uint memory Parameter_4 ) {

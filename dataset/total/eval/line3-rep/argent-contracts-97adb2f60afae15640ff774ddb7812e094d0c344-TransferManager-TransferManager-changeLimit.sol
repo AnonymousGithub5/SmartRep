@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _wallet , uint256 Parameter_0 ) public ModifierInvocation_0 ( _wallet ) ModifierInvocation_1 ( _wallet ) { Identifier_0 ( _wallet , Identifier_1 , Identifier_2 ) ;

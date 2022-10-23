@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _value ) external override view returns ( bool ) { return Identifier_0 . MemberAccess_0 [ _value ] . MemberAccess_1 ; }

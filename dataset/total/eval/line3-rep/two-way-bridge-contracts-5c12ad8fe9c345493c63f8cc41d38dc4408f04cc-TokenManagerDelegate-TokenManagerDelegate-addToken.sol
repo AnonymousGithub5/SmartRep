@@ -1,0 +1,1 @@
+{ address VariableDeclaration_0 = new UserDefinedTypeName_0 ( name , symbol , Identifier_0 ) ; emit Identifier_1 ( tokenAddress , name , symbol , Identifier_2 ) ;

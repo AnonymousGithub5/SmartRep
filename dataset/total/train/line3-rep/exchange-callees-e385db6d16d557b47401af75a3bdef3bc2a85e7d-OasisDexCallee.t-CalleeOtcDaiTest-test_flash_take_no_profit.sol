@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 ModifierInvocation_1 ( ( uint256 ( 5 ether ) ) ) { Identifier_0 ( NumberLiteral_0 ether , Identifier_1 ( 5 ether ) , 0 ether ) ;

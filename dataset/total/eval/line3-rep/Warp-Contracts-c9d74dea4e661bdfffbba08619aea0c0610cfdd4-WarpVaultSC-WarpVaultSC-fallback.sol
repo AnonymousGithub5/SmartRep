@@ -1,0 +1,1 @@
+) public { Identifier_0 = Identifier_1 ( Identifier_2 ) ; stablecoin = ERC20 ( Identifier_3 ) ;

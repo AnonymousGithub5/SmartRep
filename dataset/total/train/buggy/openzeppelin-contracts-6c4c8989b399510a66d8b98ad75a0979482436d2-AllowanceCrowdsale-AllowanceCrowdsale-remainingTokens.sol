@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { return token ( ) . MemberAccess_0 ( Identifier_0 , this ) ; }

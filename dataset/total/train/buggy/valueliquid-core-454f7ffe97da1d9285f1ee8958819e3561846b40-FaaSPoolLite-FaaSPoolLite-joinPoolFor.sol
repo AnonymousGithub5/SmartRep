@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint Parameter_0 , uint calldata Parameter_1 ) public ModifierInvocation_0 { require ( msg . sender == account || msg . sender == Identifier_0 , stringLiteral_0 ) ; Identifier_1 ( Identifier_2 , Identifier_3 ) ; Identifier_4 ( account , Identifier_5 ) ; }

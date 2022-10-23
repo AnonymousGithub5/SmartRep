@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) public view returns ( bool Parameter_0 ) { if ( Identifier_0 [ token ] ) {

@@ -1,0 +1,1 @@
+return ( ( ( Identifier_0 [ Identifier_1 ] . MemberAccess_0 != 0 ) || ( Identifier_2 [ Identifier_3 ] . MemberAccess_1 != 0 ) ) && ( Identifier_4 [ Identifier_5 ] . MemberAccess_2 >= now ) ) ; }

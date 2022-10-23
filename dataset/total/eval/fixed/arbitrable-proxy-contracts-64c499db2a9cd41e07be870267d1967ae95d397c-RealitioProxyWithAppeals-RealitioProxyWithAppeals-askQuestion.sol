@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , string calldata Parameter_1 , address Parameter_2 , uint32 Parameter_3 , uint32 Parameter_4 , uint256 Parameter_5 ) public payable override returns ( bytes32 ) { return Identifier_0 . MemberAccess_0 ( Identifier_1 , Identifier_2 , arbitrator , Identifier_3 , Identifier_4 , nonce ) ; }

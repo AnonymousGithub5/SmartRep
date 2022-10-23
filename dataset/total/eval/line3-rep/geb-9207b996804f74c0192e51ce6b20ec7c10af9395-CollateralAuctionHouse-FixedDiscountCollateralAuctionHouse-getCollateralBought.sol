@@ -1,0 +1,1 @@
+Identifier_1 ( bids [ id ] . MemberAccess_0 == 0 , bids [ id ] . MemberAccess_1 == 0 ) , Identifier_2 ( Identifier_3 == 0 , Identifier_4 < Identifier_5 ) ) ) {

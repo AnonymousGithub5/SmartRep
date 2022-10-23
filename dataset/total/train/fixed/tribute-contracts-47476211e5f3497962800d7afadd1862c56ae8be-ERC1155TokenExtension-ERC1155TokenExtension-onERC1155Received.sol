@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address , address , uint256 id , uint256 value , bytes calldata ) external override returns ( bytes4 ) { Identifier_0 ( msg . sender , id , Identifier_1 . MemberAccess_0 , value ) ; return this . MemberAccess_1 . selector ; }

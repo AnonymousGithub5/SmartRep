@@ -1,0 +1,1 @@
+uint Parameter_3 , uint Parameter_4 ) private view returns ( uint Parameter_5 , uint Parameter_6 ) { ( uint reserveStock , uint reserveMoney , ) = Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( ) ; if ( Identifier_2 == 0 && Identifier_3 == 0 ) {

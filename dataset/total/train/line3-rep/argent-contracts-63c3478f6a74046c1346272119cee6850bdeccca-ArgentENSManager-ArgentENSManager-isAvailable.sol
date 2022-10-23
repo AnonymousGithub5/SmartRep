@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public view returns ( bool ) { bytes32 VariableDeclaration_0 = keccak256 ( abi . encodePacked ( Identifier_0 , Identifier_1 ) ) ;

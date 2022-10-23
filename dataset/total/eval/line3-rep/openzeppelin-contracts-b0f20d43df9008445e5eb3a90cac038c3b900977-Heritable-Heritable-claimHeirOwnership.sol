@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 { require ( ! Identifier_0 ( ) ) ; require ( block . timestamp >= Identifier_1 + Identifier_2 ) ;

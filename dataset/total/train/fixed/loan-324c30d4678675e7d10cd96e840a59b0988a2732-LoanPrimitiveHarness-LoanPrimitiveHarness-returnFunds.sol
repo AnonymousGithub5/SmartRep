@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external returns ( bool Parameter_0 , uint256 Parameter_1 ) { return Identifier_0 ( ) ; }

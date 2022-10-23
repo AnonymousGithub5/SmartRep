@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 , uint256 _amount ) external onlyOwner { _mint ( Identifier_0 ( Identifier_1 ) , Identifier_2 , _amount , "" ) ; }

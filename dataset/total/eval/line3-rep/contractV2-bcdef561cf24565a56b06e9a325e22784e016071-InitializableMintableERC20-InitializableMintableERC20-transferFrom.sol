@@ -1,0 +1,1 @@
+uint256 amount ) public returns ( bool ) { require ( to != address ( 0 ) , stringLiteral_0 ) ;

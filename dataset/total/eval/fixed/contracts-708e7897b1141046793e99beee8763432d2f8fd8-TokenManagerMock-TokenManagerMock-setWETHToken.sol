@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token ) public { require ( _token != address ( 0 ) ) ; Identifier_0 = _token ; }

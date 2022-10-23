@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , address Parameter_0 ) public override view returns ( int256 ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( market ) ; UserDefinedTypeName_1 memory VariableDeclaration_1 = balances [ market ] [ account ] ;

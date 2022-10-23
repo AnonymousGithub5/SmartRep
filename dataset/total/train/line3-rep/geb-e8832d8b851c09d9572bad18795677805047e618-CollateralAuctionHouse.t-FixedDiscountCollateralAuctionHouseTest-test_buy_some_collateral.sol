@@ -1,0 +1,1 @@
+} ) ; Identifier_3 ( ali ) . MemberAccess_2 ( id , 0 , NumberLiteral_0 * WAD ) ; ( uint256 raisedAmount , uint256 soldAmount , , , , , ) = collateralAuctionHouse . MemberAccess_3 ( id ) ;

@@ -1,0 +1,1 @@
+{ ( bool VariableDeclaration_0 , bytes memory data ) = Identifier_0 . MemberAccess_0 . MemberAccess_1 ( abi . MemberAccess_2 ( bytes4 ( keccak256 (

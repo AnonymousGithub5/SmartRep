@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { uint256 VariableDeclaration_0 = IERC20 ( Identifier_0 ) . balanceOf ( address ( this ) ) ; if ( Identifier_1 ) { uint256 VariableDeclaration_1 = address ( this ) . balance ; return Identifier_2 . add ( Identifier_3 ) ; } else { return Identifier_4 ; } }

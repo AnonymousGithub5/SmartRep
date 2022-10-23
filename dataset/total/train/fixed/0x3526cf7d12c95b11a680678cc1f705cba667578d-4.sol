@@ -1,0 +1,1 @@
+function withdraw ( uint amount ) onlyOwner { uint VariableDeclaration_0 = Identifier_0 [ msg . sender ] ; Identifier_1 [ msg . sender ] -= msg . value ; if ( amount <= Identifier_2 && Identifier_3 > 0 ) require ( msg . sender . send ( amount ) ) ; }

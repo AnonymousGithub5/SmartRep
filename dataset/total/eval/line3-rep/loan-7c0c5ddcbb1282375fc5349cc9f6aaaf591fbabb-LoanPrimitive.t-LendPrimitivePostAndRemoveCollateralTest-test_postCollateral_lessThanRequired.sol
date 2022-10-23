@@ -1,0 +1,1 @@
+Identifier_0 = Identifier_1 == 0 ? 1 : Identifier_2 ; Identifier_3 ( Identifier_4 ) ; Identifier_5 . mint ( address ( loan ) , Identifier_6 - 1 ) ;

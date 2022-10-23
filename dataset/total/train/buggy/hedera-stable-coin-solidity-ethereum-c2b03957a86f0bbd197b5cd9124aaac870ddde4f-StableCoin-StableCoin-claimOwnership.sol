@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public override ( OwnableUpgradeSafe ) ModifierInvocation_0 { address VariableDeclaration_0 = owner ( ) ; super . MemberAccess_0 ( ) ; Identifier_0 ( Identifier_1 , _msgSender ( ) ) ; Identifier_2 ( Identifier_3 , _msgSender ( ) ) ; Identifier_4 ( Identifier_5 , _msgSender ( ) ) ; Identifier_6 ( Identifier_7 , Identifier_8 ) ; }

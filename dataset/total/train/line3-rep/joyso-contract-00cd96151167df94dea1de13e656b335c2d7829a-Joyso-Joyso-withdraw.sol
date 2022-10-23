@@ -1,0 +1,1 @@
+function withdraw ( address token , uint256 amount ) external { require ( Identifier_0 ( ) > Identifier_1 [ msg . sender ] && Identifier_2 [ msg . sender ] != 0 ) ;

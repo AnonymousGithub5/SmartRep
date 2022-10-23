@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , bytes calldata Parameter_1 ) external returns ( address ) { return Identifier_0 ( Identifier_1 , Identifier_2 . MemberAccess_0 ( keccak256 ( abi . encodePacked ( address ( this ) , Identifier_3 , msg . sender ) ) , Identifier_4 ) ) ; }

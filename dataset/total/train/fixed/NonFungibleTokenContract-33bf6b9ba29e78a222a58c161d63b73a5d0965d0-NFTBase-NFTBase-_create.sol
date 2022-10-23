@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory Parameter_0 ) internal returns ( uint256 tokenId ) { tokenId = Identifier_0 . MemberAccess_0 ( ) ; emit Identifier_1 ( _msgSender ( ) , tokenId ) ; Identifier_2 ( msg . sender , tokenId ) ; Identifier_3 ( tokenId , Identifier_4 ) ; }

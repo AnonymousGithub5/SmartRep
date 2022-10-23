@@ -1,0 +1,1 @@
+want = IERC20 ( Identifier_3 . token ( ) ) ; Identifier_4 = Identifier_5 ; Identifier_6 = 0 ;

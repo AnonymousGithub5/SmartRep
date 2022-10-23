@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token ) external virtual { uint VariableDeclaration_0 = ERC20 ( _token ) . balanceOf ( address ( this ) ) ;

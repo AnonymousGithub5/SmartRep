@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 , string memory _owner ) public ModifierInvocation_0 ( Identifier_0 ) { owner = _owner ; }

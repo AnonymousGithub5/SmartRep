@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , address Parameter_0 ) external { uint256 VariableDeclaration_0 = Identifier_0 ( token , pool ) ; if ( token == Identifier_1 || token == Identifier_2 ) { Identifier_3 [ pool ] += Identifier_4 ; } else { Identifier_5 [ pool ] += Identifier_6 ; } emit Identifier_7 ( token , pool , Identifier_8 ) ; }

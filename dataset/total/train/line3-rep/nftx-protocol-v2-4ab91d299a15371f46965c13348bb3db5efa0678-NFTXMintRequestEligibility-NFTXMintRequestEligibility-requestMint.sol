@@ -1,0 +1,1 @@
+require ( amount == 1 , stringLiteral_2 ) ; Identifier_11 ( Identifier_12 ) . safeTransferFrom ( msg . sender ,

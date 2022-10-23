@@ -1,0 +1,1 @@
+constructor ( address account , string memory _name , string memory Parameter_0 , uint Parameter_1 ) public { balances [ account ] = ElementaryTypeName_0 ( Identifier_0 ) ; name = _name ; symbol = _symbol ; totalSupply = Identifier_1 ; emit Transfer ( address ( 0 ) , account , Identifier_2 ) ; }

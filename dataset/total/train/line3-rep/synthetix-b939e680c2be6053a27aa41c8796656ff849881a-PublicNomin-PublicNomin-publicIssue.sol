@@ -1,0 +1,1 @@
+{ state . MemberAccess_0 ( target , safeAdd ( state . balanceOf ( target ) , amount ) ) ; totalSupply = safeAdd ( totalSupply , amount ) ;

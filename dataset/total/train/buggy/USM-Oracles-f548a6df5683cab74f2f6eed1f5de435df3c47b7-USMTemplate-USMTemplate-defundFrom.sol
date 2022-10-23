@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , uint Parameter_0 , address to , uint Parameter_1 , UserDefinedTypeName_0 Parameter_2 ) external override returns ( uint Parameter_3 ) { Identifier_0 = Identifier_1 ( from , Identifier_2 , to , Identifier_3 , Identifier_4 ) ; }

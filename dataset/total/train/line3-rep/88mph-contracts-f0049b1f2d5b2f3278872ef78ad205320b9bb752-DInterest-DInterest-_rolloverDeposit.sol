@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 , type ( uint256 ) . max , false ) ; ( Identifier_2 , Identifier_3 ) = Identifier_4 (

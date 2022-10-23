@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user , UserDefinedTypeName_0 Parameter_0 ) public { require ( identity [ _user ] != address ( 0 ) ) ; require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; emit Identifier_1 ( identity [ _user ] , Identifier_2 ) ; identity [ _user ] = Identifier_3 ; }

@@ -1,0 +1,1 @@
+function withdraw ( uint256 amount ) public override { require ( amount > 0 , stringLiteral_0 ) ; require ( address ( Identifier_0 ) != address ( 0 ) , stringLiteral_1 ) ; Identifier_1 ( msg . sender ) ; super . withdraw ( amount ) ; emit Identifier_2 ( msg . sender , amount ) ; }

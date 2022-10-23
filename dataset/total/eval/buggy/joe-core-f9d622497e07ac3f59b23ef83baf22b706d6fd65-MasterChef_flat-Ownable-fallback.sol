@@ -1,0 +1,1 @@
+constructor ( ) internal { address VariableDeclaration_0 = _msgSender ( ) ; _owner = Identifier_0 ; emit Identifier_1 ( address ( 0 ) , Identifier_2 ) ; }

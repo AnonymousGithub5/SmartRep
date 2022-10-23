@@ -1,0 +1,1 @@
+function transferFrom ( address , address , uint ) external returns ( bool ) ;

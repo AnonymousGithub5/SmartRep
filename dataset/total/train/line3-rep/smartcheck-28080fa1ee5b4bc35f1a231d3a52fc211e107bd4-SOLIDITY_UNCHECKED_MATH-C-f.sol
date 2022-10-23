@@ -1,0 +1,1 @@
+Identifier_0 = a * ( b + c ) ; if ( a < b + c ) { Identifier_1 ( a ) ;

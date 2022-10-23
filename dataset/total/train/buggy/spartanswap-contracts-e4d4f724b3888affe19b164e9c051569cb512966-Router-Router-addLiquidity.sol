@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 , address token ) public returns ( uint Parameter_2 ) { Identifier_0 = Identifier_1 ( Identifier_2 , Identifier_3 , token , msg . sender ) ; return Identifier_4 ; }

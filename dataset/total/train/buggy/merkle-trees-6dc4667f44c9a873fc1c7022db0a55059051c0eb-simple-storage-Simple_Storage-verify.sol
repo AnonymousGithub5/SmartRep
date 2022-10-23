@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 memory Parameter_0 , bytes32 memory Parameter_1 ) public view returns ( bool ) { uint256 VariableDeclaration_0 = Identifier_0 . length ; if ( Identifier_1 != Identifier_2 . length ) return false ; for ( uint256 i ; i < Identifier_3 ; ++ i ) { if ( Identifier_4 [ Identifier_5 [ i ] ] != Identifier_6 [ i ] ) return false ; } return true ; }

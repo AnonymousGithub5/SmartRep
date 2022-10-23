@@ -1,0 +1,1 @@
+require ( _msgSender ( ) == owner ( ) || ( ! Identifier_0 && registry . MemberAccess_0 ( _msgSender ( ) ) ) , stringLiteral_0 ) ;

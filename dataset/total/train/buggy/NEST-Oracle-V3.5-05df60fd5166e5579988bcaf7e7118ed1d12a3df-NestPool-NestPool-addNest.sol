@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 amount ) override public { require ( amount > 0 , stringLiteral_0 ) ; Identifier_0 [ Identifier_1 ] = Identifier_2 [ Identifier_3 ] . add ( amount ) ; }

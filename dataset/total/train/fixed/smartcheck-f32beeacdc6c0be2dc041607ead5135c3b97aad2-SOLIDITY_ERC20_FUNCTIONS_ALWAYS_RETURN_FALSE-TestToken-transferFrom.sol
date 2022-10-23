@@ -1,0 +1,1 @@
+function transferFrom ( address _spender , uint _value ) returns ( bool ) { require ( _value > 10 wei ) ; return true ; }

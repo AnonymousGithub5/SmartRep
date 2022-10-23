@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external view returns ( uint256 [ Identifier_0 ] memory ) { return Identifier_1 ( Identifier_2 ) ; }

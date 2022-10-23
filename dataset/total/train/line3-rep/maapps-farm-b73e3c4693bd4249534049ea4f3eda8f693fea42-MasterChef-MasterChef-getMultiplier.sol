@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _from , uint256 _to ) public view returns ( uint256 ) { return _to . sub ( _from ) . mul ( Identifier_0 ) ; }

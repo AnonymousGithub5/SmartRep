@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ERC20 calldata Parameter_0 , uint256 calldata Parameter_1 ) external ModifierInvocation_0 { for ( uint16 i = 0 ; i < _tokens . length ; i ++ ) { Identifier_0 ( _tokens [ i ] , Identifier_1 [ i ] ) ;

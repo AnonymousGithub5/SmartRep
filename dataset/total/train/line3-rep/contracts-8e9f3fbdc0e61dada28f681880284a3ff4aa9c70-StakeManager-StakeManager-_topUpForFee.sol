@@ -1,0 +1,1 @@
+Identifier_0 = Identifier_1 . add ( amount ) ; Identifier_2 . MemberAccess_0 ( validatorId , amount ) ; }

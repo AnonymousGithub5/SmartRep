@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public view returns ( uint256 ) { return Identifier_0 ( Identifier_1 ( Identifier_2 ( Identifier_3 ( loan ) , Identifier_4 ( loan ) ) ) , Identifier_5 ( loan ) ) ; }

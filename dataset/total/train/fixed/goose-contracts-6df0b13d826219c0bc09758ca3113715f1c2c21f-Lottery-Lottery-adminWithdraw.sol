@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) external onlyAdmin { Identifier_0 . safeTransfer ( address ( msg . sender ) , _amount ) ; emit Identifier_1 ( msg . sender , _amount ) ; }

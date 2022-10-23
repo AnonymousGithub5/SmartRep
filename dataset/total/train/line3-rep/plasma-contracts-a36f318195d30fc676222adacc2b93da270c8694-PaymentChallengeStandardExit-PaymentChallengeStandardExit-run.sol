@@ -1,0 +1,1 @@
+{ UserDefinedTypeName_3 memory VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( args . MemberAccess_1 ) ; UserDefinedTypeName_4 memory data = Identifier_1 ( {

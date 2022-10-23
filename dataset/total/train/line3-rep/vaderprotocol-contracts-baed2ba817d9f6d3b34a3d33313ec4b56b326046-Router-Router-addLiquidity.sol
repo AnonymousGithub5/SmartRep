@@ -1,0 +1,1 @@
+) external returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 ( base , Identifier_1 ) ; uint256 VariableDeclaration_1 = Identifier_2 ( token , Identifier_3 ) ;

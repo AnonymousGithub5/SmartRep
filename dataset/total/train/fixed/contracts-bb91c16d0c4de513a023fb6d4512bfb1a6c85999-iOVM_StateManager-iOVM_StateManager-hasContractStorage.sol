@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _contract , bytes32 _key ) external view returns ( bool Parameter_0 ) ;

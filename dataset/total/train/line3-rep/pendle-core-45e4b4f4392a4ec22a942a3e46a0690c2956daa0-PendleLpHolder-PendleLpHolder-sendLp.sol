@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user , uint256 amount ) public override { require ( msg . sender == Identifier_0 , stringLiteral_0 ) ; IERC20 ( Identifier_1 ) . safeTransfer ( user , amount ) ;

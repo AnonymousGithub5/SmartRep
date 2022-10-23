@@ -1,0 +1,1 @@
+) external override returns ( bytes4 ) { Identifier_0 ( msg . sender , id , Identifier_1 , value ) ; return this . MemberAccess_0 . selector ;

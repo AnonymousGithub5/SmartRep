@@ -1,0 +1,1 @@
+returns ( uint256 ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ( Identifier_2 ) . MemberAccess_0 ( ) ) ; UserDefinedTypeName_1 VariableDeclaration_1 = Identifier_3 ( Identifier_4 . MemberAccess_1 ( Identifier_5 ) ) ;

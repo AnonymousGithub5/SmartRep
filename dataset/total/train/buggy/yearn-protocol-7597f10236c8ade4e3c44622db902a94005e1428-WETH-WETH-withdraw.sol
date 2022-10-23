@@ -1,0 +1,1 @@
+function withdraw ( uint Parameter_0 ) external ;

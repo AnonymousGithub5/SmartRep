@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user , address Parameter_0 ) internal { require ( Identifier_0 [ user ] [ Identifier_1 ] , stringLiteral_0 ) ; Identifier_2 [ user ] [ Identifier_3 ] = false ; emit Identifier_4 ( user , Identifier_5 , false ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { uint256 VariableDeclaration_0 = poolInfo . length ; for ( uint256 VariableDeclaration_1 = 0 ; pid < length ; ++ pid ) { Identifier_0 ( pid ) ; } }

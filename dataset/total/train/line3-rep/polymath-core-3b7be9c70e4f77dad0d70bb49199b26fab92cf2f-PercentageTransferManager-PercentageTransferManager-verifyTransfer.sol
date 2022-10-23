@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_3 ( Identifier_4 ) . balanceOf ( _to ) . add ( _amount ) ; if ( Identifier_5 . mul ( 10 ** uint256 ( Identifier_6 ( Identifier_7 ) . MemberAccess_1 ( ) ) ) . div ( Identifier_8 ( Identifier_9 ) . totalSupply ( ) ) > Identifier_10 ) { return Identifier_11 . MemberAccess_2 ;

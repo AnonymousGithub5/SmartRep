@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) public { Identifier_0 ( trade , Identifier_1 ) ; emit Identifier_2 ( trade ) ; }

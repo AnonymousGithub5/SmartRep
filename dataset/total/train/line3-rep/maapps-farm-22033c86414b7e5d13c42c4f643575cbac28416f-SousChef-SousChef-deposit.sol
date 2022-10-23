@@ -1,0 +1,1 @@
+Identifier_1 . safeTransferFrom ( address ( msg . sender ) , address ( this ) , _amount ) ; if ( user . amount == 0 && user . rewardDebt == 0 && user . MemberAccess_0 == 0 ) { Identifier_2 . push ( address ( msg . sender ) ) ;

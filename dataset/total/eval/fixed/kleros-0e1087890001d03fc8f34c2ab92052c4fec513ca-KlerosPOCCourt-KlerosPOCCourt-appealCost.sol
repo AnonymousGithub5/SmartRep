@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , bytes Parameter_1 ) public constant returns ( uint256 Parameter_2 ) { if ( disputes [ _disputeID ] . MemberAccess_0 < Identifier_0 ) { return super . MemberAccess_1 ( _disputeID , Identifier_1 ) ; } return Identifier_2 . MemberAccess_2 ( Identifier_3 ) ; }

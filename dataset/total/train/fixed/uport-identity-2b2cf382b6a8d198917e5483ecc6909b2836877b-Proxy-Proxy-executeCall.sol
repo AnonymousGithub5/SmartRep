@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address to , uint256 value , bytes data ) internal returns ( bool success ) { assembly { success := AssemblyExpression_5 ( AssemblyExpression_0 , AssemblyExpression_1 , AssemblyExpression_2 , add ( AssemblyExpression_3 , HexNumber_0 ) , mload ( AssemblyExpression_4 ) , 0 , 0 ) } }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) external { require ( msg . sender == Identifier_0 , stringLiteral_0 ) ; Identifier_1 ( ) ; require ( Identifier_2 >= Identifier_3 , stringLiteral_1 ) ; Identifier_4 -= Identifier_5 ; require ( Identifier_6 . transfer ( address ( 0 ) , Identifier_7 ) ) ; emit Identifier_8 ( Identifier_9 ) ; }

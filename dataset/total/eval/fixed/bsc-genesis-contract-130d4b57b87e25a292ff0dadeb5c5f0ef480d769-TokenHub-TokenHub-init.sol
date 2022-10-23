@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) ModifierInvocation_0 external { Identifier_0 = Identifier_1 ; Identifier_2 [ address ( 0x0 ) ] = 18 ; Identifier_3 = true ; }

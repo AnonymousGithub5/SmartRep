@@ -1,0 +1,1 @@
+constructor ( ) { name = stringLiteral_0 ; symbol = stringLiteral_1 ; Identifier_0 = 18 ; totalSupply = 0 ; Identifier_1 = block . timestamp + Identifier_2 ( Identifier_3 ) . MemberAccess_0 ( ) ; }

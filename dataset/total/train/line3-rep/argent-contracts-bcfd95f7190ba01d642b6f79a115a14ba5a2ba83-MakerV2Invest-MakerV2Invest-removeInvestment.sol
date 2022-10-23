@@ -1,0 +1,1 @@
+require ( Identifier_1 <= NumberLiteral_0 , stringLiteral_1 ) ; Identifier_2 ( _wallet , Identifier_3 ( _wallet ) . mul ( Identifier_4 ) / NumberLiteral_1 ) ; emit Identifier_5 ( address ( _wallet ) , _token , Identifier_6 ) ;

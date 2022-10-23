@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 , address Parameter_2 ) external override ModifierInvocation_0 ( _underlyingAsset , _expiry ) returns ( uint256 Parameter_3 ) { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 ( _underlyingAsset , _expiry ) ; return Identifier_1 ( tokens , _underlyingAsset , _expiry , _account , true ) ; }

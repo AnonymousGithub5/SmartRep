@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address ) override public ModifierInvocation_0 returns ( uint256 Parameter_0 ) { return Identifier_0 [ _address ] . nonce ; }

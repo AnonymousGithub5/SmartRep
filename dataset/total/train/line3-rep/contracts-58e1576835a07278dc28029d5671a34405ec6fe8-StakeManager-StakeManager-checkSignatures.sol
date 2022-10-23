@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = 0 ; address VariableDeclaration_2 = address ( 0 ) ; for ( uint64 i = 0 ; i < Identifier_4 . length ; i += NumberLiteral_0 ) {

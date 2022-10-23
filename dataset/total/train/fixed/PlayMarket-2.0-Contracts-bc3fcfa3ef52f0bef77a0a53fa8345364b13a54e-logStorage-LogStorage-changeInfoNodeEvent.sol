@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , string Parameter_1 , uint32 Parameter_2 , string Parameter_3 , string Parameter_4 ) external ModifierInvocation_0 ( ) { emit Identifier_0 ( Identifier_1 [ msg . sender ] . MemberAccess_0 , _node , Identifier_2 , Identifier_3 , Identifier_4 , Identifier_5 ) ; }

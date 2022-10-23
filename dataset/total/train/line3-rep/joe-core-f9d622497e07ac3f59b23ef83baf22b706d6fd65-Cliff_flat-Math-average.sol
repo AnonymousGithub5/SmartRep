@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 a , uint256 b ) internal pure returns ( uint256 ) { return ( a / 2 ) + ( b / 2 ) + ( ( a % 2 + b % 2 ) / 2 ) ; }

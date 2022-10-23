@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { UserDefinedTypeName_0 VariableDeclaration_0 ; Identifier_0 . MemberAccess_0 ( Identifier_1 ) ;

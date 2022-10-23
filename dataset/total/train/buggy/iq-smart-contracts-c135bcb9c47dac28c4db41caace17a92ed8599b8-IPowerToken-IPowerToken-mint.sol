@@ -1,0 +1,1 @@
+function mint ( address account , uint256 Parameter_0 ) external ;

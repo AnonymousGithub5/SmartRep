@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , uint8 Parameter_1 , uint Parameter_2 ) public view returns ( uint ) ;

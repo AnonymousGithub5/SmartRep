@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token , address Parameter_0 ) external onlyOwner { if ( Identifier_0 [ _token ] == address ( 0 ) ) { Identifier_1 . push ( _token ) ; } Identifier_2 [ _token ] = Identifier_3 ; }

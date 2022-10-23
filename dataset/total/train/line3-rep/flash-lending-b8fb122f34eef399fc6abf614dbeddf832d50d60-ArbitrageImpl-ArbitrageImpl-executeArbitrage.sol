@@ -1,0 +1,1 @@
+uint256 balance = ERC20 ( token ) . balanceOf ( this ) ; ERC20 ( token ) . transfer ( Identifier_17 , balance ) ; }

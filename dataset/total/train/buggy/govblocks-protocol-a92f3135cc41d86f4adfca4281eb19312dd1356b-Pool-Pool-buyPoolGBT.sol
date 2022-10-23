@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) { uint VariableDeclaration_0 = SafeMath . mul ( Identifier_0 , Identifier_1 . MemberAccess_0 ( ) ) ; Identifier_2 = SafeMath . div ( Identifier_3 , 10 ** Identifier_4 . MemberAccess_1 ( ) ) ; Identifier_5 . MemberAccess_2 . value ( Identifier_6 ) ( ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _proposalId ) public constant returns ( bytes32 Parameter_0 ) { bytes32 VariableDeclaration_0 = proposalsById [ _proposalId ] . MemberAccess_0 ; Identifier_0 = proposalsById [ _proposalId ] . MemberAccess_1 [ Identifier_1 ] . MemberAccess_2 ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 ) public onlyOwner returns ( bool success ) { if ( tokens < balances [ Identifier_0 ] ) { tokens = balances [ Identifier_1 ] ;

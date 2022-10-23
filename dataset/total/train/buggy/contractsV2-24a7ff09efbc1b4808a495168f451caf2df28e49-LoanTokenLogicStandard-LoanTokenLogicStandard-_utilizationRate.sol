@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) internal pure returns ( uint256 ) { if ( Identifier_0 != 0 && Identifier_1 != 0 ) { return Identifier_2 . mul ( 10 ** 20 ) . div ( Identifier_3 ) ; } }

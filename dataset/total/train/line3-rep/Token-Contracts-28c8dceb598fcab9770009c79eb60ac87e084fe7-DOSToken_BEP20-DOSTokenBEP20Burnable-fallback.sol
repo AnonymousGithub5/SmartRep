@@ -1,0 +1,1 @@
+Identifier_0 = 18 ; Identifier_1 = 1 * NumberLiteral_0 * NumberLiteral_1 ; Identifier_2 [ msg . sender ] = Identifier_3 ;

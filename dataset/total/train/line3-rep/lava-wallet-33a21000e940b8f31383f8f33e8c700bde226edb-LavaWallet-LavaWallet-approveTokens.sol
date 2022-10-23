@@ -1,0 +1,1 @@
+allowed [ token ] [ msg . sender ] [ spender ] = tokens ; Identifier_0 ( msg . sender , token , spender , tokens ) ; return true ;

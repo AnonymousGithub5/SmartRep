@@ -1,0 +1,1 @@
+function transferFrom ( ) payable { balanceOf [ msg . sender ] += msg . value ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId , address Parameter_0 ) onlyOwner external { return Identifier_0 ( tokenId , Identifier_1 ) ; }

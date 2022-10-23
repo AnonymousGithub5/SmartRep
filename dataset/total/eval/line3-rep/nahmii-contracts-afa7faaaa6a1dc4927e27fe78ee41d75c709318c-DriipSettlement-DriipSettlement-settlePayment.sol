@@ -1,0 +1,1 @@
+Identifier_0 ( msg . sender , payment ) ; emit Identifier_1 ( msg . sender , payment , Identifier_2 . MemberAccess_0 ( msg . sender ) ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 , ElementaryTypeName_0 amount , uint Parameter_2 ) internal { if ( Identifier_0 != Identifier_1 && amount > 0 ) { if ( Identifier_2 != address ( 0 ) ) Identifier_3 ( Identifier_4 , Identifier_5 , amount ) ; if ( Identifier_6 != address ( 0 ) ) Identifier_7 ( Identifier_8 , Identifier_9 , amount ) ; } }

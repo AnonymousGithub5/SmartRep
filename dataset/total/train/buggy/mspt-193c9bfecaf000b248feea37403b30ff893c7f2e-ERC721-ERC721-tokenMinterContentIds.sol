@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external view returns ( string memory ) { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; string memory VariableDeclaration_1 = new string ( Identifier_2 . length ) ; for ( uint i = 0 ; i < Identifier_3 . length ; i ++ ) { r [ i ] = Identifier_4 [ i ] . MemberAccess_0 ; } return r ; }

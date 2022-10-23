@@ -1,0 +1,1 @@
+( uint256 VariableDeclaration_0 , uint256 VariableDeclaration_1 ) = Identifier_1 ( Identifier_2 ) . MemberAccess_0 ( Identifier_3 ) ; return tokens . MemberAccess_1 ( _amount ) / Identifier_4 ; }

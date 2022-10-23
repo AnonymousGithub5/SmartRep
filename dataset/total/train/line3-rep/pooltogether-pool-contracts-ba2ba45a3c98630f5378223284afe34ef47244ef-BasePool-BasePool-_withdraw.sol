@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _amount ) internal { uint balance = balances [ Identifier_0 ] ; require ( _amount <= balance , stringLiteral_0 ) ;

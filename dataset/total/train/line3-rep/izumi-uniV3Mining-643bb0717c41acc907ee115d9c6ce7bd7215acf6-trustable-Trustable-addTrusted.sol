@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user ) public onlyOwner { Identifier_0 [ user ] = true ;

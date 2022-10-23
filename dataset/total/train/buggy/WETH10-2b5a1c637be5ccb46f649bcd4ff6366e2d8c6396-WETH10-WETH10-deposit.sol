@@ -1,0 +1,1 @@
+function deposit ( ) external payable { balanceOf [ msg . sender ] += msg . value ; totalSupply += msg . value ; require ( totalSupply <= type ( uint112 ) . max , stringLiteral_0 ) ; emit Transfer ( address ( 0 ) , msg . sender , msg . value ) ; }

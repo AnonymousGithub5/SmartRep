@@ -1,0 +1,1 @@
+{ bytes32 VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] [ _tokenId ] [ Identifier_2 ] ; uint256 VariableDeclaration_1 = Identifier_3 [ Identifier_4 ] ;

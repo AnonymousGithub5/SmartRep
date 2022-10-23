@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public constant returns ( bool Parameter_1 ) { Identifier_0 = Identifier_1 ( Identifier_2 ) ; require ( Identifier_3 . MemberAccess_0 ( Identifier_4 , Identifier_5 ) ) ; Identifier_6 = true ; }

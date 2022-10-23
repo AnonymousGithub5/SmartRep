@@ -1,0 +1,1 @@
+require ( Identifier_2 != address ( 0 ) ) ; database . MemberAccess_1 ( keccak256 ( abi . encodePacked ( stringLiteral_3 , _assetID ) , Identifier_3 ) ) ; emit Identifier_4 ( _assetID , Identifier_5 , Identifier_6 ) ;

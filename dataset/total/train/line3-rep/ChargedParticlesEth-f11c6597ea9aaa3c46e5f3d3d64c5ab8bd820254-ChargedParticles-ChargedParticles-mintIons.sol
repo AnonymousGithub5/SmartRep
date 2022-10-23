@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string calldata Parameter_0 , uint256 Parameter_1 , uint256 Parameter_2 ) external ModifierInvocation_0 returns ( uint256 ) { require ( Identifier_0 == 0 , stringLiteral_0 ) ;

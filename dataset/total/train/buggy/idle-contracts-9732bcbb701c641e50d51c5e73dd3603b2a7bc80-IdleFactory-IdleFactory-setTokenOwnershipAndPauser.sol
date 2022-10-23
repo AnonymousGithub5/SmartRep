@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external onlyOwner { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; Identifier_2 . MemberAccess_0 ( msg . sender ) ; Identifier_3 . MemberAccess_1 ( msg . sender ) ; Identifier_4 . MemberAccess_2 ( ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint128 Parameter_0 , uint128 Parameter_1 ) public view returns ( uint32 ) { require ( Identifier_0 >= Identifier_1 ) ; return Identifier_2 . MemberAccess_0 ( Identifier_3 , Identifier_4 ) ;

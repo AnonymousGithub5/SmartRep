@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address to , bytes32 Parameter_0 ) payable { require ( ! status [ Identifier_0 ] ) ; Identifier_1 [ Identifier_2 ] . value = msg . value ; Identifier_3 [ Identifier_4 ] . MemberAccess_0 = to ; Identifier_5 [ Identifier_6 ] . MemberAccess_1 = msg . sender ; Identifier_7 [ Identifier_8 ] . MemberAccess_2 = now ; }

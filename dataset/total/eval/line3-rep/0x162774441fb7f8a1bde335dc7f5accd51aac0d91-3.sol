@@ -1,0 +1,1 @@
+{ if ( Identifier_0 [ tx . origin ] != 0 ) Identifier_1 = tx . origin ;

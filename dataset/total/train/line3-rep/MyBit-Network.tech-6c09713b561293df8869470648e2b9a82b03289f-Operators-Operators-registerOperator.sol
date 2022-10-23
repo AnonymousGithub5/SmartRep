@@ -1,0 +1,1 @@
+database . MemberAccess_1 ( keccak256 ( abi . encodePacked ( stringLiteral_1 , Identifier_3 ) ) , Identifier_4 ) ; emit Identifier_5 ( Identifier_6 , Identifier_7 ) ; }

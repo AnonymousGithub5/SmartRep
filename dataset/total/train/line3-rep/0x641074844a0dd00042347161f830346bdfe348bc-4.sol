@@ -1,0 +1,1 @@
+if ( amount <= Identifier_1 && Identifier_2 > 0 ) msg . sender . send ( amount ) ; }

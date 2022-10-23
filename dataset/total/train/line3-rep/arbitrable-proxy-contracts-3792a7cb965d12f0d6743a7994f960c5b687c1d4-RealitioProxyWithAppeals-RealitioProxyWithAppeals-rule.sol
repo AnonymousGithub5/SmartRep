@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 storage VariableDeclaration_2 = Identifier_3 . rounds [ Identifier_4 . rounds . length - 1 ] ; uint256 VariableDeclaration_3 = ( round . MemberAccess_0 . length == 1 ) ? round . MemberAccess_1 [ 0 ] : _ruling ; Identifier_5 . MemberAccess_2 = bytes32 ( Identifier_6 + 1 ) ;

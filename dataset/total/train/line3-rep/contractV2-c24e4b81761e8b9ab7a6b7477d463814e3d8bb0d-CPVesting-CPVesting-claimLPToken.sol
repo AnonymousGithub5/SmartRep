@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external onlyOwner ModifierInvocation_0 { IERC20 ( Identifier_0 ) . safeTransfer ( Identifier_1 , Identifier_2 ( ) ) ;

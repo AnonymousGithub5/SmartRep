@@ -1,0 +1,1 @@
+constructor ( uint Parameter_0 , uint Parameter_1 , uint Parameter_2 , UserDefinedTypeName_0 Parameter_3 , UserDefinedTypeName_1 Parameter_4 , UserDefinedTypeName_2 Parameter_5 ) public { Identifier_0 = block . timestamp ;

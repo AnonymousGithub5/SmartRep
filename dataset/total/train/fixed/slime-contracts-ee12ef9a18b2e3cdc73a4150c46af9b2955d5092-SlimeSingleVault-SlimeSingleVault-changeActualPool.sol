@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external onlyOwner nonReentrant ModifierInvocation_0 ( Identifier_7 ) { UserDefinedTypeName_0 memory pool = Identifier_0 [ Identifier_1 ] ; if ( pool . MemberAccess_0 ) { Identifier_2 ( Identifier_3 ( ) ) ; Identifier_4 ( false , Identifier_5 ) ; Identifier_6 = pool ; } }

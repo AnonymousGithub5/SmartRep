@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _amount ) internal pure returns ( uint ) { return ( _amount * 2 ) / 3 ; }

@@ -1,0 +1,1 @@
+Identifier_2 [ Identifier_3 ] = 0 ; Identifier_4 . approve ( Identifier_5 , amount ) ; Identifier_6 ( Identifier_7 ) . MemberAccess_0 ( amount ) ;

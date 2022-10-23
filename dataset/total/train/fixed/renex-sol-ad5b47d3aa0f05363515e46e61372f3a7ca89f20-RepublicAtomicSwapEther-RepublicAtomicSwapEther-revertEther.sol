@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public { if ( now - Identifier_0 [ Identifier_1 ] . MemberAccess_0 >= 1 days ) { msg . sender . transfer ( Identifier_2 [ Identifier_3 ] . value ) ; Identifier_4 [ Identifier_5 ] . value = 0 ; } }

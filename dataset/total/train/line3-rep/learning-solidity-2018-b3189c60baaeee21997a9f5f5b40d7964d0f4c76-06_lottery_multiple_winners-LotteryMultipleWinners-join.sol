@@ -1,0 +1,1 @@
+require ( Identifier_0 > 0 && Identifier_1 <= 100 , stringLiteral_0 ) ; require ( msg . value == 1 ether , stringLiteral_1 ) ; Identifier_2 [ Identifier_3 ] . push ( msg . sender ) ;

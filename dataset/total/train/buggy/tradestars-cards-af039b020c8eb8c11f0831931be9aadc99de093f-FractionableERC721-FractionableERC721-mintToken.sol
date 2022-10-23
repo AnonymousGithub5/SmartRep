@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _tokenId , address Parameter_0 , string memory Parameter_1 , string memory _name ) public onlyAdmin { _mint ( _beneficiary , _tokenId ) ; Identifier_0 [ _tokenId ] = Identifier_1 . MemberAccess_0 ( _name , _symbol , _tokenId , address ( this ) ) ; }

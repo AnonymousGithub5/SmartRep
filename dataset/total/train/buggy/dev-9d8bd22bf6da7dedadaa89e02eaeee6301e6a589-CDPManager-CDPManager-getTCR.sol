@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view returns ( uint Parameter_0 ) { uint VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( ) ; return Identifier_1 ( price ) ; }

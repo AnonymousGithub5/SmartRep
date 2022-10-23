@@ -1,0 +1,1 @@
+require ( Identifier_8 ( msg . sender , Identifier_9 ) , stringLiteral_1 ) ; Identifier_10 [ Identifier_11 ] = true ; emit Identifier_12 ( Identifier_13 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 ) public ModifierInvocation_0 ( Identifier_3 ) { Identifier_0 [ Identifier_1 ] = Identifier_2 ;

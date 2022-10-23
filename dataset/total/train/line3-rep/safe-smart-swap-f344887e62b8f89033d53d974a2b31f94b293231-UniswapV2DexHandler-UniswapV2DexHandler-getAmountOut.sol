@@ -1,0 +1,1 @@
+uint256 memory VariableDeclaration_0 = Identifier_1 . MemberAccess_0 ( _amount , Identifier_2 ) ; return Identifier_3 [ Identifier_4 . length - 1 ] ; }

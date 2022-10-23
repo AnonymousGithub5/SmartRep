@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint b , uint Parameter_0 , uint Parameter_1 ) external pure returns ( uint ) { return ( Identifier_0 * b ) / ( 2 * ( b + Identifier_1 ) ) ; }

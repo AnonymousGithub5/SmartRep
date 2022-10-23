@@ -1,0 +1,1 @@
+allowed [ msg . sender ] [ _spender ] = allowed [ msg . sender ] [ _spender ] . add ( Identifier_0 ) ; Identifier_1 ( msg . sender , _spender , allowed [ msg . sender ] [ _spender ] ) ; return true ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount , address Parameter_0 ) external nonReentrant ModifierInvocation_0 ( address ( this ) ) whenNotPaused ModifierInvocation_1 returns ( uint256 Parameter_1 ) {

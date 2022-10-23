@@ -1,0 +1,1 @@
+address VariableDeclaration_1 = Identifier_1 . MemberAccess_1 ( ) ; ( uint256 reserve0 , uint256 reserve1 , ) = Identifier_2 . MemberAccess_2 ( ) ; Identifier_3 = Identifier_4 . mul ( Identifier_5 ( Identifier_6 ) ) ;

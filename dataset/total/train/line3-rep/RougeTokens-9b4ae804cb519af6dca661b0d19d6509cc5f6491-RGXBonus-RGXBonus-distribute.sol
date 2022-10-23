@@ -1,0 +1,1 @@
+balances [ _to ] += _value ; Transfer ( owner , _to , _value ) ; }

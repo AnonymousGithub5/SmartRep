@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token , uint256 _amount , address Parameter_0 ) internal { if ( _token == Identifier_0 ) { Identifier_1 = Identifier_2 - _amount ; } else if ( _token == Identifier_3 ( ) ) { Identifier_4 = Identifier_5 - _amount ; } if ( Identifier_6 != address ( this ) ) { Identifier_7 ( _token ) . transfer ( Identifier_8 , _amount ) ; } }

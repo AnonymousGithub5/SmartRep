@@ -1,0 +1,1 @@
+function approve ( address spender , uint256 amount ) public returns ( bool ) { allowed [ msg . sender ] [ spender ] = amount ;

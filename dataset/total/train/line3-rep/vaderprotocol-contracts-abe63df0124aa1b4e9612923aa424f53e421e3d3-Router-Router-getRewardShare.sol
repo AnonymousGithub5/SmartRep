@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) public view returns ( uint Parameter_0 ) { if ( Identifier_0 ) { uint VariableDeclaration_0 = Identifier_1 ( Identifier_2 ) . MemberAccess_0 ( token ) ;

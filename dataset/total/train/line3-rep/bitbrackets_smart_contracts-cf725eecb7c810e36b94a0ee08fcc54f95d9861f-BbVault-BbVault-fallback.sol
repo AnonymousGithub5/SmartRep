@@ -1,0 +1,1 @@
+function transferFrom ( ) payable public { Identifier_0 ( address ( this ) , msg . sender , msg . value ) ; }

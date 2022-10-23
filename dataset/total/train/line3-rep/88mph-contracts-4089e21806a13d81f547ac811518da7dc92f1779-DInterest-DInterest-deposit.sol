@@ -1,0 +1,1 @@
+ModifierInvocation_0 { stablecoin . safeTransferFrom ( msg . sender , address ( this ) , amount ) ;

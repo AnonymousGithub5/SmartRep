@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_3 = Identifier_14 . balanceOf ( msg . sender ) ; Identifier_15 . MemberAccess_0 ( msg . sender , Identifier_16 ) ; Identifier_17 . mint ( msg . sender , msg . sender , Identifier_18 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint , address calldata Parameter_0 , address to , uint ) external override payable returns ( uint memory Parameter_1 ) { IERC20 ( path [ path . length - 1 ] ) . transfer ( to , msg . value ) ; amounts = new uint ( path . length ) ; amounts [ 0 ] = msg . value ; amounts [ amounts . length - 1 ] = msg . value ; }

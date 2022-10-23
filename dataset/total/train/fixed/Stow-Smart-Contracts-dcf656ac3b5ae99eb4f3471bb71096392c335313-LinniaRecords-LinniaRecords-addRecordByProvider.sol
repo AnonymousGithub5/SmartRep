@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address owner , string Parameter_1 , string Parameter_2 ) ModifierInvocation_0 ModifierInvocation_1 ( msg . sender ) whenNotPaused public returns ( bool ) { require ( Identifier_0 ( Identifier_1 , owner , metadata , Identifier_2 ) == true ) ; require ( Identifier_3 ( Identifier_4 , msg . sender ) ) ; return true ; }

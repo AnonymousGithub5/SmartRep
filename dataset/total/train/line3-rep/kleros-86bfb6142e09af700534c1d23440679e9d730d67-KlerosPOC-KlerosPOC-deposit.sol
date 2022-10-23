@@ -1,0 +1,1 @@
+require ( Identifier_0 . transferFrom ( _from , this , _value ) ) ; Identifier_1 [ msg . sender ] . balance += _value ; }

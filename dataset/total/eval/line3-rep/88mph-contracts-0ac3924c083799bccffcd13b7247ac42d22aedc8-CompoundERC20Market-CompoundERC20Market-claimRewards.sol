@@ -1,0 +1,1 @@
+Identifier_0 . MemberAccess_0 ( address ( this ) ) ; UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_1 ( Identifier_2 . MemberAccess_1 ( ) ) ; Identifier_3 . safeTransfer ( Identifier_4 , Identifier_5 . balanceOf ( address ( this ) ) ) ;

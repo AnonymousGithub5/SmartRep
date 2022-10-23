@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = DecimalMath . mul ( user . amount , pool . MemberAccess_0 ) . sub ( user . rewardDebt ) ; user . rewardDebt = DecimalMath . MemberAccess_1 ( user . amount , pool . MemberAccess_2 ) ; Identifier_4 ( msg . sender , pending ) ;

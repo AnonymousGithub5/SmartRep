@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { totalSupply = NumberLiteral_0 ; balances [ msg . sender ] = totalSupply ; name = stringLiteral_0 ; symbol = stringLiteral_1 ; Identifier_0 = 18 ; Identifier_1 = stringLiteral_2 ; Identifier_2 = block . number ; Identifier_3 = Identifier_4 + Identifier_5 ; }

@@ -1,0 +1,1 @@
+function approve ( address spender , uint256 value ) public returns ( bool ) { require ( 0 == value || 0 == allowance ( msg . sender , spender ) , stringLiteral_0 ) ; return super . approve ( spender , value ) ; }

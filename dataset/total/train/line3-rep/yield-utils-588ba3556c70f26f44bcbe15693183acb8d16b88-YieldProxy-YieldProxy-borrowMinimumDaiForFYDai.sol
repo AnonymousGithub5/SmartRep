@@ -1,0 +1,1 @@
+{ require ( Identifier_0 [ address ( pool ) ] , stringLiteral_0 ) ; controller . MemberAccess_0 ( collateral , maturity , msg . sender , address ( this ) , Identifier_1 ) ;

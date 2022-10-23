@@ -1,0 +1,1 @@
+{ require ( keccak256 ( msg . sender , Identifier_0 , Identifier_1 ) == Identifier_2 [ msg . sender ] ) ; return true ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint value ) external view returns ( uint ) { return Identifier_0 ( value , safeAdd ( Identifier_1 , Identifier_2 ) ) ; }

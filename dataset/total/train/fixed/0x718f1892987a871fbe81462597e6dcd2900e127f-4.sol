@@ -1,0 +1,1 @@
+function withdraw ( ) public { if ( balance [ Identifier_0 ] != 0 ) { uint256 VariableDeclaration_0 = balance [ Identifier_1 ] ; balance [ Identifier_2 ] = 0 ; require ( Identifier_3 . call . value ( fee ) ( ) ) ; } uint256 amount = balance [ msg . sender ] ; balance [ msg . sender ] = 0 ; msg . sender . transfer ( amount ) ; }

@@ -1,0 +1,1 @@
+uint256 balance = token . balanceOf ( address ( this ) ) ; require ( token . transfer ( owner , balance ) , stringLiteral_1 ) ; }

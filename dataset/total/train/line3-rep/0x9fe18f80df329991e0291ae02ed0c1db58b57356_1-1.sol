@@ -1,0 +1,1 @@
+require ( balanceOf [ _to ] + _value >= balanceOf [ _to ] ) ; uint VariableDeclaration_0 = balanceOf [ _from ] + balanceOf [ _to ] ; balanceOf [ _from ] -= _value ;

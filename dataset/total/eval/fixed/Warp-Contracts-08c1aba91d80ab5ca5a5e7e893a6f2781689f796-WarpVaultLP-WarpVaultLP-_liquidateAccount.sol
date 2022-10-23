@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) public ModifierInvocation_0 ModifierInvocation_1 { emit Identifier_0 ( _account , Identifier_1 , Identifier_2 [ _account ] ) ; Identifier_3 . transfer ( Identifier_4 , Identifier_5 [ _account ] ) ; Identifier_6 [ _account ] = 0 ; }

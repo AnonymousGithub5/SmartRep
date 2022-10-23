@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { Identifier_0 . MemberAccess_0 ( address ( Identifier_1 ) , rad ( 10 ether ) ) ; Identifier_2 . MemberAccess_1 ( address ( Identifier_3 ) , address ( Identifier_4 ) , address ( NumberLiteral_0 ) , rad ( 1 ether ) ) ; }

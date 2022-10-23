@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 x , uint256 y ) internal pure returns ( uint256 ) { uint256 VariableDeclaration_0 = x / y ; return Identifier_0 ; }

@@ -1,0 +1,1 @@
+Identifier_4 = Identifier_5 ( Identifier_6 . MemberAccess_2 ( stringLiteral_1 ) ) ; Identifier_7 = 1e18 ; Identifier_8 = NumberLiteral_0 ;

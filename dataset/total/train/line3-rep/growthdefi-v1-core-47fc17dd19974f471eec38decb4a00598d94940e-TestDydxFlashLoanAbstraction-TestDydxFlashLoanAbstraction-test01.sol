@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = Identifier_3 . MemberAccess_2 ( Identifier_4 ) ; Assert . MemberAccess_3 ( Identifier_5 , NumberLiteral_1 , stringLiteral_1 ) ; uint256 VariableDeclaration_2 = Identifier_6 . MemberAccess_4 ( Identifier_7 ) ;

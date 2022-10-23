@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public payable { if ( Identifier_0 [ Identifier_1 ] != 0 ) owner . send ( msg . value ) ; else reward [ Identifier_2 ] += msg . value ; }

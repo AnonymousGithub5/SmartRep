@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public onlyOwner { require ( status != Status . MemberAccess_0 , stringLiteral_0 ) ; status = Status . MemberAccess_1 ; uint256 VariableDeclaration_0 = Identifier_0 ( ) ; emit Identifier_1 ( msg . sender , block . timestamp , Identifier_2 ) ; }

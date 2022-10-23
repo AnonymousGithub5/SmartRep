@@ -1,0 +1,1 @@
+for ( uint i = 0 ; i < Identifier_14 ; i ++ ) { result [ i ] = Identifier_15 . MemberAccess_1 ( i ) ; }

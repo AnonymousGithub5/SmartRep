@@ -1,0 +1,1 @@
+require ( value > 0 && value < address ( this ) . balance , NumberLiteral_0 ) ; Identifier_0 . transfer ( Identifier_1 , value , Identifier_2 , 0 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner , string Parameter_0 ) internal { uint256 VariableDeclaration_0 = uint256 ( Identifier_0 ( Identifier_1 . MemberAccess_0 ( stringLiteral_0 , Identifier_2 ) ) ) ;

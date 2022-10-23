@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) internal view returns ( bool ) { if ( Identifier_0 [ token ] == 0 ) { return false ; } return true ; }

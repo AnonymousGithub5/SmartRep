@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_3 = Identifier_9 . MemberAccess_2 . value ( msg . value ) ( Identifier_10 ) ; uint VariableDeclaration_4 = Identifier_11 - Identifier_12 ; if ( Identifier_13 > 0 ) {

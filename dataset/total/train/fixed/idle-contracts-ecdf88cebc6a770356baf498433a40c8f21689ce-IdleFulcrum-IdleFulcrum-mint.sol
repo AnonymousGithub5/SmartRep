@@ -1,0 +1,1 @@
+function mint ( ) external ModifierInvocation_0 returns ( uint256 Parameter_0 ) { uint256 balance = IERC20 ( Identifier_0 ) . balanceOf ( address ( this ) ) ; if ( balance == 0 ) { return Identifier_1 ; } IERC20 ( Identifier_2 ) . MemberAccess_0 ( token , balance ) ; Identifier_3 = Identifier_4 ( token ) . mint ( msg . sender , balance ) ; }

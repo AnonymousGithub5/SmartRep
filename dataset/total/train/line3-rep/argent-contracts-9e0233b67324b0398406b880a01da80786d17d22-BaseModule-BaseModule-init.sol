@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _wallet ) public ModifierInvocation_0 ( _wallet ) { emit Identifier_0 ( address ( _wallet ) ) ;

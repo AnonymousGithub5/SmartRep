@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external view returns ( bytes32 Parameter_1 , address Parameter_2 , address Parameter_3 , bool Parameter_4 , uint8 memory Parameter_5 , bytes32 Parameter_6 ) ;

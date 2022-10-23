@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount , uint256 Parameter_0 ) internal nonReentrant { uint256 VariableDeclaration_0 = Identifier_0 ( _amount ) ; require ( Identifier_1 >= Identifier_2 , stringLiteral_0 ) ; _mint ( msg . sender , Identifier_3 ) ; }

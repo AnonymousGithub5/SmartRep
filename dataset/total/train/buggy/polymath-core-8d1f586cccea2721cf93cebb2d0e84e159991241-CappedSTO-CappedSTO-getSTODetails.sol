@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 , uint256 , uint256 , uint256 , uint256 , uint256 , uint256 , bool ) { return ( Identifier_0 , Identifier_1 , Identifier_2 , rate , Identifier_3 , Identifier_4 , Identifier_5 , ( Identifier_6 [ uint8 ( Identifier_7 . MemberAccess_0 ) ] ) ) ; }

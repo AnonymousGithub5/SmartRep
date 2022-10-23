@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address Parameter_1 , uint256 Parameter_2 ) override public { address VariableDeclaration_0 = address ( Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( Identifier_2 ) ) ; require ( Identifier_3 == msg . sender , Identifier_4 . MemberAccess_1 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint16 Parameter_0 , uint16 Parameter_1 ) external ModifierInvocation_0 ( Identifier_17 ) { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ;

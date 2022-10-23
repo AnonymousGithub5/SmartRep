@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address spender , address Parameter_0 , uint256 amount ) external virtual ModifierInvocation_0 { Identifier_0 ( asset ) . MemberAccess_0 ( spender , amount ) ; emit Identifier_1 ( spender , asset , amount ) ; }

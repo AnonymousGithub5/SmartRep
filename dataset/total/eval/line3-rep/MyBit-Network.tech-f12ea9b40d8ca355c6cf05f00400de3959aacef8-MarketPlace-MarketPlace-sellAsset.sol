@@ -1,0 +1,1 @@
+returns ( bool ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; UserDefinedTypeName_1 VariableDeclaration_1 = Identifier_2 ( Identifier_3 . MemberAccess_0 ) ;

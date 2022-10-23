@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external onlyOwner { delete reserve ; emit Identifier_0 ( ) ; }

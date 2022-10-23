@@ -1,0 +1,1 @@
+require ( Identifier_0 == 1 , stringLiteral_0 ) ; if ( Identifier_1 == stringLiteral_1 ) Identifier_2 = addr ; else revert ( stringLiteral_2 ) ;

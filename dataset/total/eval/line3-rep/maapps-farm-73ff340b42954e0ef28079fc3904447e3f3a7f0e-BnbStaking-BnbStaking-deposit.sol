@@ -1,0 +1,1 @@
+UserInfo storage user = userInfo [ msg . sender ] ; require ( user . amount + _amount <= Identifier_0 , stringLiteral_0 ) ; require ( ! user . MemberAccess_0 , stringLiteral_1 ) ;

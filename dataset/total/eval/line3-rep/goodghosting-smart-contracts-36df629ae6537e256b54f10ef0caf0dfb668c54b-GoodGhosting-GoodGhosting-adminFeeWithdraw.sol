@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external onlyOwner ModifierInvocation_0 { require ( ! Identifier_0 , stringLiteral_0 ) ;

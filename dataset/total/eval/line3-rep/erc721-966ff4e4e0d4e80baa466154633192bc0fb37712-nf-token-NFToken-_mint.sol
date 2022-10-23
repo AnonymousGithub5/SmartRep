@@ -1,0 +1,1 @@
+require ( Identifier_0 [ _tokenId ] == address ( 0 ) ) ; Identifier_1 ( _to , _tokenId ) ; emit Transfer ( address ( 0 ) , _to , _tokenId ) ;

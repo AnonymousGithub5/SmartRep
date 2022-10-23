@@ -1,0 +1,1 @@
+internal constant returns ( UserDefinedTypeName_0 Parameter_0 )

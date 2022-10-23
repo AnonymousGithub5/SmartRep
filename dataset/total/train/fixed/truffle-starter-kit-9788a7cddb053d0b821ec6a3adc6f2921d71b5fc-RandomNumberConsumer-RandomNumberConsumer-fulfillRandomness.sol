@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 , uint256 Parameter_0 ) internal override { Identifier_0 = Identifier_1 ; }

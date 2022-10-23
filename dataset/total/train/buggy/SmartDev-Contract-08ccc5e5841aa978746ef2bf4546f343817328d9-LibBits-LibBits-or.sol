@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 a , ElementaryTypeName_1 b ) internal pure returns ( ElementaryTypeName_2 ) { return a | b ; }

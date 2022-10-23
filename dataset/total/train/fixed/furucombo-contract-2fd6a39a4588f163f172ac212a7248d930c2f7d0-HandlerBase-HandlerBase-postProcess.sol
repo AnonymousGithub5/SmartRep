@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external payable virtual { revert ( stringLiteral_0 ) ; }

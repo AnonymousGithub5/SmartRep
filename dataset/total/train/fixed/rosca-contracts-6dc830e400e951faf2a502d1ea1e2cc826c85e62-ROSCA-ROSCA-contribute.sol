@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) payable { if ( ! Identifier_0 [ msg . sender ] . MemberAccess_0 || Identifier_1 ) throw ; Identifier_2 [ msg . sender ] . MemberAccess_1 += msg . value ; Identifier_3 ( msg . sender , msg . value ) ; }

@@ -1,0 +1,1 @@
+require ( Identifier_7 [ Identifier_8 ] != msg . sender ) ; require ( Identifier_9 < Identifier_10 . totalSupply + Identifier_11 . MemberAccess_1 && Identifier_12 >= Identifier_13 . MemberAccess_2 ) ; require ( msg . value > 0 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public view returns ( uint Parameter_1 , uint Parameter_2 ) { UserDefinedTypeName_0 storage VariableDeclaration_0 = disputes [ _disputeID ] ; return ( dispute . MemberAccess_0 , dispute . MemberAccess_1 ) ; }

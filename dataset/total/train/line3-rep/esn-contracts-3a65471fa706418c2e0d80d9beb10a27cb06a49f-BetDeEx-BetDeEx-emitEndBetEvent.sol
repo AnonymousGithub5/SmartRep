@@ -1,0 +1,1 @@
+) public ModifierInvocation_0 { emit Identifier_0 ( Identifier_1 , msg . sender , Identifier_2 , Identifier_3 , Identifier_4 , block . timestamp ) ; }

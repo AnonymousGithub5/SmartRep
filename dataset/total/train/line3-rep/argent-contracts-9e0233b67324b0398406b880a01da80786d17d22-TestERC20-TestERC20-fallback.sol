@@ -1,0 +1,1 @@
+for ( uint i = 0 ; i < Identifier_2 . length ; i ++ ) { _mint ( Identifier_3 [ i ] , Identifier_4 * 10 ** uint ( Identifier_5 ) ) ; }

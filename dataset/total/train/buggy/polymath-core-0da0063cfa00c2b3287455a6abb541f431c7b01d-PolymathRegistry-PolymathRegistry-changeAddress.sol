@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 , address Parameter_1 ) external onlyOwner { bytes32 VariableDeclaration_0 = keccak256 ( bytes ( Identifier_0 ) ) ; emit Identifier_1 ( Identifier_2 , Identifier_3 [ Identifier_4 ] , Identifier_5 ) ; Identifier_6 [ Identifier_7 ] = Identifier_8 ; }

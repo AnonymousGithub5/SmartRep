@@ -1,0 +1,1 @@
+Identifier_0 . MemberAccess_0 ( NumberLiteral_0 ) ; assertEq ( Identifier_1 . MemberAccess_1 ( ) , NumberLiteral_1 ether / 100 ) ; }

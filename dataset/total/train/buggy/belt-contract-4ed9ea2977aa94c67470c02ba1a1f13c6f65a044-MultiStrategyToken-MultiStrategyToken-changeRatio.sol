@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 value ) external onlyOwner { require ( uint256 ( Identifier_0 . MemberAccess_0 ) > index ) ; uint256 VariableDeclaration_0 = Identifier_1 [ Identifier_2 [ index ] ] ; Identifier_3 [ Identifier_4 [ index ] ] = value ; Identifier_5 = Identifier_6 . sub ( Identifier_7 ) . add ( value ) ; }

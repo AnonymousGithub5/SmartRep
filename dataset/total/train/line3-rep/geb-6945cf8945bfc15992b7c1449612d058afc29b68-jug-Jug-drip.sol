@@ -1,0 +1,1 @@
+Identifier_4 ( Identifier_5 , rad ) ; Identifier_6 [ Identifier_7 ] . MemberAccess_1 = now ; return rate ;

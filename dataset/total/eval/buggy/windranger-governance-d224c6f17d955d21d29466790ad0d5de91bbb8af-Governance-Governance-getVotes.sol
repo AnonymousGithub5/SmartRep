@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , bytes32 Parameter_0 ) public view virtual returns ( uint256 ) { if ( Identifier_0 == Identifier_1 ) { return Identifier_2 ( account ) ; } return Identifier_3 . MemberAccess_0 ( account , Identifier_4 ) ; }

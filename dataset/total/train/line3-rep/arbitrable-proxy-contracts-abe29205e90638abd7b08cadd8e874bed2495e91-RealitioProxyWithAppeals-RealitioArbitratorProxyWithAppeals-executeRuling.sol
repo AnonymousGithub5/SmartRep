@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; Identifier_2 . MemberAccess_0 = bytes32 ( _ruling == 0 ? uint ( - 1 ) : _ruling - 1 ) ; Identifier_3 . status = Status . MemberAccess_1 ;

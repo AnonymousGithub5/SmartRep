@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view returns ( uint256 , uint256 ) { if ( Identifier_0 == 0 ) { return ( Identifier_1 , 0 ) ; } uint256 VariableDeclaration_0 = Identifier_2 ( ) ; uint256 VariableDeclaration_1 = Identifier_3 . add ( Identifier_4 . mul ( 1e18 ) . mul ( NumberLiteral_0 ) . div ( Identifier_5 ) . div ( 100 ) ) ; return ( Identifier_6 , Identifier_7 ) ; }

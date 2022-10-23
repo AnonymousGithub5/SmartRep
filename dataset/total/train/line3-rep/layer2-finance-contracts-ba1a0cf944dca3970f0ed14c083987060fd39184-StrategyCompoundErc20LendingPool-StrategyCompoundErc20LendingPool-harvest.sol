@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = IERC20 ( Identifier_17 ) . balanceOf ( address ( this ) ) ; uint256 VariableDeclaration_3 = Identifier_18 ( Identifier_19 ) . mint ( Identifier_20 ) ; require ( Identifier_21 == 0 , stringLiteral_0 ) ;

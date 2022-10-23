@@ -1,0 +1,1 @@
+require ( _amount > 0 ) ; UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_1 [ Identifier_2 ] ; require ( Identifier_3 . amount == 0 ) ;

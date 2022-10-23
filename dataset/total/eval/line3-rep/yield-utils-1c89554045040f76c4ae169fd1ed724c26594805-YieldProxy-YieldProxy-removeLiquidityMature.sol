@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , uint256 Parameter_1 ) external { UserDefinedTypeName_1 VariableDeclaration_0 = pool . MemberAccess_0 ( ) ; uint256 VariableDeclaration_1 = Identifier_0 . MemberAccess_1 ( ) ;

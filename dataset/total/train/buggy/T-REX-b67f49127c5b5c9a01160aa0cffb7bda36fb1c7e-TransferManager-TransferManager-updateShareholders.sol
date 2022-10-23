@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) internal { if ( Identifier_0 [ addr ] == 0 ) { Identifier_1 . push ( addr ) ; Identifier_2 [ addr ] = Identifier_3 . length ; uint16 VariableDeclaration_0 = Identifier_4 . MemberAccess_0 ( addr ) ; Identifier_5 [ Identifier_6 ] ++ ; } }

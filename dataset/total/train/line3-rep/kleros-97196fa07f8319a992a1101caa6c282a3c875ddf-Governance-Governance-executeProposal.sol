@@ -1,0 +1,1 @@
+require ( proposal . MemberAccess_1 , stringLiteral_1 ) ; proposal . MemberAccess_2 . call . value ( proposal . amount ) ( proposal . data ) ; emit Identifier_1 ( _id ) ;

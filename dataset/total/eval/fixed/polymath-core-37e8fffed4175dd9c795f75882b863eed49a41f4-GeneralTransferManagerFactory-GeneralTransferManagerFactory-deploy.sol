@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes ) external returns ( address ) { Identifier_0 . transferFrom ( msg . sender , owner , Identifier_1 ( ) ) ; return address ( new UserDefinedTypeName_0 ( msg . sender ) ) ; }

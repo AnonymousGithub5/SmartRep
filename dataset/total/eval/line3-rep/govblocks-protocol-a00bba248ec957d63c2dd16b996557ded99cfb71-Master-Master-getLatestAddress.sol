@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 Parameter_0 ) public constant returns ( address Parameter_1 ) { Identifier_0 = Identifier_1 [ Identifier_2 - 1 ] [ Identifier_3 ] ; }

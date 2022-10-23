@@ -1,0 +1,1 @@
+if ( proposal . status != Identifier_13 . MemberAccess_8 ) { pool . transfer ( token , proposal . MemberAccess_9 . MemberAccess_10 , proposal . MemberAccess_11 . MemberAccess_12 ) ; }

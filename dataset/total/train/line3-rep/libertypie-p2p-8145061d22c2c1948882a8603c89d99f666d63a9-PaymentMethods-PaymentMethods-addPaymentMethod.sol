@@ -1,0 +1,1 @@
+) public onlyAdmin ( ) returns ( uint256 ) { require ( Identifier_0 > 1 && Identifier_1 <= Identifier_2 ( ) , Identifier_3 ( stringLiteral_0 ) ) ; uint256 id = Identifier_4 ( ) . MemberAccess_0 ( ) ;

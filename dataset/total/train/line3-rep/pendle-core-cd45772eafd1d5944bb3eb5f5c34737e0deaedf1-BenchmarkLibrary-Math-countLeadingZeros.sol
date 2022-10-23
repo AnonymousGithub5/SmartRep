@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) public pure returns ( uint256 ) { uint256 VariableDeclaration_0 = ( uint256 ( 1 ) << NumberLiteral_0 ) ;

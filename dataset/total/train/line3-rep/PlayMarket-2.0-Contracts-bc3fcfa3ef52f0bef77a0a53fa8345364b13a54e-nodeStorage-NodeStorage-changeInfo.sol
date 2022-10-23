@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , string Parameter_1 , uint32 Parameter_2 , string Parameter_3 , string Parameter_4 ) external ModifierInvocation_0 ( Identifier_8 [ _node ] . MemberAccess_4 ) { Identifier_0 [ _node ] . MemberAccess_0 = Identifier_1 ; Identifier_2 [ _node ] . MemberAccess_1 = Identifier_3 ;

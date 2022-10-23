@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) ModifierInvocation_0 public returns ( bool ) { controller . MemberAccess_0 (

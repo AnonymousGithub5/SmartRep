@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , string Parameter_1 ) public { UserDefinedTypeName_0 storage token = tokens [ _tokenID ] ;

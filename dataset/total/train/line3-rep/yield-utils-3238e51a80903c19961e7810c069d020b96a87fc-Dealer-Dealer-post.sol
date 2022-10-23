@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address from , address to , uint256 amount ) public override ModifierInvocation_0 ( from , stringLiteral_2 ) ModifierInvocation_1 { require (

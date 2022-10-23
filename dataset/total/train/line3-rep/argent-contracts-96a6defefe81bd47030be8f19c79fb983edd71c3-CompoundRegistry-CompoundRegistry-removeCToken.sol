@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = tokens [ tokens . length - 1 ] ; if ( Identifier_2 != Identifier_3 ) { uint128 VariableDeclaration_1 = Identifier_4 [ Identifier_5 ] . MemberAccess_1 ;

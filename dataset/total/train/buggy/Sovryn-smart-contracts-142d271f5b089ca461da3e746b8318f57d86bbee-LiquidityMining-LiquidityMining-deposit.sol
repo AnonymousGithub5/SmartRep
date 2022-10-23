@@ -1,0 +1,1 @@
+function deposit ( address Parameter_0 , uint256 _amount , address _user ) public { Identifier_0 ( Identifier_1 , _amount , _user , false ) ; }

@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; require ( proposal . MemberAccess_0 != 0 && block . timestamp < proposal . MemberAccess_1 . add ( Identifier_2 ) . add ( Identifier_3 ) ) ; require ( proposal . MemberAccess_2 >= Identifier_4 . mul ( Identifier_5 ) . div ( NumberLiteral_0 ) , stringLiteral_0 ) ;

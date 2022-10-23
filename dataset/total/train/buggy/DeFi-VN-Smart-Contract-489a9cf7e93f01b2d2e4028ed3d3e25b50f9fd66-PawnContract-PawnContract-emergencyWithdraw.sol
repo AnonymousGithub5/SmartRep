@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token ) external onlyAdmin ModifierInvocation_0 { if ( _token == address ( 0 ) ) { Identifier_0 ( address ( this ) ) . transfer ( address ( this ) . balance ) ; } else { IERC20 ( _token ) . transfer ( address ( this ) , IERC20 ( _token ) . balanceOf ( address ( this ) ) ) ; } }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( address ) { address memory VariableDeclaration_0 = new address ( Identifier_0 . length ) ; for ( uint256 i = 0 ; i < Identifier_1 . length ; i ++ ) { Identifier_2 [ i ] = Identifier_3 [ i ] ; } return Identifier_4 ; }

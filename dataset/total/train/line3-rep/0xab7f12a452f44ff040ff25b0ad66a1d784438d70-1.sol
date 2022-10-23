@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = msg . value * rate ; Identifier_3 += msg . value ; Identifier_4 = ( Identifier_5 < 1 ) ? 1 : Identifier_6 ;

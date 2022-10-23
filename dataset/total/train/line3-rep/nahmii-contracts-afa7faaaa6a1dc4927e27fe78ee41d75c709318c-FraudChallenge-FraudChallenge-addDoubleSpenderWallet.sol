@@ -1,0 +1,1 @@
+public ModifierInvocation_0 ( Identifier_4 ) { if ( ! Identifier_0 [ wallet ] ) {

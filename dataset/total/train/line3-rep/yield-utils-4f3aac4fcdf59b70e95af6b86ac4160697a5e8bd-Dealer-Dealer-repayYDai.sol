@@ -1,0 +1,1 @@
+{ ( uint256 VariableDeclaration_0 , uint256 VariableDeclaration_1 ) = Identifier_0 ( collateral , maturity , from , Identifier_1 ) ; Identifier_2 [ maturity ] . burn ( from , Identifier_3 ) ;

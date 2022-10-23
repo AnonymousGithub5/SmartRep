@@ -1,0 +1,1 @@
+bool VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( address ( _wallet ) , Identifier_2 ( Identifier_3 ) ) ; if ( ! Identifier_4 ) { address memory VariableDeclaration_1 = new address ( 1 ) ;

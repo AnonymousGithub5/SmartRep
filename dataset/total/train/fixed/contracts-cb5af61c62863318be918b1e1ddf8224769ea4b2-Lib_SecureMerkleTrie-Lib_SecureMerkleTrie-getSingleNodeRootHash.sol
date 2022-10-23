@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes memory _key , bytes memory _value ) internal pure returns ( bytes32 Parameter_0 ) { bytes memory VariableDeclaration_0 = Identifier_0 ( _key ) ; return Identifier_1 . MemberAccess_0 ( Identifier_2 , _value ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user , uint8 Parameter_0 , bool Parameter_1 ) onlyOwner external returns ( bool ) { Identifier_0 [ _user ] = Identifier_1 ; if ( Identifier_2 ) { Identifier_3 [ _user ] = true ; } return true ; }

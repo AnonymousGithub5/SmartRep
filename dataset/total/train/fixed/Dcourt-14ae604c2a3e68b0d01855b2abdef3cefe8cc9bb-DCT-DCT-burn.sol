@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _amount ) public ModifierInvocation_0 returns ( uint256 ) { balances [ _account ] = balances [ _account ] . sub ( _amount ) ; Identifier_0 ( _account , _amount ) ; emit Transfer ( _account , address ( 0 ) , _amount ) ; return balances [ _account ] ; }

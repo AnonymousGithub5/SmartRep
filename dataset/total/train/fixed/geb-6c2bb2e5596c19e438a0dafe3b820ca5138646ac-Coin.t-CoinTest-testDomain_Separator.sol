@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { assertEq ( token . MemberAccess_0 ( ) , NumberLiteral_0 ) ; }

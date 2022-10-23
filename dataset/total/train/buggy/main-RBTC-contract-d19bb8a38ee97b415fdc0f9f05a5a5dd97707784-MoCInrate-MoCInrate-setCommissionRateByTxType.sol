@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 , uint256 value ) public ModifierInvocation_0 ( ) { Identifier_0 [ Identifier_1 ] = value ; }

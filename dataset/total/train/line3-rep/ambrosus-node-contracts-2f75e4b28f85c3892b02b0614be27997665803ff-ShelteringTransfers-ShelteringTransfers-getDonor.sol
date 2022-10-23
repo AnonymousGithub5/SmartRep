@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public view returns ( address ) { ( address donorId , ) = Identifier_0 . MemberAccess_0 ( Identifier_1 ) ; return Identifier_2 ;

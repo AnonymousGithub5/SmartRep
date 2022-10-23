@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = _mint ( _msgSender ( ) ) ; Identifier_4 ( tokenId , Identifier_5 , string , Identifier_6 , Identifier_7 , Identifier_8 ) ; return tokenId ;

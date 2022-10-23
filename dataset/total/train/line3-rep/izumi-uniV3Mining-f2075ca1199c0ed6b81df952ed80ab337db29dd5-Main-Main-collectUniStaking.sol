@@ -1,0 +1,1 @@
+if ( Identifier_7 > 0 ) { UserDefinedTypeName_1 VariableDeclaration_0 = Identifier_8 [ user . MemberAccess_3 ] ; address VariableDeclaration_1 = poolInfo . MemberAccess_4 ;

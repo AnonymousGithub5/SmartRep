@@ -1,0 +1,1 @@
+if ( Identifier_2 == 0 ) return 0 ; return Identifier_3 ( account , Identifier_4 [ proposalId ] , Identifier_5 - 1 ) ; }

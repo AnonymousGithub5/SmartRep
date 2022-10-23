@@ -1,0 +1,1 @@
+returns ( bool ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; require ( Identifier_2 . MemberAccess_0 == msg . sender ) ;

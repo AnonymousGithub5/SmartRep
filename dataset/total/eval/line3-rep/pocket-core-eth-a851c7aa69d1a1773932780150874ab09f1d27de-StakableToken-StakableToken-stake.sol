@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _value ) returns ( bool success ) { require ( _value > 0 ) ;

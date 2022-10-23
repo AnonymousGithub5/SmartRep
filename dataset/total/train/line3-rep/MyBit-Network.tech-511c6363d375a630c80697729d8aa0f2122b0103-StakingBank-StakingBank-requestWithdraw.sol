@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = database . uintStorage ( keccak256 ( stringLiteral_1 ) ) ; database . MemberAccess_1 ( keccak256 ( stringLiteral_2 ) , Identifier_2 . sub ( Identifier_3 ) ) ; database . MemberAccess_2 ( keccak256 ( stringLiteral_3 ) , true ) ;

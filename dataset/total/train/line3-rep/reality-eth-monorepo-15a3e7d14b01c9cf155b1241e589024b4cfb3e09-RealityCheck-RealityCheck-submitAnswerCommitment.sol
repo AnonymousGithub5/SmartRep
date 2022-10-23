@@ -1,0 +1,1 @@
+bytes32 VariableDeclaration_0 = keccak256 ( Identifier_0 , Identifier_1 , msg . value ) ; address VariableDeclaration_1 = ( Identifier_2 == 0x0 ) ? Identifier_3 : msg . sender ; require ( Identifier_4 [ Identifier_5 ] . MemberAccess_0 == Identifier_6 ) ;

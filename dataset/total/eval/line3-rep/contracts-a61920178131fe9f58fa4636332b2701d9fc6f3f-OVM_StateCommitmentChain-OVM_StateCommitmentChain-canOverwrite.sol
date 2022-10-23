@@ -1,0 +1,1 @@
+if ( _id == Identifier_0 . MemberAccess_0 ) { return Identifier_1 . MemberAccess_1 ( _index / 2 ) . timestamp < Identifier_2 ; } else {

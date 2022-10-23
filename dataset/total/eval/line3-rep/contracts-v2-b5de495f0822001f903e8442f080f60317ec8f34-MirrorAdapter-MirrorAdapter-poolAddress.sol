@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external pure override returns ( address ) { return address ( Identifier_0 [ Identifier_1 ] ) ;

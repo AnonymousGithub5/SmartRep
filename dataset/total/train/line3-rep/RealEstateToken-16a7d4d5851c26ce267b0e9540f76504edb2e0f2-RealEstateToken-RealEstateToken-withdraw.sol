@@ -1,0 +1,1 @@
+Identifier_1 [ msg . sender ] = 0 ; address ( this ) . transfer ( msg . sender , Identifier_2 ) ; }

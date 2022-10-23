@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = Identifier_2 . totalSupply ( ) ; return Identifier_3 . mul ( 2 ) . mul ( NumberLiteral_0 ) . div ( Identifier_4 ) ; }

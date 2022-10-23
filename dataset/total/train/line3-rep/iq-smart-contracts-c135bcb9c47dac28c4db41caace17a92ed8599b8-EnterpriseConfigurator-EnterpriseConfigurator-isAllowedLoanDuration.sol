@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 storage VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; return config . MemberAccess_0 <= Identifier_2 && Identifier_3 <= config . MemberAccess_1 ; }

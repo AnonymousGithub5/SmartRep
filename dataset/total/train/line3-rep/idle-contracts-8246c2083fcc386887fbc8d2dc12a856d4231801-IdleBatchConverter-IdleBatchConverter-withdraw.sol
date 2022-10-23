@@ -1,0 +1,1 @@
+function withdraw ( uint256 Parameter_0 ) external { require ( Identifier_0 != 0 && Identifier_1 < Identifier_2 , stringLiteral_0 ) ;

@@ -1,0 +1,1 @@
+bytes memory data = abi . encode ( target ) ; Identifier_0 ( target ) . MemberAccess_0 ( value , data ) ; }

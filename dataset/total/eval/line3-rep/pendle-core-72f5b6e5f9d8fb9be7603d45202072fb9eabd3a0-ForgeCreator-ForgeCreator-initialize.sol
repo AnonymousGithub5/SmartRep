@@ -1,0 +1,1 @@
+function initialize ( UserDefinedTypeName_0 Parameter_0 , UserDefinedTypeName_1 Parameter_1 ) external { require ( msg . sender == Identifier_0 , stringLiteral_0 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address _from , uint _amount ) internal returns ( uint ) { Identifier_0 . MemberAccess_0 ( _from , _amount ) ; return _amount ;

@@ -1,0 +1,1 @@
+for ( uint256 i = 0 ; i < Identifier_6 . length ; ++ i ) { Identifier_7 ( token ) . transferFrom ( _from ,

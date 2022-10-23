@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) public view returns ( bool ) { return Identifier_0 . MemberAccess_0 ( _beneficiary , address ( this ) ) >= Identifier_1 ; }

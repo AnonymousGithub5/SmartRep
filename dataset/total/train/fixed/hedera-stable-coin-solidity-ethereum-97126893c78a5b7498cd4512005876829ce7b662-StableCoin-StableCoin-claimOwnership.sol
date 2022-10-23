@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) private override ( OwnableUpgradeSafe ) ModifierInvocation_0 { Identifier_0 ( Identifier_1 , owner ( ) ) ; super . MemberAccess_0 ( ) ; Identifier_2 ( Identifier_3 , owner ( ) ) ; Identifier_4 ( Identifier_5 , owner ( ) ) ; }

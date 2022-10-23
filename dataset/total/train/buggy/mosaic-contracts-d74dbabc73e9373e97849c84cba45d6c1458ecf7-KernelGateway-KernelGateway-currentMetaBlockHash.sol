@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) internal view returns ( bytes32 Parameter_1 ) { bytes32 VariableDeclaration_0 = Identifier_0 ( address ( Identifier_1 ) ) . MemberAccess_0 ( Identifier_2 ) ; Identifier_3 = Identifier_4 . MemberAccess_1 ( Identifier_5 , Identifier_6 ) ; }

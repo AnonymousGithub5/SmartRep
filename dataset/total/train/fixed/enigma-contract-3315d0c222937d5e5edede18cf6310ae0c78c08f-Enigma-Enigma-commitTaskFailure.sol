@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , bytes32 Parameter_1 , uint64 Parameter_2 , bytes memory Parameter_3 ) public ModifierInvocation_0 ( msg . sender ) ModifierInvocation_1 ( Identifier_5 ) { Identifier_0 . MemberAccess_0 ( state , Identifier_1 , Identifier_2 , Identifier_3 , Identifier_4 ) ; }

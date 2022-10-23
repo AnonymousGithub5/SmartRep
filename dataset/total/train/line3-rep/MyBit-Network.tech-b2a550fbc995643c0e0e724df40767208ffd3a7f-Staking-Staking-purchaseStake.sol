@@ -1,0 +1,1 @@
+ERC20 VariableDeclaration_1 = ERC20 ( database . MemberAccess_1 ( keccak256 ( abi . encodePacked ( stringLiteral_0 ) ) ) ) ; UserDefinedTypeName_0 VariableDeclaration_2 = Identifier_3 ( database . MemberAccess_2 ( keccak256 ( abi . encodePacked ( stringLiteral_1 , _assetID ) ) ) ) ; bytes32 VariableDeclaration_3 = keccak256 ( abi . encodePacked ( msg . sender , Identifier_4 ) ) ;

@@ -1,0 +1,1 @@
+if ( pool == 0 ) { return 0 ; }

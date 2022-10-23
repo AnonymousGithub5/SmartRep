@@ -1,0 +1,1 @@
+emit Transfer ( address ( 0 ) , msg . sender , value ) ; Identifier_0 ( msg . sender ) . MemberAccess_0 ( value , data ) ; require ( balanceOf [ msg . sender ] >= value , stringLiteral_1 ) ;

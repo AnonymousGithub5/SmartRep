@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bytes calldata Parameter_1 ) external override ModifierInvocation_0 { require ( msg . sender == Identifier_0 , stringLiteral_0 ) ; emit Identifier_1 ( Identifier_2 ( Identifier_3 , Identifier_4 ) , Identifier_5 , Identifier_6 ) ; }

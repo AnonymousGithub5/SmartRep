@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) constant returns ( uint256 ) { assert ( Identifier_0 <= Identifier_1 ) ; assert ( Identifier_2 != 0 && Identifier_3 != 0 ) ; assert ( Identifier_4 & NumberLiteral_0 == 0 ) ; assert ( Identifier_5 & NumberLiteral_1 == 0 ) ; return Identifier_6 ( ( Identifier_7 * Identifier_8 ) / Identifier_9 ) ; }

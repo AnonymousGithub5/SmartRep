@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public payable { int256 amount = Identifier_0 . MemberAccess_0 ( msg . value ) ; Identifier_1 . add ( amount , address ( 0 ) , 0 ) ;

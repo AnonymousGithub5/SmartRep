@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) internal { Identifier_0 [ Identifier_1 ] = Identifier_2 ( { paid : false , credit : 0 , alive : true } ) ; Identifier_3 . push ( Identifier_4 ) ;

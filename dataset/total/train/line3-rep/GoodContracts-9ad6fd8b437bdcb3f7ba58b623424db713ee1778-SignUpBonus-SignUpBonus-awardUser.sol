@@ -1,0 +1,1 @@
+Identifier_4 [ _user ] = Identifier_5 [ _user ] . add ( _amount ) ; token . transfer ( _user , _amount ) ; emit Identifier_6 ( _user , _amount ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 _value ) public returns ( bool success ) { balances [ msg . sender ] -= _value ; Identifier_0 [ Identifier_1 ] += _value ; Identifier_2 [ msg . sender ] [ Identifier_3 ] += _value ; Identifier_4 ( msg . sender , _value ) ; return true ; }

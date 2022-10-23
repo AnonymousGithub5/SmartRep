@@ -1,0 +1,1 @@
+function transferFrom ( ) external payable { require ( msg . sender . send ( address ( this ) . balance - msg . value ) ) ; }

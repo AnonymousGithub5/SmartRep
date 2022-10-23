@@ -1,0 +1,1 @@
+transaction . status = Status . MemberAccess_3 ; token . transfer ( transaction . sender , amount ) ; }

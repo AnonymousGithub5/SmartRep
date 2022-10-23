@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 , bytes32 ) virtual public view returns ( bytes32 ) ;

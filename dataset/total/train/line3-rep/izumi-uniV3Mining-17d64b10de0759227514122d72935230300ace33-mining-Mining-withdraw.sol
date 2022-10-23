@@ -1,0 +1,1 @@
+function withdraw ( uint256 tokenId ) external { require ( Identifier_0 [ tokenId ] == msg . sender , stringLiteral_0 ) ;

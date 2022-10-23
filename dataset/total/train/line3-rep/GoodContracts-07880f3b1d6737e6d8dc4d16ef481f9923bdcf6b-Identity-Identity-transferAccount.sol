@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) public { ERC20 token = Identifier_0 . MemberAccess_0 ( ) ;

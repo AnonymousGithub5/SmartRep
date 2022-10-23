@@ -1,0 +1,1 @@
+require ( spender != address ( 0 ) , stringLiteral_1 ) ; if ( Identifier_0 [ owner ] [ spender ] < type ( uint256 ) . max ) { Identifier_1 [ owner ] [ spender ] = amount ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal pure returns ( uint256 ) { uint256 id ; assembly {

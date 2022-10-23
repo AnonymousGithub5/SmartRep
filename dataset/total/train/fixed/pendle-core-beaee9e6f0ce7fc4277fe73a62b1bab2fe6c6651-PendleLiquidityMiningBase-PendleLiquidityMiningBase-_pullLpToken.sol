@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 , uint256 amount ) internal { Identifier_0 ( expiry , msg . sender ) ; IERC20 ( Identifier_1 ) . safeTransferFrom ( msg . sender , Identifier_2 [ expiry ] . MemberAccess_0 , amount ) ; }

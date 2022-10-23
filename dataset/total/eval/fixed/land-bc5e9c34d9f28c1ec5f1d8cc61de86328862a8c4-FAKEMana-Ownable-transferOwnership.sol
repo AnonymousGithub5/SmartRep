@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public onlyOwner { if ( Identifier_0 != address ( 0 ) ) { owner = Identifier_1 ; } }

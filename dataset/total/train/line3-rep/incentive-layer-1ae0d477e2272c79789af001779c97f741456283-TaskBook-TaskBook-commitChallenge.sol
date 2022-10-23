@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; Identifier_2 ( Identifier_3 , msg . sender , Identifier_4 . MemberAccess_0 ) ; require ( Identifier_5 . state == Identifier_6 . MemberAccess_1 ) ;

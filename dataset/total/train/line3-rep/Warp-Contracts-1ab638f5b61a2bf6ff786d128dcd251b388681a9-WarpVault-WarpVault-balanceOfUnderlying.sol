@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 ( { mantissa : Identifier_1 ( ) } ) ; ( UserDefinedTypeName_1 VariableDeclaration_1 , uint balance ) = Identifier_2 ( Identifier_3 , Identifier_4 . balanceOf ( _account ) ) ; require ( Identifier_5 == Identifier_6 . MemberAccess_0 ) ;

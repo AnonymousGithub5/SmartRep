@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 Parameter_0 , address Parameter_1 ) public { UserDefinedTypeName_0 VariableDeclaration_0 ;

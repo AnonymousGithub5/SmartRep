@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public override ModifierInvocation_0 returns ( uint256 Parameter_1 ) { require ( Identifier_0 == uint256 ( 0 ) || Identifier_1 . transferFrom ( Identifier_2 , msg . sender , address ( this ) , Identifier_3 ) , stringLiteral_0 ) ; emit Identifier_4 ( Identifier_5 = Identifier_6 ( ) ) ; }

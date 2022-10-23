@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 , uint256 Parameter_2 , uint256 Parameter_3 ) private pure returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 - Identifier_1 ; return Identifier_2 . mul ( Identifier_3 ) . div ( Identifier_4 ) ; }

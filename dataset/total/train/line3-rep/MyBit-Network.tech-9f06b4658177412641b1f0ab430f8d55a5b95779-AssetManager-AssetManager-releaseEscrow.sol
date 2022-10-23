@@ -1,0 +1,1 @@
+database . MemberAccess_1 ( keccak256 ( abi . encodePacked ( stringLiteral_4 , _user ) ) , Identifier_1 . sub ( _amount ) ) ; database . MemberAccess_2 ( keccak256 ( abi . encodePacked ( stringLiteral_5 , _user ) ) , Identifier_2 . add ( Identifier_3 . sub ( _amount ) ) ) ; emit Identifier_4 ( _assetID , _user , _amount ) ;

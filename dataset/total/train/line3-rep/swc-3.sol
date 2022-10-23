@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address receiver , uint amount ) public { require ( tx . origin == owner ) ; receiver . transfer ( amount ) ;

@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = Identifier_0 [ 6 * i + 3 ] . MemberAccess_0 ( ) ; if ( Identifier_1 == 0 ) { uint256 VariableDeclaration_2 = Identifier_2 [ 6 * i + 0 ] . MemberAccess_1 ( ) ;

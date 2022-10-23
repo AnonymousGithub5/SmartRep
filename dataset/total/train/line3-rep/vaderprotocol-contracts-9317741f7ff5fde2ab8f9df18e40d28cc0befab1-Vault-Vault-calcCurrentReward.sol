@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 ; if ( iPOOLS ( POOLS ) . MemberAccess_1 ( Identifier_8 ( Identifier_9 ) . MemberAccess_2 ( ) ) ) { Identifier_10 = Identifier_11 ( ) ;

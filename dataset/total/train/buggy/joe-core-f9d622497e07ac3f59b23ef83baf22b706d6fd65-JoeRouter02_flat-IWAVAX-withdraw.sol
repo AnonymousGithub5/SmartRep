@@ -1,0 +1,1 @@
+function withdraw ( uint ) external ;

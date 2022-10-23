@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public returns ( uint256 ) { Identifier_0 . MemberAccess_0 ( ) ; uint256 VariableDeclaration_0 = Identifier_1 . MemberAccess_1 ( ) ; _mint ( Identifier_2 , Identifier_3 ) ; return Identifier_4 ; }

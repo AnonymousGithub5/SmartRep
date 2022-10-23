@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ _address ] ; for ( uint i = Identifier_1 ; ( Identifier_2 == 0 && i < addr . requests . length ) || ( Identifier_3 > 0 && i < addr . requests . length && i < Identifier_4 ) ; i ++ ) Identifier_5 ( _beneficiary , _address , i , Identifier_6 , Identifier_7 ) ;

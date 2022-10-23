@@ -1,0 +1,1 @@
+uint256 amount ; uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( msg . sender , address ( Identifier_1 ) ) ; if ( _amount == 0 ) {

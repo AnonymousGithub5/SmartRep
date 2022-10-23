@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId , bytes calldata data ) external override ModifierInvocation_0 ( Identifier_2 ) { string memory VariableDeclaration_0 = abi . MemberAccess_0 ( data , ( string ) ) ; Identifier_0 ( tokenId , Identifier_1 ) ; }

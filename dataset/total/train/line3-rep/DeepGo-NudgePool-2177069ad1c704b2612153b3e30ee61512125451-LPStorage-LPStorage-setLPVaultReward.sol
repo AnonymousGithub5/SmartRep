@@ -1,0 +1,1 @@
+require ( Identifier_0 [ Identifier_1 ] [ Identifier_2 ] . MemberAccess_0 [ Identifier_3 ] . MemberAccess_1 == true , stringLiteral_1 ) ; Identifier_4 [ Identifier_5 ] [ Identifier_6 ] . MemberAccess_2 [ Identifier_7 ] . MemberAccess_3 = _amount ; }

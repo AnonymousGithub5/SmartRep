@@ -1,0 +1,1 @@
+require ( ! request . MemberAccess_0 , stringLiteral_1 ) ; emit Identifier_1 ( arbitrator , request . disputeID , msg . sender , Identifier_2 ) ; }

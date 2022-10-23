@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) ModifierInvocation_0 view public returns ( bool ) { uint16 VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; if ( index == 0 ) { return false ; } index -- ; UserDefinedTypeName_1 VariableDeclaration_1 = Identifier_2 [ index ] ; return ( Identifier_3 == Identifier_4 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint32 Parameter_0 ) public view virtual override returns ( uint256 ) { return Identifier_0 [ Identifier_1 ] ; }

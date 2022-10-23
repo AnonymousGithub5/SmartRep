@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 ; require ( Identifier_1 > 0 , stringLiteral_0 ) ; require ( Identifier_2 . transfer ( Identifier_3 , Identifier_4 ) , stringLiteral_1 ) ; Identifier_5 = 0 ; emit Identifier_6 ( Identifier_7 ) ; return Identifier_8 ; }

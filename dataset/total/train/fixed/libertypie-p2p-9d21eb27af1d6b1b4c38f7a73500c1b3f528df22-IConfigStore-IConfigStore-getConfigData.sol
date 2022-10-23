@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _key ) external view returns ( bytes32 ) ;

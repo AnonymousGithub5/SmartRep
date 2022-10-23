@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view returns ( uint256 , uint256 , uint256 , address ) { IERC20 VariableDeclaration_0 = IERC20 ( tokenAddress ) ; uint256 balance = Identifier_0 . balanceOf ( address ( this ) ) ; return ( balance , address ( this ) . balance , Identifier_1 . length , Identifier_2 ) ; }

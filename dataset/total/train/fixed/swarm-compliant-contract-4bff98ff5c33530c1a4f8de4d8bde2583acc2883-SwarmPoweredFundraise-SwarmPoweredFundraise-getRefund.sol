@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external returns ( bool ) { require ( Identifier_0 == true || block . timestamp > Identifier_1 . add ( Identifier_2 ) , stringLiteral_0 ) ; require ( Identifier_3 == false , stringLiteral_1 ) ; Identifier_4 . MemberAccess_0 ( msg . sender , Identifier_5 , Identifier_6 , Identifier_7 , Identifier_8 ) ; return true ; }

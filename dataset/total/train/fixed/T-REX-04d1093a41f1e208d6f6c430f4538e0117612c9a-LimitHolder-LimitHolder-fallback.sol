@@ -1,0 +1,1 @@
+constructor ( address _token , uint256 Parameter_0 ) public { token = Identifier_0 ( _token ) ; Identifier_1 = Identifier_2 ; Identifier_3 = token . MemberAccess_0 ( ) ; emit Identifier_4 ( Identifier_5 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) ModifierInvocation_0 { require ( Identifier_0 <= amount ) ; Identifier_1 . transfer ( Identifier_2 ) ; amount -= Identifier_3 ; }

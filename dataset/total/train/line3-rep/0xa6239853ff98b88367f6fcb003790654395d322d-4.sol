@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = msg . sender ; sender . send ( amount ) ; }

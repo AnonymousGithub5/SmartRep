@@ -1,0 +1,1 @@
+require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; require ( Identifier_1 . balanceOf ( address ( this ) ) >= Identifier_2 ) ; uint256 VariableDeclaration_0 = Identifier_3 . balanceOf ( address ( this ) ) ;

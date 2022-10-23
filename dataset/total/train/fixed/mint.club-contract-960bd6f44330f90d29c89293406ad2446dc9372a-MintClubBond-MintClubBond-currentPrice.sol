@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view returns ( uint256 ) { require ( Identifier_0 ( tokenAddress ) , stringLiteral_0 ) ; return 1e18 * Identifier_1 [ tokenAddress ] / ( Identifier_2 ( tokenAddress ) . totalSupply ( ) * Identifier_3 / Identifier_4 ) ; }

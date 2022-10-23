@@ -1,0 +1,1 @@
+token = IERC20 ( _token ) ; } 

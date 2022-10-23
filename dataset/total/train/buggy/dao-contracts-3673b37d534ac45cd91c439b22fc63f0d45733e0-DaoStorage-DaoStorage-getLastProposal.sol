@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public constant returns ( bytes32 _id ) { _id = Identifier_0 ( Identifier_1 ) ; }

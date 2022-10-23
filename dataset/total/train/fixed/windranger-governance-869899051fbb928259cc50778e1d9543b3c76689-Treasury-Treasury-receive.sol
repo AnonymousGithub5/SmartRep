@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address Parameter_0 , uint256 amount ) external payable virtual { balances [ asset ] += amount ; if ( asset == address ( 0 ) ) { require ( amount == msg . value , stringLiteral_0 ) ; } else { IERC20 ( asset ) . safeTransferFrom ( from , address ( this ) , amount ) ; } emit Identifier_0 ( from , asset , amount ) ; }

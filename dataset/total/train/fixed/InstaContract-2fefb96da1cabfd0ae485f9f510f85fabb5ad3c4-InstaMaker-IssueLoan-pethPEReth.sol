@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public view returns ( uint Parameter_1 ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ( stringLiteral_0 ) ) ; Identifier_2 = ( Identifier_3 . mul ( 10 ** NumberLiteral_0 ) ) . div ( Identifier_4 . MemberAccess_0 ( ) ) ; }

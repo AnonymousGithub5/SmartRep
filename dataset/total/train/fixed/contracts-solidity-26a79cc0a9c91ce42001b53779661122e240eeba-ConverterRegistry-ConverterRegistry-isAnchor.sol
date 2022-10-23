@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _value ) public view override returns ( bool ) { return Identifier_0 ( Identifier_1 ( Identifier_2 ) ) . MemberAccess_0 ( _value ) ; }

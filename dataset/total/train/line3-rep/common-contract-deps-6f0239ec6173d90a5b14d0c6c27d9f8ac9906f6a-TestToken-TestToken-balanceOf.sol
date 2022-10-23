@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner ) constant returns ( uint Parameter_0 ) { return balances [ _owner ] ;

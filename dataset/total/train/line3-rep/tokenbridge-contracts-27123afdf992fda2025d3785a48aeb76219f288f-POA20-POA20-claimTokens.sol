@@ -1,0 +1,1 @@
+uint256 balance = token . balanceOf ( address ( this ) ) ; token . transfer ( _to , balance ) ; }

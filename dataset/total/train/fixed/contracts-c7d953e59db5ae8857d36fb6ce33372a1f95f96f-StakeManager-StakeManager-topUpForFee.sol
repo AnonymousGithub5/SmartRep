@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user , uint256 Parameter_0 ) public ModifierInvocation_0 { Identifier_0 ( user , msg . sender , Identifier_1 , 0 ) ; }

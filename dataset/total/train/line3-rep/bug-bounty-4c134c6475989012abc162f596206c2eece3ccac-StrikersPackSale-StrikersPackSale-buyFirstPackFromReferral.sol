@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bool Parameter_1 ) external payable { require ( Identifier_0 [ msg . sender ] == 0 , stringLiteral_0 ) ; Identifier_1 [ msg . sender ] = Identifier_2 ;

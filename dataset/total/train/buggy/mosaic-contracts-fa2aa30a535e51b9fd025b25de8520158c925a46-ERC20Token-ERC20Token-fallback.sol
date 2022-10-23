@@ -1,0 +1,1 @@
+constructor ( string Parameter_0 , string _name , uint8 Parameter_1 , uint256 Parameter_2 ) public ModifierInvocation_0 ( ) { Identifier_0 = _symbol ; Identifier_1 = _name ; Identifier_2 = Identifier_3 ; Identifier_4 = Identifier_5 ; balances [ owner ] = Identifier_6 ; emit Transfer ( 0x0 , owner , Identifier_7 ) ; }

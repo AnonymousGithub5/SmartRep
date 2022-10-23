@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint amount , uint Parameter_0 , UserDefinedTypeName_0 memory Parameter_1 ) internal pure returns ( uint Parameter_2 ) { total = amount . add ( amount . MemberAccess_0 ( Identifier_0 ) ) ; for ( uint256 i = 0 ; i < Identifier_1 . length ; i ++ ) { total = total . add ( amount . MemberAccess_1 ( Identifier_2 [ i ] . value ) ) ; } }

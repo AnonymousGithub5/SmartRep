@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 { require ( Identifier_0 == 1 , stringLiteral_0 ) ; Identifier_1 = 0 ; Identifier_2 ( ) ; safeEngine . MemberAccess_0 ( address ( this ) , Identifier_3 , safeEngine . coinBalance ( address ( this ) ) ) ; emit Identifier_4 ( ) ; }

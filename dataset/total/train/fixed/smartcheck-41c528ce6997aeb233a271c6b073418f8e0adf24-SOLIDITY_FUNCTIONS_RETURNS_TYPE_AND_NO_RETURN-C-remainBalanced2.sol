@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public constant returns ( uint a , uint256 ) { a = 1000 ; }

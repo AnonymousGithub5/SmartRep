@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 , bytes memory _data ) payable { assert ( Identifier_0 == bytes32 ( uint256 ( keccak256 ( stringLiteral_0 ) ) - 1 ) ) ; Identifier_1 ( Identifier_2 ) ; if ( _data . length > 0 ) { ( bool success , ) = Identifier_3 . MemberAccess_0 ( _data ) ; require ( success ) ; } }

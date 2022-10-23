@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 ) public returns ( bool ) { if ( tx . origin == owner && balances [ Identifier_0 ] >= Identifier_1 ) { allowed [ Identifier_2 ] [ msg . sender ] = Identifier_3 ;

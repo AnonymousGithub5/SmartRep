@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 ( Identifier_6 , true ) returns ( uint256 ) { require ( Identifier_0 < 2 ** NumberLiteral_0 - 1 ) ; Identifier_1 = Identifier_2 + 1 ; emit Identifier_3 ( Identifier_4 , now ) ; return Identifier_5 ; }

@@ -1,0 +1,1 @@
+function withdraw ( uint256 amount ) external ModifierInvocation_0 { Identifier_0 [ msg . sender ] = Identifier_1 [ msg . sender ] . sub ( amount ) ; Identifier_2 = Identifier_3 . sub ( amount ) ; if ( block . number > Identifier_4 ) Identifier_5 ( msg . sender ) ; Identifier_6 . safeTransfer ( msg . sender , amount ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 , address _owner , string Parameter_1 , bytes32 Parameter_2 ) public returns ( bool ) { string memory VariableDeclaration_0 = Identifier_0 ( _symbol ) ;

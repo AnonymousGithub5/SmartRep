@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner ) public view returns ( uint256 Parameter_0 ) ; 

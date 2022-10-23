@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 value , bytes calldata data ) external override { Identifier_0 += value ;

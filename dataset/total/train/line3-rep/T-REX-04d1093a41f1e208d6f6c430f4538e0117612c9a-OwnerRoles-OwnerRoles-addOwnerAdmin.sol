@@ -1,0 +1,1 @@
+Identifier_0 . add ( _owner ) ; string memory VariableDeclaration_0 = stringLiteral_0 ; emit Identifier_1 ( _owner , Identifier_2 ) ;

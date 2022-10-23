@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 returns ( address ) { return Identifier_0 ( ) ;

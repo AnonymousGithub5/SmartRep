@@ -1,0 +1,1 @@
+uint256 Parameter_7 ) internal returns ( UserDefinedTypeName_0 Parameter_8 ) { UserDefinedTypeName_1 storage VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ;

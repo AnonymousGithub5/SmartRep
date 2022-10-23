@@ -1,0 +1,1 @@
+require ( Identifier_0 != 0 , stringLiteral_0 ) ; uint256 VariableDeclaration_0 = ( ( now - Identifier_1 ) % 1 days ) + 1 ; return Identifier_2 . div ( 1000 ) . mul ( Identifier_3 ) ;

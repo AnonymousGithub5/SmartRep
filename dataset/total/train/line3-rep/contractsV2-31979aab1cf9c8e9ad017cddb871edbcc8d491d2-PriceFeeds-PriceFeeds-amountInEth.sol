@@ -1,0 +1,1 @@
+{ if ( tokenAddress == address ( Identifier_0 ) ) { Identifier_1 = amount ;

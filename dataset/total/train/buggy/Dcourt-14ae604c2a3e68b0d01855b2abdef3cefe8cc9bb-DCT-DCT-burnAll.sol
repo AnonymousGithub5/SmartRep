@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public onlyOwner returns ( bool ) { Identifier_0 ( _account , balances [ _account ] ) ; emit Transfer ( _account , address ( 0 ) , balances [ _account ] ) ; balances [ _account ] = 0 ; return true ; }

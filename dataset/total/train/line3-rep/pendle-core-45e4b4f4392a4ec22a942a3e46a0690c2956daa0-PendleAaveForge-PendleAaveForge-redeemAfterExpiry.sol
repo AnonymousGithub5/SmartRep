@@ -1,0 +1,1 @@
+) external override ModifierInvocation_0 returns ( uint256 Parameter_3 ) { require ( block . timestamp > _expiry , stringLiteral_0 ) ; IERC20 VariableDeclaration_0 = IERC20 ( Identifier_0 ( _underlyingAsset ) ) ;

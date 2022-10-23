@@ -1,0 +1,1 @@
+function deposit ( address token , uint amount ) public { Identifier_0 ( token , msg . sender , amount ) ; }

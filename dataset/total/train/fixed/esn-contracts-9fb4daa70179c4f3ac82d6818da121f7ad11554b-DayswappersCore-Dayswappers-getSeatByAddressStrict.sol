@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public override view returns ( uint32 Parameter_1 , address owner , bool Parameter_2 , uint32 Parameter_3 , uint32 Parameter_4 , uint32 Parameter_5 , uint32 Parameter_6 ) { require ( Identifier_0 ( Identifier_1 ) , stringLiteral_0 ) ; return Identifier_2 ( Identifier_3 ) ; }

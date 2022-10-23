@@ -1,0 +1,1 @@
+Identifier_0 [ Identifier_1 ] = Identifier_2 [ Identifier_3 ] . add ( msg . value ) ; Identifier_4 ( msg . sender , block . number , msg . value ) ; return true ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _proposalId , uint32 Parameter_0 ) ModifierInvocation_0 { if ( Identifier_0 ( _proposalId , Identifier_1 ) == 1 ) { } { Identifier_2 . MemberAccess_0 ( _proposalId , 0 ) ; GD . MemberAccess_1 ( _proposalId , GD . MemberAccess_2 ( _proposalId ) , 0 ) ; } }

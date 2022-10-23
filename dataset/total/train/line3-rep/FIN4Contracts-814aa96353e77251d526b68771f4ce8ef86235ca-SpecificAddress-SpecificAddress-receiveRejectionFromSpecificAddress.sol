@@ -1,0 +1,1 @@
+string memory VariableDeclaration_1 = string ( abi . encodePacked ( stringLiteral_1 , Identifier_6 ( Identifier_7 . MemberAccess_3 ) , stringLiteral_2 , Identifier_8 ( Identifier_9 . MemberAccess_4 ) . MemberAccess_5 ( ) ) ) ; Identifier_10 ( Identifier_11 ) . MemberAccess_6 ( address ( this ) , Identifier_12 . MemberAccess_7 , message ) ;

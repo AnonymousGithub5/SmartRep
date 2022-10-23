@@ -1,0 +1,1 @@
+require ( Identifier_1 != address ( 0 ) , stringLiteral_1 ) ; balances [ Identifier_2 ] = balances [ Identifier_3 ] . sub ( amount , stringLiteral_2 ) ; balances [ Identifier_4 ] = balances [ Identifier_5 ] . add ( amount ) ;

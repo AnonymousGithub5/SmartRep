@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external view override returns ( uint256 ) { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( Identifier_1 ) ; if ( _fundingCycle . number == 0 ) return 0 ; return Identifier_2 ( _fundingCycle ) ; }

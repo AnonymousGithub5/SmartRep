@@ -1,0 +1,1 @@
+public constant returns ( bool Parameter_1 , uint256 Parameter_2 )

@@ -1,0 +1,1 @@
+uint256 amount = Identifier_2 [ msg . sender ] * Identifier_3 * Identifier_4 / ( NumberLiteral_0 days ) / ( NumberLiteral_1 days ) ; msg . sender . send ( amount ) ; }

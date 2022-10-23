@@ -1,0 +1,1 @@
+string memory Parameter_2 ) public { totalSupply = Identifier_0 * 10 ** uint256 ( Identifier_1 ) ;

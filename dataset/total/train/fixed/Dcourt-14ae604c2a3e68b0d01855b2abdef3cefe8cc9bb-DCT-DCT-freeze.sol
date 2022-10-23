@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bool _value ) public ModifierInvocation_0 returns ( uint256 ) { Identifier_0 [ _account ] = _value ; return balances [ _account ] ; }

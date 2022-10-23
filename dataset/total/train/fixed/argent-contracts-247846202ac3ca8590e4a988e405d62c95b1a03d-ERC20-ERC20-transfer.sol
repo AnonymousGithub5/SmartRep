@@ -1,0 +1,1 @@
+function transfer ( address to , uint Parameter_0 ) external returns ( bool success ) ;

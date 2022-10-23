@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId ) external { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ tokenId ] ;

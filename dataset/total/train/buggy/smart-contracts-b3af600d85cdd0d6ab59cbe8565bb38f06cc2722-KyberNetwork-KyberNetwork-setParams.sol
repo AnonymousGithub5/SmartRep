@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 ) public onlyAdmin { require ( Identifier_0 <= Identifier_1 ) ; Identifier_2 = Identifier_3 ; Identifier_4 = Identifier_5 ; emit Identifier_6 ( Identifier_7 , Identifier_8 ) ; }

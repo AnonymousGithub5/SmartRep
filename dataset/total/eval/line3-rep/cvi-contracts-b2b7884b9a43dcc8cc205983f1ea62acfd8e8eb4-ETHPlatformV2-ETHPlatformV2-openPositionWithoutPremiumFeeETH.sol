@@ -1,0 +1,1 @@
+require ( ElementaryTypeName_3 ( msg . value ) == msg . value , stringLiteral_0 ) ; return Identifier_0 ( ElementaryTypeName_4 ( msg . value ) , Identifier_1 , Identifier_2 , Identifier_3 , false ) ; }

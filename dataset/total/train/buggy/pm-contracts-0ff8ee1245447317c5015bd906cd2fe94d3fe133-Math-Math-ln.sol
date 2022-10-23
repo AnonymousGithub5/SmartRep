@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint x ) public constant returns ( int ) { var ( VariableDeclaration_0 , VariableDeclaration_1 ) = Identifier_0 ( x ) ; return ( ( Identifier_1 - Identifier_2 ) / 2 + Identifier_3 ) * int ( ONE ) / int ( Identifier_4 ) ; }

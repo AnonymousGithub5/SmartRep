@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 VariableDeclaration_7 = Identifier_10 ( token ) ; Identifier_11 += now ; Identifier_12 = Identifier_13 . MemberAccess_2 ( msg . sender , stringLiteral_0 , Identifier_14 ) ;

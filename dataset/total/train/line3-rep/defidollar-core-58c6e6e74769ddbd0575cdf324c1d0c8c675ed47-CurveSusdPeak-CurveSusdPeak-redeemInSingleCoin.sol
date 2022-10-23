@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_0 ( Identifier_1 . MemberAccess_0 ( Identifier_2 , msg . sender ) ) ; Identifier_3 . MemberAccess_1 ( Identifier_4 , int128 ( i ) , Identifier_5 , false ) ; IERC20 VariableDeclaration_1 = IERC20 ( Identifier_6 [ i ] ) ;

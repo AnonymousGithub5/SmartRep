@@ -1,0 +1,1 @@
+function transferFrom ( address Parameter_0 , address Parameter_1 , uint256 amount ) external override returns ( bool ) { Identifier_0 ( sender , recipient , amount ) ; uint VariableDeclaration_0 = Identifier_1 ( sender , _msgSender ( ) ) . sub ( amount , stringLiteral_0 ) ; Identifier_2 ( sender , _msgSender ( ) , Identifier_3 ) ; return true ; }

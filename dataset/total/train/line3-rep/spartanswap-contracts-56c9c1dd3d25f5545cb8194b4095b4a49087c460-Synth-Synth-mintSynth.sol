@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = Identifier_0 ( msg . sender ) ; Identifier_1 [ msg . sender ] += amount ; Identifier_2 [ msg . sender ] += Identifier_3 ;

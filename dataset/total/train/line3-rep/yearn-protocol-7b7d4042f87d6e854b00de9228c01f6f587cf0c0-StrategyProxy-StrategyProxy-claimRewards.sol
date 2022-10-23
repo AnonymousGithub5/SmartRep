@@ -1,0 +1,1 @@
+Identifier_2 ( Identifier_3 ) . MemberAccess_0 ( address ( proxy ) ) ; proxy . MemberAccess_1 ( _token , 0 , abi . MemberAccess_2 ( stringLiteral_1 , msg . sender , IERC20 ( _token ) . balanceOf ( address ( proxy ) ) ) ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address token , uint Parameter_1 , uint Parameter_2 ) public view returns ( uint Parameter_3 ) { if ( Identifier_0 ( token ) ) {

@@ -1,0 +1,1 @@
+constructor ( uint256 Parameter_0 , string memory Parameter_1 , string memory Parameter_2 ) { totalSupply = Identifier_0 * 10 ** uint256 ( Identifier_1 ) ; balanceOf [ msg . sender ] = totalSupply ; name = Identifier_2 ; symbol = Identifier_3 ; owner = msg . sender ; }

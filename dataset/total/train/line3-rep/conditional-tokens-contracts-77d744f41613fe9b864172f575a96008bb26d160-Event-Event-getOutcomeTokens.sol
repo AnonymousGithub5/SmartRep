@@ -1,0 +1,1 @@
+public constant returns ( UserDefinedTypeName_0 )

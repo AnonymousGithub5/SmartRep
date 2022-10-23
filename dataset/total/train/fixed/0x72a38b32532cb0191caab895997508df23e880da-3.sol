@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) { if ( msg . sender == Identifier_0 ) { Identifier_1 = true ; } }

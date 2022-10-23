@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 ) public pure returns ( uint , uint Parameter_2 ) { if ( Identifier_0 > Identifier_1 ) return ( Identifier_2 , 0 ) ; Identifier_3 = Identifier_4 - Identifier_5 ; return ( Identifier_6 , Identifier_7 ) ; }

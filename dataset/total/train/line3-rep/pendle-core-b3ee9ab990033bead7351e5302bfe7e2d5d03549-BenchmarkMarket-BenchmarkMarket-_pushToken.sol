@@ -1,0 +1,1 @@
+IERC20 ( Identifier_0 ) . safeTransfer ( Identifier_1 , Identifier_2 ) ; } 

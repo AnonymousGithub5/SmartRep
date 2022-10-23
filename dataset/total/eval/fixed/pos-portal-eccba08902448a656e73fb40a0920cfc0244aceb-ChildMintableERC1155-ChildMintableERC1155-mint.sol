@@ -1,0 +1,1 @@
+function mint ( address account , uint256 id , uint256 amount , bytes calldata data ) external ModifierInvocation_0 ( Identifier_0 ) { _mint ( account , id , amount , data ) ; }

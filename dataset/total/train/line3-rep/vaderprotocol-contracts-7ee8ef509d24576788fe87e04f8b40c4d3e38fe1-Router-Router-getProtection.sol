@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address token , uint Parameter_1 , uint Parameter_2 ) public view returns ( uint Parameter_3 ) { uint VariableDeclaration_0 = now . sub ( Identifier_0 [ member ] [ token ] ) ; if ( Identifier_1 <= Identifier_2 ) {

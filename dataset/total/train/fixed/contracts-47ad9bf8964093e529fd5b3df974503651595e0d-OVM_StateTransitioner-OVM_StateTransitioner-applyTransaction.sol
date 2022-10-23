@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) override public { require ( Identifier_0 . MemberAccess_0 ( Identifier_1 ) == Identifier_2 , stringLiteral_0 ) ; Identifier_3 . MemberAccess_1 ( Identifier_4 ( stringLiteral_1 ) ) ; Identifier_5 . MemberAccess_2 ( Identifier_6 , address ( Identifier_7 ) ) ; Identifier_8 = Identifier_9 . MemberAccess_3 ; }

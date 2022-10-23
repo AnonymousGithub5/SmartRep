@@ -1,0 +1,1 @@
+function transferFrom ( address _from , address _to , uint256 _value ) returns ( bool ) { ElementaryTypeName_0 VariableDeclaration_0 = allowed [ _from ] [ msg . sender ] ;

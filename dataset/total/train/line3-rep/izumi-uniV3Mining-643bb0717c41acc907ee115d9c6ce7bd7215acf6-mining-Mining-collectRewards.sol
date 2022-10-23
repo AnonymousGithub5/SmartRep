@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ msg . sender ] ;

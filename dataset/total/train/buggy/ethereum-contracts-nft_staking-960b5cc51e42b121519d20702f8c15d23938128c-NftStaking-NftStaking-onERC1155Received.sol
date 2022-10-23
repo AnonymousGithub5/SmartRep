@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address , address from , uint256 id , uint256 , bytes calldata ) external virtual override ModifierInvocation_0 ( from ) returns ( bytes4 ) { Identifier_0 ( id , from ) ; return Identifier_1 ; }

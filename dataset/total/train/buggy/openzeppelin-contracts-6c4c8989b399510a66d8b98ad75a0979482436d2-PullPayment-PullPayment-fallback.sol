@@ -1,0 +1,1 @@
+constructor ( ) public { Identifier_0 = new UserDefinedTypeName_0 ( ) ; }

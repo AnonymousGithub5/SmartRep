@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address , address Parameter_0 , bytes32 Parameter_1 ) override public ModifierInvocation_0 { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ _address ] ; account . MemberAccess_0 = Identifier_1 ; account . MemberAccess_1 = Identifier_2 ; }

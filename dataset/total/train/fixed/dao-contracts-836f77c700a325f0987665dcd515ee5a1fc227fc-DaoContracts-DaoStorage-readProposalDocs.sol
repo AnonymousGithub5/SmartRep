@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _proposalId ) public view returns ( bytes32 Parameter_0 ) { bytes32 VariableDeclaration_0 = proposalsById [ _proposalId ] . MemberAccess_0 ; require ( Identifier_0 != Identifier_1 ) ; Identifier_2 = proposalsById [ _proposalId ] . MemberAccess_1 [ Identifier_3 ] . MemberAccess_2 ; }

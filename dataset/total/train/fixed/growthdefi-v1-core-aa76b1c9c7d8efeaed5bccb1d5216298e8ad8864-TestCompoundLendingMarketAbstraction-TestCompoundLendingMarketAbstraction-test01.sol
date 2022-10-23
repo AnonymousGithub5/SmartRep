@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { Identifier_0 . equal ( Identifier_1 . MemberAccess_0 ( Identifier_2 ) , Identifier_3 , stringLiteral_0 ) ; }

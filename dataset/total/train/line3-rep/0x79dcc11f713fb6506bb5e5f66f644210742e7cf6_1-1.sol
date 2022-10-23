@@ -1,0 +1,1 @@
+balanceOf [ msg . sender ] -= value ; balanceOf [ to ] += value ; emit Transfer ( msg . sender , to , value ) ;

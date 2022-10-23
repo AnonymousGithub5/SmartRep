@@ -1,0 +1,1 @@
+function transferFrom ( address Parameter_0 , address Parameter_1 , uint amount ) external virtual override returns ( bool ) { Identifier_0 ( sender , recipient , amount ) ;

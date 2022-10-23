@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public ModifierInvocation_0 ( ) { require ( Identifier_0 ( ) . MemberAccess_0 ( ) == 0 ) ; require ( Identifier_1 > 0 ) ; Identifier_2 ( ) . MemberAccess_1 ( Identifier_3 ) ; }

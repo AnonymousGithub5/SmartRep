@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view returns ( uint Parameter_0 ) { return Identifier_0 . mul ( Identifier_1 ) . sub ( Identifier_2 ) ;

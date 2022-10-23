@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external override nonReentrant { Identifier_0 ( IERC20 ( Identifier_1 . MemberAccess_0 ) . balanceOf ( address ( this ) ) , IERC20 ( Identifier_2 . MemberAccess_1 ) . balanceOf ( address ( this ) ) ) ; }

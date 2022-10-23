@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint value ) public view returns ( uint ) { return safeAdd ( value , Identifier_0 ( value ) ) ; }

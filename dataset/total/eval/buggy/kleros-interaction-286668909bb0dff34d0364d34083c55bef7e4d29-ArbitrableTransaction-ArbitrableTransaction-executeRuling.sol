@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 ) internal { super . MemberAccess_0 ( _disputeID , _ruling ) ; if ( _ruling == Identifier_0 ) Identifier_1 . send ( amount ) ; else if ( _ruling == Identifier_2 ) Identifier_3 . send ( amount ) ; amount = 0 ; }

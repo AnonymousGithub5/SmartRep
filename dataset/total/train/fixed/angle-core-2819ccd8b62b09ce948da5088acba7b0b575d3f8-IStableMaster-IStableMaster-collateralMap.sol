@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) external view returns ( IERC20 token , uint256 Parameter_1 , UserDefinedTypeName_1 Parameter_2 , UserDefinedTypeName_2 Parameter_3 , UserDefinedTypeName_3 Parameter_4 , int256 Parameter_5 , uint256 Parameter_6 , UserDefinedTypeName_4 memory Parameter_7 , UserDefinedTypeName_5 memory Parameter_8 ) ;

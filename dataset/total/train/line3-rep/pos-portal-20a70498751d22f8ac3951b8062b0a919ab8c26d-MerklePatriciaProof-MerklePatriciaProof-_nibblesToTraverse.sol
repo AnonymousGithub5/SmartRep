@@ -1,0 +1,1 @@
+) private pure returns ( uint256 ) { uint256 VariableDeclaration_0 ; bytes memory VariableDeclaration_1 = Identifier_0 ( Identifier_1 ) ;

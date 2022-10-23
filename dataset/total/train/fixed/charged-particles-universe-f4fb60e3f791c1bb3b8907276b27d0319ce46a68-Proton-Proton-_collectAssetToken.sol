@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address Parameter_0 , uint256 Parameter_1 ) internal virtual { uint256 VariableDeclaration_0 = IERC20 ( Identifier_0 ) . balanceOf ( from ) ; require ( Identifier_1 <= Identifier_2 , stringLiteral_0 ) ; require ( IERC20 ( Identifier_3 ) . transferFrom ( from , address ( this ) , Identifier_4 ) , stringLiteral_1 ) ; }

@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = pool . MemberAccess_0 ; uint256 VariableDeclaration_1 = pool . MemberAccess_1 . balanceOf ( address ( this ) ) ; if ( block . number > pool . MemberAccess_2 && Identifier_0 > 0 ) {

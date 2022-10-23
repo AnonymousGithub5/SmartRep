@@ -1,0 +1,1 @@
+uint [ 5 ] memory VariableDeclaration_0 ; uint VariableDeclaration_1 = 4 + 32 * ( Identifier_0 . MemberAccess_0 + 2 + Identifier_1 . length ) ; Identifier_2 . MemberAccess_1 ( Identifier_3 , Identifier_4 ) ;

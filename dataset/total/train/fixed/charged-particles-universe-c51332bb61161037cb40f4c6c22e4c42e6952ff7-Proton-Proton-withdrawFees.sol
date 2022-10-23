@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable receiver ) external onlyOwner { uint256 amount = address ( this ) . balance ; if ( amount > 0 ) { receiver . MemberAccess_0 ( amount ) ; emit Identifier_0 ( receiver , amount ) ; } }

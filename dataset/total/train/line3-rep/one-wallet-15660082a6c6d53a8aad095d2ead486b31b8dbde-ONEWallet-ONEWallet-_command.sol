@@ -1,0 +1,1 @@
+( address VariableDeclaration_0 , bytes memory VariableDeclaration_1 ) = abi . MemberAccess_0 ( data , ( address , bytes ) ) ; uint32 VariableDeclaration_2 = Identifier_0 . MemberAccess_1 ( Identifier_1 ) ; if ( Identifier_2 == Identifier_3 . length ) {

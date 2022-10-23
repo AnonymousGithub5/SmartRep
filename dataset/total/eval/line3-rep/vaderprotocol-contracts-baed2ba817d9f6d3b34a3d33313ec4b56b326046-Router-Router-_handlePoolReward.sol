@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = iUTILS ( Identifier_1 ( ) ) . MemberAccess_0 ( _token , Identifier_2 ) ; Identifier_3 ( Identifier_4 ) . transfer ( POOLS , Identifier_5 ) ; iPOOLS ( POOLS ) . MemberAccess_1 ( Identifier_6 , _token ) ;

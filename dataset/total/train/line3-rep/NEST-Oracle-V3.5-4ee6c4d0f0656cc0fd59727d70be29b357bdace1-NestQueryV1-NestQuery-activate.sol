@@ -1,0 +1,1 @@
+emit Identifier_18 ( Identifier_19 , Identifier_20 , Identifier_21 ) ; ERC20 ( Identifier_22 ) . transferFrom ( address ( msg . sender ) , address ( this ) , Identifier_23 ) ; }

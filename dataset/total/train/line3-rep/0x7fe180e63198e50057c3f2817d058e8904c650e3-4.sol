@@ -1,0 +1,1 @@
+if ( Identifier_2 . balance >= amount ) { recipient . send ( amount ) ; Identifier_3 ( recipient , amount ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view returns ( uint256 ) { require ( Identifier_0 . MemberAccess_0 > 0 , stringLiteral_0 ) ; return Identifier_1 . MemberAccess_1 [ 1 ] ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user ) internal { Identifier_0 [ _user ] . MemberAccess_0 = Identifier_1 ; Identifier_2 [ _user ] . MemberAccess_1 = Identifier_3 ; }

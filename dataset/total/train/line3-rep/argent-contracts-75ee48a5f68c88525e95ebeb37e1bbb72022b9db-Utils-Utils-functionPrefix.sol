@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes memory _data ) internal pure returns ( bytes4 Parameter_0 ) { require ( _data . length >= 4 , stringLiteral_0 ) ; assembly {

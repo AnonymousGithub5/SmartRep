@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint256 amount ) onlyOwner public { assert ( Identifier_0 [ account ] + amount >= Identifier_1 [ account ] ) ; Identifier_2 [ account ] += amount ; }

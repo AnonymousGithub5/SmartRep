@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , address user , uint256 Parameter_1 , uint256 Parameter_2 , bytes memory Parameter_3 ) public { if ( Identifier_0 . length > 0 ) controller . MemberAccess_0 ( user , address ( Identifier_1 ) , Identifier_2 ) ; return Identifier_3 ( pool , user , Identifier_4 , Identifier_5 ) ; }

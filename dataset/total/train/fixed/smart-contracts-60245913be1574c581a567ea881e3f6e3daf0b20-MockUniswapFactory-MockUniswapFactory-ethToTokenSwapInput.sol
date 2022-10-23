@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) external payable returns ( uint256 Parameter_2 ) { require ( msg . value > 0 ) ; Identifier_0 ; require ( Identifier_1 > block . timestamp ) ; uint amount = Identifier_2 ( msg . value ) ; require ( token . transfer ( msg . sender , amount ) ) ; return amount ; }

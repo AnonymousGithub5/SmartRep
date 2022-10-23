@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_4 = Identifier_13 * Identifier_14 / Identifier_15 ; if ( price < Identifier_16 ) { price = Identifier_17 ;

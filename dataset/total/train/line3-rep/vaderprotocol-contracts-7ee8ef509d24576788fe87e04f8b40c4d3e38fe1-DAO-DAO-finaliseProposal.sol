@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public { require ( ( now - Identifier_0 [ Identifier_1 ] ) > Identifier_2 , stringLiteral_0 ) ; require ( Identifier_3 [ Identifier_4 ] == true , stringLiteral_1 ) ;

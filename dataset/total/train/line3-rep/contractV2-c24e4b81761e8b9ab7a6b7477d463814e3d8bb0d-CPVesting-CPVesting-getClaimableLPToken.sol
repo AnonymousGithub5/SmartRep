@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view ModifierInvocation_0 returns ( uint256 ) { uint256 VariableDeclaration_0 = DecimalMath . MemberAccess_0 (

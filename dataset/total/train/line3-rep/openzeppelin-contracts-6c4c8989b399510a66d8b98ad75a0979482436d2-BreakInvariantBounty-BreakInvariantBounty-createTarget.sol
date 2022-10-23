@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ( ) ) ; Identifier_2 [ target ] = msg . sender ; emit Identifier_3 ( target ) ;

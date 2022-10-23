@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address calldata Parameter_0 , uint256 calldata Parameter_1 ) external onlyOwner { require ( tokens . length == Identifier_0 . length , stringLiteral_0 ) ; for ( uint256 i = 0 ; i < tokens . length ; i ++ ) { Identifier_1 [ tokens [ i ] ] = Identifier_2 [ i ] ; } }

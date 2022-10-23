@@ -1,0 +1,1 @@
+require ( Identifier_2 . MemberAccess_1 ( Identifier_3 [ Identifier_4 ] . owner ) , stringLiteral_1

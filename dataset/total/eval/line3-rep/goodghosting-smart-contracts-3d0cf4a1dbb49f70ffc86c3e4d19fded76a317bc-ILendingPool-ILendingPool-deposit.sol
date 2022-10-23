@@ -1,0 +1,1 @@
+function deposit ( address Parameter_0 , uint256 _amount , uint16 Parameter_1 ) external ; 

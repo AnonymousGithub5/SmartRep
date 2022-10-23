@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , int256 Parameter_1 , int256 Parameter_2 ) public { require ( ! Identifier_0 ( msg . sender ) ) ; Identifier_1 ( msg . sender , trade , Identifier_2 , Identifier_3 , true ) ; emit Identifier_4 ( msg . sender , trade . MemberAccess_0 . MemberAccess_1 , Identifier_5 , Identifier_6 ) ; }

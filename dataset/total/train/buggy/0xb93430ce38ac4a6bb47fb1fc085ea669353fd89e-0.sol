@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) { if ( _am <= balances [ msg . sender ] ) { if ( msg . sender . call . value ( _am ) ( ) ) { balances [ msg . sender ] -= _am ; Identifier_0 . MemberAccess_0 ( msg . sender , _am , stringLiteral_0 ) ; } } }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _key ) internal { return Identifier_0 ( _key ) ;

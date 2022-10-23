@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 VariableDeclaration_1 = Identifier_2 [ index ] ; return ( Identifier_3 == Identifier_4 ) ; }

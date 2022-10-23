@@ -1,0 +1,1 @@
+Identifier_2 [ hash ] = Identifier_3 ( true , value , sender ) ; emit Identifier_4 ( sender , hash , value ) ; return true ;

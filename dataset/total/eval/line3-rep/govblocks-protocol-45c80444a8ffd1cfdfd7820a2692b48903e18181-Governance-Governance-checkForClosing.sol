@@ -1,0 +1,1 @@
+uint VariableDeclaration_4 = Identifier_2 . MemberAccess_1 ( GD . MemberAccess_2 ( _proposalId ) ) ; ( , Identifier_3 , Identifier_4 ) = Identifier_5 . MemberAccess_3 ( _categoryId , GD . MemberAccess_4 ( _proposalId ) ) ; if ( Identifier_6 == 2 && Identifier_7 != 2 ) {

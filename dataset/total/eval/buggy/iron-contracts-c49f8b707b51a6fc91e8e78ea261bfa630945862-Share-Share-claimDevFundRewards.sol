@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { uint256 VariableDeclaration_0 = Identifier_0 ( ) ; if ( Identifier_1 > 0 && Identifier_2 != address ( 0 ) ) { _mint ( Identifier_3 , Identifier_4 ) ; Identifier_5 = block . timestamp ; } }

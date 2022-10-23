@@ -1,0 +1,1 @@
+) ; Identifier_1 . MemberAccess_0 ( address ( this ) ) ; int256 VariableDeclaration_0 = 0 ;

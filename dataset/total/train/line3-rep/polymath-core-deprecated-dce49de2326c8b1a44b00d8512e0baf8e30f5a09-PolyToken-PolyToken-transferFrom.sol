@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = allowed [ _from ] [ msg . sender ] ; balances [ _from ] = balances [ _from ] . sub ( _value ) ; balances [ _to ] = balances [ _to ] . add ( _value ) ;

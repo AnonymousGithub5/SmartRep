@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address Parameter_1 , address payable Parameter_2 , uint256 amount ) external ModifierInvocation_0 { address VariableDeclaration_0 = Identifier_0 [ validatorId ] . MemberAccess_0 ; require ( Identifier_1 != address ( 0x0 ) ) ; Identifier_2 ( Identifier_3 ) . MemberAccess_1 ( Identifier_4 , Identifier_5 , amount ) ; }

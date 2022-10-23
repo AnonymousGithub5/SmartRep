@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) public { require ( Identifier_0 . MemberAccess_0 ( msg . sender , address ( Identifier_1 ) ) > _amount , stringLiteral_0 ) ; Identifier_2 [ msg . sender ] = Identifier_3 [ msg . sender ] . sub ( _amount ) ; Identifier_4 . transfer ( msg . sender , _amount ) ; }

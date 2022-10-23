@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 token ) external returns ( uint256 ) { return token . balanceOf ( address ( this ) ) ; }

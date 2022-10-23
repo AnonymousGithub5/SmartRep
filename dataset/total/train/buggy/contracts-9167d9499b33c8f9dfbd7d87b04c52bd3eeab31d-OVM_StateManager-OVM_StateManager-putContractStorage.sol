@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _contract , bytes32 _key , bytes32 _value ) override public ModifierInvocation_0 { Identifier_0 [ _contract ] [ _key ] = _value ; if ( Identifier_1 [ _contract ] [ _key ] == false && Identifier_2 [ _contract ] . MemberAccess_0 == false ) { Identifier_3 [ _contract ] [ _key ] = true ; } }

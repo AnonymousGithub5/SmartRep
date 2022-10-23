@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { address VariableDeclaration_0 = _owner ; _owner = Identifier_0 ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) public override view returns ( uint256 ) { return Identifier_0 [ account ] ; }

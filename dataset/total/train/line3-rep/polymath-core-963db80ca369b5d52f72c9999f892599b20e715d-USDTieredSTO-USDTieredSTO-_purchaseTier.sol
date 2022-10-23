@@ -1,0 +1,1 @@
+} require ( Identifier_19 ( Identifier_20 ) . mint ( _beneficiary , Identifier_21 ) , stringLiteral_0 ) ; emit Identifier_22 ( msg . sender , _beneficiary , Identifier_23 , Identifier_24 , Identifier_25 , Identifier_26 ) ;

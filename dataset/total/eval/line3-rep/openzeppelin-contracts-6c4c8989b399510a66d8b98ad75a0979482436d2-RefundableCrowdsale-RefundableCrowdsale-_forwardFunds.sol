@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal { Identifier_0 . deposit . value ( msg . value ) ( msg . sender ) ; }

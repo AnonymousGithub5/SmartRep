@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external override { Identifier_0 . MemberAccess_0 ( address ( this ) ) ; ERC20 VariableDeclaration_0 = ERC20 ( Identifier_1 . MemberAccess_1 ( ) ) ; Identifier_2 . safeTransfer ( Identifier_3 , Identifier_4 . balanceOf ( address ( this ) ) ) ; }

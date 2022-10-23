@@ -1,0 +1,1 @@
+return 3 ; return ( ( Identifier_9 ( ( Identifier_10 - 1 ) / Identifier_11 ) + 1 ) * NumberLiteral_4 + ( 1 << NumberLiteral_5 ) - 1 ) >> NumberLiteral_6 ; }

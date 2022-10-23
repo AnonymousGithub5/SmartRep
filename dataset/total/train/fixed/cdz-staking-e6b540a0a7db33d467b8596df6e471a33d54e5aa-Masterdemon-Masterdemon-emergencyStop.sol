@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public onlyOwner { require ( Identifier_0 == NumberLiteral_0 , stringLiteral_0 ) ; for ( uint256 i = 0 ; i < Identifier_1 . length ; ++ i ) { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_2 [ i ] ; if ( Identifier_3 . MemberAccess_0 = true ) { Identifier_4 . MemberAccess_1 = false ; } } }

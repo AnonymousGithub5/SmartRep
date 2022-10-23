@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _to , uint256 _amount ) external override returns ( uint256 Parameter_0 , uint256 Parameter_1 ) { if ( Identifier_0 != address ( 0 ) ) {

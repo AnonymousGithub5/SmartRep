@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , address receiver ) external returns ( uint256 ) ;

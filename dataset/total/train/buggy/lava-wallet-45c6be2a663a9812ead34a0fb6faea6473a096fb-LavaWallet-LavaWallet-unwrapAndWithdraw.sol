@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , uint256 Parameter_0 ) public { Identifier_0 ( token , token , tokens ) ; Identifier_1 ( token ) . withdraw ( tokens ) ; msg . sender . transfer ( tokens ) ; assert ( this . balance == 0 ) ; Identifier_2 ( token , msg . sender , tokens , balances [ token ] [ msg . sender ] ) ; }

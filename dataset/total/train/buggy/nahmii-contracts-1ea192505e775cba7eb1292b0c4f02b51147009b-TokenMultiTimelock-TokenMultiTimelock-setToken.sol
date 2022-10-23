@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 _token ) public ModifierInvocation_0 ModifierInvocation_1 ( address ( _token ) ) { require ( address ( token ) == address ( 0 ) , stringLiteral_0 ) ; token = _token ; emit Identifier_0 ( token ) ; }

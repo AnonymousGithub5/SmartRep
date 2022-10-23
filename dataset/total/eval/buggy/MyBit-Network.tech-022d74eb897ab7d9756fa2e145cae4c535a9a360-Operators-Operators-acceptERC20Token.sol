@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address Parameter_1 , bool Parameter_2 ) external ModifierInvocation_0 ( Identifier_3 ) returns ( bool ) { database . MemberAccess_0 ( keccak256 ( abi . encodePacked ( stringLiteral_0 , Identifier_0 , Identifier_1 ) ) , Identifier_2 ) ; return true ; }

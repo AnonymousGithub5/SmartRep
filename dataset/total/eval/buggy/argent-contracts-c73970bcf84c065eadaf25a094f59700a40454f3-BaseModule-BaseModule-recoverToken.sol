@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token ) external virtual { uint VariableDeclaration_0 = ERC20 ( _token ) . balanceOf ( address ( this ) ) ; bool VariableDeclaration_1 = ERC20 ( _token ) . transfer ( address ( registry ) , total ) ; require ( success , stringLiteral_0 ) ; }

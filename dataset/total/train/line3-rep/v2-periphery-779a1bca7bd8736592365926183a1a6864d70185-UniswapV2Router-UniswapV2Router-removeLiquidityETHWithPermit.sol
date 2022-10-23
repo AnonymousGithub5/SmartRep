@@ -1,0 +1,1 @@
+) external returns ( uint Parameter_7 , uint Parameter_8 ) { address VariableDeclaration_0 = Identifier_0 ( token , Identifier_1 ) ; Identifier_2 ( Identifier_3 ) . MemberAccess_0 ( msg . sender , address ( this ) , Identifier_4 , Identifier_5 , v , r , s ) ;

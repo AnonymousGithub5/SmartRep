@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external view returns ( uint256 ) { return balanceOf ( Identifier_0 ) . mul ( price ( ) ) . div ( 10 ** 18 ) ; }

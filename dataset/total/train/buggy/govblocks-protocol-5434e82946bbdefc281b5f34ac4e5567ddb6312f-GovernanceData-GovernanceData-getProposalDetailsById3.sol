@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _proposalId , address Parameter_0 ) public view returns ( bool , uint , uint8 , uint64 ) { return ( Identifier_0 [ _memberAddress ] [ _proposalId ] , Identifier_1 [ _proposalId ] . MemberAccess_0 , Identifier_2 [ _proposalId ] . MemberAccess_1 , Identifier_3 [ _proposalId ] . MemberAccess_2 ) ; }

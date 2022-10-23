@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 calldata Parameter_0 ) public returns ( uint256 memory Parameter_1 ) { totalSupply = new uint256 ( tokens . length ) ; for ( uint256 i = 0 ; i < tokens . length ; i ++ ) { totalSupply [ i ] = tokens [ i ] . totalSupply ( ) ; } }

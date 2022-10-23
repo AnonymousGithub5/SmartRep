@@ -1,0 +1,1 @@
+Identifier_4 [ _from ] -= _value ; Identifier_5 [ _to ] += _value ; Identifier_6 [ _from ] -= Identifier_7 ;

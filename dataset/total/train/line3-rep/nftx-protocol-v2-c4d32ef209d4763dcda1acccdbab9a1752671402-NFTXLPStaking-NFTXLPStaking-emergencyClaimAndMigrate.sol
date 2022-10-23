@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_3 = Identifier_14 . balanceOf ( msg . sender ) ; require ( Identifier_15 > 0 , stringLiteral_2 ) ; Identifier_16 . MemberAccess_0 ( msg . sender ) ;

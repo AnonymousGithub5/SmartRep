@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string _name , string Parameter_0 , string Parameter_1 , bool Parameter_2 ) public whenNotPaused { require ( bytes ( _name ) . length > 0 && bytes ( _symbol ) . length > 0 , stringLiteral_0 ) ;

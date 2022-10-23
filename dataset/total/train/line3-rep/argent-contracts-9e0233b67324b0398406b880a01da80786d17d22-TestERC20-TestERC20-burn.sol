@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint256 amount ) public { _burn ( account , amount ) ; }

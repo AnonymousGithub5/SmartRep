@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public override view returns ( uint256 ) { return Identifier_0 * 0 + NumberLiteral_0 ether - 1 ; }

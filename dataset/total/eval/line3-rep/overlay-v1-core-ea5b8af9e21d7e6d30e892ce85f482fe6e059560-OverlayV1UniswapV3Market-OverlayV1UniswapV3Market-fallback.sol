@@ -1,0 +1,1 @@
+ElementaryTypeName_0 VariableDeclaration_2 = Identifier_28 . MemberAccess_3 ( Identifier_29 , uint32 ( Identifier_30 ) ,

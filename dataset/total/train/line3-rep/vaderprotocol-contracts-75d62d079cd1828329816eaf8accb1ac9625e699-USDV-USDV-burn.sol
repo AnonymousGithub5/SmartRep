@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint amount ) external virtual override { _burn ( msg . sender , amount ) ;

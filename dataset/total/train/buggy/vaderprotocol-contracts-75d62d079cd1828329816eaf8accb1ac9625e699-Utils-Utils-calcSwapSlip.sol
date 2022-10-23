@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint x , uint Parameter_0 ) external pure returns ( uint ) { return ( x * NumberLiteral_0 ) / ( x + Identifier_0 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint , address , bool ) external returns ( uint ) ;

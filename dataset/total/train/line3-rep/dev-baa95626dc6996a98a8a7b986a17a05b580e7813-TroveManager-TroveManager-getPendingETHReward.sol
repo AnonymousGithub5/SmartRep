@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = Identifier_2 . sub ( Identifier_3 ) ; if ( Identifier_4 == 0 ) { return 0 ; } uint VariableDeclaration_2 = Identifier_5 [ Identifier_6 ] . MemberAccess_1 ;

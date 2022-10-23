@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , uint256 amount , address to ) public onlyOwner { token . call ( bytes4 ( Identifier_0 ( stringLiteral_0 ) ) , to , amount ) ; }

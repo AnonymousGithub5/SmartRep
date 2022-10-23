@@ -1,0 +1,1 @@
+require ( balances [ address ( Identifier_1 ) ] >= Identifier_2 , stringLiteral_0

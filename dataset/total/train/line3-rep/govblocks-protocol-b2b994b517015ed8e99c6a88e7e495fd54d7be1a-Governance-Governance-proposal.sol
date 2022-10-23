@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _proposalId ) external returns ( uint , uint , uint , uint , uint , uint ) {

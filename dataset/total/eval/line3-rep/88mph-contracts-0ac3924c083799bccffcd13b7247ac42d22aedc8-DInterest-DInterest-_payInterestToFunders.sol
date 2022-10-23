@@ -1,0 +1,1 @@
+if ( Identifier_28 > 0 ) { stablecoin . MemberAccess_4 ( address ( Identifier_29 ) ,

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external virtual onlyOwner ModifierInvocation_0 { require ( ! Identifier_0 , stringLiteral_0 ) ; require ( Identifier_1 > 0 , stringLiteral_1 ) ; Identifier_2 = true ; emit Identifier_3 ( owner ( ) , Identifier_4 , Identifier_5 ) ; require ( IERC20 ( Identifier_6 ) . transfer ( owner ( ) , Identifier_7 ) , stringLiteral_2 ) ; }

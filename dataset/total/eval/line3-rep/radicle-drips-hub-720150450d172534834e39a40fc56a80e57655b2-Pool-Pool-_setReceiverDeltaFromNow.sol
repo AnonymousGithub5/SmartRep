@@ -1,0 +1,1 @@
+) internal { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; if ( Identifier_2 > 0 && receiver . MemberAccess_0 == 0 )

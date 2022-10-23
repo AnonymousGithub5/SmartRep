@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) external view returns ( uint256 Parameter_0 ) { return Identifier_0 ( account , Identifier_1 ( ) , block . number - 1 ) ; }

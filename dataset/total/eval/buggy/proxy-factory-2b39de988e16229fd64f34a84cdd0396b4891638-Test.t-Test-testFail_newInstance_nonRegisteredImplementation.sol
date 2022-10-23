@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { UserDefinedTypeName_0 VariableDeclaration_0 = new UserDefinedTypeName_1 ( ) ; factory . MemberAccess_0 ( 1 , new bytes ( 0 ) ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal returns ( bool ) { if ( Identifier_0 ( NumberLiteral_0 ) > 0 ) {

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token ) internal { if ( Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( _token ) ) { Identifier_2 ( _token ) ;

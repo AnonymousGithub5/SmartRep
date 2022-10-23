@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view returns ( uint256 ) { if ( Identifier_0 . state ( ) <= Identifier_1 . MemberAccess_0 . MemberAccess_1 ) { return 0 ; } return Identifier_2 ; }

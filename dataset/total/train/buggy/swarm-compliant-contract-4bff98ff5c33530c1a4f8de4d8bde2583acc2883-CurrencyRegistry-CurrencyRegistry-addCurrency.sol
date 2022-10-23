@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) external onlyOwner ( ) returns ( bool ) { UserDefinedTypeName_0 memory VariableDeclaration_0 ; c . MemberAccess_0 = Identifier_0 ; c . MemberAccess_1 = Identifier_1 ; Identifier_2 . push ( c ) ; Identifier_3 [ c . MemberAccess_2 ] = Identifier_4 . length - 1 ; }

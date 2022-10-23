@@ -1,0 +1,1 @@
+} int256 VariableDeclaration_0 = int256 ( Identifier_2 ) . sub ( int256 ( Identifier_3 ) )

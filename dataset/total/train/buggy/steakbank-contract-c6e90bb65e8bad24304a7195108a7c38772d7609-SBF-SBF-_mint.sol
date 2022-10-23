@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint256 amount ) internal { require ( account != address ( 0 ) , stringLiteral_0 ) ; Identifier_0 = Identifier_1 . add ( amount ) ; Identifier_2 [ account ] = Identifier_3 [ account ] . add ( amount ) ; emit Transfer ( address ( 0 ) , account , amount ) ; Identifier_4 ( address ( 0 ) , Identifier_5 [ account ] , amount ) ; }

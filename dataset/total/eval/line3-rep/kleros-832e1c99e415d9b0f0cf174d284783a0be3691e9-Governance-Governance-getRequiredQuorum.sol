@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = ( block . timestamp - Identifier_0 ) / Identifier_1 ; Identifier_2 = Identifier_3 * Identifier_4 [ _id ] . MemberAccess_0 . totalSupply ( ) / ( 2 ** Identifier_5 ) / 100 ; }

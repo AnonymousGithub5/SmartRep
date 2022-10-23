@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( int x , int y , string data ) public { require ( x . length == y . length ) ; for ( uint i = 0 ; i < x . length ; i ++ ) { Identifier_0 ( x [ i ] , y [ i ] , data ) ; } }

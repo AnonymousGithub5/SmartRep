@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bool Parameter_0 ) external onlyAdmin { if ( Identifier_0 ) { require ( Identifier_1 != Identifier_2 ( 0 ) , stringLiteral_0 ) ; require ( Identifier_3 != Identifier_4 ( 0 ) , stringLiteral_1 ) ; require ( Identifier_5 . length > 0 , stringLiteral_2 ) ; } Identifier_6 = Identifier_7 ; emit Identifier_8 ( Identifier_9 ) ; }

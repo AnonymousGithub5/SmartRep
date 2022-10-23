@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public view returns ( uint256 Parameter_1 ) { uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 , Identifier_2 ( 2 * WAD , Identifier_3 ) ) ; Identifier_4 = Identifier_5 ( Identifier_6 , Identifier_7 ( 2 * WAD , Identifier_8 ) ) ; Identifier_9 = ( Identifier_10 >= Identifier_11 ) ? Identifier_12 : Identifier_13 ; }

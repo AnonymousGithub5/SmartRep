@@ -1,0 +1,1 @@
+Identifier_3 [ hash ] = 0 ; emit Identifier_4 ( msg . sender , hash , amount ) ; }

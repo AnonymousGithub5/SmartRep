@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) external view returns ( uint , uint ) { return ( Identifier_0 ( token ) , Identifier_1 ( token ) ) ; }

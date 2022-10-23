@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _amount ) external returns ( bool ) { address user = _msgSender ( ) ; uint VariableDeclaration_0 = Identifier_0 [ user ] ; require ( Identifier_1 > 0 , stringLiteral_0 ) ; ( uint returnedCLV , ) = Identifier_2 ( user ) ; if ( _amount < Identifier_3 ) { Identifier_4 ( user , Identifier_5 . sub ( _amount ) ) ; } return true ; }

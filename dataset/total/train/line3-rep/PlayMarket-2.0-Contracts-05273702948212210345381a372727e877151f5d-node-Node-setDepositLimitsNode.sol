@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint Parameter_1 , uint Parameter_2 ) external ModifierInvocation_0 { require ( ! Identifier_0 . MemberAccess_0 ( _node ) ) ; require ( Identifier_1 > Identifier_2 . MemberAccess_1 ( ) ) ;

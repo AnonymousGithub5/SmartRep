@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 , bool Parameter_1 ) external returns ( bool ) { require ( Identifier_0 [ Identifier_1 ] != address ( 0 ) , stringLiteral_0 ) ; uint VariableDeclaration_0 = uint ( Identifier_2 [ msg . sender ] ) ;

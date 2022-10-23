@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 Parameter_0 ) public ModifierInvocation_0 ModifierInvocation_1 ModifierInvocation_2 payable { require ( Identifier_0 . length > 0 ) ; require ( Identifier_1 [ msg . sender ] . length == 0 ) ; Identifier_2 [ msg . sender ] = Identifier_3 ; Identifier_4 = Identifier_5 . add ( 1 ) ; emit Identifier_6 ( this , Identifier_7 , msg . sender ) ; }

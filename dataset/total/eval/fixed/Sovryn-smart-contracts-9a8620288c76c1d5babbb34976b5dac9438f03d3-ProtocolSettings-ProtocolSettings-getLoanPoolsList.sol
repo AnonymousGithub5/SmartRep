@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) external view returns ( bytes32 memory ) { return Identifier_0 . MemberAccess_0 ( Identifier_1 , Identifier_2 ) ; }

@@ -1,0 +1,1 @@
+address memory VariableDeclaration_0 = new address ( Identifier_0 . length ) ; for ( uint8 i = 0 ; i < Identifier_1 . length ; i ++ ) { Identifier_2 [ i ] = Identifier_3 [ Identifier_4 [ i ] ] ;

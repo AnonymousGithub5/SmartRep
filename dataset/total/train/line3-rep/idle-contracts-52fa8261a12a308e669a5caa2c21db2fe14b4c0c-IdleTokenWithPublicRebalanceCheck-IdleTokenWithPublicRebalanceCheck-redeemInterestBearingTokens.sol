@@ -1,0 +1,1 @@
+address VariableDeclaration_1 ; for ( uint8 i = 0 ; i < Identifier_1 . length ; i ++ ) { Identifier_2 = Identifier_3 [ i ] ;

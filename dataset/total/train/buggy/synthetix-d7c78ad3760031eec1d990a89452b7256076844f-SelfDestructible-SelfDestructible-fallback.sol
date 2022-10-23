@@ -1,0 +1,1 @@
+constructor ( address _owner ) ModifierInvocation_0 ( _owner ) public { require ( _owner != address ( 0 ) , stringLiteral_0 ) ; Identifier_0 = _owner ; emit Identifier_1 ( _owner ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 amount , uint256 Parameter_0 , uint256 data ) public view returns ( bytes32 ) { return keccak256 ( this , amount , Identifier_0 , data ) ;

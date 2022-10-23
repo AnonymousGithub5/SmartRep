@@ -1,0 +1,1 @@
+if ( Identifier_0 ( ) . MemberAccess_0 ( msg . sender ) ) { require ( Identifier_1 == 2 , stringLiteral_0 ) ; } else {

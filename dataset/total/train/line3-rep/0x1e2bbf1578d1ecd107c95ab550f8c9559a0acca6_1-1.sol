@@ -1,0 +1,1 @@
+balanceOf [ msg . sender ] -= _value ; balanceOf [ _to ] += _value ; Transfer ( msg . sender , _to , _value ) ;

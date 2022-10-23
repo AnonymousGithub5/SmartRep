@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address owner ) external view returns ( uint256 Parameter_0 ) { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ owner ] ; if ( Identifier_1 . amount > balances [ owner ] ) { return 0 ; } return balances [ owner ] - Identifier_2 . amount ; }

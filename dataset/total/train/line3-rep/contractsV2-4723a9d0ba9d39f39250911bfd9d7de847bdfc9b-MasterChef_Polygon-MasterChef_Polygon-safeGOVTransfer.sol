@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = Identifier_4 [ msg . sender ] ; Identifier_5 [ msg . sender ] = Identifier_6 . add ( _amount ) . sub ( Identifier_7 ( msg . sender ) ) ; Identifier_8 [ msg . sender ] = Identifier_9 ( now , Identifier_10 [ msg . sender ] , Identifier_11 , _amount ) ;

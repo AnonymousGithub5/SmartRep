@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public view returns ( uint256 ) { return pool . MemberAccess_0 ( uint128 ( Identifier_0 ) ) ; }

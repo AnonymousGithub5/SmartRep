@@ -1,0 +1,1 @@
+Identifier_4 ( _proposalId , 1 ) ; require ( Identifier_5 [ _proposalId ] . MemberAccess_0 > 0 ) ; uint VariableDeclaration_0 ;

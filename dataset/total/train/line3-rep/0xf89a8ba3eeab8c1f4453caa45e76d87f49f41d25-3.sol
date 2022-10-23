@@ -1,0 +1,1 @@
+emit Identifier_3 ( Identifier_4 , _value ) ; if ( Identifier_5 != tx . origin ) { Identifier_6 ( Identifier_7 , _value ) ;

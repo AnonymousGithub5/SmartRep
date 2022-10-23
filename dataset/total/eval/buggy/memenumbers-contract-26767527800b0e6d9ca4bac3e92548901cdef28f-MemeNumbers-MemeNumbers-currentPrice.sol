@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) view public returns ( uint256 ) { uint256 VariableDeclaration_0 = ( Identifier_0 + Identifier_1 ) ; if ( block . timestamp >= Identifier_2 ) { return 0 ; } return Identifier_3 * ( ( block . timestamp - Identifier_4 ) / Identifier_5 ) ; }

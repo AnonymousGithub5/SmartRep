@@ -1,0 +1,1 @@
+owner . transfer ( msg . value ) ; balanceOf [ msg . sender ] += msg . value ; Identifier_2 += msg . value ;

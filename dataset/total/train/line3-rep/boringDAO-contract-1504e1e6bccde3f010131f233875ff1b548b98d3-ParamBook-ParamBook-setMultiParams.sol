@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 memory Parameter_0 , uint memory Parameter_1 ) public onlyOwner { require ( Identifier_0 . length == Identifier_1 . length ) ; for ( uint i = 0 ; i < Identifier_2 . length ; i ++ ) {

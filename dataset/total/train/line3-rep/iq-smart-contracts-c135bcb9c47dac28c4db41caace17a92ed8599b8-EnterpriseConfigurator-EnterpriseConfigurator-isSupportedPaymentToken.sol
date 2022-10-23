@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 token ) external view returns ( bool ) { return Identifier_0 [ address ( token ) ] > 0 ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal { emit Identifier_0 ( Identifier_1 . MemberAccess_0 , Identifier_2 . MemberAccess_1 , Identifier_3 . MemberAccess_2 ) ; if ( ! Identifier_4 . MemberAccess_3 ) { Identifier_5 ( ) ; } }

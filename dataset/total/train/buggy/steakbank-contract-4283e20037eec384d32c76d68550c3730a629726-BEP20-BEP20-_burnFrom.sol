@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint256 amount ) internal { _burn ( account , amount ) ; Identifier_0 ( account , _msgSender ( ) , Identifier_1 [ account ] [ _msgSender ( ) ] . sub ( amount , stringLiteral_0 ) ) ; }

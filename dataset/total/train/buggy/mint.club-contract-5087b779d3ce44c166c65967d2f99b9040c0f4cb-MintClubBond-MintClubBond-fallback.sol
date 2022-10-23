@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 , address Parameter_1 ) ModifierInvocation_0 ( Identifier_2 ) { Identifier_0 = IERC20 ( Identifier_1 ) ; }

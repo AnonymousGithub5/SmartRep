@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) ModifierInvocation_0 { Identifier_0 . MemberAccess_0 [ Identifier_1 ] . MemberAccess_1 = false ; Identifier_2 ( Identifier_3 , tx . origin , now ) ; }

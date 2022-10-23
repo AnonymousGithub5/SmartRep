@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , string Parameter_1 ) public { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ _tokenID ] ; require ( item . disputed , stringLiteral_0 ) ; emit Identifier_1 ( arbitrator , item . disputeID , msg . sender , Identifier_2 ) ; }

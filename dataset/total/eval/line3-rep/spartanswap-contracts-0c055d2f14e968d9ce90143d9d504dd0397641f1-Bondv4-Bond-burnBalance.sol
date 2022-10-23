@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 returns ( bool ) { uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) . balanceOf ( address ( this ) ) ;

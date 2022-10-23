@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 , uint256 Parameter_1 , int256 Parameter_2 , uint256 Parameter_3 ) internal { require ( Identifier_0 != 0 ) ; self . MemberAccess_0 = Identifier_1 ; self . MemberAccess_1 = Identifier_2 ; self . MemberAccess_2 = Identifier_3 ; }

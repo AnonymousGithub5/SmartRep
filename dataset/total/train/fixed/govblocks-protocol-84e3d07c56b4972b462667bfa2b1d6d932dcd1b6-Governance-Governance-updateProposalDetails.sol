@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _proposalId , uint8 Parameter_0 , uint8 Parameter_1 , uint8 Parameter_2 ) ModifierInvocation_0 { GD = Identifier_0 ( Identifier_1 ) ; GD . MemberAccess_0 ( _proposalId , Identifier_2 ) ; GD . MemberAccess_1 ( _proposalId , Identifier_3 ) ; GD . MemberAccess_2 ( _proposalId , Identifier_4 ) ; GD . MemberAccess_3 ( _proposalId ) ; }

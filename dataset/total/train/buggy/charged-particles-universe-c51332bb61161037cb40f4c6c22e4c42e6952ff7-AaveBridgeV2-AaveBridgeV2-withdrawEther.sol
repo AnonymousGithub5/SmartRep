@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable receiver , uint256 amount ) external onlyOwner { require ( receiver != address ( 0x0 ) , stringLiteral_0 ) ; receiver . transfer ( amount ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public onlyOwner { if ( Identifier_0 != 0 ) { require ( block . number >= Identifier_1 ) ; Identifier_2 = 0 ; } else { require ( block . number <= Identifier_3 ) ; Identifier_4 = Identifier_5 ; Identifier_6 = Identifier_7 ; } Identifier_8 ( ) ; emit Identifier_9 ( Identifier_10 == 0 ? false : true ) ; }

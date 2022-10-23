@@ -1,0 +1,1 @@
+function deposit ( address Parameter_0 , uint256 amount ) public payable returns ( bool success ) { require ( amount > 0 , stringLiteral_0 ) ;

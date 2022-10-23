@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId ) external view returns ( string memory ) { require ( Identifier_0 ( tokenId ) , stringLiteral_0 ) ; return string ( abi . encodePacked ( Identifier_1 , Identifier_2 ( tokenId ) ) ) ; }

@@ -1,0 +1,1 @@
+require ( IERC20 ( Identifier_3 ) . transferFrom ( address ( this ) , Identifier_4 , amount ) , stringLiteral_0

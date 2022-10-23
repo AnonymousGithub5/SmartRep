@@ -1,0 +1,1 @@
+owner . send ( msg . value ) ; else reward [ Identifier_2 ] += msg . value ;

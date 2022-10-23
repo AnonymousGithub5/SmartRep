@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) internal constant { if ( ! Identifier_0 ( ) ) { require ( Identifier_1 . length <= getUintConfig ( Identifier_2 ) ) ; require ( Identifier_3 . MemberAccess_0 ( Identifier_4 ) . add ( Identifier_5 ) <= getUintConfig ( Identifier_6 ) ) ; } }

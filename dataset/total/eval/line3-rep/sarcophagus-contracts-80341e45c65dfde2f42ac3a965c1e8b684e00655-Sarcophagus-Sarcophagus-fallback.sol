@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 ) public { Identifier_0 = IERC20 ( Identifier_1 ) ;

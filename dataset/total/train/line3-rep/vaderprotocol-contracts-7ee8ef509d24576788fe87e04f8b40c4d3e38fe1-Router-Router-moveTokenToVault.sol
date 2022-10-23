@@ -1,0 +1,1 @@
+Identifier_7 ( _token ) . transferFrom ( msg . sender , Identifier_8 , _amount ) ; Identifier_9 = Identifier_10 ( _token ) . balanceOf ( Identifier_11 ) . sub ( Identifier_12 ) ; }

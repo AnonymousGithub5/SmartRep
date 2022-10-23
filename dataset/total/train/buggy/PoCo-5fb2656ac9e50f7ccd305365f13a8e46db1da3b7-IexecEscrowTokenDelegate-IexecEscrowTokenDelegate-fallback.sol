@@ -1,0 +1,1 @@
+FunctionDefinition_0 ( ) external override payable { revert ( stringLiteral_0 ) ; }

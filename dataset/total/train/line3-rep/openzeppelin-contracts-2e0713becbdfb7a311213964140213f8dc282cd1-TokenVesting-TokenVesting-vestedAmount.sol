@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ERC20 _token ) public view returns ( uint256 ) { uint256 VariableDeclaration_0 = _token . balanceOf ( this ) ;

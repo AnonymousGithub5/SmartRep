@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , address Parameter_1 ) public ModifierInvocation_0 ( identity ) ModifierInvocation_1 ( identity ) { require ( ! Identifier_0 ( identity , Identifier_1 ) ) ; Identifier_2 [ identity ] [ Identifier_3 ] = now - Identifier_4 ; Identifier_5 ( identity , Identifier_6 , msg . sender ) ; }

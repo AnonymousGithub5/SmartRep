@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = 1 ; if ( block . timestamp > Identifier_5 ) { Identifier_6 = ( block . timestamp - Identifier_7 ) / Identifier_8 + 1 ;

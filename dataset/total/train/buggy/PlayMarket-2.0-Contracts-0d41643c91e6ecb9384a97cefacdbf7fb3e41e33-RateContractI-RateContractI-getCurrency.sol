@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 Parameter_0 ) external view returns ( string , uint , uint , uint , uint ) ;

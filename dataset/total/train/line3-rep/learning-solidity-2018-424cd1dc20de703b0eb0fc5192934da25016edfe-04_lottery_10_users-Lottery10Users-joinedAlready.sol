@@ -1,0 +1,1 @@
+bool VariableDeclaration_0 = false ; for ( uint i = 0 ; i < 3 ; i ++ ) { if ( Identifier_0 [ i ] == Identifier_1 ) {

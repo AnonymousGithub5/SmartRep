@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _from , address _to , uint256 _id , uint256 _value , bytes memory _data ) public { Identifier_0 ( address ( ElementaryTypeName_0 ( _from ) ) , address ( ElementaryTypeName_1 ( _to ) ) , _id , _value ) ; Identifier_1 ( _id , _to , _from , _value ) ; Identifier_2 . safeTransferFrom ( _from , _to , _id , _value , _data ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) internal view returns ( bool ) { return Identifier_0 . MemberAccess_0 ( Identifier_1 ) == msg . sender || Identifier_2 . MemberAccess_1 ( Identifier_3 ) == msg . sender ; }

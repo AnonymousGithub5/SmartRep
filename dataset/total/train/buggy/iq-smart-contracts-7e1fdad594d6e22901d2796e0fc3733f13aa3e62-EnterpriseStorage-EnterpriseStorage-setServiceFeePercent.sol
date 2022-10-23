@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , uint16 Parameter_1 ) public onlyOwner ModifierInvocation_0 ( Identifier_3 ) { Identifier_0 ( Identifier_1 , Identifier_2 ) ; }

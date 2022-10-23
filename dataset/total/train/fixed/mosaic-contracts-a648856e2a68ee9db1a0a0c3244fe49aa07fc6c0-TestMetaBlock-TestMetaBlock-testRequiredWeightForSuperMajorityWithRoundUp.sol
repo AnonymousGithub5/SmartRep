@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { uint256 VariableDeclaration_0 = 4 ; uint256 VariableDeclaration_1 = Identifier_0 . MemberAccess_0 ( Identifier_1 ) ; uint256 VariableDeclaration_2 = 3 ; Assert . equal ( Identifier_2 , Identifier_3 , stringLiteral_0 ) ; }

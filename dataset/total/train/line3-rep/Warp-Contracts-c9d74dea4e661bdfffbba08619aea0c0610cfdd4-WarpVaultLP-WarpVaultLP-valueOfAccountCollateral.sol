@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external view returns ( uint256 ) { uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( address ( Identifier_1 ) ) ; uint256 VariableDeclaration_1 = Identifier_2 [ _account ] . mul ( Identifier_3 ) ;

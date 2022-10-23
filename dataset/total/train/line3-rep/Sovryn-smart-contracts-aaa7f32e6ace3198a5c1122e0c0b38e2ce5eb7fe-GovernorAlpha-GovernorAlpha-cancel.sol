@@ -1,0 +1,1 @@
+proposal . MemberAccess_4 = true ; for ( uint i = 0 ; i < proposal . MemberAccess_5 . length ; i ++ ) { Identifier_5 . MemberAccess_6 ( proposal . MemberAccess_7 [ i ] , proposal . MemberAccess_8 [ i ] , proposal . MemberAccess_9 [ i ] , proposal . MemberAccess_10 [ i ] , proposal . MemberAccess_11 ) ;

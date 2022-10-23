@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _to , uint256 _amount ) internal { if ( block . number <= Identifier_0 . MemberAccess_0 ( ) ) { uint256 VariableDeclaration_0 = _amount . mul ( NumberLiteral_0 ) . div ( 10 ) ;

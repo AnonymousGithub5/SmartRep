@@ -1,0 +1,1 @@
+PoolInfo storage pool = poolInfo [ _pid ] ; require ( pool . MemberAccess_0 != address ( 0 ) && Identifier_2 [ pool . MemberAccess_1 ] , stringLiteral_0 ) ; Identifier_3 = Identifier_4 . sub ( pool . MemberAccess_2 ) . add (

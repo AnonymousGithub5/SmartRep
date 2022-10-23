@@ -1,0 +1,1 @@
+Identifier_7 [ _proposalId ] . MemberAccess_4 . push ( now ) ; Identifier_8 [ _memberAddress ] . push ( Identifier_9 [ _proposalId ] . MemberAccess_5 ) ; Identifier_10 [ _memberAddress ] = SafeMath . add ( Identifier_11 [ _memberAddress ] , Identifier_12 ) ;

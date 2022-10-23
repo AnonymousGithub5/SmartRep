@@ -1,0 +1,1 @@
+} if ( Identifier_20 > 0 ) { balances [ address ( this ) ] = balances [ address ( this ) ] . sub ( Identifier_21 ) ;

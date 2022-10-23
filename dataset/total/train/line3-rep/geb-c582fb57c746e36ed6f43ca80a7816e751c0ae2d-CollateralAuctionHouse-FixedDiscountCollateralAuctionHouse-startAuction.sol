@@ -1,0 +1,1 @@
+id = ++ Identifier_4 ; bids [ id ] . MemberAccess_0 = Identifier_5 ( ElementaryTypeName_0 ( now ) , ElementaryTypeName_1 ( Identifier_6 ) ) ; bids [ id ] . MemberAccess_1 = Identifier_7 ;

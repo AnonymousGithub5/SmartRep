@@ -1,0 +1,1 @@
+Identifier_5 . mint ( msg . sender , vars . MemberAccess_4 ) ; } 

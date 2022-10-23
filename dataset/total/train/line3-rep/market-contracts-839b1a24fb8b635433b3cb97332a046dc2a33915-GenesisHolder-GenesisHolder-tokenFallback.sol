@@ -1,0 +1,1 @@
+if ( Identifier_1 [ msg . sender ] == true ) { Identifier_2 ( msg . sender ) . burn ( _amount ) ; }

@@ -1,0 +1,1 @@
+function withdraw ( address _token , uint256 _amount ) public { require ( msg . sender == Identifier_0 [ _token ] , stringLiteral_0 ) ; Identifier_1 ( Identifier_2 [ _token ] ) . withdraw ( _amount ) ; }

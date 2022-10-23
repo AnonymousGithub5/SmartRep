@@ -1,0 +1,1 @@
+constructor ( uint256 Parameter_0 , address _wallet , ERC20 _token ) ModifierInvocation_0 ( Identifier_0 , _wallet , _token ) public { }

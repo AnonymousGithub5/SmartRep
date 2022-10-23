@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _to , bool Parameter_0 ) public { require ( _to != msg . sender ) ; Identifier_0 [ msg . sender ] [ _to ] = Identifier_1 ; emit Identifier_2 ( msg . sender , _to , Identifier_3 ) ; }

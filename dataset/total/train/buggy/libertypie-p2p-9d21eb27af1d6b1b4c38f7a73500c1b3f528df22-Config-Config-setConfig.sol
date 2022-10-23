@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string _key , bytes32 _value ) external onlyAdmin ( ) { Identifier_0 ( _key , _value ) ; }

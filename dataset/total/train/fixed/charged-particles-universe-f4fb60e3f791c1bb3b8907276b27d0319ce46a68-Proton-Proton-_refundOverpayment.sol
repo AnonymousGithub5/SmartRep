@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) internal virtual { uint256 VariableDeclaration_0 = msg . value . sub ( Identifier_0 ) ; if ( Identifier_1 > 0 ) { Identifier_2 ( _msgSender ( ) ) . MemberAccess_0 ( Identifier_3 ) ; } }

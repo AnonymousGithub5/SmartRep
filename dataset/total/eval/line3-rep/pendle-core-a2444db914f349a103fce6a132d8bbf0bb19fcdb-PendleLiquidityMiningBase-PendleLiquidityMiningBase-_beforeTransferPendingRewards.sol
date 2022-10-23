@@ -1,0 +1,1 @@
+Identifier_0 ( expiry , user ) ; uint256 VariableDeclaration_0 = Math . MemberAccess_0 ( Identifier_1 ( ) , Identifier_2 ) ; for ( uint256 i = Identifier_3 [ expiry ] . MemberAccess_1 [ user ] ; i <= Identifier_4 ; i ++ ) {

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 amount ) internal ModifierInvocation_0 returns ( uint256 Parameter_1 ) { if ( Identifier_0 ( ) ) { Identifier_1 [ tx . origin ] = block . number ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external payable { require ( ! Identifier_0 , stringLiteral_0 ) ; require ( Identifier_1 , stringLiteral_1 ) ; require ( msg . value != 0 , stringLiteral_2 ) ; Identifier_2 ( msg . value , Identifier_3 ) ; Identifier_4 ( msg . value ) ; }

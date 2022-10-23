@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , uint256 amount ) public view returns ( uint256 ) { ( uint256 VariableDeclaration_0 , uint256 VariableDeclaration_1 ) = iPOOLS ( POOLS ( ) ) . MemberAccess_0 ( token ) ; return Identifier_0 ( amount , Identifier_1 , Identifier_2 ) ; }

@@ -1,0 +1,1 @@
+Identifier_10 = Identifier_11 . sub ( _amount ) ; Identifier_12 [ msg . sender ] = 0 ; Identifier_13 [ msg . sender ] = Identifier_14 ( {

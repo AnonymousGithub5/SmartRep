@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes4 Parameter_0 , address Parameter_1 , uint _amount ) external onlyOwner returns ( bool ) { database . MemberAccess_0 ( keccak256 ( abi . encodePacked ( Identifier_0 , Identifier_1 ) ) , _amount ) ; emit Identifier_2 ( Identifier_3 , Identifier_4 , _amount ) ; return true ; }

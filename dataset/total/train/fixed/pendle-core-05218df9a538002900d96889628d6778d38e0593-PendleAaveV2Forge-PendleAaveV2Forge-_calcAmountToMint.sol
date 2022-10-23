@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) internal view override returns ( uint256 Parameter_2 ) { Identifier_0 = Identifier_1 . MemberAccess_0 ( Identifier_2 , Identifier_3 . MemberAccess_1 ( _underlyingAsset ) ) ; }

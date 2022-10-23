@@ -1,0 +1,1 @@
+constructor ( ) { owner = msg . sender ; emit Identifier_0 ( address ( 0 ) , owner ) ; }

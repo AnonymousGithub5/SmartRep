@@ -1,0 +1,1 @@
+function transfer ( address Parameter_0 , uint256 amount ) public returns ( bool ) { Identifier_0 ( msg . sender , false ) ; Identifier_1 ( recipient , true ) ; Identifier_2 ( msg . sender , recipient , amount ) ; Identifier_3 ( recipient , amount , Identifier_4 [ msg . sender ] ) ; Identifier_5 ( recipient , amount ) ; return true ; }

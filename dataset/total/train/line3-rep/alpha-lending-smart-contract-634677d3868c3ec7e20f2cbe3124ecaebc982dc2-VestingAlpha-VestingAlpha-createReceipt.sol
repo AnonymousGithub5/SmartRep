@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external override returns ( uint256 ) { uint256 amount = Identifier_0 [ msg . sender ] ;

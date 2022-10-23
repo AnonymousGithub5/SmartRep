@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) public { require ( block . number < Identifier_0 , stringLiteral_0 ) ; Identifier_1 . safeTransferFrom ( address ( msg . sender ) , address ( this ) , _amount ) ; Identifier_2 += _amount . div ( Identifier_3 ) ; Identifier_4 = Identifier_5 . add ( _amount ) ; }

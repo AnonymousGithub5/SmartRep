@@ -1,0 +1,1 @@
+} Identifier_12 . burn ( Identifier_13 . MemberAccess_2 ) ; emit Identifier_14 ( msg . sender , id , Identifier_15 ) ;

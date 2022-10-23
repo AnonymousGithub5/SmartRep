@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user ) public ModifierInvocation_0 ModifierInvocation_1 ( _user ) returns ( bool ) { Identifier_0 [ _user ] = msg . sender ; return true ; }

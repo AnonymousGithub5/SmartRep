@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address calldata Parameter_0 , address calldata Parameter_1 ) external onlyOwner ModifierInvocation_0 ( address ( 1 ) ) { Identifier_0 = Identifier_1 ; for ( uint256 i = 0 ; i < Identifier_2 . length ; i ++ ) { Identifier_3 [ Identifier_4 [ i ] ] = Identifier_5 [ i ] ; } }

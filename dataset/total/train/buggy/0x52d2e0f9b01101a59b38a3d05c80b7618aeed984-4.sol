@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , address Parameter_1 ) public { for ( uint i = 0 ; i < Identifier_0 ; i ++ ) { addr . call . value ( 0 wei ) ( ) ; } }

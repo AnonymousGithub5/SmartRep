@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user ) onlyOwner public { Identifier_0 [ user ] = now ; }

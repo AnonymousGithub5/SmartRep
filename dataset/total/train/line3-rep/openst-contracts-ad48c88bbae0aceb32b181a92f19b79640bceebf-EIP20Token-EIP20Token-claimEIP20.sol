@@ -1,0 +1,1 @@
+balances [ _beneficiary ] = balances [ _beneficiary ] . add ( _amount ) ; Transfer ( address ( this ) , _beneficiary , _amount ) ; return true ;

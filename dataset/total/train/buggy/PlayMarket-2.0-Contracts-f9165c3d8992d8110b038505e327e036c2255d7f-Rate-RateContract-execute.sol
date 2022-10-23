@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _to , uint _value , bytes _data ) external onlyOwner returns ( bytes32 Parameter_0 ) { require ( _to . call . value ( _value ) ( _data ) ) ; return 0 ; }

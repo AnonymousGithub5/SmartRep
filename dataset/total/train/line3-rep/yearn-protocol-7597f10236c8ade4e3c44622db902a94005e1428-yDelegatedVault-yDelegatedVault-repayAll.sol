@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = reserve ( ) ; uint VariableDeclaration_1 = IERC20 ( Identifier_0 ) . balanceOf ( address ( this ) ) ; Identifier_1 ( Identifier_2 , _amount ) ;

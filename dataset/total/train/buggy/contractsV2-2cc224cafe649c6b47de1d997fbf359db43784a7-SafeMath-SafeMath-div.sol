@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 a , uint256 b , string memory Parameter_0 ) internal pure returns ( uint256 ) { require ( b > 0 , Identifier_0 ) ; uint256 VariableDeclaration_0 = a / b ; return c ; }

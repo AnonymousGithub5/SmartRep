@@ -1,0 +1,1 @@
+constructor ( address _token , address Parameter_0 ) public ModifierInvocation_0 ( _token , Identifier_0 ) { }

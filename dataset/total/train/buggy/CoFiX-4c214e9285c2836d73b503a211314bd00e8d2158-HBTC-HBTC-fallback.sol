@@ -1,0 +1,1 @@
+constructor ( ) ModifierInvocation_0 ( 10 ** NumberLiteral_0 * 10 ** 18 , stringLiteral_0 , stringLiteral_1 , 18 ) public { }

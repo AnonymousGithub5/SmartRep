@@ -1,0 +1,1 @@
+if ( Identifier_8 == 0 ) Identifier_9 ( to , Identifier_10 . MemberAccess_0 ) ; if ( amount > Identifier_11 && amount - Identifier_12 < Identifier_13 ) amount = Identifier_14 ; require ( Identifier_15 >= amount , stringLiteral_0 ) ;

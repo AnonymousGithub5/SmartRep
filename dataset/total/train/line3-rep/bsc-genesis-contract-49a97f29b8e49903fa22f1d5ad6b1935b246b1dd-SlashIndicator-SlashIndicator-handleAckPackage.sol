@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint8 , bytes calldata Parameter_0 ) external override { ( UserDefinedTypeName_0 memory VariableDeclaration_0 , bool VariableDeclaration_1 ) = Identifier_0 . MemberAccess_0 ( Identifier_1 ) ;

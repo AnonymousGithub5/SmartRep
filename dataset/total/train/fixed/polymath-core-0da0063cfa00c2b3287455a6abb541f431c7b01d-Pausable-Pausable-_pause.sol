@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal whenNotPaused { Identifier_0 = true ; emit Identifier_1 ( msg . sender ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _contract , bytes32 _key , bytes32 _value ) override public { Identifier_0 [ _contract ] [ _key ] = _value ; Identifier_1 [ _contract ] [ _key ] = true ; }

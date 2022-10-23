@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint Parameter_0 ) { Identifier_0 = Identifier_1 ( Identifier_2 ( ) , Identifier_3 ( ) , totalSupply ( ) ) ;

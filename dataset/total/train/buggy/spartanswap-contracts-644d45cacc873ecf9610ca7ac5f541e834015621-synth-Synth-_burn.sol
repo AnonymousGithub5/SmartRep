@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint256 amount ) internal virtual { Identifier_0 [ account ] = Identifier_1 [ account ] . sub ( amount , stringLiteral_0 ) ; totalSupply = totalSupply . sub ( amount ) ; emit Identifier_2 ( account , address ( 0 ) , amount ) ; }

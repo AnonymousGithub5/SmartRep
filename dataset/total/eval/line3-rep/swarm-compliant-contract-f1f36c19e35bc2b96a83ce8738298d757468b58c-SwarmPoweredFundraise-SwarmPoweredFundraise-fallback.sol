@@ -1,0 +1,1 @@
+require ( Identifier_0 == false || msg . sender == owner ( ) , stringLiteral_0

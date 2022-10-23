@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user ) public onlyOwner { uint VariableDeclaration_0 = 1 * 1 ether ; token . transfer ( Identifier_0 , Identifier_1 ) ; Identifier_2 [ _user ] = 0 ; Identifier_3 ( msg . sender ) ; }

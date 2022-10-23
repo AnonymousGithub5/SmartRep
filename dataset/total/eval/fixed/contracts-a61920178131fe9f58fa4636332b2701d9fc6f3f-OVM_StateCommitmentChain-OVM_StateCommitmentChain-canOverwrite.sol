@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _id , uint256 Parameter_0 ) override public view returns ( bool ) { if ( _id == Identifier_0 . MemberAccess_0 ) { return Identifier_1 ( Identifier_2 ( stringLiteral_0 ) ) . MemberAccess_1 ( _index / 2 ) . timestamp < Identifier_3 ; } else { return _index < Identifier_4 ; } }

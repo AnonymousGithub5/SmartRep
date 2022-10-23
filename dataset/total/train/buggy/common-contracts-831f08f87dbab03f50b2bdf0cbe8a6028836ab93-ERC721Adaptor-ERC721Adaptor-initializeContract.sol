@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , UserDefinedTypeName_1 Parameter_1 ) public ModifierInvocation_0 { owner = msg . sender ; emit Identifier_0 ( msg . sender ) ; registry = Identifier_1 ; Identifier_2 = Identifier_3 ; }

@@ -1,0 +1,1 @@
+Identifier_0 . MemberAccess_0 ( account ) ; Identifier_1 ( ) ; delete Identifier_2 [ account ] ;

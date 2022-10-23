@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 , address token , address Parameter_2 ) public returns ( uint Parameter_3 ) { address pool = Identifier_0 ( token ) ;

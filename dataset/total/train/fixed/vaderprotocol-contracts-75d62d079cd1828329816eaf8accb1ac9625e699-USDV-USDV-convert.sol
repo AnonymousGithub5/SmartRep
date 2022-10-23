@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint amount ) public returns ( uint ) { return Identifier_0 ( msg . sender , amount ) ; }

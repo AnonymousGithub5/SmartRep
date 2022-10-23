@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 [ Identifier_1 ] ; ElementaryTypeName_0 amount = _value - Identifier_2 . MemberAccess_0 ; if ( Identifier_3 . value < amount )

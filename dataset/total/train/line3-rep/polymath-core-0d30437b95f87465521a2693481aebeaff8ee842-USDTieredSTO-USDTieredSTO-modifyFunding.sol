@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) public ModifierInvocation_0 { require ( now < Identifier_0 ) ; Identifier_1 ( Identifier_2 ) ;

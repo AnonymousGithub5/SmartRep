@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , bytes Parameter_1 ) public payable { if ( disputes [ Identifier_0 ] . MemberAccess_0 != Identifier_1 ) { Identifier_2 ( Identifier_3 , Identifier_4 ) ; } else { Identifier_5 ( Identifier_6 ) . MemberAccess_1 . value ( msg . value ) ( disputes [ Identifier_7 ] . MemberAccess_2 , Identifier_8 ) ; } }

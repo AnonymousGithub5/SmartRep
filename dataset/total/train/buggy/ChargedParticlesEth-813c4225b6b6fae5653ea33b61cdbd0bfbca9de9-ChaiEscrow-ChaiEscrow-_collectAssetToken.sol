@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _from , uint256 Parameter_0 ) internal { uint256 VariableDeclaration_0 = Identifier_0 . balanceOf ( _from ) ; require ( Identifier_1 <= Identifier_2 , stringLiteral_0 ) ; require ( Identifier_3 . transferFrom ( _from , address ( this ) , Identifier_4 ) , stringLiteral_1 ) ; }

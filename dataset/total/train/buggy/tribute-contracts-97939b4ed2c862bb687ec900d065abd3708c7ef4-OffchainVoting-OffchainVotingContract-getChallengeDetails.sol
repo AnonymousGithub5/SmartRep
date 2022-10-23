@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , bytes32 proposalId ) external view returns ( uint256 , address ) { return ( Identifier_0 [ address ( dao ) ] [ proposalId ] . MemberAccess_0 , Identifier_1 [ address ( dao ) ] [ proposalId ] . MemberAccess_1 ) ; }

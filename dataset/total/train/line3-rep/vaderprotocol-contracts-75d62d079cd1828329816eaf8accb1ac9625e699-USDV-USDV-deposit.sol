@@ -1,0 +1,1 @@
+function deposit ( address token , uint amount ) external { Identifier_0 ( token , msg . sender , amount ) ;

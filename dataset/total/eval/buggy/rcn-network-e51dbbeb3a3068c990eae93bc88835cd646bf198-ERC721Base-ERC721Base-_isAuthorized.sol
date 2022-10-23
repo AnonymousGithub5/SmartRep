@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 Parameter_1 ) internal view returns ( bool ) { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; address VariableDeclaration_0 = Identifier_1 ( Identifier_2 ) ; if ( Identifier_3 == owner ) { return true ; } return Identifier_4 ( Identifier_5 , owner ) || Identifier_6 ( Identifier_7 ) == Identifier_8 ; }

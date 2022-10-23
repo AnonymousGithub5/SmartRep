@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public returns ( address ) { return Identifier_0 . MemberAccess_0 ( ) ; }

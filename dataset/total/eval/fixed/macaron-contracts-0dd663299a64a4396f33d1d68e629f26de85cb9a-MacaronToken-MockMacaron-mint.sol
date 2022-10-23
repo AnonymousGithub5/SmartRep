@@ -1,0 +1,1 @@
+function mint ( address _to , uint256 _amount ) external onlyOwner { _mint ( _to , _amount ) ; Identifier_0 ( address ( 0 ) , Identifier_1 [ _to ] , _amount ) ; }

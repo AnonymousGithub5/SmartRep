@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes4 Parameter_0 , address account ) external virtual { require ( account == msg . sender , stringLiteral_0 ) ; Identifier_0 ( Identifier_1 , account ) ; }

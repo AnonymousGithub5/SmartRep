@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = tokens [ Identifier_4 ] ; require ( Identifier_5 != address ( 0x0 ) , stringLiteral_0 ) ; UserDefinedTypeName_0 VariableDeclaration_1 ;

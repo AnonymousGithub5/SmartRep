@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) ModifierInvocation_0 internal returns ( bytes32 Parameter_0 ) { return Identifier_0 . MemberAccess_0 ( ) ; }

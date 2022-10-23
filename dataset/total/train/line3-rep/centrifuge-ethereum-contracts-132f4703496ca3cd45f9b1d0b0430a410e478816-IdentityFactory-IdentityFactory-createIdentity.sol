@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 VariableDeclaration_0 = new UserDefinedTypeName_1 ( msg . sender ) ; emit Identifier_0 ( identity ) ; }

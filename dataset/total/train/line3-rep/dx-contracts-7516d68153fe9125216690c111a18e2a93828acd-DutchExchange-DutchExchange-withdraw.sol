@@ -1,0 +1,1 @@
+balances [ tokenAddress ] [ msg . sender ] = Identifier_4 ; require ( Identifier_5 ( tokenAddress ) . transfer ( msg . sender , amount ) , stringLiteral_1 ) ; emit Identifier_6 ( tokenAddress , amount ) ;

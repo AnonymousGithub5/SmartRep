@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) onlyOwner { require ( owner . send ( this . balance - NumberLiteral_0 ) ) ; }

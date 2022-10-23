@@ -1,0 +1,1 @@
+( bytes32 root , ) = Identifier_1 . MemberAccess_1 ( Identifier_2 . MemberAccess_2 ) ; require ( Identifier_3 != bytes32 ( "" ) , stringLiteral_0 ) ; return Identifier_4 . MemberAccess_3 (

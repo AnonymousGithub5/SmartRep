@@ -1,0 +1,1 @@
+) internal { assert ( Identifier_0 . MemberAccess_0 == 0 ) ; bool VariableDeclaration_0 = false ;

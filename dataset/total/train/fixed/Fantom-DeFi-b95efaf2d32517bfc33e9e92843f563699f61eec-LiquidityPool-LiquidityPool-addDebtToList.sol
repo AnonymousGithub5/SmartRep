@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token , address _owner ) internal { bool VariableDeclaration_0 = false ; address memory VariableDeclaration_1 = Identifier_0 [ _owner ] ; for ( uint256 i = 0 ; i < Identifier_1 . length ; i ++ ) { if ( Identifier_2 [ i ] == _token ) { Identifier_3 = true ; break ; } } if ( ! Identifier_4 ) { Identifier_5 [ _owner ] . push ( _token ) ; } }

@@ -1,0 +1,1 @@
+for ( uint256 i = 0 ; i < _tokens . length ; i ++ ) { UserDefinedTypeName_0 token = Identifier_0 ( _tokens [ i ] ) ; uint256 balance = token . balanceOf ( this ) ;

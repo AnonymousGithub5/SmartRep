@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public ModifierInvocation_0 ( Identifier_4 ) { if ( ! Identifier_0 [ wallet ] ) { Identifier_1 . push ( wallet ) ; Identifier_2 [ wallet ] = true ; emit Identifier_3 ( wallet ) ; } }

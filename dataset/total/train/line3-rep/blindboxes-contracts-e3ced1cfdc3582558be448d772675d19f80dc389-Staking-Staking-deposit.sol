@@ -1,0 +1,1 @@
+) ; user . amount = user . amount . add ( _amount ) ; user . rewardDebt = user . amount . mul ( pool . MemberAccess_3 ) . div ( Identifier_2 ) ;

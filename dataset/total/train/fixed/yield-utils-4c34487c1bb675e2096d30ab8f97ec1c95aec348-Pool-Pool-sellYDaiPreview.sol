@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint128 Parameter_0 ) public view override ModifierInvocation_0 returns ( uint128 ) { return Identifier_0 . MemberAccess_0 ( Identifier_1 ( ) , Identifier_2 ( ) , Identifier_3 , Identifier_4 ( maturity - now ) , k , Identifier_5 ) ; }

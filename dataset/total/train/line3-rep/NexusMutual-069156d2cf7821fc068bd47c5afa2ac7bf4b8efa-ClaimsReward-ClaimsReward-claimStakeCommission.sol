@@ -1,0 +1,1 @@
+if ( total > 0 ) require ( Identifier_20 . transfer ( msg . sender , total ) ) ; }

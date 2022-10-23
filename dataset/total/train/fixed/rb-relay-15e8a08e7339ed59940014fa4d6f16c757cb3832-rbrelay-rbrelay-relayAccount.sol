@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes account , bytes Parameter_0 , bytes Parameter_1 , bytes Parameter_2 , address Parameter_3 ) { require ( msg . value >= Identifier_0 ) ; require ( Identifier_1 ( account , path , Identifier_2 , Identifier_3 , 3 ) ) ; UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_4 ( Identifier_5 ) ; Identifier_6 . MemberAccess_0 ( account ) ; }

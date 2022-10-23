@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _token ) public view returns ( uint256 ) { return Identifier_0 ( _token ) . sub ( Identifier_1 [ _token ] ) ;

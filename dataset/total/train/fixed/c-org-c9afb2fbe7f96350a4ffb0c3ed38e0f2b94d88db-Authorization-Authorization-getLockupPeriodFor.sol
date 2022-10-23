@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address _from , address _to , uint256 _value , bytes memory Parameter_1 , bytes memory Parameter_2 ) public view returns ( uint ) { return Identifier_0 [ Identifier_1 ( _from ) ] [ Identifier_2 ( _to ) ] ; }

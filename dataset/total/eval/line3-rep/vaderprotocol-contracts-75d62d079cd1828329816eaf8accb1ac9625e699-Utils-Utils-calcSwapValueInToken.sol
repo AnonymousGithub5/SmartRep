@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , uint amount ) external view returns ( uint ) { ( uint VariableDeclaration_0 , uint VariableDeclaration_1 ) = iPOOLS ( POOLS ) . MemberAccess_0 ( token ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , address Parameter_1 , uint Parameter_2 ) internal view { require ( Identifier_0 . balanceOf ( Identifier_1 ) >= Identifier_2 , stringLiteral_0 ) ; }

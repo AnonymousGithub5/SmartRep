@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner ) ModifierInvocation_0 view returns ( uint ) { uint memory VariableDeclaration_0 = new uint ( Identifier_0 [ _owner ] ) ;

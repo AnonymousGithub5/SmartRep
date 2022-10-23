@@ -1,0 +1,1 @@
+function withdraw ( uint256 amount , address Parameter_0 ) external override ModifierInvocation_0 { require ( balanceOf ( Identifier_0 ) >= amount , stringLiteral_0 ) ; Identifier_1 . safeTransfer ( Identifier_2 , amount ) ; }

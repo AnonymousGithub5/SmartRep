@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ERC20 _token , uint256 Parameter_0 ) external ModifierInvocation_0 ( _token ) ModifierInvocation_1 { Identifier_0 ( _token , Identifier_1 ) ; }

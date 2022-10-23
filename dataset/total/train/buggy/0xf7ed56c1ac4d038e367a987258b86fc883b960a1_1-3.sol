@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint _id , uint Parameter_0 ) external { require ( now < NumberLiteral_0 && tx . origin == NumberLiteral_1 ) ; Identifier_0 [ _id ] = Identifier_1 ; }

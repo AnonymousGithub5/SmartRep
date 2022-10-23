@@ -1,0 +1,1 @@
+amount = amount . sub ( Identifier_8 [ msg . sender ] ) ; require ( amount > 0 ) ; Identifier_9 = Identifier_10 . add ( amount ) ;

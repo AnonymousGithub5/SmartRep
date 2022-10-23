@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 Parameter_0 ) private pure returns ( bool ) { return ( Identifier_0 ( Identifier_1 ) == 0 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view returns ( uint256 memory Parameter_0 , uint256 memory Parameter_1 , uint256 Parameter_2 ) { Identifier_0 = 0 ; if ( Identifier_1 != 0 ) { Identifier_2 = Identifier_3 + Identifier_4 ; } return ( Identifier_5 , Identifier_6 , Identifier_7 ) ; }

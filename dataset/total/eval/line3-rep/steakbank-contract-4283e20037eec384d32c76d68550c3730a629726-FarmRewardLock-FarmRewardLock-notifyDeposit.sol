@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user , uint256 amount ) ModifierInvocation_0 override external returns ( bool ) { require ( block . number < Identifier_0 . add ( Identifier_1 ) , stringLiteral_0 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint ) { uint VariableDeclaration_0 = Identifier_0 . balanceOf ( address ( this ) ) ; uint VariableDeclaration_1 = Identifier_1 . MemberAccess_0 ( Identifier_2 ) ; return tokenAmount . MemberAccess_1 ( price ) ; }

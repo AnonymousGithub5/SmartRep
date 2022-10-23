@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 ) internal returns ( bytes ) { UserDefinedTypeName_0 memory VariableDeclaration_0 ;

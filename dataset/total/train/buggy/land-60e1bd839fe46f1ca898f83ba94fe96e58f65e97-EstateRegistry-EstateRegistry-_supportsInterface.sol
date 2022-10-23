@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes4 Parameter_0 ) internal view returns ( bool ) { return super . MemberAccess_0 ( Identifier_0 ) || Identifier_1 == Identifier_2 ; }

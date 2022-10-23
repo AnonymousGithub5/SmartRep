@@ -1,0 +1,1 @@
+constructor ( UserDefinedTypeName_0 Parameter_0 ) public { vat = Identifier_0 ; }

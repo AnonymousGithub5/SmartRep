@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId ) internal view returns ( address ) { address VariableDeclaration_0 = Identifier_0 [ tokenId ] ; if ( receiver == address ( 0x0 ) ) { receiver = Identifier_1 [ tokenId ] ; } return receiver ; }

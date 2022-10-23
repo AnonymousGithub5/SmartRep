@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) external virtual ModifierInvocation_0 { require ( address ( Identifier_0 ) != address ( 0 ) && Identifier_1 != Identifier_2 , stringLiteral_0 ) ; Identifier_3 = Identifier_4 ; emit Identifier_5 ( address ( Identifier_6 ) , address ( Identifier_7 ) ) ; }

@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 . length ; for ( uint256 i ; i < Identifier_1 ; ++ i ) { Identifier_2 [ Identifier_3 [ i ] ] = Identifier_4 [ i ] ;

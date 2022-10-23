@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , string Parameter_0 ) internal { bytes32 VariableDeclaration_0 = keccak256 ( bytes ( Identifier_0 ) ) ;

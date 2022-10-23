@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view override returns ( address memory ) { return Identifier_0 . MemberAccess_0 ; }

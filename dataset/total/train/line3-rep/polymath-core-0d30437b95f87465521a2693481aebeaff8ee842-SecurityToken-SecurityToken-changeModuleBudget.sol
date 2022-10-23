@@ -1,0 +1,1 @@
+if ( Identifier_4 ) { require ( IERC20 ( Identifier_5 ) . MemberAccess_2 ( Identifier_6 , Identifier_7 ) , stringLiteral_1 ) ; Identifier_8 = Identifier_9 . add ( Identifier_10 ) ;

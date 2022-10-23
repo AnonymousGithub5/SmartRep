@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external { address VariableDeclaration_0 = address ( new UserDefinedTypeName_0 ( ) ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 amount ) external override ModifierInvocation_0 ( ) { IERC20 VariableDeclaration_0 = IERC20 ( Identifier_0 . MemberAccess_0 ( ) ) ; if ( Identifier_1 < 10 ** 18 ) {

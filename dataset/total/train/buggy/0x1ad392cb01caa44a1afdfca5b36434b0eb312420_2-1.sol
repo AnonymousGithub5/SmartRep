@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address receiver , uint amount ) public { if ( balances [ msg . sender ] < amount ) return ; balances [ msg . sender ] -= amount ; balances [ receiver ] += amount ; Identifier_0 ( msg . sender , receiver , amount ) ; }

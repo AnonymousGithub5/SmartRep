@@ -1,0 +1,1 @@
+Identifier_5 = IERC20 ( _to ) . balanceOf ( address ( this ) ) ; IERC20 ( _to ) . safeTransfer ( msg . sender , Identifier_6 ) ; }

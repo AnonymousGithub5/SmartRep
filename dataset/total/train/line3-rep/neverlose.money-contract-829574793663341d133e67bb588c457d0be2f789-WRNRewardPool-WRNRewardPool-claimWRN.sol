@@ -1,0 +1,1 @@
+require ( amount > 0 , stringLiteral_0 ) ; UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_2 [ tokenAddress ] [ msg . sender ] ; Identifier_3 . MemberAccess_0 = Identifier_4 . MemberAccess_1 . add ( amount ) ;

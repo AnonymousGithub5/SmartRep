@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public { require ( Identifier_0 == msg . sender , stringLiteral_0 ) ; Identifier_1 ( Identifier_2 ) ; Identifier_3 . transfer ( 1 ) ; Identifier_4 ( Identifier_5 ) ; if ( ! Identifier_6 . send ( 1 ) ) revert ( ) ; Identifier_7 ( Identifier_8 ) ; Identifier_9 ( ) ; Identifier_10 ( ) ; Identifier_11 ( ) ; Identifier_12 ( ) ; }

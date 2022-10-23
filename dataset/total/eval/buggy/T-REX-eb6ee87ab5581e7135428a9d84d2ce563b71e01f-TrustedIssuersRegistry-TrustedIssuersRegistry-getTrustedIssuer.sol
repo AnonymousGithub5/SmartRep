@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public override view returns ( UserDefinedTypeName_0 ) { require ( index > 0 ) ; require ( address ( Identifier_0 [ index ] ) != address ( 0 ) , stringLiteral_0 ) ; return Identifier_1 [ index ] ; }

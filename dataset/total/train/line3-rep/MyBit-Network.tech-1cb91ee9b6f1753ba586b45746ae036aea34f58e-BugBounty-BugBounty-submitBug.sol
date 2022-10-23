@@ -1,0 +1,1 @@
+require ( msg . value == Identifier_0 ) ; bytes32 VariableDeclaration_0 = keccak256 ( Identifier_1 , msg . sender , Identifier_2 ) ; UserDefinedTypeName_0 VariableDeclaration_1 = Identifier_3 [ Identifier_4 ] ;

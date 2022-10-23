@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 id ) public view returns ( bool ) { return Identifier_0 [ id ] . MemberAccess_0 ; }

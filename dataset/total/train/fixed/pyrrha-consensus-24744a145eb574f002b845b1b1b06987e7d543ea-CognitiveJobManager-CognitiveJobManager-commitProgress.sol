@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , uint8 Parameter_1 ) external { Identifier_0 . MemberAccess_0 ( Identifier_1 , msg . sender , Identifier_2 ) ; }

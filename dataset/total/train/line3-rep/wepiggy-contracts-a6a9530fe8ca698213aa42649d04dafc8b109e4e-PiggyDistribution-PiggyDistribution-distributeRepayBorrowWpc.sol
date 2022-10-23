@@ -1,0 +1,1 @@
+require ( msg . sender == address ( Identifier_0 ) || msg . sender == owner ( ) , stringLiteral_0 ) ; UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_1 ( { mantissa : Identifier_2 ( Identifier_3 ) . MemberAccess_0 ( ) } ) ; Identifier_4 ( Identifier_5 , Identifier_6 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , string calldata Parameter_1 ) external override { UserDefinedTypeName_0 storage VariableDeclaration_0 = disputes [ Identifier_0 ] ; require ( dispute . MemberAccess_0 == false , stringLiteral_0 ) ; emit Identifier_1 ( arbitrator , Identifier_2 , msg . sender , Identifier_3 ) ; }

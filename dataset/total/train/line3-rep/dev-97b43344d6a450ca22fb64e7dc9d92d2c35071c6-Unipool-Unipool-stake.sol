@@ -1,0 +1,1 @@
+Identifier_1 ( ) ; Identifier_2 ( msg . sender ) ; super . MemberAccess_0 ( amount ) ;

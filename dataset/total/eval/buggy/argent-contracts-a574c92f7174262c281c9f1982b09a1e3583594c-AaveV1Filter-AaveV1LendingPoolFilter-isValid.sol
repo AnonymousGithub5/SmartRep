@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address , address , address , bytes calldata _data ) external view override returns ( bool ) { bytes4 VariableDeclaration_0 = Identifier_0 ( _data ) ; return ( Identifier_1 == Identifier_2 ) ; }

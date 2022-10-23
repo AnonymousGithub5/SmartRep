@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 ) public { emit Identifier_0 ( Identifier_1 ( msg . sender ) , Identifier_2 , _ruling ) ; Identifier_3 ( Identifier_4 , _ruling ) ;

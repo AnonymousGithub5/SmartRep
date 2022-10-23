@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) view public returns ( bool ) { for ( uint256 i = 0 ; i < Identifier_0 . length ; i ++ ) { if ( Identifier_1 [ i ] == Identifier_2 ) return ! Identifier_3 ( Identifier_4 ) ; } return false ; }

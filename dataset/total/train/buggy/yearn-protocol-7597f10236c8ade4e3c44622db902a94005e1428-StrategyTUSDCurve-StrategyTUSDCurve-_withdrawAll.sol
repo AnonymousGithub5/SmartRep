@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal { uint VariableDeclaration_0 = IERC20 ( Identifier_0 ) . balanceOf ( address ( this ) ) ; if ( Identifier_1 > 0 ) { Identifier_2 ( Identifier_3 ) . withdraw ( Identifier_4 ) ; Identifier_5 ( IERC20 ( Identifier_6 ) . balanceOf ( address ( this ) ) ) ; } }

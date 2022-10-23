@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { require ( now - Identifier_0 > Identifier_1 , stringLiteral_0 ) ; require ( Identifier_2 == 0 , stringLiteral_1 ) ; require ( ! Identifier_3 , stringLiteral_2 ) ; require ( ! Identifier_4 , stringLiteral_3 ) ; Identifier_5 = true ; Identifier_6 . send ( value ) ; }

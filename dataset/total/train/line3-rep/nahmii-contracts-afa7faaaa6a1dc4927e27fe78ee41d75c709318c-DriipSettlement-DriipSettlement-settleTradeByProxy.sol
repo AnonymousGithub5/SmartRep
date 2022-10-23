@@ -1,0 +1,1 @@
+Identifier_0 ( wallet , trade ) ; emit Identifier_1 ( msg . sender , wallet , trade , Identifier_2 . MemberAccess_0 ( wallet ) ) ; }

@@ -1,0 +1,1 @@
+function withdraw ( uint256 amount ) public { require ( Identifier_0 ( msg . sender ) , stringLiteral_0 ) ; require ( Identifier_1 ( msg . sender ) - amount >= Identifier_2 ( Identifier_3 [ msg . sender ] . MemberAccess_0 ) ) ; super . withdraw ( amount ) ; }

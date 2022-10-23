@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , address to , uint256 amount ) public payable ModifierInvocation_0 ( from , stringLiteral_0 ) { Identifier_0 . deposit . value ( amount ) ( ) ; Identifier_1 . MemberAccess_0 ( Identifier_2 , address ( this ) , to , amount ) ; }

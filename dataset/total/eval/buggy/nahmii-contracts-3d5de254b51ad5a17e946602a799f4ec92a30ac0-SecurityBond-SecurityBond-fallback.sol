@@ -1,0 +1,1 @@
+function transferFrom ( ) public payable { int256 amount = Identifier_0 . MemberAccess_0 ( msg . value ) ; Identifier_1 = Identifier_2 . MemberAccess_1 ( amount ) ; Identifier_3 [ msg . sender ] . MemberAccess_2 . push ( Identifier_4 ( amount , block . timestamp , address ( 0 ) ) ) ; emit Identifier_5 ( msg . sender , amount , address ( 0 ) ) ; }

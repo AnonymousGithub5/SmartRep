@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 , uint256 Parameter_2 ) public onlyOwner { require ( Identifier_0 > block . number , stringLiteral_0 ) ; require ( Identifier_1 > 1 , stringLiteral_1 ) ; Identifier_2 = Identifier_3 ; Identifier_4 = Identifier_5 ; Identifier_6 = Identifier_7 ; }

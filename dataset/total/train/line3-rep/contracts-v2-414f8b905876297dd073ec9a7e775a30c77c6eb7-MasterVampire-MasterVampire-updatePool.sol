@@ -1,0 +1,1 @@
+} uint256 VariableDeclaration_1 = block . number . sub ( pool . MemberAccess_5 ) ; uint256 VariableDeclaration_2 = Math . MemberAccess_6 ( Identifier_1 . mul ( pool . MemberAccess_7 ) . div ( Identifier_2 ) , pool . MemberAccess_8 ) ;

@@ -1,0 +1,1 @@
+require ( msg . value == 0 || Identifier_0 . length != 0 , stringLiteral_0 ) ; require ( Identifier_1 [ msg . sender ] , stringLiteral_1 ) ; UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_2 [ Identifier_3 ] ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public ModifierInvocation_0 { controller . MemberAccess_0 ( address ( identity ) , abi . MemberAccess_1 ( stringLiteral_0 , Identifier_0 ) , Identifier_1 , 0 ) ; Identifier_2 ( address ( Identifier_3 ) ) ; }

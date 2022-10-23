@@ -1,0 +1,1 @@
+require ( Identifier_0 [ Identifier_1 ] . MemberAccess_0 == msg . sender , stringLiteral_0 ) ; require ( Identifier_2 [ Identifier_3 ] . MemberAccess_1 > block . timestamp , stringLiteral_1 ) ; msg . sender . transfer ( Identifier_4 [ Identifier_5 ] ) ;

@@ -1,0 +1,1 @@
+require ( address ( Identifier_4 ) . call . value ( 0 ) ( abi . MemberAccess_1 ( stringLiteral_1 , Identifier_5 ) ) ) ; } 

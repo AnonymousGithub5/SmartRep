@@ -1,0 +1,1 @@
+require ( Identifier_1 != address ( 0 ) , stringLiteral_1 ) ; require ( Identifier_2 < NumberLiteral_0 , stringLiteral_2 ) ; Identifier_3 = IERC20 ( Identifier_4 ) ;

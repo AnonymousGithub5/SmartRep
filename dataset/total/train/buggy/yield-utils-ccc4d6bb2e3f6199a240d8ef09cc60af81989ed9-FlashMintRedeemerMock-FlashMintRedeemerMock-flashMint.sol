@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 amount , bytes calldata data ) public { Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( address ( this ) , amount , data ) ; }

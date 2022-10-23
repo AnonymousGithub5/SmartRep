@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) ModifierInvocation_0 ( owner ) public { require ( Identifier_0 == address ( 0 ) ) ; require ( Identifier_1 > 0 ) ; require ( now >= Identifier_2 + NumberLiteral_0 ) ; Identifier_3 = Identifier_4 ; balances [ Identifier_5 ] = Identifier_6 ; emit Transfer ( address ( 0 ) , Identifier_7 , Identifier_8 ) ; Identifier_9 = 0 ; }

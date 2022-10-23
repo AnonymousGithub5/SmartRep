@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , string Parameter_1 ) public returns ( bool ) { return Identifier_0 [ Identifier_1 ] [ keccak256 ( abi . encode ( Identifier_2 ) ) ] ;

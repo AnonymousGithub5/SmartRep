@@ -1,0 +1,1 @@
+balances [ to ] += value ; Transfer ( from , to , value ) ; return true ;

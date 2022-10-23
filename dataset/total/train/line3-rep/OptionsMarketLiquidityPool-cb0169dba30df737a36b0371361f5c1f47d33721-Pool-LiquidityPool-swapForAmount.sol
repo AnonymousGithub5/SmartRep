@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( IERC20 Parameter_0 , IERC20 token , uint256 Parameter_1 ) public returns ( uint256 ) { return Identifier_0 ;

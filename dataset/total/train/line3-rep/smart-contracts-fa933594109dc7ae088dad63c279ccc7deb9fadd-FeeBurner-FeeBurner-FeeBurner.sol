@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , UserDefinedTypeName_0 Parameter_1 , address Parameter_2 ) public { require ( Identifier_0 != address ( 0 ) ) ;

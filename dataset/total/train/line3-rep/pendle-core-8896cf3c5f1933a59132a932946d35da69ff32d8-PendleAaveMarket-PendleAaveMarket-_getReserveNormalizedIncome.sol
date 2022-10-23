@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal returns ( uint256 ) { return Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( Identifier_2 , expiry ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , bool _value ) public onlyOwner { Identifier_0 . MemberAccess_0 ( _node , _value ) ; emit Identifier_1 ( _node , _value ) ; }

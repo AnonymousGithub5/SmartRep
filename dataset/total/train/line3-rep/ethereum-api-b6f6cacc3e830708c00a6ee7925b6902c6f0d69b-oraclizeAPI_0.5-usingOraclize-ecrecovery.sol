@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , bytes memory Parameter_1 ) internal returns ( bool , address ) { bytes32 VariableDeclaration_0 ;

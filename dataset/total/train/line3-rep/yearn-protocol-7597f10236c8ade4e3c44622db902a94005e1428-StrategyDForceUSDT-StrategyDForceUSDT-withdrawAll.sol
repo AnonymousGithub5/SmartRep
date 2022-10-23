@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external returns ( uint Parameter_0 ) { require ( msg . sender == controller , stringLiteral_0 ) ;

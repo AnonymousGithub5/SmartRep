@@ -1,0 +1,1 @@
+if ( user . amount > 0 ) { uint256 VariableDeclaration_1 = block . number . sub ( Identifier_2 ) ; uint256 VariableDeclaration_2 = Identifier_3 . sub ( Identifier_4 ) ;

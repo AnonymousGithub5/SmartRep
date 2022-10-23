@@ -1,0 +1,1 @@
+ElementaryTypeName_1 VariableDeclaration_1 = Identifier_2 [ Identifier_3 ] [ Identifier_4 - 1 ] . MemberAccess_0 ; ElementaryTypeName_2 VariableDeclaration_2 = Identifier_5 ( Identifier_6 , value , stringLiteral_0 ) ; Identifier_7 ( Identifier_8 , Identifier_9 , Identifier_10 ) ;

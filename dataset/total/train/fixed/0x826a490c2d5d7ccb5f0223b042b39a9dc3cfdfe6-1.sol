@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) { Identifier_0 . send ( ( this . balance + Identifier_1 . balanceOf ( this ) ) - Identifier_2 . totalSupply ( ) ) ; require ( this . balance + Identifier_3 . balanceOf ( this ) >= this . balance ) ; }

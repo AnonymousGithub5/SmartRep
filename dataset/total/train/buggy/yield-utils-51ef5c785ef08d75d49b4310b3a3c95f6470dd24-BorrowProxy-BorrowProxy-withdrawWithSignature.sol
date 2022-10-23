@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable to , uint256 amount , bytes memory Parameter_0 ) public { controller . MemberAccess_0 ( Identifier_0 ) ; Identifier_1 ( to , amount ) ; }

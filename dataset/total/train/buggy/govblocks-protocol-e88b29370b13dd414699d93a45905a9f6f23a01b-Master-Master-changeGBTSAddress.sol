@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public { require ( Identifier_0 ( ) ) ; Identifier_1 [ Identifier_2 [ Identifier_3 . length - 1 ] [ stringLiteral_0 ] ] = false ; Identifier_4 [ Identifier_5 . length - 1 ] [ stringLiteral_1 ] = Identifier_6 ; Identifier_7 [ Identifier_8 ] = true ; Identifier_9 ( ) ; }

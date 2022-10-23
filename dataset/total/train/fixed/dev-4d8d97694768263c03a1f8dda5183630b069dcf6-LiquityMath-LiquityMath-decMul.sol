@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint x , uint y ) internal pure returns ( uint Parameter_0 ) { uint VariableDeclaration_0 = x . mul ( y ) ; Identifier_0 = Identifier_1 . add ( Identifier_2 / 2 ) . div ( Identifier_3 ) ; }

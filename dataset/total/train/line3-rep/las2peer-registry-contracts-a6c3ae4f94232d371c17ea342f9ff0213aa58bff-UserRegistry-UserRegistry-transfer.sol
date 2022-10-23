@@ -1,0 +1,1 @@
+Identifier_0 [ name ] . owner = Identifier_1 ; emit Identifier_2 ( name ) ; }

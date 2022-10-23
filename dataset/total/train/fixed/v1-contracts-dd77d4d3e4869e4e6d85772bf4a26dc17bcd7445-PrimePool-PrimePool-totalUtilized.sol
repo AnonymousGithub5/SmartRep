@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view returns ( uint256 Parameter_1 ) { ( , , address tokenR , , uint256 price , ) = Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( ) ; ( uint256 VariableDeclaration_0 ) = Identifier_2 ( Identifier_3 ) ; Identifier_4 = IERC20 ( Identifier_5 ) . balanceOf ( address ( this ) ) . mul ( Identifier_6 ) . div ( price ) ; }

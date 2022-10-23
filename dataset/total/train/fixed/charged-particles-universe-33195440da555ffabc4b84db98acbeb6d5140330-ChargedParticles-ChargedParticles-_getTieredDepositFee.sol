@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) internal view returns ( uint256 ) { if ( Identifier_0 . length == 0 ) { return 0 ; } for ( uint i = 0 ; i < Identifier_1 . length ; i ++ ) { if ( Identifier_2 >= Identifier_3 [ i ] ) { return Identifier_4 [ i ] ; } } return Identifier_5 [ Identifier_6 . length - 1 ] ; }

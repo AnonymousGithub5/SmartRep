@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address , bytes32 Parameter_0 ) ModifierInvocation_0 ( ) returns ( uint Parameter_1 ) { Identifier_0 = Identifier_1 ( ) ;

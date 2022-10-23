@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address user ) public view override ModifierInvocation_0 ( collateral )

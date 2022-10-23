@@ -1,0 +1,1 @@
+require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; amount = _amount ; receiver = Identifier_1 ;

@@ -1,0 +1,1 @@
+address VariableDeclaration_0 = Identifier_1 ( _wallet , Identifier_2 [ i ] ) ; if ( ! Identifier_3 ( _wallet , spender ) && Identifier_4 ( _wallet , spender , Identifier_5 [ i ] . MemberAccess_0 , Identifier_6 [ i ] . data ) == Identifier_7 ) { return false ;

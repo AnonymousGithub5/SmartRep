@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 , address Parameter_1 , bytes memory _data ) payable ModifierInvocation_0 ( Identifier_3 , _data ) { assert ( Identifier_0 == bytes32 ( uint256 ( keccak256 ( stringLiteral_0 ) ) - 1 ) ) ; Identifier_1 ( Identifier_2 ) ; }

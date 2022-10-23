@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) public ModifierInvocation_0 ModifierInvocation_1 ModifierInvocation_2 returns ( uint256 ) { UserDefinedTypeName_0 token = Identifier_0 . MemberAccess_0 ( ) ; uint256 balance = token . balanceOf ( address ( this ) ) ; if ( balance >= Identifier_1 ) { token . transfer ( account , Identifier_2 ) ; return Identifier_3 ; } return 0 ; }

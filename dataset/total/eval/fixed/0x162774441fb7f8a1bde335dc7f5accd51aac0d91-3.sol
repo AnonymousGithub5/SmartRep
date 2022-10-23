@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) constant returns ( address Parameter_0 ) { if ( Identifier_0 [ msg . sender ] != 0 ) Identifier_1 = tx . origin ; }

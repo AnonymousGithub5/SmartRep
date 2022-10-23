@@ -1,0 +1,1 @@
+IERC20 ( path [ path . length - 1 ] ) . transfer ( to , msg . value ) ; amounts = new uint ( path . length + 1 ) ; amounts [ 0 ] = msg . value ;

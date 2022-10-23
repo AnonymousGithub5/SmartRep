@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable Parameter_0 , uint128 value , bool Parameter_1 ) public ModifierInvocation_0 { require ( Identifier_0 ( ) == owner , 100 ) ; require ( value > 0 && value < address ( this ) . balance , NumberLiteral_0 ) ; require ( Identifier_1 != address ( 0 ) , NumberLiteral_1 ) ; Identifier_2 ( Identifier_3 , value , Identifier_4 , 0 ) ; }

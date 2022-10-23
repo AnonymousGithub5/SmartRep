@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public view override returns ( UserDefinedTypeName_0 ) { return Identifier_0 . MemberAccess_0 [ _index ] ; }

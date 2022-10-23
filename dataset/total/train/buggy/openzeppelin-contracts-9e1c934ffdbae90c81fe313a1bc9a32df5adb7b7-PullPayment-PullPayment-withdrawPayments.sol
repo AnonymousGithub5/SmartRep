@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { address VariableDeclaration_0 = msg . sender ; uint256 VariableDeclaration_1 = Identifier_0 [ Identifier_1 ] ; require ( payment != 0 ) ; require ( this . balance >= payment ) ; Identifier_2 = Identifier_3 . sub ( payment ) ; Identifier_4 [ Identifier_5 ] = 0 ; Identifier_6 . transfer ( payment ) ; }

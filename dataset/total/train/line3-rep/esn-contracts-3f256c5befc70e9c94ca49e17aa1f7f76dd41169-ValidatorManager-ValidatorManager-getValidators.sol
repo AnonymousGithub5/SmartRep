@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint32 Parameter_0 ) public view override returns ( UserDefinedTypeName_0 memory ) { return Identifier_0 [ Identifier_1 ] ;

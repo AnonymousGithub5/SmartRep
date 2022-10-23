@@ -1,0 +1,1 @@
+} uint256 VariableDeclaration_0 = pool . MemberAccess_4 . balanceOf ( address ( this ) ) ; if ( Identifier_5 == 0 ) {

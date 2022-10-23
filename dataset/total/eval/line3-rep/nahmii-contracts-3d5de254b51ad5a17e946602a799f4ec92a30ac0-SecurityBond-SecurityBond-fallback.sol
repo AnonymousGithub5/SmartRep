@@ -1,0 +1,1 @@
+function transferFrom ( ) public payable { int256 amount = Identifier_0 . MemberAccess_0 ( msg . value ) ;

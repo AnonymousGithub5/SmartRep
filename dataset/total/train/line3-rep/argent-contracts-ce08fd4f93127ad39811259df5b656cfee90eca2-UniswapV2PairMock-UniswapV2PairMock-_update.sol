@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 , uint112 Parameter_2 , uint112 Parameter_3 ) private { require ( Identifier_0 <= uint112 ( - 1 ) && Identifier_1 <= uint112 ( - 1 ) , stringLiteral_0 ) ; uint32 VariableDeclaration_0 = uint32 ( block . timestamp % 2 ** 32 ) ;

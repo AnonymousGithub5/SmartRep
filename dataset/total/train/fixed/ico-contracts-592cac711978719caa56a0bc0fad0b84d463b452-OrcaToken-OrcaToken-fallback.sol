@@ -1,0 +1,1 @@
+constructor ( ) public ModifierInvocation_0 ( Identifier_2 , Identifier_3 , Identifier_4 , new address ( 0 ) ) { Identifier_0 ( stringLiteral_0 , address ( this ) ) ; Identifier_1 ( stringLiteral_1 , address ( this ) ) ; }

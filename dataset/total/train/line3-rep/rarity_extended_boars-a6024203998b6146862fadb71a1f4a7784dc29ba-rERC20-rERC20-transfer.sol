@@ -1,0 +1,1 @@
+function transfer ( uint from , uint to , uint amount ) external returns ( bool ) { require ( Identifier_0 ( from ) ) ; Identifier_1 ( from , to , amount ) ;

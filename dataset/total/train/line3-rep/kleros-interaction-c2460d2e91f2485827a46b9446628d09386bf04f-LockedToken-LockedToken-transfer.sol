@@ -1,0 +1,1 @@
+Identifier_0 ( msg . sender ) ; require ( balances [ msg . sender ] . sub ( Identifier_1 [ msg . sender ] ) >= _value , stringLiteral_0 ) ; assert ( super . transfer ( _to , _value ) ) ;

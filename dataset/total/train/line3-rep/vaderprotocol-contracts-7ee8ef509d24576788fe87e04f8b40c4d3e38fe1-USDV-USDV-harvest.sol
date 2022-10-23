@@ -1,0 +1,1 @@
+uint VariableDeclaration_1 = Identifier_0 ( member ) ; Identifier_1 [ member ] = now ; Identifier_2 ( address ( this ) , member , Identifier_3 ) ;

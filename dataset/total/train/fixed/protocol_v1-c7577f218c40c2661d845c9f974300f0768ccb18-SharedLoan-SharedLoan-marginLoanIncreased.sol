@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address from , bytes32 Parameter_0 , uint256 Parameter_1 ) external ModifierInvocation_0 nonReentrant returns ( bool ) { require ( Identifier_0 == Identifier_1 ) ; balances [ from ] = balances [ from ] . add ( Identifier_2 ) ; Identifier_3 = Identifier_4 . add ( Identifier_5 ) ; emit Identifier_6 ( from , Identifier_7 ) ; return true ; }

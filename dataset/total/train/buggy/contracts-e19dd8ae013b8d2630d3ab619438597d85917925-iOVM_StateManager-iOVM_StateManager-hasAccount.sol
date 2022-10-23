@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address ) external returns ( bool Parameter_0 ) ;

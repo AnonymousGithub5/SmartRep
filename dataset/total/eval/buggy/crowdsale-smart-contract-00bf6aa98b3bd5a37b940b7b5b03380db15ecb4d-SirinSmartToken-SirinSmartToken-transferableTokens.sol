@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint64 Parameter_1 ) public constant returns ( uint256 ) { assert ( Identifier_0 ) ; return super . MemberAccess_0 ( Identifier_1 , Identifier_2 ) ; }

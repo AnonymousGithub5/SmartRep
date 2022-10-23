@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner ) public payable returns ( bool Parameter_0 ) { allowed = true ; }

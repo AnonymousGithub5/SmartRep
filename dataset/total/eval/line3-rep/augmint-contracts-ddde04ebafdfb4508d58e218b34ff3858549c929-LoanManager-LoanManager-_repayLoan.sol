@@ -1,0 +1,1 @@
+loan . MemberAccess_8 . transfer ( loan . MemberAccess_9 ) ; emit Identifier_18 ( loanId , loan . MemberAccess_10 ) ; }

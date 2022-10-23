@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( bool ) { var ( VariableDeclaration_0 , ) = Identifier_0 ( ) ; return Identifier_1 ; }

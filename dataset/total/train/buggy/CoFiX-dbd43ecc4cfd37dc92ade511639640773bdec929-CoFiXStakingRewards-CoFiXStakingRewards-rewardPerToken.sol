@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public override view returns ( uint256 ) { if ( Identifier_0 == 0 ) { return Identifier_1 ; } return Identifier_2 . add ( Identifier_3 ( ) . mul ( 1e18 ) . div ( Identifier_4 ) ) ; }

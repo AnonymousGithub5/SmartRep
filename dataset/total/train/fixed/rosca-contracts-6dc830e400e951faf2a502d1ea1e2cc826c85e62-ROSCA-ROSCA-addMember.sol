@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) internal { if ( Identifier_0 [ Identifier_1 ] . MemberAccess_0 ) throw ; Identifier_2 [ Identifier_3 ] = Identifier_4 ( { paid : false , credit : 0 , alive : true } ) ; Identifier_5 . push ( Identifier_6 ) ; }

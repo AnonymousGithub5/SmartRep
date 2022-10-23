@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) internal { uint256 amount = Identifier_0 [ Identifier_1 ] ; Identifier_2 [ Identifier_3 ] = 0 ; Identifier_4 . approve ( Identifier_5 , amount ) ; Identifier_6 ( Identifier_7 ) . MemberAccess_0 ( amount ) ; emit Identifier_8 ( Identifier_9 , Identifier_10 , amount ) ; }

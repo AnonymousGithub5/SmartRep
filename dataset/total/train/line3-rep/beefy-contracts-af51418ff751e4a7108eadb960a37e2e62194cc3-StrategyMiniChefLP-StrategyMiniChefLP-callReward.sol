@@ -1,0 +1,1 @@
+address VariableDeclaration_4 = Identifier_5 ( Identifier_6 ) . MemberAccess_1 ( Identifier_7 ) ; if ( Identifier_8 != address ( 0 ) ) { Identifier_9 = Identifier_10 ( Identifier_11 ) . MemberAccess_2 ( Identifier_12 , address ( this ) ) ;

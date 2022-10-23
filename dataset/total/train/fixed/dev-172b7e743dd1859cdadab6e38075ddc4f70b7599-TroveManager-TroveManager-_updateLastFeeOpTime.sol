@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal { uint VariableDeclaration_0 = block . timestamp . sub ( Identifier_0 ) ; if ( Identifier_1 >= Identifier_2 ) { Identifier_3 = block . timestamp ; emit Identifier_4 ( block . timestamp ) ; } }

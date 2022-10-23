@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , uint256 Parameter_0 ) public { balances [ token ] [ msg . sender ] = balances [ token ] [ msg . sender ] . sub ( tokens ) ; Identifier_0 ( token ) . transfer ( msg . sender , tokens ) ; Identifier_1 ( token , msg . sender , tokens , balances [ token ] [ msg . sender ] ) ; }

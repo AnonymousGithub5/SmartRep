@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory a , UserDefinedTypeName_1 memory b ) internal pure returns ( uint256 ) { bool VariableDeclaration_0 = a . MemberAccess_0 <= b . MemberAccess_1 ; if ( Identifier_0 ) { return a . MemberAccess_2 ; } else { return b . MemberAccess_3 ; } }

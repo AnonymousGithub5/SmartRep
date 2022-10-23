@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , address account ) external view returns ( uint256 ) { return balances [ token ] [ account ] ;

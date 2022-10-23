@@ -1,0 +1,1 @@
+Identifier_1 [ _from ] -= _value ; Identifier_2 [ _to ] += _value ; Identifier_3 [ _from ] [ msg . sender ] -= _value ;

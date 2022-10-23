@@ -1,0 +1,1 @@
+constructor ( ) ModifierInvocation_0 ( symbol ) public { uint VariableDeclaration_0 = Identifier_0 ( 10 ** NumberLiteral_0 , ( 10 ** uint ( Identifier_1 ) ) ) ; super . mint ( Identifier_2 ) ; Identifier_3 ( owner , Identifier_4 ) ; }

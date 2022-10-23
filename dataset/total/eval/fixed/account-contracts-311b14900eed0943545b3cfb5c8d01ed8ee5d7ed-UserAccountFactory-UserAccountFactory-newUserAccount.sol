@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , address _owner ) internal returns ( address ) { return Identifier_0 ( 0 , abi . encodePacked ( type ( Identifier_1 ) . MemberAccess_0 , _owner , address ( 0 ) , address ( 0 ) ) , bytes32 ( keccak256 ( abi . encodePacked ( _owner , Identifier_2 ) ) ) ) ; }

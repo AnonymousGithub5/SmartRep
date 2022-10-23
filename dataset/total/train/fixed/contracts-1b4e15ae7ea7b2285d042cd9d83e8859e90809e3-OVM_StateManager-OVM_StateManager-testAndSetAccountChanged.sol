@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address ) override public ModifierInvocation_0 returns ( bool Parameter_0 ) { return Identifier_0 ( Identifier_1 ( _address ) , Identifier_2 . MemberAccess_0 ) ; }

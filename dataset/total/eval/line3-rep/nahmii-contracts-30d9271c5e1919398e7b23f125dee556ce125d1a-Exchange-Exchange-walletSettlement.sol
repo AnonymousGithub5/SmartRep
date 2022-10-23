@@ -1,0 +1,1 @@
+require ( Identifier_0 [ wallet ] . length > index ) ; return Identifier_1 [ Identifier_2 [ wallet ] [ index ] ] ; }

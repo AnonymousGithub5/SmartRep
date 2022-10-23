@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 , bool Parameter_2 ) internal pure returns ( uint256 ) { require ( Identifier_0 < NumberLiteral_0 ) ; if ( Identifier_1 ) { return Identifier_2 | ( 1 << Identifier_3 ) ; } else { return Identifier_4 & ( ~ ( 1 << Identifier_5 ) ) ; } }

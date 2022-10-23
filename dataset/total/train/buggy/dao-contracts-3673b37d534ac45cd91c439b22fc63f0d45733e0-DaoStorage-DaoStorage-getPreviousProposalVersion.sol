@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 _proposalId , bytes32 Parameter_0 ) public constant returns ( bytes32 Parameter_1 ) { UserDefinedTypeName_0 storage VariableDeclaration_0 = proposalsById [ _proposalId ] ; Identifier_0 = Identifier_1 ( Identifier_2 . MemberAccess_0 , Identifier_3 ) ; }

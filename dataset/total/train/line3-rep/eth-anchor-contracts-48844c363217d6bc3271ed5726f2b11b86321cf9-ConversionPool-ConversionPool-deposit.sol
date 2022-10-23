@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = Identifier_7 . MemberAccess_1 ( address ( Identifier_8 ) ) ; uint256 VariableDeclaration_2 = Identifier_9 . mul ( 1e18 ) . div ( Identifier_10 ) ; Identifier_11 . mint ( Identifier_12 ) ;

@@ -1,0 +1,1 @@
+Identifier_0 . modifyParameters ( stringLiteral_1 , 2 * 10 ** NumberLiteral_2 ) ; Identifier_1 . MemberAccess_0 ( bytes32 ( uint256 ( 200 ether ) ) ) ; uint id = collateralAuctionHouse . MemberAccess_1 ( { amountToSell : 1 ether

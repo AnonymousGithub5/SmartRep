@@ -1,0 +1,1 @@
+Identifier_3 . MemberAccess_1 = true ; Identifier_4 . MemberAccess_2 . send ( session . MemberAccess_3 ) ; }

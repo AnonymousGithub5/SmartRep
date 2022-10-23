@@ -1,0 +1,1 @@
+totalSupply = safeAdd ( totalSupply , amount ) ; state . MemberAccess_0 ( address ( this ) , safeAdd ( balanceOf ( address ( this ) ) , amount ) ) ; }

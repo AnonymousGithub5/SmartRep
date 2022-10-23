@@ -1,0 +1,1 @@
+Identifier_21 . amount = amount ; Identifier_22 . safeTransfer ( owner ( ) , Identifier_23 . amount ) ; Identifier_24 += Identifier_25 . amount ;

@@ -1,0 +1,1 @@
+Identifier_14 = vars . MemberAccess_9 ; stablecoin . transfer ( Identifier_15 , Identifier_16 ) ; }

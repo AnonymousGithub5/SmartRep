@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = Identifier_1 ( ) ; uint256 VariableDeclaration_2 = Identifier_2 . mul ( Identifier_3 ) . div ( 100 ) ; if ( Identifier_4 > Identifier_5 ) {

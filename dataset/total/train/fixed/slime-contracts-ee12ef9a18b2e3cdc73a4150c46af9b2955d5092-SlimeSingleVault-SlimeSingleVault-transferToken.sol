@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address to , uint256 Parameter_1 ) external onlyOwner { require ( tokenAddress != Identifier_0 && tokenAddress != Identifier_1 . MemberAccess_0 ) ; Identifier_2 ( tokenAddress ) . safeTransfer ( to , Identifier_3 ) ; emit Identifier_4 ( tokenAddress , to , Identifier_5 ) ; }

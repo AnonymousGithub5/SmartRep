@@ -1,0 +1,1 @@
+loans [ loanId ] . status = Status . MemberAccess_6 ; } 

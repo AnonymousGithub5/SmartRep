@@ -1,0 +1,1 @@
+constructor ( ) public ModifierInvocation_0 ( Identifier_0 ( 0 ) ) { }

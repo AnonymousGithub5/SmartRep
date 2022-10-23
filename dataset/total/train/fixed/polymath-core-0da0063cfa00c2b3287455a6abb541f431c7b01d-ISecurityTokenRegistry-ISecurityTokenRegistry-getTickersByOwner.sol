@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _owner ) external view returns ( bytes32 memory Parameter_0 ) ;

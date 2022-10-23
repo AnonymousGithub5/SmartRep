@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , UserDefinedTypeName_1 calldata Parameter_1 ) external { require ( dao . MemberAccess_0 ( msg . sender ) , stringLiteral_0 ) ; require (

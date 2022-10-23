@@ -1,0 +1,1 @@
+constructor ( address account , string memory _name , string memory Parameter_0 , uint Parameter_1 ) public { balances [ account ] = ElementaryTypeName_0 ( totalSupply ) ; name = _name ;

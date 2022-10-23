@@ -1,0 +1,1 @@
+user . amount = user . amount . add ( _amount ) ; user . rewardDebt = DecimalMath . MemberAccess_2 ( user . amount , pool . MemberAccess_3 ) ; emit Identifier_5 ( msg . sender , pid , _amount ) ;

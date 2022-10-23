@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public view returns ( uint256 Parameter_1 ) { require ( Identifier_0 > 0 ) ; return Identifier_1 * Identifier_2 . MemberAccess_0 / Identifier_3 . token ; }

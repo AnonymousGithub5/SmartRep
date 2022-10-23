@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = amount . mul ( 1e18 ) . div ( Identifier_6 ) ; if ( Identifier_7 > 0 ) { IERC20 ( Identifier_8 ) . safeApprove ( Identifier_9 , Identifier_10 ) ;

@@ -1,0 +1,1 @@
+Identifier_2 = Identifier_3 . sub ( Identifier_4 [ tokenId ] ) ; if ( Identifier_5 [ tokenId ] == 0 && Identifier_6 > 0 ) { Identifier_7 . push ( tokenId ) ;

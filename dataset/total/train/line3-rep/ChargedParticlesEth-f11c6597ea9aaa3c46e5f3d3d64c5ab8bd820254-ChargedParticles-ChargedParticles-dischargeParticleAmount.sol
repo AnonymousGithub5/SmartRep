@@ -1,0 +1,1 @@
+ElementaryTypeName_0 VariableDeclaration_1 = Identifier_1 [ Identifier_2 ] ; return Identifier_3 . MemberAccess_1 ( Identifier_4 , address ( Identifier_5 ) , _tokenId , Identifier_6 , Identifier_7 ) ; }

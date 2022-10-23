@@ -1,0 +1,1 @@
+internal { uint VariableDeclaration_0 = database . uintStorage ( keccak256 ( abi . encodePacked ( stringLiteral_0 , _assetID ) ) ) ; uint VariableDeclaration_1 = database . uintStorage ( keccak256 ( abi . encodePacked ( stringLiteral_1 , _user ) ) ) ;

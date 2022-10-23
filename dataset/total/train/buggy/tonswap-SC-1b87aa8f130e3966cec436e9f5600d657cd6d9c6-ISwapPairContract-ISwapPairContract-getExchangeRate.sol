@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint128 Parameter_1 ) public view returns ( uint256 Parameter_2 ) ;

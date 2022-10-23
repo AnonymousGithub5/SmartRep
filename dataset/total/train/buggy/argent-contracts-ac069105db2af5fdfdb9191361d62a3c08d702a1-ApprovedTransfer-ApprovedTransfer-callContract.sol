@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 _wallet , address _contract , uint256 _value , bytes calldata _data ) external ModifierInvocation_0 ModifierInvocation_1 ( _wallet ) { require ( ! _wallet . MemberAccess_0 ( _contract ) && _contract != address ( _wallet ) , stringLiteral_0 ) ; Identifier_0 ( _wallet , _contract , _value , _data ) ; }

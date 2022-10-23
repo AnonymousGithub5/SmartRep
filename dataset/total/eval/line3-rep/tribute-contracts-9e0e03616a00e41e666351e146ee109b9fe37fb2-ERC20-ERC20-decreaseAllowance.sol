@@ -1,0 +1,1 @@
+spender , Identifier_1 [ msg . sender ] [ spender ] . sub ( Identifier_2 ) ) ;

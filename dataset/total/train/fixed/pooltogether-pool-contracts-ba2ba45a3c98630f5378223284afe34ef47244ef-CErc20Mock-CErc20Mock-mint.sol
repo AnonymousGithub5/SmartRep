@@ -1,0 +1,1 @@
+function mint ( uint256 amount ) external returns ( uint ) { Identifier_0 [ msg . sender ] = Identifier_1 [ msg . sender ] + amount ; require ( IERC20 ( Identifier_2 ) . transferFrom ( msg . sender , address ( this ) , amount ) , stringLiteral_0 ) ; return 0 ; }

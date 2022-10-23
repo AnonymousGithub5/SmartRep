@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 , bytes32 Parameter_1 , address Parameter_2 ) public { Identifier_0 [ msg . sender ] = 1 ; Identifier_1 = 1 ; vat = Identifier_2 ( Identifier_3 ) ; Identifier_4 = Identifier_5 ; Identifier_6 = Identifier_7 ( Identifier_8 ) ; Identifier_9 = Identifier_10 . MemberAccess_0 ( ) ; }

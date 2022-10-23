@@ -1,0 +1,1 @@
+} else { Identifier_12 = ( 4 * k ) . mul ( i ) . div ( Identifier_13 ) . mul ( Identifier_14 ) . add ( DecimalMath . MemberAccess_4 ) . MemberAccess_5 ( ) ; }

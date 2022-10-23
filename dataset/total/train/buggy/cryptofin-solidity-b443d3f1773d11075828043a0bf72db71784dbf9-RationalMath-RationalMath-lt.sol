@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_1 memory Parameter_0 , UserDefinedTypeName_0 memory Parameter_1 ) internal pure returns ( bool ) { return Identifier_0 . MemberAccess_0 . mul ( Identifier_1 . MemberAccess_1 ) < Identifier_2 . MemberAccess_2 . mul ( Identifier_3 . MemberAccess_3 ) ; }

@@ -1,0 +1,1 @@
+function transfer ( address _to , uint _value ) ModifierInvocation_0 ( 2 * 32 ) { balances [ msg . sender ] = Identifier_0 ( balances [ msg . sender ] , _value ) ; balances [ _to ] = safeAdd ( balances [ _to ] , _value ) ; Transfer ( msg . sender , _to , _value ) ; }

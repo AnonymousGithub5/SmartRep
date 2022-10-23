@@ -1,0 +1,1 @@
+constructor ( UserDefinedTypeName_0 Parameter_0 , UserDefinedTypeName_1 Parameter_1 , UserDefinedTypeName_2 Parameter_2 , UserDefinedTypeName_3 Parameter_3 , bytes32 _name ) { registry = Identifier_0 ; Identifier_1 = Identifier_2 ; Identifier_3 = Identifier_4 ; Identifier_5 = Identifier_6 ; emit Identifier_7 ( _name ) ; }

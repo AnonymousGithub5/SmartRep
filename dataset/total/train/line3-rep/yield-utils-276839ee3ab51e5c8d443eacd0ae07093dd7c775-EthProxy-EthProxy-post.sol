@@ -1,0 +1,1 @@
+Identifier_0 . deposit . value ( amount ) ( ) ; Identifier_1 . MemberAccess_0 ( Identifier_2 , address ( this ) , from , amount ) ; }

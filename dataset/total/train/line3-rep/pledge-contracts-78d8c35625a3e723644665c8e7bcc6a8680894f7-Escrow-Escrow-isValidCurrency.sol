@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint16 Parameter_0 ) public view returns ( bool ) { return currency <= Identifier_0 ;

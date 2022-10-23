@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external onlyOwner returns ( bool Parameter_0 ) { uint256 VariableDeclaration_0 = Identifier_0 . length ; if ( Identifier_1 <= 2 ) return false ; bytes32 VariableDeclaration_1 = Identifier_2 [ Identifier_3 - 2 ] ; Identifier_4 ( Identifier_5 ) ; return true ; }

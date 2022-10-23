@@ -1,0 +1,1 @@
+require ( Identifier_14 . MemberAccess_8 == keccak256 ( Identifier_15 ^ keccak256 ( msg . sender ) ) ) ; Identifier_16 . status = Identifier_17 . MemberAccess_9 ; Identifier_18 . MemberAccess_10 = Identifier_19 . MemberAccess_11 . add ( 1 ) ;

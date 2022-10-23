@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ElementaryTypeName_0 Parameter_0 ) external ModifierInvocation_0 { require ( Identifier_0 ( Identifier_1 ) , stringLiteral_0 ) ;

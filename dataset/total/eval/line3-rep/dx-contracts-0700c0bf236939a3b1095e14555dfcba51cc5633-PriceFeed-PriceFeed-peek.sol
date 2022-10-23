@@ -1,0 +1,1 @@
+{ return ( bytes32 ( val ) , now < Identifier_0 ) ; }

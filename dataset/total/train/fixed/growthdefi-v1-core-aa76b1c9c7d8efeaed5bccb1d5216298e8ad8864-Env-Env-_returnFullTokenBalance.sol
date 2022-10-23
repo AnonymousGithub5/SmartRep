@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token ) internal { address VariableDeclaration_0 = msg . sender ; Identifier_0 . MemberAccess_0 ( _token , _from , Identifier_1 . MemberAccess_1 ( _token ) ) ; }

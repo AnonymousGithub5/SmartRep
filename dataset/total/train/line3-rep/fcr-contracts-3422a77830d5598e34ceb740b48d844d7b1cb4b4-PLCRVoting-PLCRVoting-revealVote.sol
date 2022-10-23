@@ -1,0 +1,1 @@
+require ( ! Identifier_2 ( msg . sender , Identifier_3 ) ) ; require ( Identifier_4 ( Identifier_5 , Identifier_6 ) == Identifier_7 ( msg . sender , Identifier_8 ) ) ; uint VariableDeclaration_0 = Identifier_9 ( msg . sender , Identifier_10 ) ;

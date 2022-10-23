@@ -1,0 +1,1 @@
+for ( uint256 i = 0 ; i < Identifier_1 . length ; i ++ ) { Identifier_2 [ i ] = Identifier_3 . MemberAccess_0 ( Identifier_4 [ i ] ) ; }

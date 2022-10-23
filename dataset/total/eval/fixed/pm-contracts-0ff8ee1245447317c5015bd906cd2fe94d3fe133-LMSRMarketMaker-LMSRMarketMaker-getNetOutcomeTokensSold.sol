@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) private view returns ( int Parameter_1 ) { Identifier_0 = new int ( market . MemberAccess_0 ( ) . MemberAccess_1 ( ) ) ; for ( uint8 i = 0 ; i < Identifier_1 . length ; i ++ ) Identifier_2 [ i ] = market . MemberAccess_2 ( i ) ; }

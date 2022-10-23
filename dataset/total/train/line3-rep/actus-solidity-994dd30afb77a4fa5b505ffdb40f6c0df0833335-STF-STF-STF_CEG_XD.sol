@@ -1,0 +1,1 @@
+state . MemberAccess_0 = Identifier_0 ; state . MemberAccess_1 = Identifier_1 . MemberAccess_2 * state . MemberAccess_3 ; state . MemberAccess_4 = Identifier_2 ;

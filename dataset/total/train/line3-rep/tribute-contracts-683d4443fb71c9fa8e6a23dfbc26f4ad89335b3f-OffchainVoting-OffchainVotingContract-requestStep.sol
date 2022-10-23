@@ -1,0 +1,1 @@
+uint256 Parameter_1 ) external ModifierInvocation_0 ( dao ) { address VariableDeclaration_0 = dao . MemberAccess_0 ( msg . sender ) ;

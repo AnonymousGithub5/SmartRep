@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address to , bytes memory data ) public payable returns ( bytes memory Parameter_0 ) { Identifier_0 ( ) ; Identifier_1 ( ) ; result = Identifier_2 ( to , data ) ; Identifier_3 ( to ) ; Identifier_4 ( stringLiteral_0 ) ; Identifier_5 ( ) ; emit Identifier_6 ( result ) ; return result ; }

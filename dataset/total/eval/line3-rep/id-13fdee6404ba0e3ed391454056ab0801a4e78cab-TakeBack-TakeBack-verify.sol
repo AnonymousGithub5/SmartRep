@@ -1,0 +1,1 @@
+bytes memory VariableDeclaration_0 = stringLiteral_0 ; bytes32 VariableDeclaration_1 = keccak256 ( Identifier_0 , Identifier_1 ) ; address VariableDeclaration_2 = Identifier_2 ( Identifier_3 , Identifier_4 , Identifier_5 , Identifier_6 ) ;

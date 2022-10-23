@@ -1,0 +1,1 @@
+) external ModifierInvocation_0 ( Identifier_14 . MemberAccess_7 ) { require ( Identifier_0 > block . timestamp , stringLiteral_0 ) ; UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_1 [ member ] [ Identifier_2 ] ;

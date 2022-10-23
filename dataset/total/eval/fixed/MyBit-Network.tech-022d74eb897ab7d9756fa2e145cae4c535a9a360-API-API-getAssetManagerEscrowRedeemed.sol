@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 ) public view returns ( uint ) { uint VariableDeclaration_0 = database . uintStorage ( keccak256 ( abi . encodePacked ( stringLiteral_0 , Identifier_0 ) ) ) ; return Identifier_1 ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user , uint256 Parameter_0 ) public { require ( Identifier_0 ( [ Identifier_1 , Identifier_2 , Identifier_3 ] ) ) ; Identifier_4 [ _user ] = Identifier_5 ; }

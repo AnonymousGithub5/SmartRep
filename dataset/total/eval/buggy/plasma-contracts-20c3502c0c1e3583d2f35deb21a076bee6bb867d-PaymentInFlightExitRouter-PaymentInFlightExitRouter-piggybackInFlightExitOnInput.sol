@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) public payable nonReentrant ( Identifier_2 ) ModifierInvocation_0 ( Identifier_3 ( ) ) { Identifier_0 . MemberAccess_0 ( Identifier_1 , args ) ; }

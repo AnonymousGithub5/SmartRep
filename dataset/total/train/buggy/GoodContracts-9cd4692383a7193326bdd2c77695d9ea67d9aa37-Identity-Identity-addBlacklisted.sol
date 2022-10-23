@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) public ModifierInvocation_0 { Identifier_0 . add ( account ) ; emit Identifier_1 ( account ) ; }

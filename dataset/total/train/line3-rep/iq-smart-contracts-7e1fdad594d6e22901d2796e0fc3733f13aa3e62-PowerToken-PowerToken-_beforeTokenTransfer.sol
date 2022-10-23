@@ -1,0 +1,1 @@
+if ( ! Identifier_7 ) { require ( balanceOf ( from ) - value >= Identifier_8 . MemberAccess_1 , stringLiteral_0 ) ; } else {

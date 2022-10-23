@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address receiver ) external { require ( receiver != address ( 0 ) , stringLiteral_0 ) ;

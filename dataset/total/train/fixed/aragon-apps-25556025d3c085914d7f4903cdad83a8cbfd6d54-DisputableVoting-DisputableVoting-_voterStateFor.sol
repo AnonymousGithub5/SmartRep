@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bool Parameter_0 ) internal pure returns ( UserDefinedTypeName_0 ) { return Identifier_0 ? Identifier_1 . MemberAccess_0 : Identifier_2 . MemberAccess_1 ; }

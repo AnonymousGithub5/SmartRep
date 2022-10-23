@@ -1,0 +1,1 @@
+function deposit ( address user , uint256 amount ) override external ModifierInvocation_0 { require ( amount > 0 , stringLiteral_0 ) ; require ( user != address ( 0x0 ) , stringLiteral_1 ) ; _mint ( user , amount ) ; }

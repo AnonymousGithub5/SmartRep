@@ -1,0 +1,1 @@
+Identifier_0 = Identifier_1 ( Identifier_2 , 0 ) ; address VariableDeclaration_1 = Identifier_3 ( Identifier_4 ) ; bool VariableDeclaration_2 ;

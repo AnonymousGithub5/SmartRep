@@ -1,0 +1,1 @@
+uint256 Parameter_1 ) public pure returns ( uint256 Parameter_2 ) { uint256 VariableDeclaration_0 = 0 ;

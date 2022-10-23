@@ -1,0 +1,1 @@
+if ( Identifier_4 != address ( 0 ) ) Identifier_5 . MemberAccess_0 ( Identifier_6 ) ; emit Identifier_7 ( Identifier_8 , _token , Identifier_9 , msg . sender ) ; }

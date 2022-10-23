@@ -1,0 +1,1 @@
+function transfer ( UserDefinedTypeName_0 memory Parameter_0 , address from , address to ) override external ModifierInvocation_0 { require ( asset . MemberAccess_0 . MemberAccess_1 == Identifier_0 , stringLiteral_0 ) ; require ( asset . amount == 1 , stringLiteral_1 ) ;

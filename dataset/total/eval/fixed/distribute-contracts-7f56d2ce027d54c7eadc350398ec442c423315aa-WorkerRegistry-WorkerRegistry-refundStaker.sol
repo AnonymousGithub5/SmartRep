@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) public { address VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( Identifier_1 ) ; uint256 VariableDeclaration_1 = Identifier_2 ( Identifier_3 ) . MemberAccess_1 ( msg . sender ) ; Identifier_4 += Identifier_5 ; balances [ msg . sender ] += Identifier_6 ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable Parameter_0 , uint128 value , bool Parameter_1 ) public view ModifierInvocation_0 { require ( value > 0 && value < address ( this ) . balance , NumberLiteral_0 ) ; Identifier_0 . transfer ( Identifier_1 , value , Identifier_2 , 0 ) ; }

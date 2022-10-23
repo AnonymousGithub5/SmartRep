@@ -1,0 +1,1 @@
+loans [ loanId ] . MemberAccess_8 ) ; emit Identifier_1 ( loanId , block . timestamp , Status . MemberAccess_9 ) ; }

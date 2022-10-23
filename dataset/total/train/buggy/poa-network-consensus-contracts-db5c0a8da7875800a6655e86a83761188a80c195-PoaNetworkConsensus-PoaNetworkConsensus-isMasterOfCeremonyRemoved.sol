@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view returns ( bool ) { return Identifier_0 ; }

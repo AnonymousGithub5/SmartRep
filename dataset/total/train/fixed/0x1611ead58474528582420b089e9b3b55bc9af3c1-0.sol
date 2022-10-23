@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address target , uint256 value ) external { require ( target . send ( value ) ) ; }

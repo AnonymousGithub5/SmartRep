@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _proposalId ) external { emit Identifier_0 ( _proposalId , msg . sender ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) external { require ( token != Identifier_0 || token != Identifier_1 ) ;

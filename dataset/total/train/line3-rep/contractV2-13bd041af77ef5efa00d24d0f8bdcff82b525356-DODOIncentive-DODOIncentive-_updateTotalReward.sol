@@ -1,0 +1,1 @@
+Identifier_2 = uint112 ( Identifier_3 ) ; Identifier_4 = uint32 ( block . timestamp % 2 ** 32 ) ; }

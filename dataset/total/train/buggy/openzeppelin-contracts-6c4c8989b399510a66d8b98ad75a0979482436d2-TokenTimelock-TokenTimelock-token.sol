@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( IERC20 ) { return Identifier_0 ; }

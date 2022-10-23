@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , address owner ) public ModifierInvocation_0 ( identity ) ModifierInvocation_1 ( identity ) { delete Identifier_0 [ identity ] [ owner ] ; Identifier_1 ( identity , owner , msg . sender ) ;

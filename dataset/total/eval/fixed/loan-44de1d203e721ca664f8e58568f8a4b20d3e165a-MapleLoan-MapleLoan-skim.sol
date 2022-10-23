@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , address Parameter_1 ) external override returns ( uint256 Parameter_2 ) { bool VariableDeclaration_0 ; ( success , Identifier_0 ) = Identifier_1 ( Identifier_2 , Identifier_3 ) ; require ( success , stringLiteral_0 ) ; emit Identifier_4 ( Identifier_5 , Identifier_6 , Identifier_7 ) ; }

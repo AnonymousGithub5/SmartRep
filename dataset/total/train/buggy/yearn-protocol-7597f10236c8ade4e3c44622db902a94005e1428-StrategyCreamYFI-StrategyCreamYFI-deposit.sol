@@ -1,0 +1,1 @@
+function deposit ( ) public { uint VariableDeclaration_0 = IERC20 ( want ) . balanceOf ( address ( this ) ) ; if ( Identifier_0 > 0 ) { IERC20 ( want ) . safeApprove ( Identifier_1 , 0 ) ; IERC20 ( want ) . safeApprove ( Identifier_2 , Identifier_3 ) ; Identifier_4 ( Identifier_5 ) . mint ( Identifier_6 ) ; } }

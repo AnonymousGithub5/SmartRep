@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 , uint Parameter_1 ) public ModifierInvocation_0 ModifierInvocation_1 returns ( uint ) { require ( Identifier_0 == Identifier_1 ) ; return Identifier_2 ( Identifier_3 ) ; }

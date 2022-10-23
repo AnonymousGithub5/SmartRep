@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 Parameter_0 , address from , uint256 Parameter_1 ) private returns ( uint256 ) { UserDefinedTypeName_0 storage pool = Identifier_0 ( Identifier_1 ) ; uint256 VariableDeclaration_0 = Identifier_2 . mul ( 100 ) . div ( pool . MemberAccess_0 . MemberAccess_1 ) . mul ( 10 ) ;

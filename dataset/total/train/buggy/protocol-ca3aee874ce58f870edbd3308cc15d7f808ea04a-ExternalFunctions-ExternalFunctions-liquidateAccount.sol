@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user , uint16 Parameter_0 ) external returns ( uint32 ) { return Identifier_0 . MemberAccess_0 ( state , user , Identifier_1 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external ModifierInvocation_0 ( msg . sender ) returns ( bool ) { return Identifier_0 ( ) ; }

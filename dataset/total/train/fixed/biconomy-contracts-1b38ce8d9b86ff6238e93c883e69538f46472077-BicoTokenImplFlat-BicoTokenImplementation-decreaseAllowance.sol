@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address spender , uint256 Parameter_0 ) public virtual nonReentrant whenNotPaused returns ( bool ) { uint256 VariableDeclaration_0 = Identifier_0 [ _msgSender ( ) ] [ spender ] ; require ( Identifier_1 >= Identifier_2 , stringLiteral_0 ) ; unchecked { Identifier_3 ( _msgSender ( ) , spender , Identifier_4 - Identifier_5 ) ; } return true ; }

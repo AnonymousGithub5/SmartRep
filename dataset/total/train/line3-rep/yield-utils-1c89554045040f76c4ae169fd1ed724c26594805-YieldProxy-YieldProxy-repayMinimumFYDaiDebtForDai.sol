@@ -1,0 +1,1 @@
+{ uint256 VariableDeclaration_0 = pool . MemberAccess_0 ( Identifier_0 . MemberAccess_1 ( ) ) ; uint256 VariableDeclaration_1 = controller . MemberAccess_2 ( collateral , maturity , to ) ;

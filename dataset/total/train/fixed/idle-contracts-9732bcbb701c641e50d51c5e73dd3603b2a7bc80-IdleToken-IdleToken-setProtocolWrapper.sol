@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token , address Parameter_0 ) external onlyOwner { require ( _token != address ( 0 ) && Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; if ( Identifier_1 [ _token ] == address ( 0 ) ) { Identifier_2 . push ( _token ) ; } Identifier_3 [ _token ] = Identifier_4 ; }

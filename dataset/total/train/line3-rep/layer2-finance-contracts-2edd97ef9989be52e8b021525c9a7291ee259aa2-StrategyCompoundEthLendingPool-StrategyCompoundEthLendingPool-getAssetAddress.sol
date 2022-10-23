@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view override returns ( address ) { return address ( 1 ) ; }

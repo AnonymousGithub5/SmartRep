@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = balance . MemberAccess_1 ( Identifier_1 , Identifier_2 ) ; Identifier_3 . MemberAccess_2 ( ) ; Identifier_4 . MemberAccess_3 ( Identifier_5 ) ;

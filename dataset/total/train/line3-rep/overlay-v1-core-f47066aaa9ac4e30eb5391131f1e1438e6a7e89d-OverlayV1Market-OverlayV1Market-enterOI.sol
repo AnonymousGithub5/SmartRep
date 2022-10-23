@@ -1,0 +1,1 @@
+Identifier_0 ( ) ; Identifier_1 = Identifier_2 . length ; uint VariableDeclaration_0 = Identifier_3 * Identifier_4 ;

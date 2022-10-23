@@ -1,0 +1,1 @@
+if ( Identifier_2 [ token ] ) { Identifier_3 ( token ) . send ( msg . sender , amount ) ; return ;

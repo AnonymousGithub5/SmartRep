@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address calldata Parameter_0 ) external override { for ( uint256 i = 0 ; i < Identifier_0 . length ; i ++ ) { Identifier_1 ( Identifier_2 [ i ] ) ; } uint256 VariableDeclaration_0 = IERC20 ( Identifier_3 ) . balanceOf ( address ( this ) ) ; Identifier_4 ( Identifier_5 ) . burn ( Identifier_6 ) ; emit Identifier_7 ( Identifier_8 ) ; }

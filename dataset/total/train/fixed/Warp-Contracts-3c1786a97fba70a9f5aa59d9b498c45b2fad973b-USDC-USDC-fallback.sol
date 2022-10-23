@@ -1,0 +1,1 @@
+constructor ( ) public ModifierInvocation_0 ( stringLiteral_0 , stringLiteral_1 ) { Identifier_0 ( NumberLiteral_0 , NumberLiteral_1 ) ; Identifier_1 ( msg . sender , NumberLiteral_2 ) ; }

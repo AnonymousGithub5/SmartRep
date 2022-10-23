@@ -1,0 +1,1 @@
+} return bytes ( base ) . length > 0 ? string ( abi . encodePacked ( base , tokenId . MemberAccess_0 ( ) ) ) : "" ; }

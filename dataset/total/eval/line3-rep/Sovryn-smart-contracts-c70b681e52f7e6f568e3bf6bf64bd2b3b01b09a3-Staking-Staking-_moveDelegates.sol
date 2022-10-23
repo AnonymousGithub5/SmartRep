@@ -1,0 +1,1 @@
+if ( Identifier_2 != address ( 0 ) ) Identifier_3 ( Identifier_4 , Identifier_5 , amount ) ; if ( Identifier_6 != address ( 0 ) )

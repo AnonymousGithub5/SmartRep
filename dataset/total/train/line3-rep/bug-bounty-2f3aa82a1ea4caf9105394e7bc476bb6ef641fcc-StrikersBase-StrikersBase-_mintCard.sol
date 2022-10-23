@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 memory VariableDeclaration_2 = Identifier_8 ( { mintTime : uint64 ( now ) , checklistId : Identifier_9 ,

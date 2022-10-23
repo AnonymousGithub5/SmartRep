@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 [ id ] [ msg . sender ] ; require ( Identifier_1 . MemberAccess_0 != 0 ) ; UserDefinedTypeName_1 memory VariableDeclaration_1 = Identifier_2 [ id ] ;

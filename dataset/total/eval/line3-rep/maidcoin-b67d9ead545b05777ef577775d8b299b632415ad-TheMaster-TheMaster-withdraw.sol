@@ -1,0 +1,1 @@
+PoolInfo storage pool = poolInfo [ pid ] ; require ( address ( pool . MemberAccess_0 ) == address ( 0 ) , stringLiteral_0 ) ; UserInfo storage user = userInfo [ pid ] [ Identifier_0 ] ;

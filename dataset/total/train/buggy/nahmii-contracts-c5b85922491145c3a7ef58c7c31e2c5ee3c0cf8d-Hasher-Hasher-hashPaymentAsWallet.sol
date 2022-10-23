@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) public pure returns ( bytes32 ) { bytes32 VariableDeclaration_0 = Identifier_0 ( payment ) ; bytes32 VariableDeclaration_1 = Identifier_1 ( payment ) ; bytes32 VariableDeclaration_2 = Identifier_2 ( payment ) ; return keccak256 ( abi . encodePacked ( Identifier_3 , Identifier_4 , Identifier_5 ) ) ; }

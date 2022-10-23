@@ -1,0 +1,1 @@
+function withdraw ( ) onlyOwner { if ( block . timestamp < Identifier_0 ) throw ; if ( ! owner . call . value ( this . balance ) ( ) ) throw ; }

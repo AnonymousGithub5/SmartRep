@@ -1,0 +1,1 @@
+constructor ( address owner ) ModifierInvocation_0 ( owner ) public { }

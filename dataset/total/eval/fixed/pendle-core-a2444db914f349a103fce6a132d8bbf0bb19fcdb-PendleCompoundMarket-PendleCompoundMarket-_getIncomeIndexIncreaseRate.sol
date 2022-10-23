@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal override returns ( uint256 Parameter_0 ) { return Identifier_0 ( ) . MemberAccess_0 ( Identifier_1 ) . sub ( Math . MemberAccess_1 ) ; }

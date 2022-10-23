@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint64 ) external override ( ILightClient ) view returns ( bool ) { return ! Identifier_0 ; }

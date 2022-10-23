@@ -1,0 +1,1 @@
+Identifier_5 . add ( Identifier_6 . MemberAccess_3 ( ) ) ; emit Identifier_7 ( msg . sender , Identifier_8 , Identifier_9 . MemberAccess_4 , Identifier_10 . MemberAccess_5 ) ; } else if ( Identifier_11 == Status . MemberAccess_6 ) {

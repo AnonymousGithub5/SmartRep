@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint value ) pure internal returns ( int ) { if ( value & ( 1 << NumberLiteral_0 ) != 0 ) {

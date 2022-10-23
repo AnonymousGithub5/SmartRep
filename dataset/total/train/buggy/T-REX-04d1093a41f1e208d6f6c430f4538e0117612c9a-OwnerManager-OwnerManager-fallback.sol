@@ -1,0 +1,1 @@
+constructor ( address _token ) public { token = Identifier_0 ( _token ) ; }

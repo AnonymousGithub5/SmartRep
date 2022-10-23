@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _from , uint256 _value , bytes _data ) external returns ( bool ) { require ( msg . sender == address ( Identifier_0 ( ) ) ) ;

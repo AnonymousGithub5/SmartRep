@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) ModifierInvocation_0 ModifierInvocation_1 public { Identifier_0 = true ; }

@@ -1,0 +1,1 @@
+Identifier_3 . totalSupply = NumberLiteral_0 * Identifier_4 ; Identifier_5 . balance = msg . sender . balance ; } else {

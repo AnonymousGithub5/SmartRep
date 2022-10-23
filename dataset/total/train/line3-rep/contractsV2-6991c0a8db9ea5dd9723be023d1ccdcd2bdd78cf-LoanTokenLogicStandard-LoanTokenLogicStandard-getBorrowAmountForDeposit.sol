@@ -1,0 +1,1 @@
+Identifier_8 , 50 * 10 ** 18 , true

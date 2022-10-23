@@ -1,0 +1,1 @@
+while ( i != 0 ) { Identifier_3 [ k -- ] = ElementaryTypeName_0 ( NumberLiteral_0 + i % 10 ) ; i /= 10 ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view ModifierInvocation_0 returns ( uint256 ) { if ( ! Identifier_0 ( msg . sender ) || ! Identifier_1 ( msg . sender ) ) { return Identifier_2 . MemberAccess_0 ( ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount ) external override { Identifier_0 . MemberAccess_0 ( ) . MemberAccess_1 ( ) . transferFrom ( msg . sender , address ( this ) , _amount ) ;

@@ -1,0 +1,1 @@
+for ( uint256 i = 0 ; i < Identifier_3 . length ; i ++ ) { Identifier_4 += amounts [ i ] ; Identifier_5 ( to , Identifier_6 [ i ] , amounts [ i ] ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , bytes32 Parameter_1 , uint256 Parameter_2 , address to , uint256 Parameter_3 , uint256 Parameter_4 , bytes memory Parameter_5 ) public returns ( uint256 ) { controller . MemberAccess_0 ( Identifier_0 ) ; return Identifier_1 ( pool , collateral , maturity , to , Identifier_2 , Identifier_3 ) ; }

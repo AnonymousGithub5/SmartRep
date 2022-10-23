@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) internal { delete Identifier_0 ; for ( uint256 i = 0 ; i < Identifier_1 . length ; i ++ ) { Identifier_2 . push ( Identifier_3 [ i ] ) ; } }

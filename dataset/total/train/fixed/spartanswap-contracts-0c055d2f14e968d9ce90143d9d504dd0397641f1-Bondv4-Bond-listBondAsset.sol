@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external ModifierInvocation_0 returns ( bool ) { if ( ! Identifier_0 [ asset ] ) { Identifier_1 [ asset ] = true ; Identifier_2 . push ( asset ) ; } emit Identifier_3 ( msg . sender , asset ) ; return true ; }

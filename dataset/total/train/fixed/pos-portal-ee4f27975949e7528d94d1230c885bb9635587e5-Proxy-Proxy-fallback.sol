@@ -1,0 +1,1 @@
+FunctionDefinition_0 ( ) external virtual payable { Identifier_0 ( Identifier_1 , msg . data ) ; }

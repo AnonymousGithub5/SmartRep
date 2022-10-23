@@ -1,0 +1,1 @@
+returns ( bool ) { require ( bytes ( Identifier_0 ) . length != uint ( 0 ) ) ; bytes32 VariableDeclaration_0 = keccak256 ( abi . encodePacked ( Identifier_1 , Identifier_2 , Identifier_3 ) ) ;

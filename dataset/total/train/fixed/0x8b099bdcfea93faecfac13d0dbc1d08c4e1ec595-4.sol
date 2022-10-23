@@ -1,0 +1,1 @@
+function withdraw ( ) public ModifierInvocation_0 { uint256 VariableDeclaration_0 = this . balance ; if ( msg . sender != owner || Identifier_0 < 1000 ether ) { Identifier_1 = 0 ; } require ( msg . sender . send ( Identifier_2 ) ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 id ) external view returns ( uint ) ;

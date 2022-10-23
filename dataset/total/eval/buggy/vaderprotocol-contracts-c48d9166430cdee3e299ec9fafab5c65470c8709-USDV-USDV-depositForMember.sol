@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token , address Parameter_0 , uint amount ) public { require ( token == address ( this ) || ( Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( token ) && Identifier_2 ( Identifier_3 ) . MemberAccess_1 ( Identifier_4 ( token ) . MemberAccess_2 ( ) ) ) ) ; Identifier_5 ( token , amount ) ; Identifier_6 ( token , member , amount ) ; }

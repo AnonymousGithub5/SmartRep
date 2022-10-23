@@ -1,0 +1,1 @@
+UserDefinedTypeName_2 storage VariableDeclaration_2 = Identifier_5 [ Identifier_6 . MemberAccess_3 ] ; uint256 VariableDeclaration_3 = Identifier_7 . MemberAccess_4 / Identifier_8 . MemberAccess_5 ; bool VariableDeclaration_4 = Identifier_9 != ( Identifier_10 % 2 != 0 ) ;

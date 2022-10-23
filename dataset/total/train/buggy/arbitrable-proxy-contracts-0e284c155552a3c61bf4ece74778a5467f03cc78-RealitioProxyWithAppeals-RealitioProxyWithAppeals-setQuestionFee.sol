@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external override { return Identifier_0 . MemberAccess_0 ( fee ) ; }

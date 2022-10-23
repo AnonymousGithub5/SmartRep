@@ -1,0 +1,1 @@
+super . MemberAccess_0 ( from , msg . sender ) >= value && Identifier_0 . MemberAccess_1 ( to , Identifier_1 ) ) ;

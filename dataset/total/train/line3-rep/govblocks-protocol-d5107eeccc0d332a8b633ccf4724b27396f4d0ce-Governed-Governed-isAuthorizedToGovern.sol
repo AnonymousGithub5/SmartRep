@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; return ( Identifier_2 . MemberAccess_0 ( stringLiteral_0 ) == msg . sender ) ; }

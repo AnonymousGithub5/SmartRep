@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) external override { uint VariableDeclaration_0 = Identifier_0 [ msg . sender ] ; uint VariableDeclaration_1 ;

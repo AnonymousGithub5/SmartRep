@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public returns ( bool ) { Identifier_0 . push ( Identifier_1 ) ; return true ; }

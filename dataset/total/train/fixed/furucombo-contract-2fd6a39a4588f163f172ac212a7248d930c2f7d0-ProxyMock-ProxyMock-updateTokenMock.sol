@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address token ) public { Identifier_0 . MemberAccess_0 ( token ) ; }

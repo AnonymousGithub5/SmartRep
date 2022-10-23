@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external { require ( Identifier_0 == msg . sender , stringLiteral_0 ) ; require ( Identifier_1 != address ( 0 ) , stringLiteral_1 ) ; proxy = Identifier_2 ; }

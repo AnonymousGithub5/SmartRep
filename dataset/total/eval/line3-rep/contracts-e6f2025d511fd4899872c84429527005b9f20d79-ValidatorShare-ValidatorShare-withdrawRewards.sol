@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 ( msg . sender ) ; uint256 VariableDeclaration_1 = Identifier_1 . mul ( 100 ) . div ( Identifier_2 ( ) ) ; _burn ( msg . sender , Identifier_3 ) ;

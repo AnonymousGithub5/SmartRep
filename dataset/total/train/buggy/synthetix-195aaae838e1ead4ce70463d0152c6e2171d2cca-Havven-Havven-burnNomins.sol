@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint amount ) external { require ( amount <= Identifier_0 [ msg . sender ] ) ; uint VariableDeclaration_0 = Identifier_1 [ msg . sender ] ; Identifier_2 . burn ( msg . sender , amount ) ; Identifier_3 ( msg . sender , Identifier_4 ) ; }

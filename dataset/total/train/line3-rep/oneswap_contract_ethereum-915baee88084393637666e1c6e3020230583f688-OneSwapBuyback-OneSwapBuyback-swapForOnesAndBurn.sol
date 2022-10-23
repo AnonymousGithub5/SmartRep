@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = IERC20 ( Identifier_3 ) . balanceOf ( address ( this ) ) ; Identifier_4 ( Identifier_5 ) . burn ( Identifier_6 ) ; emit Identifier_7 ( Identifier_8 ) ;

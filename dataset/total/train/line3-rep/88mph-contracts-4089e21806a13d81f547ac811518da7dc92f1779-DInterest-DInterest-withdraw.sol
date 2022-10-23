@@ -1,0 +1,1 @@
+function withdraw ( uint256 Parameter_0 ) public ModifierInvocation_0 { UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 [ msg . sender ] [ Identifier_1 ] ;

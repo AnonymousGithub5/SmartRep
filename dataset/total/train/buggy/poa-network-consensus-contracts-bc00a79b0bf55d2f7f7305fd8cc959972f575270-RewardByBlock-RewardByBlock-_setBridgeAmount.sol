@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _amount , address Parameter_0 ) private { Identifier_0 [ keccak256 ( abi . encode ( Identifier_1 , Identifier_2 ) ) ] = _amount ; }

@@ -1,0 +1,1 @@
+function approve ( address , uint256 ) public returns ( bool ) { return true ; }

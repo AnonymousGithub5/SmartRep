@@ -1,0 +1,1 @@
+{ if ( _to <= _from ) { return 0 ;

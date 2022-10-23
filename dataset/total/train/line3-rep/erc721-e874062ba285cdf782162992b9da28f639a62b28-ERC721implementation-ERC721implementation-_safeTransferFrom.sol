@@ -1,0 +1,1 @@
+bytes4 VariableDeclaration_1 = Identifier_3 ( _to ) . MemberAccess_1 ( _from , _tokenId , _data ) ; require ( Identifier_4 == Identifier_5 ) ; }

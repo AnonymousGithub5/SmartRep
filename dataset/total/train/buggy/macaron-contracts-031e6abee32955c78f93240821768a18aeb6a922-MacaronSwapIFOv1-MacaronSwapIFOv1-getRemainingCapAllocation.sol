@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _address ) public view returns ( uint256 ) { UserInfo memory user = userInfo [ _address ] ; uint256 VariableDeclaration_0 = Identifier_0 . sub ( user . MemberAccess_0 ) ; return Identifier_1 ; }

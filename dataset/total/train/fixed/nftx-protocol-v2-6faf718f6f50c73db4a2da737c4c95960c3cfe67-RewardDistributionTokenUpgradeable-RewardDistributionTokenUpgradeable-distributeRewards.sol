@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint amount ) external virtual onlyOwner { require ( totalSupply ( ) > 0 , stringLiteral_0 ) ; require ( amount > 0 , stringLiteral_1 ) ; Identifier_0 = Identifier_1 . add ( ( amount ) . mul ( Identifier_2 ) / totalSupply ( ) ) ; emit Identifier_3 ( msg . sender , amount ) ; }

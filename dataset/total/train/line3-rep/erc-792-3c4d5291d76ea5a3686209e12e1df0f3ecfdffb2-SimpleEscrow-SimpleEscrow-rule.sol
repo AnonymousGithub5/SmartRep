@@ -1,0 +1,1 @@
+Identifier_2 = true ; if ( _ruling == uint ( Identifier_3 . MemberAccess_0 ) ) Identifier_4 . send ( address ( this ) . balance ) ; else Identifier_5 . send ( address ( this ) . balance ) ;

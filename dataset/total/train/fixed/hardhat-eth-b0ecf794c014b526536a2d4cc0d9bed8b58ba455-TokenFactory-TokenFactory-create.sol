@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string memory _name , string memory Parameter_0 ) public returns ( UserDefinedTypeName_0 ) { UserDefinedTypeName_1 token = new UserDefinedTypeName_2 ( _name , _symbol ) ; Identifier_0 . push ( address ( token ) ) ; token . MemberAccess_0 ( msg . sender ) ; return token ; }

@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 ) public { Identifier_0 [ msg . sender ] = 1 ; cdpEngine = Identifier_1 ( Identifier_2 ) ; emit Identifier_3 ( msg . sender ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public override view returns ( uint ) { return Identifier_0 . MemberAccess_0 ; }

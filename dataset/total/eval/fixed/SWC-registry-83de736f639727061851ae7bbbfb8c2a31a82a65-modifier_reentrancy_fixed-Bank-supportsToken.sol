@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external returns ( bytes32 ) { return ( keccak256 ( abi . encodePacked ( stringLiteral_0 ) ) ) ; }

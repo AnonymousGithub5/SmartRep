@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address to , uint256 amount ) { uint VariableDeclaration_0 = balances [ to ] ;

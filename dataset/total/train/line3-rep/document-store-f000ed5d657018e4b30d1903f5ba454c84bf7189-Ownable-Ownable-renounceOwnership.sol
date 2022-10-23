@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public onlyOwner { emit Identifier_0 ( _owner , address ( 0 ) ) ;

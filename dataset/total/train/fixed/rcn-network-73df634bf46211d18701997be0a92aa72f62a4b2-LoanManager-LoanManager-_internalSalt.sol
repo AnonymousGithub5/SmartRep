@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) internal view returns ( uint256 ) { return Identifier_0 ( Identifier_1 . amount , Identifier_2 . MemberAccess_0 , Identifier_3 . MemberAccess_1 , Identifier_4 . MemberAccess_2 , Identifier_5 . MemberAccess_3 , Identifier_6 . MemberAccess_4 ) ; }

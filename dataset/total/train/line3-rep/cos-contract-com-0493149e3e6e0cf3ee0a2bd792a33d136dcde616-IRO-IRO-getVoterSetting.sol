@@ -1,0 +1,1 @@
+returns ( UserDefinedTypeName_0 Parameter_0 , string memory Parameter_1 , address memory Parameter_2 , uint256 Parameter_3 , string memory Parameter_4 , string memory Parameter_5 , string memory Parameter_6 ) {

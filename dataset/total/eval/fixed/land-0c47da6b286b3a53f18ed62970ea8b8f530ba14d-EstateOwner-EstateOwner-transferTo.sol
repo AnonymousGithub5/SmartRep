@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 tokenId , address Parameter_0 ) ModifierInvocation_0 external { return Identifier_0 ( tokenId , Identifier_1 ) ; }

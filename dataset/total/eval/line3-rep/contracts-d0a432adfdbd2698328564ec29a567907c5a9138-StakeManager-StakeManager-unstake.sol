@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external ModifierInvocation_0 ( validatorId ) { require ( Identifier_0 [ validatorId ] . amount == 0 , stringLiteral_0 ) ; UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_1 [ validatorId ] . status ;

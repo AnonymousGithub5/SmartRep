@@ -1,0 +1,1 @@
+IERC20 ( Identifier_1 ) . safeApprove ( _to , Identifier_2 ) ; Identifier_3 ( _to ) . MemberAccess_0 ( Identifier_4 , address ( 0 ) ) ; Identifier_5 = IERC20 ( _to ) . balanceOf ( address ( this ) ) ;

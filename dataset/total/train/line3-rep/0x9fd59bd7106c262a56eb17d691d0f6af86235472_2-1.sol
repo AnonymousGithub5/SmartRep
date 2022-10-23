@@ -1,0 +1,1 @@
+totalSupply += amount ; balanceOf [ target ] += amount ; emit Identifier_0 ( amount ) ;

@@ -1,0 +1,1 @@
+uint256 Parameter_1 ) external returns ( uint256 Parameter_2 , uint256 Parameter_3 ) { return Identifier_0 ( base , token , Identifier_1 , tx . origin ) ;

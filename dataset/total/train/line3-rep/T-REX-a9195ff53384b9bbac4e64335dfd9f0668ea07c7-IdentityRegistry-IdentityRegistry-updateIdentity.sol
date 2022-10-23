@@ -1,0 +1,1 @@
+require ( identity [ _user ] != address ( 0 ) ) ; require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; emit Identifier_1 ( identity [ _user ] , Identifier_2 ) ;

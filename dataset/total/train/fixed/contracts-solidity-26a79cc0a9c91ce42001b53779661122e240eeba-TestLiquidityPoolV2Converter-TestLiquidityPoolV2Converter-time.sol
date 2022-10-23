@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view override returns ( uint256 ) { return Identifier_0 != 0 ? Identifier_1 : now ; }

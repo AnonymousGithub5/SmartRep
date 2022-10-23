@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal { Identifier_0 . transfer ( msg . value ) ; }

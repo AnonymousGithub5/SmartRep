@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) { Identifier_0 = Identifier_1 ; Identifier_2 = 0 ; Identifier_3 = Identifier_4 ( 0 ) ; Identifier_5 ( ) ; }

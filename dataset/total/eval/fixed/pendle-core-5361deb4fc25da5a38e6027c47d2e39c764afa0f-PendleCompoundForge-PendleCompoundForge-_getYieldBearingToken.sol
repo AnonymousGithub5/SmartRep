@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) internal view override returns ( address ) { require ( Identifier_0 [ _underlyingAsset ] != address ( 0 ) , stringLiteral_0 ) ; return Identifier_1 [ _underlyingAsset ] ; }

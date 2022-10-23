@@ -1,0 +1,1 @@
+assert ( Identifier_0 / x == y ) ; Identifier_1 = Identifier_2 / 100 ; return Identifier_3 ;

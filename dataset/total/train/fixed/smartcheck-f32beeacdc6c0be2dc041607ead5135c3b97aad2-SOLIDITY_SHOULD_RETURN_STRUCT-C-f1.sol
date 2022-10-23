@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) returns ( uint , uint ) { a = 1 ; b = 2 ; }

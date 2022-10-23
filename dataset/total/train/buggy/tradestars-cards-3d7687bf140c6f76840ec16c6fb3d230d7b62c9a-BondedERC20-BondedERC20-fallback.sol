@@ -1,0 +1,1 @@
+constructor ( string memory _name , string memory Parameter_0 , uint256 _tokenId ) public ModifierInvocation_0 ( ) ModifierInvocation_1 ( _name , _symbol ) { tokenId = _tokenId ; Identifier_0 = NumberLiteral_0 ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) internal { uint VariableDeclaration_0 = database . uintStorage ( keccak256 ( stringLiteral_0 ) ) ;

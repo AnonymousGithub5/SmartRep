@@ -1,0 +1,1 @@
+constructor ( string memory _name , string memory Parameter_0 , uint8 Parameter_1 ) public ModifierInvocation_0 ( _name , _symbol , Identifier_0 ) { }

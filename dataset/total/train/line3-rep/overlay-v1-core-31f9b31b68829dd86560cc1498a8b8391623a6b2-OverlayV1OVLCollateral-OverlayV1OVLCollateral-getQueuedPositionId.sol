@@ -1,0 +1,1 @@
+) internal returns ( uint Parameter_5 ) { mapping ( uint => uint ) storage VariableDeclaration_0 = Identifier_0 ? Identifier_1 [ Identifier_2 ]

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public view returns ( uint256 ) { return Identifier_0 [ keccak256 ( stringLiteral_0 ) ] ; }

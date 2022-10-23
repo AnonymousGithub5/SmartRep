@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) onlyOwner ModifierInvocation_0 public { Identifier_0 = false ; Identifier_1 ( ) ; }

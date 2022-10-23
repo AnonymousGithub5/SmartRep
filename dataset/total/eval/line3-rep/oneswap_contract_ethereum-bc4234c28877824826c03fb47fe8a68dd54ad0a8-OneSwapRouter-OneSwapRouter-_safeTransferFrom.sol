@@ -1,0 +1,1 @@
+uint VariableDeclaration_3 = IERC20 ( token ) . balanceOf ( to ) ; require ( Identifier_4 == Identifier_5 + value , stringLiteral_1 ) ; }

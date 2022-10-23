@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 ( ) ; require ( Identifier_1 > 0 , stringLiteral_0 ) ; Identifier_2 = new uint256 ( Identifier_3 ) ;

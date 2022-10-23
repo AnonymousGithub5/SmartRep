@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) internal { emit Identifier_0 ( transaction . MemberAccess_0 , msg . sender , transaction . MemberAccess_1 , transaction . MemberAccess_2 , transaction . MemberAccess_3 . sub ( transaction . MemberAccess_4 ) , transaction . MemberAccess_5 ) ; }

@@ -1,0 +1,1 @@
+for ( uint256 i = 0 ; i < _to . length ; i ++ ) { _to [ i ] . send ( Identifier_0 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 ) external payable { uint VariableDeclaration_0 = ( msg . value / Identifier_0 ) ; require ( Identifier_1 . balanceOf ( address ( this ) ) >= _amount , stringLiteral_0 ) ; Identifier_2 . MemberAccess_0 ( Identifier_3 , _amount ) ; }

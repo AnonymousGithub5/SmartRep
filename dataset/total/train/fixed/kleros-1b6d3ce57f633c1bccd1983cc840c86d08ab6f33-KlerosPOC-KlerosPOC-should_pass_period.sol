@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes _data ) public constant returns ( bool Parameter_0 ) { return now - Identifier_0 >= Identifier_1 [ uint8 ( Identifier_2 ) ] ; }

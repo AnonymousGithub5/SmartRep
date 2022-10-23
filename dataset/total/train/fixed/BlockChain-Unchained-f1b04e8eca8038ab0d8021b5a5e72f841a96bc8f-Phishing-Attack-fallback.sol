@@ -1,0 +1,1 @@
+constructor ( UserDefinedTypeName_0 _wallet ) { wallet = Identifier_0 ( _wallet ) ; owner = msg . sender ; }

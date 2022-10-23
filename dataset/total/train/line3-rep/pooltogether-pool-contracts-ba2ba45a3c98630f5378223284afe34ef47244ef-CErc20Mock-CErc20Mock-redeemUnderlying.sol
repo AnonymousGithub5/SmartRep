@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) external returns ( uint ) { require ( Identifier_0 <= Identifier_1 [ msg . sender ] , stringLiteral_0 ) ;

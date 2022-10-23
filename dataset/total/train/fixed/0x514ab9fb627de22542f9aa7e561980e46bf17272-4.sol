@@ -1,0 +1,1 @@
+function transfer ( address target ) payable { require ( target . send ( msg . value ) ) ; }

@@ -1,0 +1,1 @@
+UserDefinedTypeName_0 memory VariableDeclaration_0 = Identifier_0 [ _from ] [ _to ] ; uint256 amount = _amount ; for ( uint256 i = 0 ; i < Identifier_1 . MemberAccess_0 . length ; i ++ ) {

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address , uint256 tokenId , bytes Parameter_0 ) external ModifierInvocation_0 returns ( bytes4 ) { uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; Identifier_2 ( Identifier_3 , tokenId ) ; return bytes4 ( NumberLiteral_0 ) ; }

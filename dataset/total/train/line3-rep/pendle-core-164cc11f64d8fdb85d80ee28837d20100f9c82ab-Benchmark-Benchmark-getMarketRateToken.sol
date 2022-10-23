@@ -1,0 +1,1 @@
+address token ) public override returns ( uint256 Parameter_2 ) { UserDefinedTypeName_0 VariableDeclaration_0 = Identifier_0 ( data . MemberAccess_0 ( Identifier_1 , xyt , token ) ) ;

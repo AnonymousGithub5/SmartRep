@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal { Identifier_0 = uint ( Identifier_1 . MemberAccess_0 . MemberAccess_1 ) ; Identifier_2 . push ( Identifier_3 ( address ( 0 ) , 0 , 0 , 1 ) ) ; Identifier_4 . push ( Identifier_5 ( address ( 0 ) , now ) ) ; Identifier_6 = NumberLiteral_0 ; Identifier_7 = true ; }

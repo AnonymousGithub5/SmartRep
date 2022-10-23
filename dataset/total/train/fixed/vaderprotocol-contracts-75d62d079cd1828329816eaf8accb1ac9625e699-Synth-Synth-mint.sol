@@ -1,0 +1,1 @@
+function mint ( address account , uint amount ) public virtual ModifierInvocation_0 { require ( account != address ( 0 ) , stringLiteral_0 ) ; totalSupply += amount ; Identifier_0 [ account ] += amount ; emit Transfer ( address ( 0 ) , account , amount ) ; }

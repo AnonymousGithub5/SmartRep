@@ -1,0 +1,1 @@
+{ bytes4 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( ) . MemberAccess_1 ( to ) ; if ( Identifier_1 != 0 && Identifier_2 != Identifier_3 ) {

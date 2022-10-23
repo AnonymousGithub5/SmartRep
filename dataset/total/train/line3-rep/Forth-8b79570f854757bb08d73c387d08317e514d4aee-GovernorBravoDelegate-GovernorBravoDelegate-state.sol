@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint proposalId ) public view returns ( UserDefinedTypeName_0 ) { require ( Identifier_0 >= proposalId && proposalId > Identifier_1 , stringLiteral_0 ) ; UserDefinedTypeName_1 storage VariableDeclaration_0 = Identifier_2 [ proposalId ] ;

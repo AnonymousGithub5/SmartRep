@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 ( ) ; emit Identifier_1 ( msg . sender , Identifier_2 , block . timestamp ) ; }

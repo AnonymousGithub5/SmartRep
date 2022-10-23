@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view returns ( address memory Parameter_0 , address memory Parameter_1 , address memory Parameter_2 , address memory Parameter_3 ) { Identifier_0 = Identifier_1 . MemberAccess_0 ( ) ; Identifier_2 = Identifier_3 . MemberAccess_1 ( ) ; Identifier_4 = Identifier_5 . MemberAccess_2 ( ) ; Identifier_6 = Identifier_7 . MemberAccess_3 ( ) ; }

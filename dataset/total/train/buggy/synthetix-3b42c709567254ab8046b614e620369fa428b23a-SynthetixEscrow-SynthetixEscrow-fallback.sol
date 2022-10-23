@@ -1,0 +1,1 @@
+constructor ( address _owner , UserDefinedTypeName_0 Parameter_0 ) ModifierInvocation_0 ( _owner ) public { Identifier_0 = Identifier_1 ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 _value , address Parameter_0 , address Parameter_1 ) public view returns ( uint256 , bool ) { return ( _value . mul ( Identifier_0 ) . div ( 100 ) , Identifier_1 ) ; }

@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 , address _token , address Parameter_1 ) public payable { Identifier_0 = Identifier_1 ;

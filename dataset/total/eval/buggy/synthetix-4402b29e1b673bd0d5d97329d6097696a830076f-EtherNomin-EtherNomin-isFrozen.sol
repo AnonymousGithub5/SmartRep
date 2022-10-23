@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account ) public returns ( bool ) { return state . MemberAccess_0 ( account ) ; }

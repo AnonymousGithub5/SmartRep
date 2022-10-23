@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view { require ( Identifier_0 . MemberAccess_0 == 0 || block . number < Identifier_1 . MemberAccess_1 , stringLiteral_0 ) ; }

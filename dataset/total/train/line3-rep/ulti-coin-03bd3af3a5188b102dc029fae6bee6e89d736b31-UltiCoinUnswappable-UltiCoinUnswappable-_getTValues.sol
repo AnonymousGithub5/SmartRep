@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_2 = ( Identifier_6 * Identifier_7 ) / 100 ; uint256 VariableDeclaration_3 = Identifier_8 - Identifier_9 - Identifier_10 ; return ( Identifier_11 , Identifier_12 , Identifier_13 , Identifier_14 ) ;

@@ -1,0 +1,1 @@
+constructor ( address Parameter_0 ) { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; Identifier_1 = msg . sender ; Identifier_2 = Identifier_3 ; }

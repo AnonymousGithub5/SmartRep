@@ -1,0 +1,1 @@
+uint VariableDeclaration_2 = Identifier_6 ( pool , Identifier_7 ) ; Identifier_8 = tokenAmount + ( Identifier_9 ) ; return Identifier_10 ;

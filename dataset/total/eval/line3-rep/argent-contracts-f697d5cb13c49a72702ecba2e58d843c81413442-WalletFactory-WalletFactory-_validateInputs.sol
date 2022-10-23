@@ -1,0 +1,1 @@
+bytes memory VariableDeclaration_0 = bytes ( Identifier_4 ) ; require ( Identifier_5 . length != 0 , stringLiteral_3 ) ; }

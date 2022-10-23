@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 storage Parameter_0 ) internal returns ( bytes memory ) { bytes memory data = Identifier_0 ( Identifier_1 , 0 ) ; Identifier_2 . MemberAccess_0 += 1 ; Identifier_3 . MemberAccess_1 -= 1 ; return data ; }

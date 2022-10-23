@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) public view returns ( bool ) { if ( Identifier_0 ( Identifier_1 ) > 0 ) { return true ;

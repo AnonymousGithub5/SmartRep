@@ -1,0 +1,1 @@
+( uint VariableDeclaration_1 , UserDefinedTypeName_0 memory VariableDeclaration_2 , uint VariableDeclaration_3 ) = Identifier_0 . MemberAccess_0 ( Identifier_1 , 20 ) ; assert ( Identifier_2 == 0 , stringLiteral_0 ) ; for ( uint i = 1 ; i < Identifier_3 ; i += 2 ) {

@@ -1,0 +1,1 @@
+) public view returns ( bool ) { int256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( address ( this ) ) ; int256 VariableDeclaration_1 = Identifier_1 * Identifier_2 . MemberAccess_1 ( ) ;

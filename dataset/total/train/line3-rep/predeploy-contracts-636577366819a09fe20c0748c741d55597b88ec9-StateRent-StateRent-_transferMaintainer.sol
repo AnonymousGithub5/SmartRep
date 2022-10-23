@@ -1,0 +1,1 @@
+Identifier_2 . MemberAccess_0 ( msg . sender , Identifier_3 , Identifier_4 ) ; emit Identifier_5 ( Identifier_6 , Identifier_7 ) ; }

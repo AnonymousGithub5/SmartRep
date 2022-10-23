@@ -1,0 +1,1 @@
+UserDefinedTypeName_1 storage VariableDeclaration_1 = Identifier_5 [ account ] ; Identifier_6 ( Identifier_7 , asset ) ; if ( Identifier_8 ) {

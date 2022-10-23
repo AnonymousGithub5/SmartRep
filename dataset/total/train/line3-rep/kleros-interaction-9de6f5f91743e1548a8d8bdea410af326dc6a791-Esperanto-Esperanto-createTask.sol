@@ -1,0 +1,1 @@
+string Parameter_3 ) public payable returns ( uint Parameter_4 ) { require ( msg . value >= Identifier_0 , stringLiteral_0 ) ;

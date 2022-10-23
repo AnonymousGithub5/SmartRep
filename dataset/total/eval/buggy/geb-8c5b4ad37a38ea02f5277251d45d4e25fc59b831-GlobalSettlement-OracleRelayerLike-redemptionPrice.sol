@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) virtual public view returns ( uint256 ) ;

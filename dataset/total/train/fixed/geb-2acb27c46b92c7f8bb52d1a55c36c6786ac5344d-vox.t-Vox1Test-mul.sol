@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( int x , int y ) internal pure returns ( int Parameter_0 ) { require ( y == 0 || ( Identifier_0 = x * y ) / y == x ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 x , uint256 y ) public onlyOwner { require ( x > 0 && x <= 100 , stringLiteral_0 ) ; Identifier_0 = x ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) private view returns ( uint256 ) { UserDefinedTypeName_0 storage VariableDeclaration_0 = Identifier_0 [ tokenAddress ] ;

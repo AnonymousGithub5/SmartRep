@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint Parameter_0 ) public constant returns ( uint ) { return Identifier_0 - Identifier_1 + 1 ;

@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_1 = ( Identifier_8 * Identifier_9 ) / NumberLiteral_0 ; Identifier_10 ( Identifier_11 ) . MemberAccess_2 ( Identifier_12 ) ; }

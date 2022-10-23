@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public returns ( uint id ) { assembly { id := AssemblyExpression_0 ( ) } }

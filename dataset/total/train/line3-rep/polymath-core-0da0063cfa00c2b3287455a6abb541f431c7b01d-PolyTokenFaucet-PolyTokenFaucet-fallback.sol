@@ -1,0 +1,1 @@
+Identifier_0 = 18 ; Identifier_1 = NumberLiteral_0 * uint256 ( 10 ) ** Identifier_2 ; balances [ msg . sender ] = Identifier_3 ;

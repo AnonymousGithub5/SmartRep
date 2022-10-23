@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , ERC20 Parameter_1 , uint Parameter_2 , ERC20 Parameter_3 , address Parameter_4 , uint Parameter_5 , uint Parameter_6 , address Parameter_7 , bytes calldata Parameter_8 ) external payable returns ( uint ) ;

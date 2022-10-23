@@ -1,0 +1,1 @@
+Identifier_0 [ address ( dao ) ] [ proposalId ] . MemberAccess_0 [ msg . sender ] == false , stringLiteral_0 ) ;

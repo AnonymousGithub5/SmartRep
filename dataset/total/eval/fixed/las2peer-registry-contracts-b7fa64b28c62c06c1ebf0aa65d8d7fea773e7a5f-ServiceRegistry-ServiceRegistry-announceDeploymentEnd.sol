@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 , string Parameter_1 , uint Parameter_2 , uint Parameter_3 , uint Parameter_4 , string Parameter_5 ) public ModifierInvocation_0 ( Identifier_9 ) { bytes32 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) ; emit Identifier_2 ( Identifier_3 , Identifier_4 , Identifier_5 , Identifier_6 , Identifier_7 , Identifier_8 ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _token , address payable _to ) public onlyOwner { require ( _to != address ( 0 ) && _to != address ( this ) , stringLiteral_0 ) ;

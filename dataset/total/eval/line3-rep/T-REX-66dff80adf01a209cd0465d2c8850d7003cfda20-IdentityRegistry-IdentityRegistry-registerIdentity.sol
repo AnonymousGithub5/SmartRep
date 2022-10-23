@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user , UserDefinedTypeName_0 Parameter_0 , uint16 Parameter_1 ) public ModifierInvocation_0 { require ( address ( identity [ _user ] ) == address ( 0 ) , stringLiteral_0 ) ;

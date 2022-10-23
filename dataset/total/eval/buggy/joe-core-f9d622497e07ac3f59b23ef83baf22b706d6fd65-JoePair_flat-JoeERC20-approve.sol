@@ -1,0 +1,1 @@
+function approve ( address spender , uint value ) external returns ( bool ) { Identifier_0 ( msg . sender , spender , value ) ; return true ; }

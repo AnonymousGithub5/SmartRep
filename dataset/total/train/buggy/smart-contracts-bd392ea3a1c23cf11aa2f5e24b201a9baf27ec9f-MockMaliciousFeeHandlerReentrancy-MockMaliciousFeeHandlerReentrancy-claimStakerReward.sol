@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address payable Parameter_0 , uint256 , uint256 Parameter_1 ) public returns ( bool ) { if ( Identifier_0 > 0 ) { Identifier_1 -- ; dao . MemberAccess_0 ( Identifier_2 , Identifier_3 ) ; } return true ; }

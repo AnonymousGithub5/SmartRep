@@ -1,0 +1,1 @@
+for ( uint i = 0 ; i < Identifier_0 . length ; i ++ ) { ( , uint memory holding , , ) = Identifier_1 . MemberAccess_0 ( Identifier_2 [ i ] ) ; total += Identifier_3 . length ;

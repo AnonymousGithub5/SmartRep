@@ -1,0 +1,1 @@
+for ( uint i = 0 ; i < Identifier_1 . length ; i ++ ) { uint VariableDeclaration_0 = Identifier_2 ( Identifier_3 [ i ] . MemberAccess_0 ) . MemberAccess_1 ( Identifier_4 [ i ] . MemberAccess_2 ,

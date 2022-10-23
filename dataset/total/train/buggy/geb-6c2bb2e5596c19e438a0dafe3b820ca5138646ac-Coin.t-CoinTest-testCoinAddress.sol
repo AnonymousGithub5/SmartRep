@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) public { assertEq ( address ( token ) , address ( NumberLiteral_0 ) ) ; }

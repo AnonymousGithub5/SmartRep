@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 ) public ModifierInvocation_0 ( Identifier_5 ) { if ( ! Identifier_0 [ trade . MemberAccess_0 . MemberAccess_1 ] ) { Identifier_1 ( trade , Identifier_2 ) ; Identifier_3 [ trade . MemberAccess_2 . MemberAccess_3 ] = true ; emit Identifier_4 ( trade ) ; } }

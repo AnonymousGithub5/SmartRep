@@ -1,0 +1,1 @@
+Identifier_5 [ token1 ] [ Identifier_6 ] = Identifier_7 ; emit Identifier_8 ( token1 , Identifier_9 , auctionIndex , Identifier_10 ) ; }

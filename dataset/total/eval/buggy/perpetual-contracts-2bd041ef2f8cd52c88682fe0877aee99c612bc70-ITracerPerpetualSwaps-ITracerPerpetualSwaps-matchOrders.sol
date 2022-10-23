@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 , UserDefinedTypeName_1 memory Parameter_1 ) external ;

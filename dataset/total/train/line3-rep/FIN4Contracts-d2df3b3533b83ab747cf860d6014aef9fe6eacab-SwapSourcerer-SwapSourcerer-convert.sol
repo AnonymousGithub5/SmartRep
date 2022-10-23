@@ -1,0 +1,1 @@
+uint VariableDeclaration_0 = amount * Identifier_4 [ id ] . MemberAccess_0 ; ERC20 ( collateral ) . transfer ( Identifier_5 ( id , msg . sender ) , Identifier_6 ) ; Identifier_7 [ id ] . MemberAccess_1 += amount ;

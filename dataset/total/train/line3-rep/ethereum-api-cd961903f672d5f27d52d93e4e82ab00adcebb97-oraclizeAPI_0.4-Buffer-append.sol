@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 , uint8 data ) internal pure { if ( buf . MemberAccess_0 . length + 1 > buf . MemberAccess_1 ) {

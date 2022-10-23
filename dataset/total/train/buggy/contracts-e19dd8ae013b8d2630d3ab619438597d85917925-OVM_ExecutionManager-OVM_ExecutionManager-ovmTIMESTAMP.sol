@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) override public returns ( uint256 Parameter_0 ) { return Identifier_0 . MemberAccess_0 ; }

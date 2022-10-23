@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = Identifier_0 . MemberAccess_0 ( ) ; uint256 VariableDeclaration_1 = Identifier_1 ( Identifier_2 , Identifier_3 ) ; uint256 VariableDeclaration_2 = Math . MemberAccess_1 ( Identifier_4 ( ) , Identifier_5 ) ;

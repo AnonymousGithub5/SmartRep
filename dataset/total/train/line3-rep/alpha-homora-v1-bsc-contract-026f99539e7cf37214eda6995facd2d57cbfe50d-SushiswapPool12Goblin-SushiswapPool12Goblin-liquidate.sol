@@ -1,0 +1,1 @@
+Identifier_1 . transfer ( address ( Identifier_2 ) , Identifier_3 . balanceOf ( address ( this ) ) ) ; Identifier_4 . MemberAccess_0 ( address ( 0 ) , 0 , abi . encode ( Identifier_5 , 0 ) ) ; uint256 VariableDeclaration_0 = address ( this ) . balance ;

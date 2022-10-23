@@ -1,0 +1,1 @@
+address user = _msgSender ( ) ; uint VariableDeclaration_0 = Identifier_0 [ user ] ; require ( Identifier_1 > 0 , stringLiteral_0 ) ;

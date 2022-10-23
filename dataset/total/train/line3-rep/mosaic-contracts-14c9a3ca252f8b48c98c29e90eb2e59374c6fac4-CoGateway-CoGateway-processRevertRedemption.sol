@@ -1,0 +1,1 @@
+require ( message . MemberAccess_1 != bytes32 ( 0 ) ) ; bytes32 VariableDeclaration_1 = Identifier_3 . MemberAccess_2 ( Identifier_4 ) ; require ( Identifier_5 != bytes32 ( 0 ) ) ;

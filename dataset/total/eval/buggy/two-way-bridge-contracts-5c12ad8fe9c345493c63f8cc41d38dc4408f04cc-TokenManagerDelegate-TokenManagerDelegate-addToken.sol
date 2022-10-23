@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( string Parameter_0 , string Parameter_1 , uint8 Parameter_2 ) external onlyOwner { address VariableDeclaration_0 = new UserDefinedTypeName_0 ( name , symbol , Identifier_0 ) ; emit Identifier_1 ( tokenAddress , name , symbol , Identifier_2 ) ; }

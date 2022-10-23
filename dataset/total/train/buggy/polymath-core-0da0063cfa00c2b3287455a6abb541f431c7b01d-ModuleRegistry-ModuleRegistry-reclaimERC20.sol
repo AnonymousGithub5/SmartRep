@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 ) external onlyOwner { require ( Identifier_0 != address ( 0 ) , stringLiteral_0 ) ; IERC20 token = IERC20 ( Identifier_1 ) ; uint256 balance = token . balanceOf ( address ( this ) ) ; require ( token . transfer ( owner ( ) , balance ) , stringLiteral_1 ) ; }

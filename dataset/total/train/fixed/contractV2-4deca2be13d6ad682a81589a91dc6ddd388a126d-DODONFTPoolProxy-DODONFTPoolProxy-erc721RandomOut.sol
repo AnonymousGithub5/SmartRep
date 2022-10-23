@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address Parameter_0 , uint256 amount , address to , uint256 Parameter_1 ) external { uint256 VariableDeclaration_0 = Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( amount , to ) ; require ( Identifier_2 <= Identifier_3 , stringLiteral_0 ) ; }

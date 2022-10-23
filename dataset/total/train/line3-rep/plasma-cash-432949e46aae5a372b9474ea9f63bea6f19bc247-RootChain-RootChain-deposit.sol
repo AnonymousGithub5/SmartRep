@@ -1,0 +1,1 @@
+Identifier_9 . state = Identifier_10 . MemberAccess_3 ; uint64 VariableDeclaration_1 = Identifier_11 * 2 + 1 ; Identifier_12 [ slot ] = Identifier_13 ;

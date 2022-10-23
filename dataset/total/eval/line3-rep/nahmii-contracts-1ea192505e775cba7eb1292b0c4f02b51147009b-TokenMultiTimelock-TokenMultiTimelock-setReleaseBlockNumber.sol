@@ -1,0 +1,1 @@
+{ require ( ! Identifier_0 [ index ] . MemberAccess_0 , stringLiteral_0 ) ; Identifier_1 [ index ] . MemberAccess_1 = Identifier_2 ;

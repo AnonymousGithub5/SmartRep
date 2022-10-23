@@ -1,0 +1,1 @@
+private { UserDefinedTypeName_1 storage VariableDeclaration_0 = Identifier_0 . MemberAccess_0 [ Identifier_1 . MemberAccess_1 [ Identifier_2 ] ] ; for ( uint256 i = 0 ; i < Identifier_3 . MemberAccess_2 . length ; i ++ ) {

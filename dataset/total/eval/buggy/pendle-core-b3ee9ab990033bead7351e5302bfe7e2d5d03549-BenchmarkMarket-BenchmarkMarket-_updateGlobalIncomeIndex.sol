@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal { uint256 VariableDeclaration_0 = IERC20 ( Identifier_0 ( xyt ) . MemberAccess_0 ( ) ) . balanceOf ( address ( this ) ) ; uint256 VariableDeclaration_1 = Identifier_1 - Identifier_2 ; Identifier_3 = Identifier_4 ; Identifier_5 = Identifier_6 . add ( Identifier_7 . mul ( Identifier_8 ) . div ( totalSupply ) ) ; }

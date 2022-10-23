@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address _user , uint256 _amount ) external { Identifier_0 ( msg . sender , _amount , _user , true ) ; }

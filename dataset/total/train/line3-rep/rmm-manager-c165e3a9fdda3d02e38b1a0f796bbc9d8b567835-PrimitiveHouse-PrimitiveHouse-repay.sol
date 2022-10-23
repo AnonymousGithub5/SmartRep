@@ -1,0 +1,1 @@
+if ( Identifier_13 ) Identifier_14 [ Identifier_15 ] . withdraw ( 0 , Identifier_16 ) ; UserDefinedTypeName_0 storage VariableDeclaration_4 = Identifier_17 [ Identifier_18 ] . MemberAccess_2 ( owner , Identifier_19 ) ; pos . MemberAccess_3 ( Identifier_20 ) ;

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) returns ( uint256 ) { return Identifier_0 ( now ) ; }

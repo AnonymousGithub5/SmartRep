@@ -1,0 +1,1 @@
+if ( length > 0 ) { recipient . call ( abi . MemberAccess_0 ( stringLiteral_0 , sender , amount , data ) ) ; }

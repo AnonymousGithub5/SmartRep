@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal { uint VariableDeclaration_0 = Identifier_0 . balanceOf ( address ( this ) ) ; if ( Identifier_1 > 0 ) { Identifier_2 . MemberAccess_0 ( Identifier_3 , Identifier_4 ) ; } }

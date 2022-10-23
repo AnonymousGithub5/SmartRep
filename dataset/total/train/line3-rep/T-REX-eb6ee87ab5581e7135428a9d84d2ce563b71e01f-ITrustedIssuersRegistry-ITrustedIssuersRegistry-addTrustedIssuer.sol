@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 Parameter_0 , uint Parameter_1 , uint calldata Parameter_2 ) external ; 

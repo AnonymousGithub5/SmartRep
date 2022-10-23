@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( UserDefinedTypeName_0 memory Parameter_0 ) internal pure returns ( uint256 ) { if ( price . MemberAccess_0 == 0 ) { return 0 ; } return price . MemberAccess_1 / price . MemberAccess_2 ; }

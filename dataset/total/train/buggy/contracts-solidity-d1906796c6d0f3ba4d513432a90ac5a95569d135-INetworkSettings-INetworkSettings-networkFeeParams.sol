@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) external view returns ( address , uint32 ) ;

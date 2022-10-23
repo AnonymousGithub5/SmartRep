@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint32 Parameter_0 , uint256 Parameter_1 ) public view override returns ( uint256 ) { int256 VariableDeclaration_0 = int256 ( ( Identifier_0 ) % Identifier_1 [ Identifier_2 ] ) ; uint256 i = 0 ; while ( Identifier_3 > 0 ) { Identifier_4 -= int256 ( Identifier_5 [ Identifier_6 ] [ i ] . MemberAccess_0 ) ; i ++ ; } return i - 1 ; }

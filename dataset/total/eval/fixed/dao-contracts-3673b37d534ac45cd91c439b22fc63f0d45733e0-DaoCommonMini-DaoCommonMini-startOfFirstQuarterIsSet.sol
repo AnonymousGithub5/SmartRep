@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( ) internal view returns ( bool Parameter_0 ) { Identifier_0 = Identifier_1 ( ) . MemberAccess_0 ( ) != 0 ; }

@@ -1,0 +1,1 @@
+balanceOf [ msg . sender ] += amount ; Identifier_3 += amount ; Identifier_4 ( msg . sender , amount , true ) ;

@@ -1,0 +1,1 @@
+( , , address tokenR , , uint256 price , ) = Identifier_0 ( Identifier_1 ) . MemberAccess_0 ( ) ; ( uint256 VariableDeclaration_0 ) = Identifier_2 ( ) ; Identifier_3 = IERC20 ( Identifier_4 ) . balanceOf ( address ( this ) ) . mul ( Identifier_5 ) . div ( price ) ;

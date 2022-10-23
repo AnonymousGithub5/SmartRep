@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user ) ModifierInvocation_0 external constant returns ( int256 ) { int256 VariableDeclaration_0 = int256 ( Identifier_0 [ user ] . MemberAccess_0 + Identifier_1 ) ; if ( Identifier_2 [ user ] . MemberAccess_1 && ! Identifier_3 ) {

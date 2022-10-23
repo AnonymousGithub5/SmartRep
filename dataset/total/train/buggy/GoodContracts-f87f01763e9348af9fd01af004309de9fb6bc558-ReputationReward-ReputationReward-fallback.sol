@@ -1,0 +1,1 @@
+constructor ( UserDefinedTypeName_0 Parameter_0 , UserDefinedTypeName_1 Parameter_1 , uint Parameter_2 ) public ModifierInvocation_0 ( Identifier_6 ) ModifierInvocation_1 ( Identifier_7 ) { require ( Identifier_0 > 0 , stringLiteral_0 ) ; Identifier_1 = Identifier_2 ; Identifier_3 = msg . sender ; Identifier_4 = Identifier_5 ; }

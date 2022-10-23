@@ -1,0 +1,1 @@
+uint256 VariableDeclaration_0 = msg . value ; require ( Identifier_0 ( now + 1 weeks ) >= Identifier_1 . MemberAccess_0 ( Identifier_2 ) ) ; Identifier_3 = msg . sender ;

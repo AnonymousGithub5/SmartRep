@@ -1,0 +1,1 @@
+{ state . MemberAccess_0 ( target , Identifier_0 ( state . balanceOf ( target ) , amount ) ) ; totalSupply = Identifier_1 ( totalSupply , amount ) ;

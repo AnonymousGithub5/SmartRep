@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( bytes32 proposalId , UserDefinedTypeName_0 Parameter_0 ) public view returns ( bool ) { return Identifier_0 ( Identifier_1 [ proposalId ] . MemberAccess_0 , uint8 ( Identifier_2 ) ) ; }

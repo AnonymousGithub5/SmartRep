@@ -1,0 +1,1 @@
+function deposit ( ) public payable { balances [ msg . sender ] = balances [ msg . sender ] . add ( msg . value ) ; Identifier_0 = Identifier_1 . add ( msg . value ) ; emit Identifier_2 ( msg . sender , msg . value ) ; }

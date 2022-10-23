@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( uint256 Parameter_0 , uint256 Parameter_1 ) public ModifierInvocation_0 { require ( ! Identifier_0 [ index ] . MemberAccess_0 , stringLiteral_0 ) ; Identifier_1 [ index ] . MemberAccess_1 = Identifier_2 ; emit Identifier_3 ( index , Identifier_4 ) ; }

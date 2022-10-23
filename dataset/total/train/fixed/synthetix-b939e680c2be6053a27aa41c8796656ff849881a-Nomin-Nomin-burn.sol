@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address account , uint amount ) external ModifierInvocation_0 { Identifier_0 . MemberAccess_0 ( account , Identifier_1 ( Identifier_2 . balanceOf ( account ) , amount ) ) ; totalSupply = Identifier_3 ( totalSupply , amount ) ; Identifier_4 ( account , address ( 0 ) , amount ) ; Identifier_5 ( account , amount ) ; }

@@ -1,0 +1,1 @@
+function FunctionDefinition_0 ( address user , ERC20 token ) public view returns ( uint ) ;
