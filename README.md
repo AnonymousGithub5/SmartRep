@@ -14,7 +14,7 @@
 
 ## Usage
 
-conda
+environment
 
 ```shell
 pip install -r requirements.txt
