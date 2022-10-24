@@ -14,6 +14,12 @@
 
 ## Usage
 
+conda
+
+```shell
+pip install -r requirements.txt
+```
+
 train
 
 ```python
