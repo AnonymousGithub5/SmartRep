@@ -384,3 +384,5 @@ class Model(nn.Module):
         self.optimizer = optim.Adam(params=[
             {"params": self.parameters()}
         ], lr=config.LR)
+
+        
