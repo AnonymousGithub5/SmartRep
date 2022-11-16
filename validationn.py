@@ -83,7 +83,7 @@ if __name__ == "__main__":
             if p == r:
                 structurally += 1
             with open(real_fix_dir+name) as f:
-                realfix = f.read().replace('\n', ' ').rstrip()  # 数据集里的fixed
+                realfix = f.read().replace('\n', ' ').rstrip()
             fix = ' '.join([fixed_i2w[x] for x in p])
             with open(dictdir+name) as df:
                 d = eval(df.read())
@@ -95,3 +95,4 @@ if __name__ == "__main__":
                 completely += 1
         print("{}/{}".format(structurally, len(preds), structurally/len(preds)))
         print("{}/{}".format(completely, len(preds), completely/len(preds)))
+        
