@@ -58,7 +58,7 @@ if __name__ == "__main__":
             if sames > best_sames:
                 best_sames = sames
                 model.save(save_path + "{}_{}.pkl".format(dataset, epoch))
-                logger.info("Saving the model {} with the best same result {}/{}\n".format(epoch, best_sames, len(preds)))  # 取最优的保存
+                logger.info("Saving the model {} with the best same result {}/{}\n".format(epoch, best_sames, len(preds)))
 
 
     if method == "SmartRep":
@@ -71,7 +71,7 @@ if __name__ == "__main__":
         random.seed(config.SEED)
 
         if start != -1:
-            model.load(save_path + "{}_{}.pkl".format(dataset, start))  # 如果模型有的话就读取模型
+            model.load(save_path + "{}_{}.pkl".format(dataset, start))
             model.set_trainer()
 
         t0 = time()
@@ -103,7 +103,7 @@ if __name__ == "__main__":
             if sames > best_sames:
                 best_sames = sames
                 model.save(save_path + "{}_{}.pkl".format(dataset, epoch))
-                logger.info("Saving the model {} with the best same result {}/{}\n".format(epoch, best_sames, len(preds)))  # 取最优的保存
+                logger.info("Saving the model {} with the best same result {}/{}\n".format(epoch, best_sames, len(preds)))
 
 
     if method == "seq2seq":
@@ -146,4 +146,4 @@ if __name__ == "__main__":
             if sames > best_sames:
                 best_sames = sames
                 model.save(save_path + "{}_{}.pkl".format(dataset, epoch))
-                logger.info("Saving the model {} with the best same result {}/{}\n".format(epoch, best_sames, len(preds)))  # 取最优的保存
+                logger.info("Saving the model {} with the best same result {}/{}\n".format(epoch, best_sames, len(preds)))
