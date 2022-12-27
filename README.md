@@ -24,8 +24,8 @@ train
 
 ```python
 python main.py [method] [dataset] [start]
-# for example: python main.py SmartRep total -1
-# if you want to train a new model, set "start" as -1
+# for example:
+python main.py SmartRep total -1  # if you want to train a new model, set "start" as -1
 ```
 
 test
