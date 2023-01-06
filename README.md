@@ -1,6 +1,8 @@
 # SmartRep
 SmartRep is a statistical learning-based approach for smart contract repair with one-line patches. The dataset and code are open-source.
 
+## Introduction
+
 `SmartRep/`: implement of our approach
 
 `seq2seq_attn/`: implement of sequence-to-sequence model with attention mechanism
