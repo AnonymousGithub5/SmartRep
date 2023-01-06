@@ -1,16 +1,17 @@
-# SmartRep project files
+# SmartRep
+SmartRep is a statistical learning-based approach for smart contract repair with one-line patches. The dataset and code are open-source.
 
 `SmartRep/`: implement of our approach
 
 `seq2seq_attn/`: implement of sequence-to-sequence model with attention mechanism
+
+`dataset/`: dataset for training and testing
 
 `main.py`: begin training
 
 `validationn.py`: begin testing
 
 `utils.py`: some useful files of implement 
-
-`dataset/`: dataset for training and testing
 
 ## Usage
 
