@@ -1,6 +1,6 @@
 # SmartRep project files
 
-`SmartRep`/: implement of our approach
+`SmartRep/`: implement of our approach
 
 `seq2seq_attn/`: implement of sequence-to-sequence model with attention mechanism
 
